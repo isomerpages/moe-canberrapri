@@ -1,6 +1,23 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Our School
+    url: /permalink
+    sublinks:
+      - title: School Leader's Message 2022
+        url: /https://canberrapri.moe.edu.sg/our-school/school-leaders-message-2022
+      - title: "About Us "
+        url: /https://canberrapri.moe.edu.sg/our-school/about-us
+      - title: Submenu Title
+        url: /permalink
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
