@@ -1,0 +1,4 @@
+collections:
+  fourth:
+    output: true
+    order: []
