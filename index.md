@@ -12,7 +12,7 @@ sections:
         title: Menu
         options:
           - title: Our School
-            url: https://canberrapri.moe.edu.sg/our-school
+            url: /our-school/permalink
           - title: Our Programmes
             url: https://canberrapri.moe.edu.sg/our-programmes
           - title: Our CCAs
