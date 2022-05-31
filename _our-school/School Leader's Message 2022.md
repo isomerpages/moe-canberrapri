@@ -26,3 +26,5 @@ In addition to our distinctive programmes, the interest-based tracks at the Prim
  As we move ahead this year, let us continue to work closely with our stakeholders and partners to provide rich and meaningful experiences that promote splendour and fulfilment in learning.
 
  We wish everyone a fruitful 2022!
+ ![](/images/Mr%20Wong%20(1).jpg)
+![](/images/Mdm%20Joyce%20Ong.png)![](/images/Mr%20Shah.png)
