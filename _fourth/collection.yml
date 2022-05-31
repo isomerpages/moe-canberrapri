@@ -1,5 +1,0 @@
-collections:
-  fourth:
-    output: true
-    order:
-      - example-page.md
