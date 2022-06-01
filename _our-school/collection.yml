@@ -2,5 +2,4 @@ collections:
   our-school:
     output: true
     order:
-      - Our School.md
       - School Leader's Message 2022.md
