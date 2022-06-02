@@ -21,4 +21,37 @@ Canberra Primary School believes that every Canberrian can succeed, regardless o
 
 **Learning**
 
-To actualise the Canberra Experience and deepen students’ learning processes, the school has advanced the Canberra Experience Plus to take learning to a different dimension, helping every student to achieve his/her potential, giving him/her wings to soar to greater heights, and confidently face new challenges. The Canberra Experience Plus journey focuses on the holistic development of every Canberrian, providing opportunities for all of them to further their interests and develop their unique talents. 
+To actualise the Canberra Experience and deepen students’ learning processes, the school has advanced the Canberra Experience Plus to take learning to a different dimension, helping every student to achieve his/her potential, giving him/her wings to soar to greater heights, and confidently face new challenges. The Canberra Experience Plus journey focuses on the holistic development of every Canberrian, providing opportunities for all of them to further their interests and develop their unique talents.
+
+![](/images/apple%203.png)
+Rigour, Splendour and Fulfilment have been identified as the three key constructs of both the Canberra Experience and the Canberra Experience Plus, enabling every Canberrian to journey and become a Discoverer, an Attuned Learner and a Global Learner.
+
+![](/images/apple%204.png)
+
+**Success**
+
+
+Being actively involved in connected learning and global learning enables Canberrians to be delightful digital learners who are ready to take on the challenges of the future.
+
+
+*Canberrians as Connected Learners in the Academy of Play (AOP)*
+
+Canberrians’ connected learning experiences are based on six design principles. As a result, they experience learning that is not only social, but also participatory, interest-driven and relevant to the opportunities of our time. A prime example of how Canberrians can thrive as connected learners is through the AOP, a developmental programme with multiple tracks covering coding with drones, and design and art through 3D design and printing. These tracks are selected as they represent key aspects of the 21st century competencies in a future working environment around the technology field.
+
+*Global Learning, the Canberra Way*
+
+To enhance connected learning experiences, as well as to actualise the outcomes of the Canberra Experience Plus, the school has deliberately sought opportunities for collaboration with schools and organisations beyond Singapore. This form of global learning has enabled Canberrians to not only know the world (Attuned Learner), but also be global citizens (Discoverer) who can play a part in creating the world (Global Learner).
+
+**What’s Next**
+
+Technology is a key enabler in enhancing the way students live, work and play. It can help to transform classrooms, modify and even redefine learning tasks to create new learning experiences that were previously inconceivable.
+
+-   Leveraging Student Learning Spaces using PLDs
+
+-   Global Sustainable Development Programme
+
+**Links**
+* [Future Schools @ SG](https://www.imda.gov.sg/news-and-events/Media-Room/archived/ida/Media-Releases/2007/20070612135150)
+
+<img src="/images/apple%20logo.png" 
+     style="width:50%">
