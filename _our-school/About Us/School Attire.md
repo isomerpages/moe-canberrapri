@@ -5,7 +5,7 @@ description: ""
 third_nav_title: About Us
 ---
 # School Attire
-1. The School Uniform
+**1. The School Uniform**
 * Pupils are to wear the appropriate school uniform and modification to the uniform is not allowed.
 * All pupils are required to be in full uniform at all times in school premises or at school-organised functions. The school badge must be displayed on the top left pocket of the shirt/pinafore.
 * The uniform for the boys is white short-sleeved shirt and blue shorts. The shirt must be tucked in at all times.
@@ -15,3 +15,29 @@ third_nav_title: About Us
 * Shoes and socks:
 	* Shoes, shoe laces and socks must be white.
 	* Socks must be above ankle. No ankle socks are allowed.
+	![](/images/sch%20uniform%202021.png)
+
+**2. Hair and Accessories**
+* Boys:
+	* Must be clean shaven.
+	* Hairstyle with “tail”, permed hair, dyed hair or long hair is strictly forbidden.
+* Long hair is defined as:
+	* Hair that touches the shirt collar.
+	* Hair that covers the ears.
+	* Hair that covers the forehead.
+* Girls:
+	* Keep their hair short.
+	* Those who wish to keep their hair long are to tie or plait their hair using black or dark blue hairbands / ribbon, or keep their hair in place using black or dark blue clips / bands.
+	* Hairstyle with “tail”, permed hair or dyed hair is strictly forbidden.
+
+3. Fingernails
+* Fingernails should be kept short and clean.
+* No nail polish or strengthener should be applied to fingernails.
+
+4. Spectacles
+* Tinted spectacles are not allowed in school.
+* Pupils are only allowed to wear spectacle frames of the following colours:
+	* Gold
+	* Silver
+	* Black
+	* Other dark, solid colours.
