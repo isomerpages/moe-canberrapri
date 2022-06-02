@@ -31,3 +31,6 @@ Closed on Sundays & Public Holidays
 **Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com.**
 
 **When emailing the SLS Helpdesk, please include your full name, class and name of school.**
+
+**Instructions for Students**
+1. 
