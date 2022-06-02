@@ -2,11 +2,11 @@ collections:
   our-school:
     output: true
     order:
-      - Useful Information/Privacy Statement.md
       - Useful Information/.keep
       - Useful Information/Privacy Policy.md
       - Useful Information/Terms of Use.md
       - Useful Information/Data Management.md
+      - Useful Information/Privacy Statement.md
       - Service Providers.md
       - Calender of Events.md
       - School Leaders' Message 2022.md
