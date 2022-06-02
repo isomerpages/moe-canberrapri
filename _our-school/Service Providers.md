@@ -16,3 +16,13 @@ Website: www.oapl.sg<br>
 *L & W Transport Services Pte Ltd*<br>
 Tel: 8511 1851 (Mr Nick Goh)<br>
 [School Bus Registration Form](/files/Bus%20Registration%20Form%20for%202022%20Updated.pdf) may be downloaded here.
+
+**Uniform Supplier:** <br>
+*Chop Kong Chong*<br>
+604 Sembawang Road #02-13
+Sembawang Shopping Centre
+Singapore 758459<Br>
+Tel: 6753 1489<br>
+Opening Hours: 11.30 am to 8.30 pm
+Website: https://www.euniforms.com.sg/shop/<br>
+Click [](/files/2021%20Year-End%20School%20Uniform%20%20Dates.pdf) for Dates of Year-end Uniform Sales/Collection in School
