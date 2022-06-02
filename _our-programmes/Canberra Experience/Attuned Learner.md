@@ -4,3 +4,11 @@ permalink: /our-programmes/Canberra-Experience/attuned-learner
 description: ""
 third_nav_title: Canberra Experience
 ---
+# Attuned Learner
+
+![](/images/Slide%207.jpg)
+
+**What does this means to me?**
+
+* I am able to judge the value of information.
+* I am able to use my understanding to seek and apply better tools to make me smarter.
