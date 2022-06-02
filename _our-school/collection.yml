@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Apple Distinguished School.md
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
@@ -39,3 +38,4 @@ collections:
       - E Open House 2021/Immerse in The Arts.md
       - E Open House 2021/Powering Through Sports.md
       - E Open House 2021/Beyond The Classroom.md
+      - Apple Distinguished School.md
