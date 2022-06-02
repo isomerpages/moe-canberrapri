@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Useful Information/Data Management.md
       - Useful Information/Terms of Use.md
       - Useful Information/Privacy Policy.md
       - Useful Information/.keep
