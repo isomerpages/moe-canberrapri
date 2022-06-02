@@ -2,16 +2,16 @@ collections:
   our-programmes:
     output: true
     order:
-      - Learning For Life.md
-      - Applied Learning Programme/.keep
-      - Applied Learning Programme/Orientation to My Future Learning.md
-      - Applied Learning Programme/Applied Learning Programme.md
-      - Applied Learning Programme/Start Young, Start it Right.md
-      - Applied Learning Programme/Future Learners, Future School.md
-      - Future School.md
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
       - Canberra Experience/Attuned Learner.md
       - Canberra Experience/Global Learner.md
       - Canberra Experience 1.md
+      - Future School.md
+      - Applied Learning Programme/.keep
+      - Applied Learning Programme/Orientation to My Future Learning.md
+      - Applied Learning Programme/Applied Learning Programme.md
+      - Applied Learning Programme/Start Young, Start it Right.md
+      - Applied Learning Programme/Future Learners, Future School.md
+      - Learning For Life.md
