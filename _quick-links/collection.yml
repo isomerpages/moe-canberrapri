@@ -2,5 +2,6 @@ collections:
   quick-links:
     output: true
     order:
+      - For Parents/MOE FAS.md
       - For Parents/.keep
       - For Staff.md
