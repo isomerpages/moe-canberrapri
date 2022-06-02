@@ -10,3 +10,7 @@ third_nav_title: Applied Learning Programme
 ![](/images/Slide1-1.jpg)
 ![](/images/Slide2-1.jpg)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-aZz3ahIUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/FLFS%202.jpg)
+![](/images/FLFS%201.jpg)
+![](/images/GSDP.jpg)
