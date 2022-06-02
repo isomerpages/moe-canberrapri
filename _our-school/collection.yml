@@ -2,13 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Useful Information/.keep
-      - Useful Information/Privacy Policy.md
-      - Useful Information/Terms of Use.md
-      - Useful Information/Data Management.md
-      - Useful Information/Privacy Statement.md
-      - Service Providers.md
-      - Calender of Events.md
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
@@ -29,3 +22,10 @@ collections:
       - Our Staff/Faculty 2 Teachers (Primary 3 and 4).md
       - Our Staff/Faculty 3 Teachers (Primary 5 and 6).md
       - Our Staff/Adminstration and Operation Staff.md
+      - Calender of Events.md
+      - Service Providers.md
+      - Useful Information/.keep
+      - Useful Information/Privacy Policy.md
+      - Useful Information/Terms of Use.md
+      - Useful Information/Data Management.md
+      - Useful Information/Privacy Statement.md
