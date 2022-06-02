@@ -33,4 +33,7 @@ Closed on Sundays & Public Holidays
 **When emailing the SLS Helpdesk, please include your full name, class and name of school.**
 
 **Instructions for Students**
-1. 
+
+1.[Getting Started with Singapore Student Learning Space (SLS)- Primary 1 Onboarding Annex A & Annex B](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
+
+2. [uide to SLS Account Management: Self-help  For Password Reset](/files/SLS%20Account%20Management%20-Students.pdf)
