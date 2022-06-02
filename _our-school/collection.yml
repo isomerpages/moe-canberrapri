@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - About Us/.keep
       - School Leaders' Message 2022.md
