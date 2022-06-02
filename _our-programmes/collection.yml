@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Department/Mathematics.md
       - Department/English.md
       - Department/.keep
       - Canberra Experience/.keep
