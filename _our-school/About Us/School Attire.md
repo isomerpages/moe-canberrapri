@@ -30,14 +30,18 @@ third_nav_title: About Us
 	* Those who wish to keep their hair long are to tie or plait their hair using black or dark blue hairbands / ribbon, or keep their hair in place using black or dark blue clips / bands.
 	* Hairstyle with “tail”, permed hair or dyed hair is strictly forbidden.
 
-3. Fingernails
+**3. Fingernails**
 * Fingernails should be kept short and clean.
 * No nail polish or strengthener should be applied to fingernails.
 
-4. Spectacles
+**4. Spectacles**
 * Tinted spectacles are not allowed in school.
 * Pupils are only allowed to wear spectacle frames of the following colours:
 	* Gold
 	* Silver
 	* Black
 	* Other dark, solid colours.
+
+**5. Jewellery and Adornments**
+* Pupils must not wear expensive jewellery, watches, bracelets, etc. to school for safety reasons.
+* Only one pair of small and simple ear studs is allowed for the girls.
