@@ -36,4 +36,6 @@ Closed on Sundays & Public Holidays
 
 1.[Getting Started with Singapore Student Learning Space (SLS)- Primary 1 Onboarding Annex A & Annex B](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
 
-2. [uide to SLS Account Management: Self-help  For Password Reset](/files/SLS%20Account%20Management%20-Students.pdf)
+2. [Guide to SLS Account Management: Self-help  For Password Reset](/files/SLS%20Account%20Management%20-Students.pdf)
+
+For more information, on SLS, please click [here](https://www.moe.gov.sg/education-in-sg/student-learning-space) 
