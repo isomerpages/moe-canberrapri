@@ -114,3 +114,9 @@ English Department Key Programmes & Approaches:
 
 **Learning Support Program (LSP)**
 ![](/images/LSP.png)
+
+**Structured Reading Approach (SRA)**
+![](/images/SRA.png)
+
+**Speech and Drama**
+![](/images/speech%20drama.png)
