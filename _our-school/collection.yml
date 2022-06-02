@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission and Values.md
@@ -11,4 +12,3 @@ collections:
       - About Us/School Rules.md
       - About Us/School Attire.md
       - About Us/School Hours.md
-      - School Leaders' Message 2022.md
