@@ -21,3 +21,9 @@ Click the image below to go to Student Learning Space
 School-based Helpline: 6759 7433<br>
 Mondays to Fridays: 8.00 am to 4.00 pm<br>
 School email address: canberra_ps@moe.edu.sg
+
+**For Technical Support After School Operating Hours**<br>
+SLS Helpdesk: 6702 6513<br>
+Mondays to Fridays: 4.00 pm to 9.00 pm<br>
+Saturdays: 9.00 am to 9.00 pm<br>
+Closed on Sundays & Public Holidays
