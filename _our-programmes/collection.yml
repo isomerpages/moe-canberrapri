@@ -2,8 +2,8 @@ collections:
   our-programmes:
     output: true
     order:
-      - Canberra Experience/Global Learner.md
-      - Canberra Experience/Attuned Learner.md
-      - Canberra Experience/Discoverer.md
-      - Canberra Experience/Canberra Experience.md
       - Canberra Experience/.keep
+      - Canberra Experience/Canberra Experience.md
+      - Canberra Experience/Discoverer.md
+      - Canberra Experience/Attuned Learner.md
+      - Canberra Experience/Global Learner.md
