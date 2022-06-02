@@ -19,5 +19,5 @@ English Department Key Programmes & Approaches:
 * Reading Programme
 * Enrichment Programmes 
 * Learning Support Programme (LSP)
-	- Reading Remediation Programme (RRP) 
-	- School-based Dyslexia Remediation Programme (SDR)
+* Reading Remediation Programme (RRP) 
+* School-based Dyslexia Remediation Programme (SDR)
