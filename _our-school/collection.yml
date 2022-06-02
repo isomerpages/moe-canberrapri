@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Useful Information/.keep
       - Service Providers.md
       - Calender of Events.md
       - School Leaders' Message 2022.md
