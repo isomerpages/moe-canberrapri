@@ -25,4 +25,6 @@ Singapore 758459<Br>
 Tel: 6753 1489<br>
 Opening Hours: 11.30 am to 8.30 pm
 Website: https://www.euniforms.com.sg/shop/<br>
-Click [](/files/2021%20Year-End%20School%20Uniform%20%20Dates.pdf) for Dates of Year-end Uniform Sales/Collection in School
+Click [here](/files/school%20uniform.pdf)  for Dates of Year-end Uniform Sales/Collection in School
+
+
