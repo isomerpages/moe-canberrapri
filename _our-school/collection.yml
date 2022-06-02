@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - E Open House 2021/.keep
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
