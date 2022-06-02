@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Future School.md
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
