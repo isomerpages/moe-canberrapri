@@ -13,3 +13,9 @@ third_nav_title: Applied Learning Programme
 
 **3D Design & Stop Motion Animation**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qYJCPqcwnfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Photography & Video Creation**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GJNxcwd048g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Emerging Tech Values in Action Programme**
+**<iframe width="560" height="315" src="https://www.youtube.com/embed/7epFWLVAhF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
