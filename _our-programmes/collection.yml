@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Applied Learning Programme/Future Learners, Future School.md
       - Applied Learning Programme/Orientation to My Future Learning.md
       - Applied Learning Programme/.keep
       - Applied Learning Programme/Applied Learning Programme.md
