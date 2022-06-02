@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Useful Information/Privacy Policy.md
       - Useful Information/.keep
       - Service Providers.md
       - Calender of Events.md
