@@ -2,9 +2,9 @@ collections:
   our-school:
     output: true
     order:
-      - About Us/School Logo.md
-      - About Us/Strategic Thrusts.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission and Values.md
+      - About Us/Strategic Thrusts.md
+      - About Us/School Logo.md
       - School Leaders' Message 2022.md
