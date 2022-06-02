@@ -26,3 +26,6 @@ Tel: 6753 1489<br>
 Opening Hours: 11.30 am to 8.30 pm
 Website: https://www.euniforms.com.sg/shop/<br>
 Click [here](/files/school%20uniform.pdf)  for Dates of Year-end Uniform Sales/Collection in School
+
+**School Dental Clinic**<br>
+Tel: 65555177
