@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Staff/Faculty 3 Teachers (Primary 5 and 6).md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/School Advisory Committee.md
