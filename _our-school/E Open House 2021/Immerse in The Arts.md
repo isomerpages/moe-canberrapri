@@ -9,3 +9,5 @@ third_nav_title: E Open House 2021
 ![](/images/OpenhouseArts.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wjnWhkJYkAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Some of the images and clips in the video are taken before Covid-19*
