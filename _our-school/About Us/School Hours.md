@@ -34,3 +34,7 @@ third_nav_title: About Us
   </tr>
 </tbody>
 </table>
+
+Pupils are required to report to school by 7.30 a.m. to participate in the pre-assembly activities. 
+
+Pupils will be given a short break (Munch Time) of about 10 minutes in class at around 12.00 noon to have some light snacks from Mondays to Fridays.
