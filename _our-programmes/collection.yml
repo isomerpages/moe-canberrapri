@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Canberra Experience/Attuned Learner.md
       - Canberra Experience/Discoverer.md
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/.keep
