@@ -2,13 +2,13 @@ collections:
   our-school:
     output: true
     order:
-      - About Us/School Hours.md
-      - About Us/School Attire.md
-      - About Us/School Rules.md
-      - About Us/School Song.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission and Values.md
       - About Us/Strategic Thrusts.md
       - About Us/School Logo.md
+      - About Us/School Song.md
+      - About Us/School Rules.md
+      - About Us/School Attire.md
+      - About Us/School Hours.md
       - School Leaders' Message 2022.md
