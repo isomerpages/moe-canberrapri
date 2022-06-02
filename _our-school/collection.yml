@@ -2,10 +2,10 @@ collections:
   our-school:
     output: true
     order:
-      - Our Staff/Head of Department and Faculty Heads.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/School Advisory Committee.md
+      - Our Staff/Head of Department and Faculty Heads.md
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
