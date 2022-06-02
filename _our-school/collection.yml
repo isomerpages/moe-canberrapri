@@ -2,14 +2,14 @@ collections:
   our-school:
     output: true
     order:
-      - Our Staff/Faculty 2 Teachers (Primary 3 and 4).md
-      - Our Staff/Faculty 1 Teachers (Primary 1 and 2).md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/School Advisory Committee.md
       - Our Staff/Head of Department and Faculty Heads.md
       - Our Staff/Subject & Level Heads.md
       - Our Staff/Senior Teachers & LEAD Teachers.md
+      - Our Staff/Faculty 1 Teachers (Primary 1 and 2).md
+      - Our Staff/Faculty 2 Teachers (Primary 3 and 4).md
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
