@@ -2,5 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
+      - Canberra Experience/Discoverer.md
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/.keep
