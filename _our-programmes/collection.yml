@@ -2,11 +2,11 @@ collections:
   our-programmes:
     output: true
     order:
-      - Applied Learning Programme/Future Learners, Future School.md
-      - Applied Learning Programme/Orientation to My Future Learning.md
       - Applied Learning Programme/.keep
+      - Applied Learning Programme/Orientation to My Future Learning.md
       - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/Start Young, Start it Right.md
+      - Applied Learning Programme/Future Learners, Future School.md
       - Future School.md
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
