@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Staff/Adminstration and Operation Staff.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/School Advisory Committee.md
@@ -12,6 +11,7 @@ collections:
       - Our Staff/Faculty 1 Teachers (Primary 1 and 2).md
       - Our Staff/Faculty 2 Teachers (Primary 3 and 4).md
       - Our Staff/Faculty 3 Teachers (Primary 5 and 6).md
+      - Our Staff/Adminstration and Operation Staff.md
       - School Leaders' Message 2022.md
       - About Us/.keep
       - About Us/About Us.md
