@@ -19,3 +19,9 @@ third_nav_title: Applied Learning Programme
 
 **Emerging Tech Values in Action Programme**
 **<iframe width="560" height="315" src="https://www.youtube.com/embed/7epFWLVAhF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# Emerging Tech (VIA Project)
+![](/images/Page%201.jpg)
+![](/images/page%202.jpg)
+![](/images/page%203.jpg)
+![](/images/page%204.jpg)
