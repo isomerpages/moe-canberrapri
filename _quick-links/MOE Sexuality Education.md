@@ -49,3 +49,76 @@ c.       Character and Citizenship Education (CCE)
  
 
 7.   The Primary 5 & 6 Sexuality Education Teaching and Learing resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate changes, build healthy relationships, especially online relationships, and exercise safety.
+
+**At Canberra Primary School, the following Sexuality Education lessons will be taught in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0zb7{background-color:#F6F5E7;text-align:left;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-a0y3{background-color:#F5F0C3;text-align:left;vertical-align:top}
+.tg .tg-ukb2{background-color:#F6F5E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ukb2">UNIT</td>
+    <td class="tg-ukb2">LESSONS / DURATION</td>
+    <td class="tg-ukb2">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-ukb2">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-0zb7" rowspan="4">Gosh! I Am Changing</td>
+    <td class="tg-0zb7">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-0zb7">·         know what puberty is<br>·         identify the physical changes during puberty</td>
+    <td class="tg-0zb7">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-a0y3">What Can I Do? (Part 1)<br> (30 min)</td>
+    <td class="tg-a0y3">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty<br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-a0y3">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-0zb7">What Can I Do? (Part 2)<br> (30 min)</td>
+    <td class="tg-0zb7">·         identify the stresses caused by physical and emotional changes during puberty<br>·         describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>·         describe the emotions caused by physical changes during puberty<br>·         recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-0zb7">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-a0y3">Main Task<br>(30 min)</td>
+    <td class="tg-a0y3">Description of the Main Task:<br> <br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
+    <td class="tg-a0y3">Term 2 Week 9</td>
+  </tr>
+  <tr>
+    <td class="tg-0zb7">Where I Belong</td>
+    <td class="tg-0zb7">What Are Families?<br>(30 min)<br> </td>
+    <td class="tg-0zb7">·         know that there are different types of family structures<br>·         know that every family is unique<br>·         state that the three basic functions of families are to provide love, protection and guidance<br>·         identify the right sources of help to turn to when in need</td>
+    <td class="tg-0zb7">Term 3 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-a0y3">Where I Belong</td>
+    <td class="tg-a0y3">What is My Role?<br> (30 min)</td>
+    <td class="tg-a0y3">·         know that gender is about being male or female<br>·         choose not to stereotype by gender</td>
+    <td class="tg-a0y3">Term 3 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-0zb7" rowspan="2">How Do I Keep Myself Safe?</td>
+    <td class="tg-0zb7">What is Safety?<br>(30 min)</td>
+    <td class="tg-0zb7">·         know what sexual abuse is<br>·         know that there are laws in Singapore that can protect them from sexual abuse<br>·         know their rights in keeping themselves safe from sexual abuse</td>
+    <td class="tg-0zb7">Term 3 Week 10</td>
+  </tr>
+  <tr>
+    <td class="tg-a0y3">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-a0y3">·         protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>·         know their responsibilities in minimising the risk of sexual harm</td>
+    <td class="tg-a0y3">Term 3 Week 10</td>
+  </tr>
+</tbody>
+</table>
