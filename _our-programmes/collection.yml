@@ -2,6 +2,7 @@ collections:
   our-programmes:
     output: true
     order:
+      - Faculty/.keep
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
