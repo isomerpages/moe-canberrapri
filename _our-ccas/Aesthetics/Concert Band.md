@@ -8,3 +8,7 @@ third_nav_title: Aesthetics
 ![](/images/Band%2002.jpg)
 ![](/images/Band%2003.jpg)
 ![](/images/Band%2004.jpg)
+
+**SYF SHOW BAND FESTIVAL - BAND JAMBOREE**
+![](/images/Band%20Jamboree%2001.jpg)
+![](/images/Band%20Jamboree%2002.jpg)
