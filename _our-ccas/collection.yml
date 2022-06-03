@@ -2,9 +2,9 @@ collections:
   our-ccas:
     output: true
     order:
-      - Aesthetics/Chinese Dance.md
-      - Aesthetics/Art Club.md
       - Aesthetics/.keep
+      - Aesthetics/Art Club.md
+      - Aesthetics/Chinese Dance.md
       - Our CCAs.md
       - Sports/.keep
       - Sports/Track and Field.md
