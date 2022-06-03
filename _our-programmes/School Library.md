@@ -26,3 +26,11 @@ description: ""
 *  To nurture 21st century competencies and support pupils’ development in information, new media and digital literacy skills via library programmes
 * To provide fast and easy access to a wide range of reading and information resources
 * To optimise library space for reading, inquiry, research, self-study and collaboration
+
+![](/images/Picture1-1.png)
+![](/images/Picture2.png)
+![](/images/Picture3.png)
+![](/images/Picture4.png)
+![](/images/Picture8.png)
+![](/images/Picture6.png)
+![](/images/Picture7.png)
