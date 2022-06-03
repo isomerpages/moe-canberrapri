@@ -2,7 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - School Library.md
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
@@ -19,3 +18,4 @@ collections:
       - Department/.keep
       - Department/Mathematics.md
       - Department/English.md
+      - School Library.md
