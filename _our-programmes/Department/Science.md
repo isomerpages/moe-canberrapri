@@ -80,4 +80,10 @@ Community in Nature (CIN) is a national movement to conserve Singapore’s natur
 
 Posters designed by P5 CIN Ambassadors as a platform to reach out to their fellow school mates to share with them information about the Wildlife in Singapore.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQoRIlmZvGe0850fCThcgFd6oT6BnLkK2ZdVmPknikWwuPV0Ws4Jl1xIJJy-k5jIIl6FJQ2YTimLW/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQoRIlmZvGe0850fCThcgFd6oT6BnLkK2ZdVmPknikWwuPV0Ws4Jl1xIJJy-k5jIIl6FJQ2YTimLW/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
+
+
+# Learning Oasis 
+
+![](/images/THE%20LEARNING%20OASIS_Pg%201.png)
+
