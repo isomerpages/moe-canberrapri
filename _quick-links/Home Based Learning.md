@@ -112,3 +112,50 @@ We encourage you to:
 * Provide regular healthy meals (breakfast, lunch and dinner) and snacks during breaks for your child/ward
 
 * Set up parental restrictions on your child's device and home network. For instruction on setting up restriction on your child/ward iPad, click [here](https://support.apple.com/en-us/HT201304)
+
+**E-Learning Platforms**
+
+Your child/ward would have been given access to various online e-learning platforms like SLS, eZhishi, Koobits, etc. Should you face issues accessing these platforms, please refer to the instructions provided in Table 3:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0zb7{background-color:#F6F5E7;text-align:left;vertical-align:top}
+.tg .tg-a0y3{background-color:#F5F0C3;text-align:left;vertical-align:top}
+.tg .tg-ukb2{background-color:#F6F5E7;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ukb2">E-Learning Platforms</th>
+    <th class="tg-ukb2">Instructions</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-a0y3">SLS</td>
+    <td class="tg-a0y3">Go to <a href="https://canberrapri.moe.edu.sg/quick-links/student-learning-space-sls">https://canberrapri.moe.edu.sg/quick-links/student-learning-space-sls</a> for further instructions</td>
+  </tr>
+  <tr>
+    <td class="tg-0zb7">eZhishi</td>
+    <td class="tg-0zb7">Email: <a href="mailto:service@ecombay.com">service@ecombay.com</a><br>Tel: 6742 7555</td>
+  </tr>
+  <tr>
+    <td class="tg-a0y3">Koobits</td>
+    <td class="tg-a0y3">Email: <a href="mailto:support@koobits.com">support@koobits.com</a></td>
+  </tr>
+</tbody>
+</table>
+
+*Table 3: Self-Help Guide to e-Learning Platforms*
+
+If you still face difficulties, please email canberra_ps@moe.edu.sg with the following details:
+
+* Name of Child
+
+* Class of Child
+
+* Difficulty Faced
