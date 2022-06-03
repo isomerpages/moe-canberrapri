@@ -2,8 +2,8 @@ collections:
   quick-links:
     output: true
     order:
-      - MOE Sexuality Education.md
       - For Staff.md
       - For Parents/.keep
       - For Parents/MOE FAS.md
       - Student Learning Space (SLS).md
+      - MOE Sexuality Education.md
