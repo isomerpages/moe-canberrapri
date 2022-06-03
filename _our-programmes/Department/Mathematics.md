@@ -49,3 +49,43 @@ For the list of MOE-approved calculators, please click [here](https://www.seab.g
 * [Making Mathematics Fun!](https://www.schoolbag.edu.sg/story/making-mathematics-fun)
 * [Making Mathematics Fun - Part 2!](https://www.schoolbag.edu.sg/story/making-mathematics-fun-part-two)
 * [What will your child learn for Mathematics in Upper Primary?](https://www.schoolbag.edu.sg/story/what-will-your-child-learn-for-mathematics-in-upper-primary)
+
+# PEDAGOGY AND APPROACH
+
+![](/images/23mar16_Maths_Pedagogy%20and%20Approach.png)
+
+# Programmes and Events
+
+Across the three faculties, there are differentiated programmes for the different ability learners. These programmes serve to provide additional support for acquiring fundamental numerical skills and exposing pupils to think creatively and “out of the box”. School-wide initiatives aim to make Mathematics learning authentic and meaningful in everyday life.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Faculty 1</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Faculty 2</span></th>
+    <th class="tg-feqv"><span style="color:#666;background-color:#DDD">Faculty 3</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">- Learning Support Mathematics (LSM)<br>- Focus Group Remediation <br>- Math Trail and Performance Tasks<br>- Financial Literacy</td>
+    <td class="tg-ktyi">- ICAN<br>- Focus Group Remediation<br>- Performance Tasks <br>- Financial Literacy <br>- E2K (P4)<br>- Math Enrichment<br></td>
+    <td class="tg-ktyi">- ICAN <br>- Focus Group Remediation/Target Remediation (P6)<br>- Math Trail (P5)<br>- Financial Literacy <br>- E2K (P5)<br>- Math Enrichment <br>- Math Competition</td>
+  </tr>
+</tbody>
+</table>
+
+**Maths Competition**
+
+![](/images/maths%20achievement.jpg)
+![](/images/Maths%20Picture1.png)
+![](/images/MATHS%202.png)
