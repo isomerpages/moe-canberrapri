@@ -159,3 +159,58 @@ If you still face difficulties, please email canberra_ps@moe.edu.sg with the fol
 * Class of Child
 
 * Difficulty Faced
+
+As the teachers continue to innovate and introduce other web-based applications (e.g. Kahoot) for lessons, we seek your understanding and patience in guiding your child/ward to navigate these applications. 
+
+ 
+
+**Learning Device Access**
+
+To support your child/ward, please provide the following to enable him/her with the means to access instructions and learning activities:
+
+* Personal Learning Device (e.g. iPad)
+
+* Headphones/earphones and microphone
+
+* Web camera
+
+* Internet access
+
+ 
+
+If you need to loan a learning device for your child for HBL, please send in your request via your child/ward’s Form Teacher. As the number of devices available for loan are limited, all request will be subjected to approval on a case-by-case basis.  
+
+
+
+IMDA has set up the Neu PC Plus Programme and Home Access Programme to offer families on financial assistance the opportunity to own a computer and internet access at an affordable price. For eligible families, you may download the application form from the IMDA Website and submit the form, along with supporting documents, to the school.  
+
+ 
+
+**Synchronous Sessions**
+
+At times, your child/ward's teachers may be conducting synchronous lessons or interaction sessions. The teachers will specify the details via SLS. Please note that the synchronous sessions may be recorded to support others who are unable to join in at the specified time. Please assist your child/ward with setting up the required applications (e.g. Zoom) to allow the use of a microphone and camera.
+
+ 
+
+During synchronous sessions, your child/ward should observe the following etiquette:
+
+* **Be ready 5 minutes before** the specified time
+
+* Be **dressed appropriately** 
+
+*  **Hair** should be neat 
+
+*  **Clear background** with no distracting items such as posters
+
+*  **Face** should be **clearly seen**, not covered
+
+*  **Mute the microphone** unless he/she needs to speak
+
+*   **Avoid chatting with others** in the background
+
+*  **Avoid eating** on screen
+
+ 
+
+As other students can see and hear what is happening in the background during the synchronous sessions, please take additional care when walking past your child/ward. Family members are also encouraged to adhere to the etiquette mentioned above.
+
