@@ -2,12 +2,12 @@ collections:
   our-ccas:
     output: true
     order:
-      - Clubs & Societies/Science and Environment.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Library Ambassadors Club.md
       - Clubs & Societies/Little Chefs Club.md
       - Clubs & Societies/Media Club.md
       - Clubs & Societies/Digital Artisans.md
+      - Clubs & Societies/Science and Environment.md
       - Our CCAs.md
       - Sports/.keep
       - Sports/Track and Field.md
