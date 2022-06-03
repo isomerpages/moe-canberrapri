@@ -2,5 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
+      - Sports/Badminton.md
       - Sports/.keep
       - Our CCAs.md
