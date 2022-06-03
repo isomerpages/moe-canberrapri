@@ -2,10 +2,6 @@ collections:
   our-ccas:
     output: true
     order:
-      - Aesthetics/Malay Dance.md
-      - Aesthetics/.keep
-      - Aesthetics/Art Club.md
-      - Aesthetics/Chinese Dance.md
       - Our CCAs.md
       - Sports/.keep
       - Sports/Track and Field.md
@@ -13,6 +9,10 @@ collections:
       - Sports/Floorball.md
       - Sports/Badminton.md
       - Sports/Basketball.md
+      - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Cub Scouts.md
-      - Uniformed Groups/.keep
+      - Aesthetics/.keep
+      - Aesthetics/Malay Dance.md
+      - Aesthetics/Art Club.md
+      - Aesthetics/Chinese Dance.md
