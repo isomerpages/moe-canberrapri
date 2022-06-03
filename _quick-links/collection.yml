@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - Recommended E Books Links.md
       - For Staff.md
       - For Parents/.keep
       - For Parents/MOE FAS.md
@@ -10,3 +9,4 @@ collections:
       - MOE Sexuality Education.md
       - Parents Gateway.md
       - Home Based Learning.md
+      - Recommended E Books Links.md
