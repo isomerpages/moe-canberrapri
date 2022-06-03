@@ -43,3 +43,9 @@ Click on the following:
 * [Pattern Blocks+ by mathies](https://apps.apple.com/ca/app/pattern-blocks-by-mathies/id1451545067)
 
 For the list of MOE-approved calculators, please click [here](https://www.seab.gov.sg/home/examinations/approved-calculators)
+
+**Articles on Learning Resources for Kids**
+* [Tips to Support your Child’s Learning of Mathematics](https://www.schoolbag.edu.sg/story/tips-to-support-your-child-s-learning-of-mathematics)
+* [Making Mathematics Fun!](https://www.schoolbag.edu.sg/story/making-mathematics-fun)
+* [Making Mathematics Fun - Part 2!](https://www.schoolbag.edu.sg/story/making-mathematics-fun-part-two)
+* [What will your child learn for Mathematics in Upper Primary?](https://www.schoolbag.edu.sg/story/what-will-your-child-learn-for-mathematics-in-upper-primary)
