@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Clubs & Societies/.keep
-      - Clubs & Societies/Example Title.md
+      - Clubs & Societies/Little Chefs Club.md
       - Clubs & Societies/Library Ambassadors Club.md
       - Clubs & Societies/Media Club.md
       - Our CCAs.md
