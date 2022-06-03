@@ -2,9 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Department/Mathematics.md
-      - Department/English.md
-      - Department/.keep
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
@@ -18,3 +15,6 @@ collections:
       - Applied Learning Programme/Start Young, Start it Right.md
       - Applied Learning Programme/Future Learners, Future School.md
       - Learning For Life.md
+      - Department/.keep
+      - Department/Mathematics.md
+      - Department/English.md
