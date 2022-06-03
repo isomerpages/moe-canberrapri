@@ -11,3 +11,5 @@ In Canberra Primary School, to ensure continuity of learning, HBL can take in th
 *  Home-Based Learning (HBL): comprises of both offline and/or online* learning in the event of school closure for some of the levels 
 
 * Full HBL (FHBL): comprises of both offline and/or online* learning in the event of school closure for all Primary 1 to Primary 6 levels
+
+*online learning can be in the form of synchronous (live) or asynchronous
