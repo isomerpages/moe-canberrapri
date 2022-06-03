@@ -145,3 +145,7 @@ Parents are advised not to rush to download Parents Gateway until the school has
 
 Yes, Parents Gateway will be available to all government / government-aided and independent schools.
 To download Parents Gateway app.
+
+Click [here](/files/PG%20Letter%20to%20Parents%20Annex%20(20190118).pdf) for instruction.
+
+For more info, click [here](https://pg.moe.edu.sg/)
