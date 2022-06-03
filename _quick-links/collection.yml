@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - SERR (School Electronics Resource Repository).md
       - For Staff.md
       - For Parents/.keep
       - For Parents/MOE FAS.md
@@ -11,3 +10,4 @@ collections:
       - Parents Gateway.md
       - Home Based Learning.md
       - Recommended E Books Links.md
+      - SERR (School Electronics Resource Repository).md
