@@ -92,3 +92,23 @@ We encourage you to support your child/ward’s learning through the provision o
 * A comfortable chair
 
 * A quiet environment with sufficient ventilation and lighting
+
+**Supporting your Child/Ward**
+
+We encourage you to:
+
+*  Work out a daily schedule/routine with your child/ward and guide him/her in setting goals and scheduling tasks. For further tips on            guiding your child/ward in setting goals, please refer to the Resilience Boosters at https://go.gov.sg/selresforparents
+
+* Establish an agreement with your child/ward on managing screen time and scheduling off-screen eye-breaks. We will assign a maximum of about 2 hours of online learning every day
+
+* Encourage your child/ward to maintain an optimistic and positive outlook while accepting the changes and emotions that he/she has had to face as part of the learning process
+
+* Remind your child/ward to log in to SLS based on the staggered timings assigned to the different levels as shown in Table 1
+
+* Monitor your child/ward’s well-being and online activities
+
+*  Maintain child/ward’s good sleeping and waking habits
+
+* Provide regular healthy meals (breakfast, lunch and dinner) and snacks during breaks for your child/ward
+
+* Set up parental restrictions on your child's device and home network. For instruction on setting up restriction on your child/ward iPad, click [here](https://support.apple.com/en-us/HT201304)
