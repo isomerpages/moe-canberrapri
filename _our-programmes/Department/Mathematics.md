@@ -21,3 +21,13 @@ Click on the following:
 * [Developing money-confident children](https://www.todayonline.com/singapore/developing-money-confident-children)
 * [Teaching children to save](https://www.todayonline.com/business/teaching-children-save)
 * [Raising financially-smart children](https://www.todayonline.com/commentary/raising-financially-smart-children)
+
+
+# Learning Resources
+![](/images/Slide1-5.jpg)
+**Web-based**<br>
+Click on the following:
+* [Koobits ](https://member.koobits.com/)
+* [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+* [Thinking Blocks at Math playground](https://www.mathplayground.com/thinkingblocks.html)
+* [NumberPieces by The Math Learning Center](https://apps.mathlearningcenter.org/number-pieces/)
