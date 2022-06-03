@@ -31,3 +31,15 @@ Click on the following:
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Thinking Blocks at Math playground](https://www.mathplayground.com/thinkingblocks.html)
 * [NumberPieces by The Math Learning Center](https://apps.mathlearningcenter.org/number-pieces/)
+
+**App-based (iOS only)**<br>
+Click on the following:
+* [Schoolkit Math](https://apps.apple.com/sg/app/schoolkit-math/id775643572)
+* [Notepad by mathies](https://apps.apple.com/ca/app/notepad-by-mathies/id969193096)
+* [Relational Rods+ by mathies](https://apps.apple.com/ca/app/relational-rods-by-mathies/id960682555)
+* [Colour Tiles by mathies](https://apps.apple.com/ca/app/colour-tiles-by-mathies/id1170196025)
+* [Fraction Strips by mathies](https://apps.apple.com/ca/app/fraction-strips-by-mathies/id1233729371)
+* [Algebra Tiles by mathies](https://apps.apple.com/ca/app/algebra-tiles-by-mathies/id1462906251)
+* [Pattern Blocks+ by mathies](https://apps.apple.com/ca/app/pattern-blocks-by-mathies/id1451545067)
+
+For the list of MOE-approved calculators, please click [here](https://www.seab.gov.sg/home/examinations/approved-calculators)
