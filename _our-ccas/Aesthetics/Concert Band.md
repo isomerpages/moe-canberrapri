@@ -29,3 +29,13 @@ This year 2019, the band played for Chinese New Year Celebrations for the first 
 
 **PARADE OF BANDS 2016**
 ![](/images/Parade%20of%20Bands%202016_amended%20040417.png)
+
+**'A VISIT FROM MR JAMES SWEARINGEN'**
+![](/images/A%20Visit%20from%20Mr%20James%20Swearingen_31%20Mar%2016-1.png)
+
+**LEARNING JOURNEY TO THE SYF DISPLAY BAND COMPETITION**
+
+![](/images/17%20May%2016_Learning%20Journey%20to%20the%20SYF%20Display%20Band%20Competition.png)
+
+**Reflections of 2015**
+![](/images/9Feb16_CCA%20Band_Reflections%20of%202015_amended.png)
