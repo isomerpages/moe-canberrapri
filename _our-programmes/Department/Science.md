@@ -74,3 +74,10 @@ Anchoring on core values at the heart of learning and the 3Ts -Trusting to Learn
 
 ![](/images/Busking%201.png)
 ![](/images/Busking%2002.jpg)
+
+# Community in Nature (CIN)
+Community in Nature (CIN) is a national movement to conserve Singapore’s natural heritage. It brings together all of NParks’ nature-related events, activities and programmes with the aim of connecting, engaging and inspiring diverse communities to help conserve our natural heritage. Our CIN ambassadors have carried out research on scientific topics and present their ideas in the form of posters.
+
+Posters designed by P5 CIN Ambassadors as a platform to reach out to their fellow school mates to share with them information about the Wildlife in Singapore.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfQoRIlmZvGe0850fCThcgFd6oT6BnLkK2ZdVmPknikWwuPV0Ws4Jl1xIJJy-k5jIIl6FJQ2YTimLW/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
