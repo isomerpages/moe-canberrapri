@@ -18,3 +18,5 @@ third_nav_title: Faculty
 ![](/images/P3%20LJ%20to%20Singapore%20Zoo.jpg)
 **A Theatrical Experience - Gretel and Hansel**
 ![](/images/Gretel%20and%20Hansel%20Page%2001.png)
+**Readers Theatre Day**
+![](/images/Reader%20Theatre%20Page%2001.png)
