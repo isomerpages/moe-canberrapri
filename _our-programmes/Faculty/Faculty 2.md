@@ -16,3 +16,5 @@ third_nav_title: Faculty
 ![](/images/P3%20Swimsafer%20Programme_4%20Aug%202015.png)
 **Integrated Learning Journey to Singapore Zoo**
 ![](/images/P3%20LJ%20to%20Singapore%20Zoo.jpg)
+**A Theatrical Experience - Gretel and Hansel**
+![](/images/Gretel%20and%20Hansel%20Page%2001.png)
