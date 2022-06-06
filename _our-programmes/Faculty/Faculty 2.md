@@ -20,3 +20,8 @@ third_nav_title: Faculty
 ![](/images/Gretel%20and%20Hansel%20Page%2001.png)
 **Readers Theatre Day**
 ![](/images/Reader%20Theatre%20Page%2001.png)
+**Learn-A-Skill Programme**
+![](/images/Primary%203%20Learn%20A%20Skill.png)
+**Learning Journey to KidZania**
+![](/images/LJ%20KidZania.jpg)
+**Learning Journey to Science Centre**
