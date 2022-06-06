@@ -1,23 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Our School
-    url: /permalink
-    sublinks:
-      - title: School Leader's Message 2022
-        url: /https://canberrapri.moe.edu.sg/our-school/school-leaders-message-2022
-      - title: "About Us "
-        url: /https://canberrapri.moe.edu.sg/our-school/about-us
-      - title: Submenu Title
-        url: /permalink
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+    collection: our-school
+  - title: Our Programme (WIP)
+    collection: our-achievements
+  - title: Our CCAs
+    collection: our-ccas
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Quick Links
+    collection: quick-links
