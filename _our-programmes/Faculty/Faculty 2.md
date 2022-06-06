@@ -25,3 +25,7 @@ third_nav_title: Faculty
 **Learning Journey to KidZania**
 ![](/images/LJ%20KidZania.jpg)
 **Learning Journey to Science Centre**
+![](/images/LJ%20Science%20Centre.jpg)
+**Priming for Automaticity**
+![](/images/Priming.jpg)
+<iframe allowfullscreen="true" height="450" width="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTLH_-BoHrw6Kqod1C5pXj6KoyxSmRgWL1dDPIQJalN3xIq8zt5O79Vffj5X0fiGz4NLPhh8Hm9Que1/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
