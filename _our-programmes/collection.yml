@@ -2,8 +2,6 @@ collections:
   our-programmes:
     output: true
     order:
-      - Faculty/Faculty.md
-      - Faculty/.keep
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
@@ -24,4 +22,6 @@ collections:
       - Department/Physical Education.md
       - Department/Information Communication & Technology.md
       - Department/Staff Development and Management.md
+      - Faculty/.keep
+      - Faculty/Faculty.md
       - School Library.md
