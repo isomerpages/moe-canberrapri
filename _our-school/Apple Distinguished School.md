@@ -5,7 +5,8 @@ description: ""
 ---
 # Apple Distinguished School
 
-![](/images/apple%201.png)
+<img src="/images/apple%201.png" 
+     style="width:60%">
 
 **We are pleased to be recognised as an Apple Distinguished School for 2015 - 2021 for our implementation of the ‘Start Young, Start It Right Programme - Curating My Learning’ and ‘Ready for Tomorrow - Orientation to My Future Learning’.**
 
