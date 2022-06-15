@@ -110,7 +110,9 @@ English Department Key Programmes & Approaches:
 </table>
 
 **Stellar & CI (Curriculum Integration)**
-![](/images/Stellar%20&%20CI.png)
+
+<img src="/images/Stellar%20&%20CI.png" 
+     style="width:70%">
 
 **Learning Support Program (LSP)**
 ![](/images/LSP.png)
