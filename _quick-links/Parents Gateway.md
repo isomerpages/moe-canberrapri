@@ -51,7 +51,8 @@ Schools will continue to issue hardcopy letters and consent forms to parents and
 
 Please  visit  the  SingPass  website  (https://www.singpass.gov.sg),  or  scan  the  QR codes below to register for a SingPass and set up the 2-Step Verification (2FA). Should you require further assistance, please contact SingPass Helpdesk at 6643-0555.
 
-![](/images/singpass.png)
+<img src="/images/singpass.png" 
+     style="width:80%">
 
 Please  note  that  SingPass  Mobile  login  is  currently  not  yet  supported  for Android  version  of  Parents  Gateway.  Parents  using  Android  devices  are advised to login using SMS 2FA or OneKey token in the meantime.
 
