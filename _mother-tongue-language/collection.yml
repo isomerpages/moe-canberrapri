@@ -2,8 +2,8 @@ collections:
   mother-tongue-language:
     output: true
     order:
-      - Chinese Language.md
       - Mother Tongue Language.md
+      - Chinese Language.md
       - Malay Language/.keep
       - Malay Language/Malay Language.md
       - Malay Language/Programmes.md
