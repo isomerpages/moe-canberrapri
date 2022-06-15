@@ -72,3 +72,6 @@ third_nav_title: Tamil Language
 
 # Tamil Language Fortnight
 ![](/images/TL05.jpg)
+
+# Celebrations
+![](/images/pongal.png)
