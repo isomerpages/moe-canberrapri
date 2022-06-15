@@ -28,7 +28,8 @@ Mondays to Fridays: 4.00 pm to 9.00 pm<br>
 Saturdays: 9.00 am to 9.00 pm<br>
 Closed on Sundays & Public Holidays
 
-**Alternatively, students can email the SLS Helpdesk at helpdesk@sls.ufinity.com.**
+**Alternatively, students can email the SLS Helpdesk at** 
+<a href="helpdesk@sls.ufinity.com.">helpdesk@sls.ufinity.com.</a>
 
 **When emailing the SLS Helpdesk, please include your full name, class and name of school.**
 
