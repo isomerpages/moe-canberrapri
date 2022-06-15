@@ -7,3 +7,4 @@ third_nav_title: Chinese Language
 ![](/images/CLdepPicture1.png)
 ![](/images/CLdepPicture2.png)
 ![](/images/Mid%20Autumn%202019.jpg)
+<iframe allowfullscreen="true" height="569" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3frgXT1ppBVrQXTL38ePN6i06sDKbWiovkF46Av27J0rr65HebUc96xN7ZKijB4DxPJwBFNoMT8Bf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
