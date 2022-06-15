@@ -2,10 +2,10 @@ collections:
   mother-tongue-language:
     output: true
     order:
-      - Tamil Language/Celebrations.md
-      - Tamil Language/Programmes.md
-      - Tamil Language/Tamil Language.md
       - Tamil Language/.keep
+      - Tamil Language/Tamil Language.md
+      - Tamil Language/Programmes.md
+      - Tamil Language/Celebrations.md
       - Mother Tongue Language.md
       - Chinese Language/.keep
       - Chinese Language/Chinese Language.md
