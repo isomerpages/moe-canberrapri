@@ -45,3 +45,6 @@ third_nav_title: Tamil Language
 ## Enrichment
 ![](/images/TL%20motivational.png)
 ![](/images/TL%20speak%20up.png)
+
+## Care (Primary 1) and Responsibility (Primary 2)
+![](/images/TL01.jpg)
