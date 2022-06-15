@@ -29,12 +29,16 @@ description: ""
 **(Scan or click on the link)**
 
 [ICT Request](https://docs.google.com/forms/d/1tqihx_bx--Ar0z3Uf47f796aUMkFZik0dwbAdCdk-UM/viewform?edit_requested=true&fbzx=1118123659845629859)
-![](/images/ICT%20Request.png)
+<img src="/images/ICT%20Request.png" 
+     style="width:50%">
 
 [ICT Malfunction](https://docs.google.com/forms/d/1Jy-0GTZuWshOLO34uZgmZGCya6fPpXpvIfvyQ-wOZ1w/viewform?edit_requested=true)
-![](/images/ICT%20Malfunction.png)
+<img src="/images/ICT%20Malfunction.png" 
+     style="width:40%">
 
 [AV Request](https://docs.google.com/forms/d/14yUQoP53PO1l3zqgkrxMlQ0z4a9u5O8nKVaTWCoarpc/viewform?edit_requested=true)
-![](/images/AV%20Request.png)
+
+<img src="/images/AV%20Request.png" 
+     style="width:50%">
 
 [Canberra Ideates](https://docs.google.com/forms/d/1HwIMNkOfrENMlCE4zjTfXa8LjHJRnxhdkVtdb15DVcI/viewform?ts=5cd37f06&edit_requested=true)
