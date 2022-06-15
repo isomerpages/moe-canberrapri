@@ -2,5 +2,5 @@ collections:
   mother-tongue-language:
     output: true
     order:
-      - Chinese Language/Chinese Language.md
+      - Chinese Language/Mother Tongue Language.md
       - Chinese Language/.keep
