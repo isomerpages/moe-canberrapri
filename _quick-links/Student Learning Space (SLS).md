@@ -11,7 +11,7 @@ Click the image below to go to Student Learning Space
 <body>
 
 <p><a href="https://vle.learning.moe.edu.sg/login">
-<img src="/images/SLS.png" alt="W3Schools.com" width="100" height="132">
+<img src="/images/SLS.png" style width="50" height="132">
 </a></p>
 
 </body>
