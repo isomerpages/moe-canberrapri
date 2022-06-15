@@ -8,7 +8,7 @@ third_nav_title: Malay Language
 ![](/images/ML%20Vision%20Banner.png)
 ![](/images/ML%20Mission%20Banner.png)
 
-## Cultural Programmes
+# Cultural Programmes
 ![](/images/MLPicture1.png)
 ![](/images/MLPicture2.png)
 
@@ -22,3 +22,7 @@ third_nav_title: Malay Language
 ![](/images/p5lj1.jpg)
 ![](/images/p5lj2.jpg)
 ![](/images/p5lj3.jpg)
+
+# Celebrations
+![](/images/MlPicture3.png)
+![](/images/MLPicture4.png)
