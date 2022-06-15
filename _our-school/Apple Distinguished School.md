@@ -27,7 +27,8 @@ To actualise the Canberra Experience and deepen students’ learning processes, 
 ![](/images/apple%203.png)
 Rigour, Splendour and Fulfilment have been identified as the three key constructs of both the Canberra Experience and the Canberra Experience Plus, enabling every Canberrian to journey and become a Discoverer, an Attuned Learner and a Global Learner.
 
-![](/images/apple%204.png)
+<img src="/images/apple%204.png" 
+     style="width:60%">
 
 **Success**
 
