@@ -4,11 +4,11 @@ collections:
     order:
       - Our CCAs.md
       - Sports/.keep
-      - Sports/Track and Field.md
-      - Sports/Football.md
-      - Sports/Floorball.md
       - Sports/Badminton.md
       - Sports/Basketball.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Track and Field.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Brownies.md
       - Uniformed Groups/Cub Scouts.md
