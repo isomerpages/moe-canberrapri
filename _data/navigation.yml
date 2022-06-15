@@ -2,11 +2,22 @@ logo: /images/cps1.jpg
 links:
   - title: Our School
     collection: our-school
-  - title: Our Programme (WIP)
-    collection: our-programmes
   - title: Our CCAs
     collection: our-ccas
   - title: Our Achievements
     collection: our-achievements
   - title: Quick Links
     collection: quick-links
+  - title: Our Programmes
+    url: /our-programmes
+    sublinks:
+      - title: Canberra Experience
+        url: /our-programmes/canberra-experience
+      - title: Canberra Experience +
+        url: /our-programmes/canberra-experience-1
+      - title: Future School
+        url: /our-programmes/future-school
+      - title: Applied Learning Programme
+        url: /our-programmes/applied-learning-programme
+      - title: Learning For Life
+        url: /our-programmes/Applied-Learning-Programme/learning-for-life
