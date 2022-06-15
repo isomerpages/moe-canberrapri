@@ -48,3 +48,12 @@ third_nav_title: Tamil Language
 
 ## Care (Primary 1) and Responsibility (Primary 2)
 ![](/images/TL01.jpg)
+
+## Self-Discipline (Primary 3)
+![](/images/TL02.jpg)
+
+## Teamwork (Primary 4)
+![](/images/TL03.jpg)
+
+## Innovation (Primary 5)
+![](/images/TL04.jpg)
