@@ -2,10 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics/.keep
-      - Aesthetics/Aesthetics.md
-      - Aesthetics/Art & Music Curriculum.md
-      - Aesthetics/Canberra Young Artists' Academy.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -17,6 +13,10 @@ collections:
       - C & C Education/.keep
       - C & C Education/Character and Citizenship Education.md
       - C & C Education/Programmes.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art & Music Curriculum.md
+      - Aesthetics/Canberra Young Artists' Academy.md
       - Physical Education.md
       - Information Communication & Technology.md
       - Staff Development and Management.md
