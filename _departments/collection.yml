@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - C & C Education/.keep
-      - Character and Citizenship Education.md
       - English.md
       - Mathematics.md
       - Science.md
