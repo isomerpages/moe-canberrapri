@@ -36,3 +36,6 @@ As part of musical theatre education, the Canberra Young Artists’ Academy was 
   </tr>
 </tbody>
 </table>
+
+![](/images/CPS%20Young%20Artist%2001.jpg)
+![](/images/CPS%20Young%20Artist%2002.jpg)
