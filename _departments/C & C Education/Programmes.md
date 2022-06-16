@@ -66,3 +66,11 @@ third_nav_title: C & C Education
 
 # Traffic Safety Programme
 ![](/images/cce%203.png)
+
+# Cyber Wellness
+
+# Class Leaders Training
+![](/images/cce%20pic%202.png)
+
+# Prefects' Investiture
+![](/images/cce%20pic.png)
