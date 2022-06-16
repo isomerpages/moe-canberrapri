@@ -52,5 +52,5 @@ third_nav_title: C & C Education
 ![](/images/Earth%20Hour.jpg)
 
 # Total Defence Day
-![](/images/TDD%20for%20Website.png)
 
+![](/images/TDD1.png)
