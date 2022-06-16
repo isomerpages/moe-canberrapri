@@ -11,3 +11,17 @@ description: ""
 
 <img src="/images/CCE.png" 
      style="width:50%">
+		 
+We want our students to learn and attain the following **CCE Learning Outcomes:**
+
+1.      Acquire **self-awareness** and apply **self-management** skills to achieve personal well-being and effectiveness.
+
+2.      Act with **integrity** and make responsible decisions that uphold moral principles.
+
+3.      Acquire **social awarenes**s and apply **interpersonal skills** to build and maintain positive relationships based on mutual respect.
+
+4.     Be **resilient** and have the ability to turn challenges into opportunities.
+
+5.     Take pride in our **national identity**, have a **sense of belonging to Singapore** and be committed to nation-building.
+
+6.       Value Singapore’s **socio-cultural diversity**, and promote **social cohesion and harmony**.
