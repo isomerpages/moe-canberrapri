@@ -2,6 +2,7 @@ collections:
   mother-tongue-language:
     output: true
     order:
+      - Staff Development and Management.md
       - Information Communication & Technology.md
       - Physical Education.md
       - Science.md
