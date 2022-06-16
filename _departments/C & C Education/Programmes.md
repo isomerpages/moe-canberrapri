@@ -52,5 +52,14 @@ third_nav_title: C & C Education
 ![](/images/Earth%20Hour.jpg)
 
 # Total Defence Day
-
 ![](/images/TDD1.png)
+
+# Youth for the Environment Day
+![](/images/YED%201.jpg)
+
+# International Friendship Day
+![](/images/IFD%2001.jpg)
+![](/images/IFD%2002.jpg)
+
+# Racial Harmony Day
+![](/images/RHD.png)
