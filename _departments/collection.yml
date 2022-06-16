@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - C & C Education/Programmes.md
-      - C & C Education/Character and Citizenship Education.md
       - C & C Education/.keep
+      - C & C Education/Character and Citizenship Education.md
+      - C & C Education/Programmes.md
       - English.md
       - Mathematics.md
       - Science.md
