@@ -2,12 +2,6 @@ logo: /images/cps1.jpg
 links:
   - title: Our School
     collection: our-school
-  - title: Our CCAs
-    collection: our-ccas
-  - title: Our Achievements
-    collection: our-achievements
-  - title: Quick Links
-    collection: quick-links
   - title: Our Programmes
     url: /our-programmes
     sublinks:
@@ -27,3 +21,9 @@ links:
         url: /our-programmes/Faculty
       - title: School Library
         url: /our-programmes/school-library
+  - title: Our CCAs
+    collection: our-ccas
+  - title: Our Achievements
+    collection: our-achievements
+  - title: Quick Links
+    collection: quick-links
