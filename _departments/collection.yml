@@ -2,9 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - C & C Education/.keep
-      - C & C Education/Character and Citizenship Education.md
-      - C & C Education/Programmes.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -13,6 +10,9 @@ collections:
       - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Malay Language.md
       - Mother Tongue Language/Tamil Language.md
-      - Staff Development and Management.md
-      - Information Communication & Technology.md
+      - C & C Education/.keep
+      - C & C Education/Character and Citizenship Education.md
+      - C & C Education/Programmes.md
       - Physical Education.md
+      - Information Communication & Technology.md
+      - Staff Development and Management.md
