@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - Aesthetics/Canberra Young Artists' Academy.md
-      - Aesthetics/Art & Music Curriculum.md
-      - Aesthetics/Aesthetics.md
       - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Art & Music Curriculum.md
+      - Aesthetics/Canberra Young Artists' Academy.md
       - English.md
       - Mathematics.md
       - Science.md
