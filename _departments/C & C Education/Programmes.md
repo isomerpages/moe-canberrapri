@@ -43,3 +43,14 @@ third_nav_title: C & C Education
   </tr>
 </tbody>
 </table>
+
+
+# Our Classroom Shines
+![](/images/Class%20Shine.jpg)
+
+# Earth Hour
+![](/images/Earth%20Hour.jpg)
+
+# Total Defence Day
+![](/images/TDD%20for%20Website.png)
+
