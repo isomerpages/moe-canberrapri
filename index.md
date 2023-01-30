@@ -8,19 +8,6 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/Canberraprimary.gif
-      dropdown:
-        title: Menu
-        options:
-          - title: Our School
-            url: /our-school/permalink
-          - title: Our Programmes
-            url: https://canberrapri.moe.edu.sg/our-programmes
-          - title: Our CCAs
-            url: https://canberrapri.moe.edu.sg/our-ccas
-          - title: Our Achievements
-            url: https://canberrapri.moe.edu.sg/our-achievements
-          - title: Quick Links
-            url: https://canberrapri.moe.edu.sg/quick-links
   - infobar:
       description: Click below for Weekly Schedule for June Holidays from Monday, 30
         May to Friday, 3 June 2022
