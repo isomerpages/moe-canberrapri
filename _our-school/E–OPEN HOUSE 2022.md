@@ -8,4 +8,4 @@ Click this [link](https://docs.google.com/presentation/d/e/2PACX-1vS-w9jpbut4By
 
 <img src="/images/open%20house%20banner%202022%201.jpg" style="width:80%">
 
-#### For an awesome experience, use the mouse to click and navigate. Do not use the **spacebar**, **arrow buttons** or **enter** on the keyboard to navigate.
+#### For an awesome experience, use the mouse to click and navigate. Do not use the ***spacebar***, ***arrow buttons*** or ***enter*** on the keyboard to navigate.
