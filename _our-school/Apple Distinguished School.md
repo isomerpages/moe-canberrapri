@@ -40,7 +40,7 @@ A comprehensive, progressive and distinctive [Applied Learning Programme (ALP)]
 
 <h3>What's Next</h3>
 
-From 2022 to 2023, as [GSDP](/our-programmes/faculty/faculty-three/innovation/p5-global-sustainability-development-programme) progresses into the 4th C - Continuous Learning phase, pilot schools will continue their sustainability movement in their respective countries and focus their efforts to build their own local communities. In time, more schools and students may benefit and learn about sustainability efforts and that the community may grow over time.
+From 2022 to 2023, as [GSDP](/our-programmes/faculty/faculty-three) progresses into the 4th C - Continuous Learning phase, pilot schools will continue their sustainability movement in their respective countries and focus their efforts to build their own local communities. In time, more schools and students may benefit and learn about sustainability efforts and that the community may grow over time.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YDpBpteh6fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
