@@ -49,3 +49,100 @@ b. Character and Citizenship Education (CCE)
   
 
 **At Canberra Primary School, the following Sexuality Education lessons will be taught in 2023:**
+
+<h3><center>2023 Sexuality Education Lessons in CCE 2021</center></h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-ukb2{background-color:#F6F5E7;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lio6{background-color:#F5F0C3;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="3"><span style="font-weight:bold">Primary 5</span></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ukb2">CCE (FTGP) THEME</td>
+    <td class="tg-ukb2">LESSON TITLE / DURATION</td>
+    <td class="tg-ukb2"> <br>LESSON OVERVIEW</td>
+    <td class="tg-ukb2">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-ukb2" rowspan="3">Growing Years</td>
+    <td class="tg-ukb2">The Changes in Me<br>(60 min)</td>
+    <td class="tg-ukb2">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ukb2">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-lio6"> Did You Know?<br>(60 min)<br> </td>
+    <td class="tg-lio6">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-lio6">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-ukb2">Keeping Myself Safe<br>(60 min)<br> </td>
+    <td class="tg-ukb2">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-ukb2">Term 3 Week 9</td>
+  </tr>
+</tbody>
+</table>
+
+<h3><center>2023 Sexuality Education Lessons in CCE 2021</center></h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-w350{background-color:#F6F5E7;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ukb2{background-color:#F6F5E7;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-t66s{background-color:#F5F0C3;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-lio6{background-color:#F5F0C3;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-w350">CCE(FTGP) THEME</td>
+    <td class="tg-w350">LESSON TITLE / DURATION</td>
+    <td class="tg-w350">LESSON OVERVIEW</td>
+    <td class="tg-ukb2">TIME PERIOD</td>
+  </tr>
+  <tr>
+    <td class="tg-w350" rowspan="3">Growing Years</td>
+    <td class="tg-w350">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
+    <td class="tg-ukb2">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-w350">Term 2 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-t66s">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+    <td class="tg-lio6">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-t66s">Term 2 Week 5</td>
+  </tr>
+  <tr>
+    <td class="tg-w350">Did You Know? *<br>(60 min)<br> <br> </td>
+    <td class="tg-ukb2">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-w350">Term 4 Week 5</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<center><b>Please Note:<br>
+For 2023, the Primary 5 lesson “<i>Did You Know</i>?” will also be conducted for the Primary 6 cohort.</b></center>
