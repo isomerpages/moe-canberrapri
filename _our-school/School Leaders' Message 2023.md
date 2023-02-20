@@ -3,7 +3,6 @@ title: School Leaders' Message 2023
 permalink: /our-school/school-leaders-message-2023/
 description: ""
 ---
-
 ### Our Hopes, Our Dreams
 
 Warmest greetings from Canberra Primary School and welcome back from the December vacation break!
