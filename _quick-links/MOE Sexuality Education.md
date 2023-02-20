@@ -146,3 +146,11 @@ b. Character and Citizenship Education (CCE)
 
 <center><b>Please Note:<br>
 For 2023, the Primary 5 lesson “<i>Did You Know</i>?” will also be conducted for the Primary 6 cohort.</b></center>
+
+**Information for Parents**
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form via Parents Gateway (PG). The completed opt-out form is to be submitted via PG by 20 January 2023.
+
+10. Parents can contact the school at 6759 7433 or email at canberra_ps@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
