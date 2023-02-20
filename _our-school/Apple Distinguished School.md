@@ -28,10 +28,16 @@ Since inception, Canberra Primary School (CPS) has been incorporating cutting-ed
      style="width:75%">
 <center><i>*Figure 1</i></center>
 
-<img src="/images/photo_6165884995105829141_m.jpg" 
-     style="width:25%">
+<h3>Learning</h3>
 		 
 <img src="/images/photo_6165884995105829218_y.jpg" 
      style="width:40%">
 
 A comprehensive, progressive and distinctive [Applied Learning Programme (ALP)](/our-programmes/applied-learning-programme) [which](/our-programmes/applied-learning-programme) consists of two stages, Foundation and Orientation, has been put in place since 2014. With a rapid shift towards greater focus on the use of PLDs, Blended Learning (BL) and [Home-based Learning (HBL](/quick-links/home-based-learning)), the school has also placed a strong emphasis in digital literacies. This structured approach will enhance students’ [positive values and habits of learning with PLDs](https://drive.google.com/file/d/1XPaWad7vuXzGdbwITFAFkCLjxHBtgF3C/view?usp=sharing), equipping them with the required crucial skills and dispositions as well as moulding them to be successful individuals who are able to harness the use of technology responsibly and effectively through the curation of learning. This will further develop students to become a global learner and global citizen by leveraging Apple technology to connect and collaborate for global learning and impact.
+
+<img src="/images/photo_6165884995105829223_y.jpg" 
+     style="width:75%">
+
+<h3>What's Next</h3>
+
+From 2022 to 2023, as [GSDP](/our-programmes/faculty/faculty-three/innovation/p5-global-sustainability-development-programme) progresses into the 4th C - Continuous Learning phase, pilot schools will continue their sustainability movement in their respective countries and focus their efforts to build their own local communities. In time, more schools and students may benefit and learn about sustainability efforts and that the community may grow over time.
