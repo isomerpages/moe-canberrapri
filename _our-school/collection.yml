@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - E–OPEN HOUSE 2022.md
       - School Leaders' Message 2023.md
       - About Us/.keep
       - About Us/About Us.md
@@ -27,6 +26,7 @@ collections:
       - Service Providers.md
       - Virtual Tour 2020.md
       - Apple Distinguished School.md
+      - E–OPEN HOUSE 2022.md
       - Useful Information/.keep
       - Useful Information/Privacy Policy.md
       - Useful Information/Terms of Use.md
