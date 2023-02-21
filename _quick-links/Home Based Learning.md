@@ -1,6 +1,6 @@
 ---
 title: Home Based Learning
-permalink: /quick-links/home-based-learning
+permalink: /quick-links/home-based-learning/
 description: ""
 ---
 # Home-Based Learning

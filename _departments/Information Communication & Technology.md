@@ -1,6 +1,6 @@
 ---
 title: Information Communication & Technology
-permalink: /our-programmes/Department/information-communication-n-technology
+permalink: /our-programmes/Department/information-communication-n-technology/
 description: ""
 ---
 

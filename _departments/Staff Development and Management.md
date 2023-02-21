@@ -1,6 +1,6 @@
 ---
 title: Staff Development and Management
-permalink: /our-programmes/Department/staff-development-and-management
+permalink: /our-programmes/Department/staff-development-and-management/
 description: ""
 ---
 

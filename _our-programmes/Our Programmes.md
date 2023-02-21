@@ -1,6 +1,6 @@
 ---
 title: Our Programmes
-permalink: /our-programmes
+permalink: /our-programmes/
 description: ""
 ---
 

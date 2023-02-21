@@ -1,6 +1,6 @@
 ---
 title: Our CCAs
-permalink: /our-ccas
+permalink: /our-ccas/
 description: ""
 ---
 # Our CCAs

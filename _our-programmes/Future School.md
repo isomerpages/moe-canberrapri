@@ -1,6 +1,6 @@
 ---
 title: Future School
-permalink: /our-programmes/future-school
+permalink: /our-programmes/future-school/
 description: ""
 ---
 # Future School 

@@ -1,6 +1,6 @@
 ---
 title: Recommended E Books Links
-permalink: /quick-links/recommended-e-books-links
+permalink: /quick-links/recommended-e-books-links/
 description: ""
 ---
 # Recommended E-books Links

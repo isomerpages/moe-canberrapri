@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /our-programmes/Department/science
+permalink: /our-programmes/Department/science/
 description: ""
 ---
 

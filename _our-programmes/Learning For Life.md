@@ -1,6 +1,6 @@
 ---
 title: Learning For Life
-permalink: /our-programmes/Applied-Learning-Programme/learning-for-life
+permalink: /our-programmes/Applied-Learning-Programme/learning-for-life/
 description: ""
 ---
 

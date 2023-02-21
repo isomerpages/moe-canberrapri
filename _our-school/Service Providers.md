@@ -1,6 +1,6 @@
 ---
 title: Service Providers
-permalink: /our-school/service-providers
+permalink: /our-school/service-providers/
 description: ""
 ---
 # Service Providers

@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /our-programmes/Department/english
+permalink: /our-programmes/Department/english/
 description: ""
 ---
 

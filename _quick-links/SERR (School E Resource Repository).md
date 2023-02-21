@@ -1,6 +1,6 @@
 ---
 title: SERR (School E Resource Repository)
-permalink: /quick-links/serr-school-e-resource-repository
+permalink: /quick-links/serr-school-e-resource-repository/
 description: ""
 ---
 # SERR (School e-Resource Repository)

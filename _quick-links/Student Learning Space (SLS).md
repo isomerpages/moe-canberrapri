@@ -1,6 +1,6 @@
 ---
 title: Student Learning Space (SLS)
-permalink: /quick-links/student-learning-space-sls
+permalink: /quick-links/student-learning-space-sls/
 description: ""
 ---
 # Student Learning Space(SLS)
