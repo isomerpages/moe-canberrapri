@@ -49,5 +49,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-canberrapri-staging.netlify.app
-prod: https://moe-canberrapri-prod.netlify.app
+staging: https://staging.d16r3zwzwsz8e0.amplifyapp.com/
+prod: https://master.d16r3zwzwsz8e0.amplifyapp.com/
