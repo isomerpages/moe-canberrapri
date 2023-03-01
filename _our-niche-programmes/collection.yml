@@ -2,7 +2,6 @@ collections:
   our-niche-programmes:
     output: true
     order:
-      - Our Programmes.md
       - Canberra Experience/.keep
       - Canberra Experience/Canberra Experience.md
       - Canberra Experience/Discoverer.md
