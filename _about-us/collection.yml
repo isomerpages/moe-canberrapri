@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Development and Management.md
+      - Staff Spotlight.md
       - School Leaders' Message 2023.md
       - About Us/.keep
       - About Us/About Us.md
