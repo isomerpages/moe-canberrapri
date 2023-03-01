@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us/.keep
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission and Values.md
@@ -30,3 +29,4 @@ collections:
       - Useful Information/Privacy Policy.md
       - Useful Information/Terms of Use.md
       - Useful Information/Data Management.md
+      - Contact Us/.keep
