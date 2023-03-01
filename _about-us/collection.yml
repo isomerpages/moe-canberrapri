@@ -1,5 +1,5 @@
 collections:
-  our-school:
+  about-us:
     output: true
     order:
       - School Leaders' Message 2023.md
