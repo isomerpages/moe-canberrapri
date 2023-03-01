@@ -1,5 +1,5 @@
 collections:
-  our-ccas:
+  events:
     output: true
     order:
       - Our CCAs.md
