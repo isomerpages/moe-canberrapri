@@ -2,17 +2,17 @@ collections:
   our-niche-programmes:
     output: true
     order:
-      - Canberra Experience/.keep
-      - Canberra Experience/Canberra Experience.md
-      - Canberra Experience/Discoverer.md
-      - Canberra Experience/Attuned Learner.md
-      - Canberra Experience/Global Learner.md
       - Applied Learning Programme/.keep
       - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/Start Young, Start it Right.md
       - Applied Learning Programme/Orientation to My Future Learning.md
       - Applied Learning Programme/Future Learners, Future School.md
       - Learn For Life.md
+      - Canberra Experience/.keep
+      - Canberra Experience/Canberra Experience.md
+      - Canberra Experience/Discoverer.md
+      - Canberra Experience/Attuned Learner.md
+      - Canberra Experience/Global Learner.md
       - Faculty/.keep
       - Faculty/Faculty.md
       - Faculty/Faculty 1.md
