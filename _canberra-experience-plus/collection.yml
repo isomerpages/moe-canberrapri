@@ -1,5 +1,5 @@
 collections:
-  departments:
+  canberra-experience-plus:
     output: true
     order:
       - English.md
