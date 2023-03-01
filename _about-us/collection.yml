@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Staff Spotlight.md
-      - School Leaders' Message 2023.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/Vision, Mission and Values.md
@@ -13,6 +11,7 @@ collections:
       - About Us/School Rules.md
       - About Us/School Attire.md
       - About Us/School Hours.md
+      - School Leaders' Message 2023.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
       - Our Staff/School Advisory Committee.md
@@ -23,12 +22,13 @@ collections:
       - Our Staff/Faculty 2 Teachers (Primary 3 and 4).md
       - Our Staff/Faculty 3 Teachers (Primary 5 and 6).md
       - Our Staff/Adminstration and Operation Staff.md
-      - Calender of Events.md
-      - Service Providers.md
-      - Virtual Tour 2020.md
+      - Staff Spotlight.md
       - Apple Distinguished School.md
-      - E–OPEN HOUSE 2022.md
+      - Service Providers.md
       - Useful Information/.keep
       - Useful Information/Privacy Policy.md
       - Useful Information/Terms of Use.md
       - Useful Information/Data Management.md
+      - Calender of Events.md
+      - Virtual Tour 2020.md
+      - E–OPEN HOUSE 2022.md
