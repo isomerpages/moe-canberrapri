@@ -2,9 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Faculty 3.md
-      - Faculty 2.md
-      - Faculty 1.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -23,6 +20,9 @@ collections:
       - Aesthetics/Canberra Young Artists' Academy.md
       - Physical Education.md
       - Information Communication & Technology.md
+      - Faculty 1.md
+      - Faculty 2.md
+      - Faculty 3.md
       - Students' Spotlight/.keep
       - Students' Spotlight/2019.md
       - Students' Spotlight/2020.md
