@@ -23,6 +23,8 @@ collections:
       - Faculty 1.md
       - Faculty 2.md
       - Faculty 3.md
+      - CCA/.keep
+      - CCA/Art Club.md
       - CCA/Badminton.md
       - CCA/Basketball.md
       - CCA/Brownies.md
@@ -42,8 +44,6 @@ collections:
       - CCA/School Library.md
       - CCA/Science and Environment.md
       - CCA/Track and Field.md
-      - CCA/Art Club.md
-      - CCA/.keep
       - Students' Spotlight/.keep
       - Students' Spotlight/2019.md
       - Students' Spotlight/2020.md
