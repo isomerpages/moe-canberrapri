@@ -2,5 +2,4 @@ collections:
   events:
     output: true
     order:
-      - Indian Dance.md
       - E–OPEN HOUSE 2022.md
