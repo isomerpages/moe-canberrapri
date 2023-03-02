@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Students' Spotlight/2020.md
       - Students' Spotlight/2021.md
       - Students' Spotlight/2022.md
       - Students' Spotlight/.keep
