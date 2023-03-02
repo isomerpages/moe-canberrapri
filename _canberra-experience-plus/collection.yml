@@ -2,11 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Students' Spotlight/2019.md
-      - Students' Spotlight/2020.md
-      - Students' Spotlight/2021.md
-      - Students' Spotlight/2022.md
-      - Students' Spotlight/.keep
       - English.md
       - Mathematics.md
       - Science.md
@@ -25,3 +20,8 @@ collections:
       - Aesthetics/Canberra Young Artists' Academy.md
       - Physical Education.md
       - Information Communication & Technology.md
+      - Students' Spotlight/.keep
+      - Students' Spotlight/2019.md
+      - Students' Spotlight/2020.md
+      - Students' Spotlight/2021.md
+      - Students' Spotlight/2022.md
