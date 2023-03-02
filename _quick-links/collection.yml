@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - For Staff.md
-      - For Parents/SERR (School E Resource Repository).md
-      - For Parents/Parents Gateway.md
-      - For Parents/Recommended E Books Links.md
-      - For Parents/Home Based Learning.md
-      - For Parents/MOE Sexuality Education.md
-      - For Parents/Student Learning Space (SLS).md
       - For Parents/.keep
       - For Parents/MOE FAS.md
+      - For Parents/Student Learning Space (SLS).md
+      - For Parents/MOE Sexuality Education.md
+      - For Parents/Parents Gateway.md
+      - For Parents/Home Based Learning.md
+      - For Parents/Recommended E Books Links.md
+      - For Parents/SERR (School E Resource Repository).md
