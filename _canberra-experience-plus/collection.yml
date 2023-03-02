@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Students' Spotlight.md
       - English.md
       - Mathematics.md
       - Science.md
