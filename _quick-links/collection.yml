@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - For Staff.md
+      - For Parents/Student Learning Space (SLS).md
       - For Parents/.keep
       - For Parents/MOE FAS.md
       - MOE Sexuality Education.md
