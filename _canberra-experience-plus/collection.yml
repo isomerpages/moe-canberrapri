@@ -2,7 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Students' Spotlight.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -21,3 +20,4 @@ collections:
       - Aesthetics/Canberra Young Artists' Academy.md
       - Physical Education.md
       - Information Communication & Technology.md
+      - Students' Spotlight.md
