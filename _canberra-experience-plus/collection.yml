@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Faculty 2.md
       - Faculty 1.md
       - English.md
       - Mathematics.md
