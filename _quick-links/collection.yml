@@ -2,7 +2,6 @@ collections:
   quick-links:
     output: true
     order:
-      - AGAB 2023 AND MITT 2023.md
       - For Staff.md
       - For Parents/.keep
       - For Parents/MOE FAS.md
