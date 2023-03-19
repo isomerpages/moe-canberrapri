@@ -3,13 +3,17 @@ title: Information Communication & Technology
 permalink: /our-programmes/Department/information-communication-n-technology/
 description: ""
 ---
+**Department’s Vision:**
+Future-Ready & Digitally Responsible Canberrians
 
-![](/images/ICT%20Banner.png)
-![](/images/MTL%20Vision%20Banner.png)
-![](/images/ICT%20Mission%20Banner.png)
+**Department’s Mission:**
+To Provide Quality Learning in the Hands of every Canberrians Empowered by Technology
 
-In recent times, there has been a major shift away from academic results to a broader, more holistic education which focuses on opportunities for pupils to discover their interests and talents, and develop life skills, a sense of curiosity and a love for learning.
+Building upon the school vibrant and pervasive culture of innovation, the ICT department
+* places a premium on innovating curriculum to enhance pupils’ learning experiences.
+* creates opportunities for pupils to discover their interests and talents, and develop life skills, a sense of curiosity and a love for learning.
 
-Canberra Primary School, in keeping with these changes and building upon its vibrant and pervasive culture of innovation, has placed a premium on innovating curriculum to enhance students’ learning experiences. Leveraging its achievements in the FutureSchools@Singapore Programme and Applied Learning Programme, technology as a key enabler in enhancing the way students live, work and play, has helped to transform the classrooms, modify and even redefine learning tasks to create new learning experiences that were previously inconceivable.
+Leveraging the key programme spearheaded by the department, pupils are taught to harness technology as a key enabler to enhance the way they live, work and play. Technology has also helped to transform the classrooms, modify and even redefine learning tasks to create new learning experiences for pupils.
 
-
+**Department Key Programme:**
+* Applied Learning Programme *(Click **here** to find out more)*
