@@ -3,10 +3,10 @@ title: Information Communication & Technology
 permalink: /our-programmes/Department/information-communication-n-technology/
 description: ""
 ---
-**Department’s Vision:**
+**Vision:**
 Future-Ready & Digitally Responsible Canberrians
 
-**Department’s Mission:**
+**Mission:**
 To Provide Quality Learning in the Hands of every Canberrians Empowered by Technology
 
 Building upon the school vibrant and pervasive culture of innovation, the ICT department
