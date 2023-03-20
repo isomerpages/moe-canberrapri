@@ -3,7 +3,20 @@ title: Mathematics
 permalink: /our-programmes/Department/mathematics/
 description: ""
 ---
+**Vision:** To nurture all Canberrians to have a lifelong passion for Mathematics.
 
+**Mission:** To equip all Canberrians with a broad and firm foundation of knowledge and skills in Mathematics.
+
+**Pedagogy and Approach**
+![](/images/Pedagogy%20and%20Approach.png)
+
+Canberra Primary School adopts a formative approach to assessment by using bite-sized assessments to scaffold learning, provide specific feedback to improve learning and make assessment less stressful for pupils. 
+
+**Programmes and Events** 
+
+Across the three faculties, there are differentiated programmes catering to the learners of different abilities. These programmes provide additional support for acquiring fundamental numerical skills and thinking creatively. School-wide initiatives are in place to make Mathematics learning authentic and meaningful in everyday life.
+
+![](/images/fac%201%20to%20fac%203%20programs%20Maths.png)
 ![](/images/Math%20Dept%20Banner.png)
 ![](/images/Math%20Vision%20Banner.png)
 ![](/images/Math%20Mission%20Banner.png)
