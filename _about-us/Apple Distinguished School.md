@@ -3,8 +3,6 @@ title: Apple Distinguished School
 permalink: /our-school/apple-distinguished-school/2022-2025-new/
 description: ""
 ---
-      
-
 Canberra Primary School is pleased to be recognised as an Apple Distinguished School for 2022-2025. [Apple Distinguished Schools](https://www.apple.com/sg/education/k12/apple-distinguished-schools/) are recognized by Apple for continuous innovation in learning, teaching and the school environment.
 
 **Today**  
