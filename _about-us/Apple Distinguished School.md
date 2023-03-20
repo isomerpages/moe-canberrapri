@@ -3,56 +3,47 @@ title: Apple Distinguished School
 permalink: /our-school/apple-distinguished-school/2022-2025-new/
 description: ""
 ---
-![](/images/photo_6163633195292145167_y.jpg)
+      
 
-<h5>We are pleased to be recognised as an Apple Distinguished School for 2022-2025 for the whole school implementation of 1:1 learning since 2013.</h5>
+Canberra Primary School is pleased to be recognised as an Apple Distinguished School for 2022-2025. [Apple Distinguished Schools](https://www.apple.com/sg/education/k12/apple-distinguished-schools/) are recognized by Apple for continuous innovation in learning, teaching and the school environment.
 
-Since inception, Canberra Primary School (CPS) has been incorporating cutting-edge, ICT-based pedagogies in its curriculum to enhance teaching and learning.  With a visionary leadership and leadership support, teachers’ growth mindset and ongoing teachers’ professional development, CPS continuously seeks opportunities to enable rich learning experiences for its pupils by providing learner-centred environment through harnessing digital technologies and leveraging pupils 1:1 Personal Learning Device (PLDs).
+**Today**  
+Since inception, Canberra Primary School (CPS) has been incorporating cutting-edge, ICT-based pedagogies in its curriculum to enhance teaching and learning.  With a visionary leadership and leadership support, teachers’ growth mindset and ongoing teachers’ professional development, CPS continuously seeks opportunities to enable rich learning experiences for its pupils by providing learner-centred environment through harnessing digital technologies and leveraging pupils’ 1:1 Personal Learning Devices (PLDs).
 
-<table>
-<thead>
-  <tr>
-    <td><img src="/images/photo_6165884995105829216_x.jpg" 
-     style="width:70%"></td>
-    <td><img src="/images/photo_6165884995105829217_x.jpg" 
-     style="width:50%"></td>
-  </tr>
-</thead>
-</table>
+**Learning**  
+A comprehensive, progressive and distinctive [Applied Learning Programme – ICT & Media (ALP)](https://canberrapri.moe.edu.sg/our-programmes/applied-learning-programme) which consists of two stages have been put in place since 2014. The stages are:
 
-![](/images/photo_6163633195292145166_y.jpg)
+·         Foundation Stage: Start Young, Start It Right
 
-[Canberra Experience (CE](/our-programmes/canberra-experience)) ---> [Canberra Experience + (CE](/our-programmes/canberra-experience-1)+) CPS believes that every Canberrian can succeed, regardless of the child’s starting point. This belief has been instrumental in shaping the culture of the school as well as the teaching and learning experiences for our students, collectively known as the Canberra Experience. Pupils are developed to be a [Discoverer](/our-programmes/canberra-experience/discoverer), [Attuned Learner](/our-programmes/canberra-experience/attuned-learner) and [Global Learner](/our-programmes/canberra-experience/global-learner). Leverages individual students’ interests and talent, CPS advanced to Canberra Experience+ to take learning to a different dimension, helping every student to achieve his/her potential, giving him/her wings to soar to greater heights, and confidently face new challenges. This provides enriching learning experiences that are differentiated by content, process, product and learning environment; opportunities for students to embrace the values, attitudes and skills of learning for life; balance between academic rigour and joy of learning. These serve as the cornerstone of the heartbeat of a Canberra’s Learner shown in Figure 1.
+·         Orientation Stage: Orientation to My Future Learning
 
-<img src="/images/photo_6165884995105829219_y.jpg" 
-     style="width:75%">
-<center><i>*Figure 1</i></center>
+Over time, in addition to the two stages above, a third stage known as Future Learners, Future School is introduced. Together, these three stages provide enriching learning experiences that serve as the cornerstones of the heartbeat of a Canberra’s Learner as shown in Figure 1.
 
-<h3>Learning</h3>
-		 
-<img src="/images/photo_6165884995105829218_y.jpg" 
-     style="width:40%">
+![](/images/Heartbeat%20Canberrian.jpg)
+_Figure 1: Hearbeat of a Canberrian_
 
-A comprehensive, progressive and distinctive [Applied Learning Programme (ALP)](/our-programmes/applied-learning-programme) [which](/our-programmes/applied-learning-programme) consists of two stages, Foundation and Orientation, has been put in place since 2014. With a rapid shift towards greater focus on the use of PLDs, Blended Learning (BL) and [Home-based Learning (HBL](/quick-links/home-based-learning)), the school has also placed a strong emphasis in digital literacies. This structured approach will enhance students’ [positive values and habits of learning with PLDs](https://drive.google.com/file/d/1XPaWad7vuXzGdbwITFAFkCLjxHBtgF3C/view?usp=sharing), equipping them with the required crucial skills and dispositions as well as moulding them to be successful individuals who are able to harness the use of technology responsibly and effectively through the curation of learning. This will further develop students to become a global learner and global citizen by leveraging Apple technology to connect and collaborate for global learning and impact.
+With a rapid shift towards greater focus on the use of personal learning devices (PLDs), Blended Learning (BL) and Home-based Learning (HBL), the school has also placed a strong emphasis in digital literacies. This structured approach will enhance pupils’ [positive values and habits of learning with PLDs](https://drive.google.com/file/d/1XPaWad7vuXzGdbwITFAFkCLjxHBtgF3C/view?usp=sharing) (Figure 2), equipping them with the required crucial skills and dispositions as well as moulding them to be successful individuals who are able to harness the use of technology responsibly and effectively. Pupils will be developed to be future-ready and digitally responsible Canberrians who are able to leverage Apple technology to curate, create, connect, and collaborate with others productively in an increasingly networked digital environment.
 
-<img src="/images/photo_6165884995105829223_y.jpg" 
-     style="width:75%">
 
-<h3>What's Next</h3>
+  
+ ![](/images/Figure%202Positive%20values%20and%20habits%20of%20learning%20with%20PLDs.jpg)
+_Figure 2: Positive Values & Habits of Learning with PLDs_
 
-From 2022 to 2023, as [GSDP](/our-programmes/faculty/faculty-three) progresses into the 4th C - Continuous Learning phase, pilot schools will continue their sustainability movement in their respective countries and focus their efforts to build their own local communities. In time, more schools and students may benefit and learn about sustainability efforts and that the community may grow over time.
+**Success**
+![](/images/Success.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YDpBpteh6fo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+**Links** _(The following links can only be opened on Apple devices)_
 
-<h3>Links</h3>
+1.     [Start Young, Start It Right](https://drive.google.com/file/d/1ITWCHo9AAXG4p2ZtVcV1rrSGKD46WMcD/view?usp=sharing)
 
-[1). Start Young, Start it Right - Curating My Learning (How CPS use PLDs as a technology enabler to deliver the school’s learning   outcome)](https://drive.google.com/file/d/1ITWCHo9AAXG4p2ZtVcV1rrSGKD46WMcD/view?usp=sharing)
+This ibook aims to describe CPS journey in 1:1 learning and how it uses the PLDs as a technology enabler to deliver the school’s learning outcomes.
 
-[2). Orientation to My Future Learning - Continuing our journey in 1:1 learning (CPS continuous efforts in seeking opportunities through the use of technology)](https://drive.google.com/file/d/1s2Xu_vkD5VLjp64k90qcnu0B3iPgoJAU/view?usp=sharing)
+2.    [Orientation to Future Learning](https://drive.google.com/file/d/1s2Xu_vkD5VLjp64k90qcnu0B3iPgoJAU/view?usp=sharing)
 
-[3). Future Learners, Future Schools (CPS efforts in sustaining an innovative teaching and learning environment)](https://drive.google.com/file/d/10PdPIT2DolWiiEv6solTcj5OuNGgobXy/view?usp=sharing)
+This ibook aims to describe CPS continuing journey in 1:1 learning and its continuous efforts in seeking opportunities through the use of technology.
 
-_\*The above links can only be opened on Apple devices._
+3.    [Future Learners, Future Schools](https://drive.google.com/file/d/10PdPIT2DolWiiEv6solTcj5OuNGgobXy/view?usp=sharing)
 
-<img src="/images/apple%20logo.png" 
-     style="width:35%">
+This ibook aims to describe CPS efforts in sustaining an innovative teaching and learning environment.
+
+![](/images/ADS%20Logo.png)
