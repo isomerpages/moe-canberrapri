@@ -5,10 +5,10 @@ links:
   - title: Canberra Experience Plus
     collection: about-us
   - title: Our Niche Programme
-    url: /our-programmes
+    url: /our-niche-programme
     sublinks:
       - title: Canberra Experience
-        url: /our-programmes/canberra-experience
+        url: /Canberra-experience-plus
       - title: Canberra Experience +
         url: /our-programmes/canberra-experience-1
       - title: Future School
