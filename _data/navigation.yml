@@ -2,7 +2,7 @@ logo: /images/cps1.jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Our Programmes
+  - title: Our Niche Programme
     url: /our-programmes
     sublinks:
       - title: Canberra Experience
