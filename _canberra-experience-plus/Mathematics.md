@@ -17,6 +17,19 @@ Canberra Primary School adopts a formative approach to assessment by using bite-
 Across the three faculties, there are differentiated programmes catering to the learners of different abilities. These programmes provide additional support for acquiring fundamental numerical skills and thinking creatively. School-wide initiatives are in place to make Mathematics learning authentic and meaningful in everyday life.
 
 ![](/images/fac%201%20to%20fac%203%20programs%20Maths.png)
+
+**Financial Literacy**<br>
+In today’s complex environment, making informed and responsible decisions on the use of money is crucial for one’s personal well-being and the community. The school’s Financial Literacy programme aims to create an awareness on the basic Financial Literacy concepts: Save, Spend, Manage and Share. These concepts are infused pervasively into the curriculum to inculcate in pupils the skill of being prudent about the use of monies.
+
+![](/images/Fin%20Lit%20photo.png)
+
+
+**Department’s Key Programmes:**
+* Financial Literacy Programme
+* LSM and ICAN Programmes
+* E2K Programme
+
+(To be deleted)
 ![](/images/Math%20Dept%20Banner.png)
 ![](/images/Math%20Vision%20Banner.png)
 ![](/images/Math%20Mission%20Banner.png)
