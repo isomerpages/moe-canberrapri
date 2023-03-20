@@ -44,6 +44,4 @@ This ibook aims to describe CPS continuing journey in 1:1 learning and its conti
 
 This ibook aims to describe CPS efforts in sustaining an innovative teaching and learning environment.
 
-   <img src="https://file.go.gov.sg/adslogo.png" 
-         width="2"
-         height="1" />
+![](/images/ADS%20Logo.png)
