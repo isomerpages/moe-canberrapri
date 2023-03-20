@@ -2,6 +2,8 @@ logo: /images/cps1.jpg
 links:
   - title: About Us
     collection: about-us
+  - title: Canberra Experience Plus
+    collection: about-us
   - title: Our Niche Programme
     url: /our-programmes
     sublinks:
@@ -27,5 +29,3 @@ links:
     collection: our-achievements
   - title: Quick Links
     collection: quick-links
-  - title: Canberra Experience Plus
-    collection: about-us
