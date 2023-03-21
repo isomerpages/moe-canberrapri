@@ -9,11 +9,9 @@ Canberra Primary School is pleased to be recognised as an Apple Distinguished Sc
 Since inception, Canberra Primary School (CPS) has been incorporating cutting-edge, ICT-based pedagogies in its curriculum to enhance teaching and learning.  With a visionary leadership and leadership support, teachers’ growth mindset and ongoing teachers’ professional development, CPS continuously seeks opportunities to enable rich learning experiences for its pupils by providing learner-centred environment through harnessing digital technologies and leveraging pupils’ 1:1 Personal Learning Devices (PLDs).
 
 **Learning**  
-A comprehensive, progressive and distinctive [Applied Learning Programme – ICT & Media (ALP)](https://canberrapri.moe.edu.sg/our-programmes/applied-learning-programme) which consists of two stages have been put in place since 2014. The stages are:
-
-·         Foundation Stage: Start Young, Start It Right
-
-·         Orientation Stage: Orientation to My Future Learning
+A comprehensive, progressive and distinctive [Applied Learning Programme – ICT & Media (ALP)](https://canberrapri.moe.edu.sg/our-programmes/applied-learning-programme) which consists of two stages have been put in place since 2014. The stages are:<br/>
+* Foundation Stage: Start Young, Start It Right
+* Orientation Stage: Orientation to My Future Learning
 
 Over time, in addition to the two stages above, a third stage known as Future Learners, Future School is introduced. Together, these three stages provide enriching learning experiences that serve as the cornerstones of the heartbeat of a Canberra’s Learner as shown in Figure 1.
 
