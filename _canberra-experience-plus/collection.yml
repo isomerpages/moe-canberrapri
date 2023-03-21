@@ -2,7 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Character and Citizenship Education (CCE).md
       - English.md
       - Mathematics.md
       - Science.md
@@ -11,6 +10,7 @@ collections:
       - Mother Tongue Language/Chinese Language.md
       - Mother Tongue Language/Malay Language.md
       - Mother Tongue Language/Tamil Language.md
+      - Character and Citizenship Education (CCE).md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md
       - Aesthetics/Art & Music Curriculum.md
