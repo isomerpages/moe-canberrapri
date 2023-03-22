@@ -3,15 +3,20 @@ title: Aesthetics
 permalink: /departments/Aesthetics/
 description: ""
 ---
+**Vision:** Every Canberrians to love and appreciate the Arts
 
-![](/images/Aesthetics%20Main%20Banner.png)
-![](/images/Vision.png)
-![](/images/Mission.png)
+**Mission:** Immersing every Canberrians in exciting and enriching Arts Experience
 
-**The Value of Arts Education**  
+The Arts is integral to the holistic development of our pupils. The role of arts education is central in developing in our pupils a lively curiosity and an inquisitive mind. It promotes inventive thinking and an innovative disposition in what they do. 
 
-The Arts is integral to the holistic development of our pupils. It contributes to their development of an understanding of the physical, emotional, intellectual, aesthetic, social, moral and spiritual dimensions of human experience.
+The Aesthetics department aims to expose all pupils to a variety of arts experiences, from local and global visual arts appreciation to a wide repertoire of music exposure, and to experience the splendor in dance. This will lead towards a lively Arts culture. We also aim to take Arts learning to a different dimension, helping every pupil to achieve their artistic potential, giving them wings to soar for greater heights. It is our hope to groom future generation of artists and creative professionals. The Arts curriculum and development works in tandem with our Learn for Life Programme (LLP). 
 
-The role of arts education is central in developing in our pupils a lively curiosity and an inquisitive mind. This is essential as it promotes inventive thinking and an innovative disposition in what they do.
+Click here to discover more about our LLP.
 
-Arts education is also the gateway to our pupils’ sense of aesthetics, which is the basis of how they perceive the world at large and all that is around them. Such a perspective helps them make meaning of their lives, culture and identity.
+**Key Programmes:**
+* Arts Jam 
+* Jukebox
+* English and Aesthetics Week
+* Digital Art and Music Programme
+* Integrated Museum Based Education
+* Singing Programme
