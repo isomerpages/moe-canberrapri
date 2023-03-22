@@ -21,4 +21,4 @@ This platform allows our pupils’ learning to culminate into a production and p
 
 **•	Canberra Young Artist’s Academy**
 
-The academy aims to further develop and deepen pupils’ diverse innate talents and abilities in the Arts. The school introduces these platforms to engage our Arts enthusiasts: Sing Canberra, Canberra’s Got Talent, The Little Composer and The Visual Arts Ambassadors. These platforms strengthen our pupils’ confidence and promote self-directed learning. 
+The academy aims to further develop and deepen pupils’ diverse innate talents and abilities in the Arts. The school introduces these platforms to engage our Arts enthusiasts: Sing Canberra, Canberra’s Got Talent, The Little Composer and The Visual Arts Ambassadors. These platforms strengthen our pupils’ confidence and promote self-directed learning.
