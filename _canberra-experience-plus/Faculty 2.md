@@ -21,5 +21,3 @@ With the unique and meaningful learning adventures in Faculty 2, we provide a ba
 ![](/images/fac%202%20a.png)
 ![](/images/fac%202%20b.png)
 ![](/images/fac%202%20c.png)
-
-
