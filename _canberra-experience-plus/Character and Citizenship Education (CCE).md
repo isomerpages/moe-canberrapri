@@ -17,3 +17,4 @@ In school, CCE is enacted with intentionality, through CCE Lessons during curric
 
 We strive to build a caring and enabling school environment that is characterised by caring and responsible leadership, a pervasive growth mindset, emotional and physical safety, and a focus on learning and development of students. CCE provides the knowledge and skills to help our students make sense of their life experiences and the language to express their learning and development.
 
+![](/images/cce%20(5).png)
