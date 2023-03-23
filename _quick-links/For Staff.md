@@ -18,15 +18,7 @@ description: ""
 * [School Cockpit Mobile](https://scmobile.moe.edu.sg/login)
 
 **In-house Request and Service**
-
-**(Scan or click on the link)**
-
-[ICT Request](https://docs.google.com/forms/d/1tqihx_bx--Ar0z3Uf47f796aUMkFZik0dwbAdCdk-UM/viewform?edit_requested=true&fbzx=1118123659845629859)
-<img src="/images/ICT%20Request.png" 
-     style="width:50%">
-
+<br/>
+[ICT Request](https://docs.google.com/forms/d/1tqihx_bx--Ar0z3Uf47f796aUMkFZik0dwbAdCdk-UM/viewform?edit_requested=true)
+<br/>
 [AV Request](https://docs.google.com/forms/d/14yUQoP53PO1l3zqgkrxMlQ0z4a9u5O8nKVaTWCoarpc/viewform?edit_requested=true)
-
-<img src="/images/AV%20Request.png" 
-     style="width:50%">
-
