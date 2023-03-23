@@ -32,3 +32,10 @@ Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 * Bridge pupils’ continual learning into secondary school
 
 ![](/images/ALP%20(1).png)
+
+ALP Key Programmes:
+* Coding with ScratchJr, Micro:Bits, Sphero
+* Mobile App Development
+* Digital Story Creation with CoSpaces
+* 3D Design and Printing
+* Digital Flipbook Animation
