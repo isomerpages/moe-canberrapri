@@ -4,7 +4,6 @@ permalink: /our-ccas/Clubs-n-Societies/digital-artisans/
 description: ""
 third_nav_title: CCA
 ---
-         
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:100.9pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="135"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Teachers In-Charge</span></p></td><td style="width:366.6pt;border:solid windowtext 1.0pt;
@@ -45,3 +44,5 @@ third_nav_title: CCA
   line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Computer Lab 3 (P5)</span></p></td></tr></tbody></table>
 	
 Previously known as the Robotics Club, the Digital Artisans Club adopts a broader curriculum that includes games and digital stories creation with Scratch (Primary 3) and CoSpaces (Primary 4). The Primary 5 and Primary 6 pupils will be exposed to elements of Artificial Intelligence and Robotics. We believe that Digital Artisans Club allows students to develop their interest and skills in coding, programming, robotics, while also promoting teamwork and leadership skills.
+
+![]()
