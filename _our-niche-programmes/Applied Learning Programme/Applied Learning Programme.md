@@ -25,5 +25,9 @@ Foundation Stage: Start Young Start It Right – Curating My Learning
 
 ![](/images/Picture8.jpg)
 
+Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
+* Continue pupils’ technology-enabled applied learning journey with production-centered learning and by leveraging digital media and communication elements to engage and influence
+* Broaden opportunities for pupils to discover their interests and talents, develop life skills, a sense of curiosity and a love for learning
+* Bridge pupils’ continual learning into secondary school
 
-
+![](/images/ALP%20(1).png)
