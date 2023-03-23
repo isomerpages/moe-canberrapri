@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Applied Learning Programme
 ---
 The Applied Learning Programme was introduced by MOE to expose students to learning by doing, and learning in real-world scenarios. In Canberra Primary School, our ALP (ICT & Media) aims to develop Canberrians to be future-ready and responsible digital learners by evoking curiosity in learning, developing inventive thinking and encouraging a dare-to-try spirit. Students would be able to appreciate the relevance and value of what they are learning in the academic area and develop stronger motivation and purpose to acquire knowledge and skills. Pupils will also be able to engage in hands-on, experiential learning to situate, acquire and apply their learning in real-world contexts. It comprises of two stages:
-•	Foundation Stage: Start Young Start It Right - Curating My Learning 
-•	Orientation Stage: Orientation to My Future Learning - Ready for Tomorrow
+
+* Foundation Stage: Start Young Start It Right - Curating My Learning 
+* Orientation Stage: Orientation to My Future Learning - Ready for Tomorrow
 
 
 *ALP (ICT & Media) Journey*
