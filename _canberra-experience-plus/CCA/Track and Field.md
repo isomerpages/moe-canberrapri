@@ -34,3 +34,7 @@ Canberra Primary School’s Track &amp; Field CCA aspires to be a platform for o
 Pupils develop athletic prowess and values such as teamwork, responsibility and leadership through intensive training sessions and sports events. With that, we hope that all members of the CCA, affectionately called the Thunderbirds, will continue applying relevant skills that they have learnt in pursuit of excellence.
 
 Our pupils take part in the yearly NSG Competitions.
+
+![](/images/tracknfield(2).png)
+
+![](/images/track%20and%20field(1).jpg)
