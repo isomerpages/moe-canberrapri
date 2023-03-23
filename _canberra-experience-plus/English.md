@@ -22,3 +22,9 @@ With the implementation of STELLAR (Strategies of English Language Learning and 
 * School Dyslexic Remediation Programme (SDR)
 * Reading Remediation Programme (RRP)
 
+![](/images/English%201.png)
+**Reading Programme - Morning Reads**
+
+![](/images/English%202.png)
+**English & Aesthetic Week – Storybook Character Day 
+ Teachers and Pupils in Action!**
