@@ -4,40 +4,51 @@ permalink: /our-ccas/Aesthetics/concert-band/
 description: ""
 third_nav_title: CCA
 ---
+       
 
+<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:139.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Teachers In-Charge</span></p></td><td style="width:328.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Comic Sans MS&quot;;mso-ansi-language:EN-SG" lang="EN-SG">Miss Siti Maisarah</span><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;"></span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Comic Sans MS&quot;;mso-ansi-language:EN-SG" lang="EN-SG">Mdm Yvonne Khoe</span><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;"></span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Comic Sans MS&quot;;mso-ansi-language:EN-SG" lang="EN-SG">Mrs Sam Huijun</span><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;"></span></p><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:
+  &quot;Comic Sans MS&quot;;mso-ansi-language:EN-SG" lang="EN-SG">Mdm Kuek Hwee San</span><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;"></span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">CCA Day/s</span></p></td><td style="width:328.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:8.0pt;text-align:center;
+  line-height:107%" align="center" class="MsoNormal"><span style="font-family:&quot;Comic Sans MS&quot;">Mondays and Wednesdays</span><span style="font-size:12.0pt;line-height:107%;font-family:
+  &quot;Comic Sans MS&quot;"></span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Time</span></p></td><td style="width:328.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">2.30 p.m. to 5.30 p.m.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:139.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Venue</span></p></td><td style="width:328.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Band Studio (Level 6)</span></p></td></tr></tbody></table>
+	
+Since its formation in 2010, the CPS Concert Band had been involved in various school performances such as the school Musicals, Open House, National Day Observance Ceremony and Mid-Autumn Festival. In addition to performing in concert settings, the band is also capable of moving in formations while playing their musical instruments. 
 
-![](/images/Band%2001.jpg)
-![](/images/Band%2002.jpg)
-![](/images/Band%2003.jpg)
-![](/images/Band%2004.jpg)
+The Band Studio, which was officially opened on 22 May 2015, provides a conducive environment for the young musicians to develop their love for music and discover their talents within. Our instructor has passionately inculcated in students the love for music and the values to build confidence and develop leadership skills. 
 
-**SYF SHOW BAND FESTIVAL - BAND JAMBOREE**
-![](/images/Band%20Jamboree%2001.jpg)
-![](/images/Band%20Jamboree%2002.jpg)
+Together with our nurturing teachers, we welcome all students to join us. No prior music background is required. All that is needed is the love for music and the perseverance to learn a new instrument.
 
-**Recollections of 2018 - 2019**
+![](/images/band%201.jpg)
 
-The band regularly performs at school celebrations and events. The performed music pieces and titles are carefully selected by the teachers and instructors for every event.
+![](/images/Band%202.jpg)
 
-One memorable event was the 2018 and 2019 Mid-Autumn Festival where the band played under the dim moonlight. Our first piece was an evergreen classic sung by Theresa Deng, 月亮代表我的心. It was followed by 城里的月光, sung by local artist 许美静, Mavis Hee, a theme song from a drama in the mid-90s. The music evoked memories and touched the hearts of the audience, with the band receiving a standing ovation at the end of the performance. We would also like to express our thanks to Mr Pisit, our Assistant Band instructor for arranging the composition at our musicianship level.
+![](/images/Band%203.png)
 
-This year 2019, the band played for Chinese New Year Celebrations for the first time. In a short span of time with only 3 practice sessions, the band learnt and performed two songs, 恭喜恭喜 (Translated Gong Xi Gong Xi) and 大地回春 (Translated Spring returns to earth).
-
-![](/images/mid%20Autumn%201%20edited.jpg)
-
-**SINGAPORE YOUTH FESTIVAL 2016 ARTS PRESENTATION FOR BAND**
-
-![](/images/17%20May%2016_SYF.png)
-
-**PARADE OF BANDS 2016**
-![](/images/Parade%20of%20Bands%202016_amended%20040417.png)
-
-**'A VISIT FROM MR JAMES SWEARINGEN'**
-![](/images/A%20Visit%20from%20Mr%20James%20Swearingen_31%20Mar%2016-1.png)
-
-**LEARNING JOURNEY TO THE SYF DISPLAY BAND COMPETITION**
-
-![](/images/17%20May%2016_Learning%20Journey%20to%20the%20SYF%20Display%20Band%20Competition.png)
-
-**Reflections of 2015**
-![](/images/9Feb16_CCA%20Band_Reflections%20of%202015_amended.png)
+![](/images/Band%204.png)
