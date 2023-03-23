@@ -43,3 +43,5 @@ This ibook aims to describe CPS continuing journey in 1:1 learning and its conti
 This ibook aims to describe CPS efforts in sustaining an innovative teaching and learning environment.
 
 ![](/images/ADS%20Logo.png)
+
+<img src="/images/ADS%20Logo.png" style="width:40%"     align="left">
