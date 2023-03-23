@@ -4,8 +4,6 @@ permalink: /our-ccas/Clubs-n-Societies/media-club/
 description: ""
 third_nav_title: CCA
 ---
-
-
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:139.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><b><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Teachers In-Charge</span></b></p></td><td style="width:328.25pt;border:solid windowtext 1.0pt;
@@ -37,3 +35,4 @@ In Semester 1, students will be learning and applying Photography skills. They w
 
 In Semester 2, the students will be learning videography skills and use of the green screen. They will also be taught on how to edit their video for showcases. Media Club members will also be given opportunities to be student photographers during school events and encouraged to participate in the national competition
 
+![](/images/mediaclub(1).jpeg)
