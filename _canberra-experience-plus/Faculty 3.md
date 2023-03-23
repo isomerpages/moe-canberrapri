@@ -12,4 +12,54 @@ In Faculty 3, students experience the Graduation process with the focus on “Ca
 
 In order for students to thrive in future, students need to possess the spirit of inquiry, the desire to create new knowledge and value, the ability to discover, discern and distil. Therefore, we have purposefully designed various programmes to engage, nurture and empower students by igniting the joy of learning and enabling them to learn for life.
 
+**Department Key Programmes:**
+* P5 Motivational Workshop 
+* P5 Global Sustainable Development Programme
+* P5 Outdoor Learning Experience
+* P5 National Education (NE) Show
+* P5 and P6 Museum-based Learning Journeys
+* P6 Graduation Programme (after PSLE)
+
+P5 Motivational Workshop
+
+P5 Global Sustainable Development Programme
+
+
+ 
+P5 Outdoor Learning Experience
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+P6 Graduation Programme (Code for Fun)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P6 Level Bonding Activity during Booster Class in June Holiday	
 
