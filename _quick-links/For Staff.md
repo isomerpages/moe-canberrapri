@@ -4,17 +4,16 @@ permalink: /quick-links/for-staff/
 description: ""
 ---
 # For Staff
-
-* [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
-* [iExams](https://iexams.moe.gov.sg/xe/login.do)
-* [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
+* [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
+* [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.asp)
 * [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
-* [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
+* [iCON 2.0](icon.moe.edu.sg)
+* [iExams](https://iexams.moe.gov.sg/xe/login.do)
+* [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
+* [OPAL 2.0](https://idm.opal2.moe.edu.sg)
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Resource Booking Service(RBS)](https://rbs.avero-tech.com/login.html)
-* [iCON 2.0](icon.moe.edu.sg)
-* [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
-* [OPAL 2.0](https://idm.opal2.moe.edu.sg)
+* [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 * [School Cockpit Mobile](https://scmobile.moe.edu.sg/login)
 
 **In-house Request and Service**
