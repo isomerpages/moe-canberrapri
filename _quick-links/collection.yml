@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - For Pupils.md
-      - For Staff.md
       - For Parents/.keep
       - For Parents/MOE FAS.md
       - For Parents/Student Learning Space (SLS).md
@@ -12,3 +11,4 @@ collections:
       - For Parents/Home Based Learning.md
       - For Parents/Recommended E Books Links.md
       - For Parents/SERR (School E Resource Repository).md
+      - For Staff.md
