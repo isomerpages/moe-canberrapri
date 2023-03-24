@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/School Attire.md
       - About Us/School Hours.md
       - School History.md
       - School Leaders' Message 2023.md
