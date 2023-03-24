@@ -2,10 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Faculty/.keep
-      - Faculty/Faculty 1.md
-      - Faculty/Faculty 2.md
-      - Faculty/Faculty 3.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -18,6 +14,10 @@ collections:
       - Character and Citizenship Education (CCE).md
       - Information Communication & Technology (ICT).md
       - Physical Education.md
+      - Faculty/.keep
+      - Faculty/Faculty 1.md
+      - Faculty/Faculty 2.md
+      - Faculty/Faculty 3.md
       - CCA/.keep
       - CCA/Art Club.md
       - CCA/Badminton.md
