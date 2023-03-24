@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our School Information/.keep
-      - Our History.md
       - Our School Leaders' Message.md
       - Our School Logo.md
       - Our Vision, Mission & Values.md
