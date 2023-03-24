@@ -8,8 +8,4 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       background: /images/Canberraprimary.gif
-  - infobar:
-      title: Quick Links
-      description: Infobar description
-      button: Button Text
 ---
