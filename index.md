@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: Canberra Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -9,4 +9,5 @@ sections:
   - hero:
       background: /images/Canberraprimary.gif
 ---
+
 
