@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - Our School Information/Our School Hours.md
-      - Our School Information/Our School Song.md
-      - Our School Information/Our Vision, Mission & Values.md
-      - Our School Information/Our School Logo.md
-      - Our School Information/Our History.md
       - Our School Information/.keep
+      - Our School Information/Our History.md
+      - Our School Information/Our School Logo.md
+      - Our School Information/Our Vision, Mission & Values.md
+      - Our School Information/Our School Song.md
+      - Our School Information/Our School Hours.md
       - Our School Leaders' Message.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
