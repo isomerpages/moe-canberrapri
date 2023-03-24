@@ -3,9 +3,6 @@ title: Our School Logo
 permalink: /our-school/about-us/school-logo/
 description: ""
 ---
-
-
-
 <img src="/images/cps-logo1.jpg" 
      style="width:50%">
 This logo depicts the school as a modern outfit, forward looking in nature and bold in outlook. The 3 stylised calligraphic strokes depict the letter "C", "P" and "S", which are also the initials of the school. The blue background denotes the sea of diversity.
