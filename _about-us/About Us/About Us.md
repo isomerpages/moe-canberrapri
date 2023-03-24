@@ -4,7 +4,6 @@ permalink: /our-school/About-Us/
 description: ""
 third_nav_title: About Us
 ---
-# About Us 
 Canberra Primary School was established in January 2000.
 
 The school initially functioned at Wellington Primary School, and moved into its new premises at 21 Admiralty Drive in November 2000. It caters to the educational needs of pupil population in the new Sembawang Estate. Currently, the school has an Enrollment of 1380 pupils and functions as a single session.
