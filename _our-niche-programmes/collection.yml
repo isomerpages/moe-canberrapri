@@ -2,5 +2,6 @@ collections:
   our-niche-programmes:
     output: true
     order:
+      - Applied Learning Programme.md
       - Applied Learning Programme/.keep
       - Learn For Life.md
