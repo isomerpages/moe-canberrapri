@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School History.md
       - About Us/.keep
       - About Us/Vision, Mission and Values.md
       - About Us/Strategic Thrusts.md
@@ -11,6 +10,7 @@ collections:
       - About Us/School Rules.md
       - About Us/School Attire.md
       - About Us/School Hours.md
+      - School History.md
       - School Leaders' Message 2023.md
       - Our Staff/.keep
       - Our Staff/School Leaders.md
