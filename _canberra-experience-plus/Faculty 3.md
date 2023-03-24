@@ -20,46 +20,13 @@ In order for students to thrive in future, students need to possess the spirit o
 * P5 and P6 Museum-based Learning Journeys
 * P6 Graduation Programme (after PSLE)
 
+![](/images/P5%20Motivational%20Workshop.jpg)
 P5 Motivational Workshop
-
+![](/images/P5%20Global%20Sustainable%20Development%20Programme.jpg)
 P5 Global Sustainable Development Programme
-
-
- 
+![](/images/P5%20Outdoor%20Learning%20Experience%20(JPEG).jpeg) 
 P5 Outdoor Learning Experience
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/images/P6%20Code%20for%20Fun.jpg)
 P6 Graduation Programme (Code for Fun)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-P6 Level Bonding Activity during Booster Class in June Holiday	
-
+![](/images/P6%20Level%20Bonding%20Activity.jpeg)
+P6 Level Bonding Activity during Booster Class in June Holiday
