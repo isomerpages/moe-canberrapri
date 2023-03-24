@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/About Us.md
+      - About Us/School History.md
       - About Us/Vision, Mission and Values.md
       - About Us/Strategic Thrusts.md
       - About Us/School Logo.md
