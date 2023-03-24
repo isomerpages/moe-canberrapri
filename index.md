@@ -14,5 +14,5 @@ sections:
           url: ""
         - title: Quick Links
           description: Click here for Quick Links
-          url: ""
+          url: https://cms.isomer.gov.sg/sites/moe-canberrapri/folders/quick-links
 ---
