@@ -3,6 +3,7 @@ title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
 ---
+**Online Portals**
 * [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
 * [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.asp)
 * [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
