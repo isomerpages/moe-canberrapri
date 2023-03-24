@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Vision, Mission and Values.md
       - School History.md
+      - Vision, Mission and Values.md
       - School Leaders' Message.md
       - School Hours.md
       - Our Staff/.keep
