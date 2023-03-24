@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Applied Learning Programme/.keep
-      - Applied Learning Programme/Applied Learning Programme.md
       - Learn For Life.md
