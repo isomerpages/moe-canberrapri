@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - MITT 2023.md
       - AGAB 2023 AND MITT 2023.md
