@@ -88,20 +88,20 @@ Canberra Primary staff take ownership and leadership in sharing the PLT and depa
 </table>
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
-.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#409cff;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ru17{font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;top:-1px;vertical-align:top;
-  will-change:transform}
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8kaz{background-color:#5b9bd5;color:#ffffff;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;
+  top:-1px;vertical-align:top;will-change:transform}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ru17">&nbsp;&nbsp;&nbsp;<br>Name of Staff&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-ru17">&nbsp;&nbsp;&nbsp;<br>Award&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-8kaz">   <br>Name of Staff   </th>
+    <th class="tg-8kaz">   <br>Award   </th>
   </tr>
 </thead>
 <tbody>
