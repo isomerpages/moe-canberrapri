@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School History.md
       - About Us/.keep
       - About Us/Vision, Mission and Values.md
       - About Us/Strategic Thrusts.md
