@@ -34,6 +34,7 @@ The school's Choir was set up in 2000. Under the care of our teachers-in-charge 
 During practice sessions throughout the year, our members go through specialised vocal training conducted by qualified instructors using a wide range of song repertoire including both local and global works. Music concepts such as pitch, harmony, expression and rhythm are taught through choral singing and accompanying fun activities.
 
 ![](/images/choir%201.jpg)
+<img src="/images/choir%201.jpg" Style Width=30%>
 
 ![](/images/choir%202.jpg)
 
