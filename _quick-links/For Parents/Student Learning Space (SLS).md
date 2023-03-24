@@ -4,7 +4,6 @@ permalink: /quick-links/student-learning-space-sls/
 description: ""
 third_nav_title: For Parents
 ---
-
 Click the image below to go to Student Learning Space
 
 <html>
@@ -43,4 +42,3 @@ Closed on Sundays & Public Holidays
 1. [Getting Started with Singapore Student Learning Space (SLS)- Primary 1 Onboarding Annex A & Annex B](/files/Annexes%20to%20Letter%20to%20Parents.pdf)
 
 2. [Guide to SLS Account Management: Self-help  For Password Reset](/files/SLS%20Account%20Management%20-Students.pdf)
-
