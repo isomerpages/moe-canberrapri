@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Hours.md
       - School History.md
       - School Leaders' Message.md
       - Our Staff/.keep
