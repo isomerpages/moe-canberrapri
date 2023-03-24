@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About Us/.keep
       - School History.md
       - School Leaders' Message 2023.md
       - Our Staff/.keep
