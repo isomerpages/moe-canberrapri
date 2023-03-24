@@ -1,10 +1,10 @@
 ---
 title: Terms of Use
-permalink: /our-school/Useful-Information/terms-of-use
+permalink: /our-school/Useful-Information/terms-of-use/
 description: ""
 third_nav_title: Useful Information
 ---
-# Terms of Use
+
 Thank you for visiting the Canberra Primary School website.
 
 
