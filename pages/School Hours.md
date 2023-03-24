@@ -4,7 +4,6 @@ permalink: /our-school/About-Us/school-hours/
 description: ""
 ---
 
-# School Hours
 
 **Morning Session (AM)**
 
@@ -30,7 +29,7 @@ description: ""
   <tr>
     <td class="tg-9hzb"> <br> <br> <br> <br> <br>Monday to Friday</td>
     <td class="tg-4ufn"> <br> <br> <br> <br> <br><span style="color:#222">7.45 am to 1.30 pm</span></td>
-    <td class="tg-l2bf"><span style="color:#222">Primary 2 and Primary 3</span><br><span style="color:#222">(Responsibility and Self-Discipline Level) </span><br><span style="color:#222">9.00 am to 9.30 am </span> <br><br>Primary 5 and Primary 6 <br><span style="color:#222">(Innovation and Excellence Level) </span><br><span style="color:#222">9.30 am to 10.00 am </span><br><br>Primary 1 and Primary 4 <br><span style="color:#222">(Care and Teamwork Level) </span><br><span style="color:#222">10.00 am to 10.30 am</span></td>
+    <td class="tg-l2bf"><span style="color:#222">Primary 1 and Primary 4</span><br><span style="color:#222">(Care and Responsibility Level) </span><br><span style="color:#222">9.00 am to 9.30 am </span> <br><br>Primary 3 and Primary 6 <br><span style="color:#222">(Self-Discipline and Excellence Level) </span><br><span style="color:#222">9.30 am to 10.00 am </span><br><br>Primary 2 and Primary 5 <br><span style="color:#222">(Responsibility and Innovation Level) </span><br><span style="color:#222">10.00 am to 10.30 am</span></td>
   </tr>
 </tbody>
 </table>
