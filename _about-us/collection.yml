@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us/.keep
-      - About Us/School Logo.md
       - About Us/School Song.md
       - About Us/School Rules.md
       - About Us/School Attire.md
