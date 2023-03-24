@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/Canberraprimary.gif
+      key_highlights:
+        - title: Announcements
+          description: Click here for announcements
+          url: ""
+        - title: Quick Links
+          description: Click here for Quick Links
+          url: ""
 ---
-
-
