@@ -3,8 +3,6 @@ title: School Attire
 permalink: /our-school/About-Us/school-attire/
 description: ""
 ---
-
-# School Attire
 **1. The School Uniform**
 * Pupils are to wear the appropriate school uniform and modification to the uniform is not allowed.
 * All pupils are required to be in full uniform at all times in school premises or at school-organised functions. The school badge must be displayed on the top left pocket of the shirt/pinafore.
