@@ -107,9 +107,9 @@ third_nav_title: Our Staff
   <tr>
     <td class="tg-0lax">ASSISTANT YEAR HEAD (FACULTY 3)</td>
     <td class="tg-0lax">MS NURHUDA BINTE ARSAD</td>
-  </tr>
+		</tr>
   <tr>
-    <td class="tg-y0nj" colspan="2">TEACHER LEADERS</td>
+		    <td class="tg-y0nj" colspan="2">TEACHER LEADERS</td>
   </tr>
   <tr>
     <td class="tg-0lax">LT SCIENCE</td>
