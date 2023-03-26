@@ -4,7 +4,7 @@ permalink: /quick-links/school-library/
 description: ""
 third_nav_title: For Parents
 ---
-The school library plays a pivotal role in supporting the school’s needs and enhancing the learning environment to encourage pupils to become lifelong learners. Diving into the books and taking part in the various school library activities, the pupils are provided with opportunities to discover a wealth of knowledge, allowing them to be connected to the world and be inspired by it. The school library aims to <br>
+The school library plays a pivotal role in supporting the school’s needs and enhancing the learning environment to encourage pupils to become lifelong learners. Diving into the books and taking part in the various school library activities, pupils are provided with opportunities to discover a wealth of knowledge, allowing them to be connected to the world and be inspired by it. The school library aims to <br>
 * inculcate good reading habits and drive a whole-school approach to building a vibrant reading culture across subject areas<br>
 * nurture 21st century competencies and enhance pupils’ development in information and digital literacy skills<br>
 
