@@ -1,10 +1,9 @@
 ---
 title: Privacy Policy
-permalink: /our-school/Useful-Information/privacy-policy
+permalink: /our-school/Useful-Information/privacy-policy/
 description: ""
 third_nav_title: Useful Information
 ---
-# Privacy Policy
 **Restrictions on Use of Materials**
 
 
