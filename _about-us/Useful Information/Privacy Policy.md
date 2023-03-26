@@ -6,7 +6,7 @@ third_nav_title: Useful Information
 ---
 **Restrictions on Use of Materials**
 
-1. To view Canberra Primary School’s Web Site Privacy Statement, please click [here](https://canberrapri.moe.edu.sg/privacy-statement/)](https://canberrapri.moe.edu.sg/privacy-statement/).
+1. To view Canberra Primary School’s Web Site Privacy Statement, please click [here](https://canberrapri.moe.edu.sg/privacy-statement/).
 
 2. Except as otherwise provided, the Contents of this Web Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of Canberra Primary School. To use any parts of the contents of this Site, the user must seek permission in writing, stating the contents for use; intent of use; manner of use; time frame of use and identity of the user. Ministry of Education (MOE) reserves the right to refuse permission without declaring reason(s); and/or if information submitted by user is deemed insufficient.
 
