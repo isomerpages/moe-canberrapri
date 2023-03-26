@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our School Information
 ---
 **Verse 1**<br>
-We all love to be in Canberra Primary,<br>
+We all love to be in Canberra Primary,<br> 
 Where there's love and care for everyone.<br>
 On our part we'll be the best we can,<br>
 And bring honour to our dear school.<br>
