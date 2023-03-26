@@ -6,7 +6,7 @@ third_nav_title: For Parents
 ---
 Student Learning Space (SLS) is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level. For more information on SLS, please click [here](https://www.moe.gov.sg/education-in-sg/student-learning-space).<br>
 
-**For Guide on Getting Started with SLS, please click here.**<br>
+**For Guide on Getting Started with SLS, please click [here]().**<br>
 
 **For Technical Support During School Operating Hours**<br>
 School-based Helpline: 6759 7433 <br>
