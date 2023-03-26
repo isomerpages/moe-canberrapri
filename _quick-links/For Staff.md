@@ -15,6 +15,7 @@ description: ""
 * [Resource Booking Service(RBS)](https://rbs.avero-tech.com/login.html)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 * [School Cockpit Mobile](https://scmobile.moe.edu.sg/login)
+* [SERR](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 **In-house Request and Service**
 <br/>
