@@ -4,11 +4,6 @@ permalink: /our-school/about-us/school-hours/
 description: ""
 third_nav_title: Our School Information
 ---
-
-
-
-
-
 **Morning Session (AM)**
 
 <style type="text/css">
@@ -40,4 +35,4 @@ third_nav_title: Our School Information
 
 Pupils are required to report to school by 7.30 a.m. to participate in the pre-assembly activities. 
 
-Pupils will be given a short break (Munch Time) of about 10 minutes in class at around 12.00 noon to have some light snacks from Mondays to Fridays.
+Pupils will be given a short break (Munch Time) of about 10 minutes in class at around 12 noon to have some light snacks from Mondays to Fridays.
