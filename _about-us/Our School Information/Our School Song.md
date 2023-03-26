@@ -4,10 +4,6 @@ permalink: /our-school/about-us/school-song/
 description: ""
 third_nav_title: Our School Information
 ---
-
-
-
-# School Song
 **Verse**
 
 We all love to be in Canberra Primary<br>
