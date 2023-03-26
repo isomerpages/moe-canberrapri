@@ -4,9 +4,6 @@ permalink: /quick-links/home-based-learning/
 description: ""
 third_nav_title: For Parents
 ---
-
-
-# Home-Based Learning
 In Canberra Primary School, to ensure continuity of learning, HBL can take in the form of
 
 *  **e-Learning**: comprises of a range of online activities on different e-learning platforms
@@ -216,4 +213,3 @@ During synchronous sessions, your child/ward should observe the following etique
  
 
 As other students can see and hear what is happening in the background during the synchronous sessions, please take additional care when walking past your child/ward. Family members are also encouraged to adhere to the etiquette mentioned above.
-
