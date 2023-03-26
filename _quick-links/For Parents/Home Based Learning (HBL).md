@@ -72,17 +72,17 @@ If you need to loan a learning device for your child for HBL, please send in you
 
 IMDA has set up the Neu PC Plus Programme and Home Access Programme to offer families on financial assistance the opportunity to own a computer and internet access at an affordable price. For eligible families, you may download the application form from the [IMDA Website](https://www.imda.gov.sg/programme-listing/neu-pc-plus) and submit the form, along with supporting documents, to the school.  
  
-Synchronous Sessions
+**Synchronous Sessions**<br>
 At times, your child/ward's teachers may be conducting synchronous lessons or interaction sessions. The teachers will specify the details via SLS. Please note that the synchronous sessions may be recorded to support others who are unable to join in at the specified time. Please assist your child/ward with setting up the required applications (e.g. Zoom) to allow the use of a microphone and camera.
  
 During synchronous sessions, your child/ward should observe the following etiquette:
-•	Be ready 5 minutes before the specified time
-•	Be dressed appropriately 
-•	Hair should be neat 
-•	Clear background with no distracting items such as posters
-•	Face should be clearly seen, not covered
-•	Mute the microphone unless he/she needs to speak
-•	Avoid chatting with others in the background
-•	Avoid eating on screen
- 
+* Be ready 5 minutes before the specified time
+* Be dressed appropriately 
+* Hair should be neat 
+* Clear background with no distracting items such as posters
+* Face should be clearly seen, not covered
+* Mute the microphone unless he/she needs to speak
+* Avoid chatting with others in the background
+* Avoid eating on screen<br>
+
 As other pupils can see and hear what is happening in the background during the synchronous sessions, please take additional care when walking past your child/ward. Family members are also encouraged to adhere to the etiquette mentioned above.
