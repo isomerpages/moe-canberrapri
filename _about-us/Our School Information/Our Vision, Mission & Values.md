@@ -4,17 +4,12 @@ permalink: /our-school/about-us/vision-mission-values/
 description: ""
 third_nav_title: Our School Information
 ---
-
-
-
-
-
-# Vision, Mission and Values
 **School Vision**<br>
 A Leading Learning Organisation that Inspires And Is Valued Globally
 
 **School Mission**<br>
 To Provide Quality Holistic Education which Fosters Lifelong Learning in the Pursuit of Excellence
 
-**School Values**
+**School Values**<br>
+
 ![](/images/values.jpg)
