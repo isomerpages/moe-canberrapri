@@ -16,7 +16,7 @@ third_nav_title: Our Staff
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-y0nj" colspan="2">KEY PERSONNEL</th>
+    <th class="tg-y0nj" colspan="2">HEADS OF DEPARTMENT</th>
   </tr>
 </thead>
 <tbody>
@@ -56,19 +56,13 @@ third_nav_title: Our Staff
     <td class="tg-0lax">HOD SCIENCE</td>
     <td class="tg-0lax">MDM NOORAZURA BINTE AHMAT</td>
   </tr>
-  <tr>
-    <td class="tg-0lax">YEAR HEAD (FACULTY 1)</td>
-    <td class="tg-0lax">MRS KOMATHI SURESH</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">YEAR HEAD (FACULTY 3)</td>
-    <td class="tg-0lax">MS CHOI POH QUIN SAM</td>
+  <tr>      
+	<th class="tg-y0nj" colspan="2">LEVEL HEADS / SUBJECT HEADS</th>
   </tr>
   <tr>
     <td class="tg-0lax">LH CCE</td>
-    <td class="tg-0lax">MS SIN HUI ZHENG KAREN</td>
+		<td class="tg-0lax">MS SIN HUI ZHENG KAREN</td>
   </tr>
-  <tr>
     <td class="tg-0lax">LH ENGLISH</td>
     <td class="tg-0lax">MS LEE PEILIN FIONA</td>
   </tr>
@@ -92,7 +86,18 @@ third_nav_title: Our Staff
     <td class="tg-0lax">SH PE &amp; CCA</td>
     <td class="tg-0lax">MR MOHAMMAD FARID WAHYUNI</td>
   </tr>
+  <tr>      
+	<th class="tg-y0nj" colspan="2">YEAR HEADS / ASSISTANT YEAR HEADS</th>	
+  </tr>
   <tr>
+      <td class="tg-0lax">YEAR HEAD (FACULTY 1)</td>
+    <td class="tg-0lax">MRS KOMATHI SURESH</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">YEAR HEAD (FACULTY 3)</td>
+    <td class="tg-0lax">MS CHOI POH QUIN SAM</td>
+  </tr>
+  <tr> 
     <td class="tg-0lax">ASSISTANT YEAR HEAD (FACULTY 1)</td>
     <td class="tg-0lax">MDM MARDIANA BTE MOHD AMIN</td>
   </tr>
@@ -109,7 +114,8 @@ third_nav_title: Our Staff
     <td class="tg-0lax">MS NURHUDA BINTE ARSAD</td>
 		</tr>
   <tr>
-		    <td class="tg-y0nj" colspan="2">TEACHER LEADERS</td>
+	<th class="tg-y0nj" colspan="2">TEACHER LEADERS</th>
+
   </tr>
   <tr>
     <td class="tg-0lax">LT SCIENCE</td>
