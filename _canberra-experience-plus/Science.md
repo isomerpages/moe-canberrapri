@@ -9,9 +9,6 @@ description: ""
 
 The Science Department programme aims to ignite the joy of learning through our Canberra Experience Plus with 3 Ins: Inspire, Inquire & Innovate. Inquiry-based learning is our key programme designed to expose pupils to real-world happenings, deepen their understanding through using the 6-step Scientific Method in solving Science problems and develop their scientific reasoning skills. Anchoring on core values at the heart of learning and the 3Ts -Trusting to Learn, Trusting My Learning and Trusting My Talent, each programme seeks to stimulate pupils’ curiosity and encourage them to embark on a journey of inquiry to discover new knowledge and make meaning in relation to their daily lives.
 
-Click here to find out more on Science Programmes @ 
-CPS
-
 **Department Key Programmes:**
 * Inquiry-Based Learning
 * Curriculum Integration – Sustainable Food for The Future
@@ -26,5 +23,3 @@ Monitoring the Growth of Our Pumpkin
 Inquiry Based Learning
 ![](/images/science%204.png)
  Learning Trail at Our Learning Oasis
-
-
