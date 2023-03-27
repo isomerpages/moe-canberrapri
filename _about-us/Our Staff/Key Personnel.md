@@ -65,7 +65,8 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">LH CCE</td>
-    <td class="tg-lboi">MS SIN HUI ZHENG&nbsp;&nbsp;&nbsp;KAREN</td>
+    <td class="tg-lboi">
+			MS&nbsp;SIN&nbsp;HUI&nbsp;ZHENG&nbsp;KAREN</td>
   </tr>
   <tr>
     <td class="tg-lboi">LH ENGLISH</td>
@@ -73,7 +74,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">LH ML</td>
-    <td class="tg-lboi">MDM NUR AZEAN BTE&nbsp;&nbsp;&nbsp;JUMAHAT</td>
+    <td class="tg-lboi">MDM NUR AZEAN BTE&nbsp;JUMAHAT</td>
   </tr>
   <tr>
     <td class="tg-lboi">LH MATHEMATICS</td>
@@ -85,11 +86,11 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">SH DISCIPLINE</td>
-    <td class="tg-lboi">MR VICKNESHSWAREN S/O&nbsp;&nbsp;&nbsp;KRISHNAN BALAN</td>
+    <td class="tg-lboi">MR VICKNESHSWAREN S/O&nbsp;KRISHNAN BALAN</td>
   </tr>
   <tr>
-    <td class="tg-lboi">SH PE &amp;&nbsp;&nbsp;&nbsp;CCA</td>
-    <td class="tg-lboi">MR MOHAMMAD FARID&nbsp;&nbsp;&nbsp;WAHYUNI</td>
+    <td class="tg-lboi">SH PE &amp;&nbsp;CCA</td>
+    <td class="tg-lboi">MR MOHAMMAD FARID&nbsp;WAHYUNI</td>
   </tr>
   <tr>
     <td class="tg-lboi"></td>
@@ -108,7 +109,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">ASSISTANT YEAR HEAD (FACULTY 1)</td>
-    <td class="tg-lboi">MDM MARDIANA BTE MOHD&nbsp;&nbsp;&nbsp;AMIN</td>
+    <td class="tg-lboi">MDM MARDIANA BTE MOHD&nbsp;AMIN</td>
   </tr>
   <tr>
     <td class="tg-lboi">ASSISTANT YEAR HEAD (FACULTY 2)</td>
@@ -116,11 +117,11 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">ASSISTANT YEAR HEAD (FACULTY 2)</td>
-    <td class="tg-lboi">MR MUHAMMAD HAIRI B&nbsp;&nbsp;&nbsp;MOHAMAD</td>
+    <td class="tg-lboi">MR MUHAMMAD HAIRI B&nbsp;MOHAMAD</td>
   </tr>
   <tr>
     <td class="tg-lboi">ASSISTANT YEAR HEAD (FACULTY 3)</td>
-    <td class="tg-lboi">MS NURHUDA BINTE&nbsp;&nbsp;&nbsp;ARSAD</td>
+    <td class="tg-lboi">MS NURHUDA BINTE&nbsp;ARSAD</td>
   </tr>
   <tr>
     <td class="tg-lboi"> </td>
@@ -131,15 +132,15 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">LT SCIENCE</td>
-    <td class="tg-lboi">MS&nbsp;&nbsp;&nbsp;CHIA SIEW CHIN</td>
+    <td class="tg-lboi">MS&nbspCHIA SIEW CHIN</td>
   </tr>
   <tr>
     <td class="tg-lboi">LT ENGLISH</td>
-    <td class="tg-lboi">MRS&nbsp;&nbsp;&nbsp;PHYLLIS WAN</td>
+    <td class="tg-lboi">MRS&nbsp;PHYLLIS WAN</td>
   </tr>
   <tr>
     <td class="tg-lboi">ST CCE</td>
-    <td class="tg-lboi">MR&nbsp;&nbsp;&nbsp;KASNI BIN KASIM</td>
+    <td class="tg-lboi">MR&nbsp;KASNI BIN KASIM</td>
   </tr>
   <tr>
     <td class="tg-lboi">ST CL</td>
@@ -155,7 +156,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">ST PE &amp; CCA</td>
-    <td class="tg-lboi">MR MOHAMED FAUZY BIN&nbsp;&nbsp;&nbsp;KASDI</td>
+    <td class="tg-lboi">MR MOHAMED FAUZY BIN&nbsp;KASDI</td>
   </tr>
   <tr>
     <td class="tg-lboi">ST SCIENCE</td>
@@ -163,7 +164,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">ST SCIENCE</td>
-    <td class="tg-lboi">MDM&nbsp;&nbsp;&nbsp;OH MEI LING</td>
+    <td class="tg-lboi">MDM&nbsp;OH MEI LING</td>
   </tr>
 </tbody>
 </table>
