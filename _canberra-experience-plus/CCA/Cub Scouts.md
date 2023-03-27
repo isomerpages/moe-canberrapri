@@ -42,7 +42,6 @@ In Semester 1, students embark on the Diamond Jubilee Challenge 2023. This yearâ
 
 In Semester 2, students will work towards attaining their Bronze and Silver Progress Badges. They will also participate in the 'Every Scout a Farmer' / Gardener Badge Project and learn basic gardening skills. We will also take part in our school parade for our National Day Celebrations!
 
-![](/images/Scout%201.jpg)
 
 ![](/images/scout%202.jpg)
 
