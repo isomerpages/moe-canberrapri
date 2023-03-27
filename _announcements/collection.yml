@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Distinguished CL Teachers Awards 2023.md
       - Parent Volunteer Scheme (2025 P1 Intake).md
       - MITT 2023.md
       - AGAB 2023.md
