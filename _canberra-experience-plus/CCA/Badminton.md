@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-apdk{background-color:#FFF;color:#484848;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-kwi2{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-b35l{background-color:#FFF;color:#323232;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-z3yx{background-color:#FFF;color:#484848;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Mrs Chong Shiyun, Miss Margareth Chen, Mr Hairi, <br>   <br>Mrs Yvonne Chong, Mrs Liow Pei Xian   </th>
+    <th class="tg-kwi2"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-b35l"><span style="font-weight:normal;color:#323232">Mrs Chong Shiyun</span><br><span style="font-weight:normal;color:#323232">Miss Margareth Chen</span><br><span style="font-weight:normal;color:#323232">Mr Hairi</span><br>Mrs Yvonne Chong<br>Mrs Liow Pei Xian<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Wednesdays&nbsp;&nbsp;&nbsp;and Fridays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">CCA Day/s   </span></td>
+    <td class="tg-apdk"><br>Wednesdays   and Fridays   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br><span style="font-weight:bold">School   Team</span><br>   <br>Wednesdays   3.30 p.m. – 5.30 p.m.<br>   <br>Fridays   3.30 p.m. – 4.30 p.m.<br>   <br>    <br><span style="font-weight:bold">Recreational   Group</span><br>   <br>Fridays   3.30 p.m. – 4.30 p.m. (P4 and P6)<br>   <br>Fridays   3.30 p.m. – 4.30 p.m. (P3 and P5)   </td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Time   </span></td>
+    <td class="tg-apdk"><span style="font-weight:bold;font-style:inherit">School Team</span><br>Wednesdays 3.30 p.m. – 5.30 p.m.<br><br>Fridays 3.30 p.m. – 4.30 p.m.<br><br><br><span style="font-weight:bold;font-style:inherit">Recreational Group</span><br><br>Fridays 3.30 p.m. – 4.30 p.m. (P4 and P6)<br><br>Fridays 3.30 p.m. – 4.30 p.m. (P3 and P5)<br></td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Hall&nbsp;&nbsp;&nbsp;(School Team ) and ISH (Recreational)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Venue   </span></td>
+    <td class="tg-apdk">   <br>Hall   (School Team ) and ISH (Recreational)   </td>
   </tr>
 </tbody>
 </table>
