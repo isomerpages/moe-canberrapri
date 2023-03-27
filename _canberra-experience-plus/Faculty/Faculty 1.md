@@ -4,7 +4,6 @@ permalink: /our-programmes/Faculty/faculty-one/care/
 description: ""
 third_nav_title: Faculty
 ---
-
 **Vision:** Every Canberrian an All- Rounded Student
 
 **Mission:** To bring out the best in every Canberrian through Canberra Experience Plus
@@ -17,7 +16,7 @@ To promote an inclusive learning environment, our teachers have put in place pro
 
 Beyond the classroom, students also take part in an array of learning experiences such as learning journeys and interest exposure programmes to cultivate natural curiosity, resilience, and unique talents in them. 
 
-![](/images/Faculty%201%20(3).png)
+![](/images/fac1.jpeg)
 
 These initiatives encourage a student-centric and all-rounded education that is infused with values by enriching the mind, engaging the heart and empowering the hands.
 
