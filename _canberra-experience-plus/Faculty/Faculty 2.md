@@ -4,7 +4,6 @@ permalink: /our-programmes/Faculty/faculty-two/self-discipline/
 description: ""
 third_nav_title: Faculty
 ---
-
 **Vision:** Every Canberrian an All-Rounded Student
 
 **Mission:** To bring out the best in every Canberrian through Canberra Experience Plus
