@@ -32,5 +32,12 @@ third_nav_title: CCA
 
 Basketball provides students with an opportunity to develop important values such as resilience, teamwork, determination, and excellence. Through regular practice and participation in trainings, matches and tournaments, students can improve their physical fitness, coordination, and strategic thinking abilities.
 
+![](/images/basketball%203.jpg)
+
 With the hard work and guidance from our nurturing basketball teachers and coaches, the senior girls' basketball team has shown remarkable success, achieving top 4 finishes in the 2023 North Zone Basketball Championship. This accomplishment is a testament to the dedication and hard work of the players, as well as the support of their coaches and teammates. By participating in basketball, these students not only develop their athletic abilities but also learn important life skills that will serve them well in the future.
 
+![](/images/basketball%204.jpg)
+
+![](/images/basketball%202.jpg)
+
+![](/images/basketball%201.jpg)
