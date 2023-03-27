@@ -47,10 +47,10 @@ The following provides an overview of the CCE programmes to inculcate values and
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="7">Citizenship</td>
-    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Commemoration of Total Defence Day</a></td>
+    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Commemoration of Total Defence Day</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;International Friendship Day Celebration</a></td>
+    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;International Friendship Day Celebration</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·         Racial&nbsp;&nbsp;&nbsp;Harmony Day Celebration</a></td>
