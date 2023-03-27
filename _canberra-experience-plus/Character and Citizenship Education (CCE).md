@@ -43,7 +43,7 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Cohort Leadership training</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Development of Prefects, CCA Leaders, Class&nbsp;&nbsp;&nbsp;Leaders and Peer Support Leaders </td>
+    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Development of Prefects, CCA Leaders, Class&nbsp;Leaders and Peer Support Leaders </td>
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="7">Citizenship</td>
@@ -53,13 +53,13 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;International Friendship Day Celebration</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Racial&nbsp;&nbsp;&nbsp;Harmony Day Celebration</td>
+    <td class="tg-0lax" colspan="3">·         &nbsp;&nbsp;&nbsp;Racial&nbsp;Harmony Day Celebration</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;National Day Celebration</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Primary 5&nbsp;&nbsp;&nbsp;National Education Show</td>
+    <td class="tg-0lax" colspan="3">·&nbsp;&nbsp;&nbsp;&nbsp;Primary 5&nbsp;National Education Show</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Cohort Museum-based Learning Journeys</td>
@@ -113,10 +113,10 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Chinese New Year Hongbao Donation</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Our Class&nbsp;&nbsp;&nbsp;Shines Campaign</td>
+    <td class="tg-0lax" colspan="3">·&nbsp;&nbsp;&nbsp;&nbsp;Our Class&nbsp;&nbsp;&nbsp;Shines Campaign</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·  Earth Hour</td>
+    <td class="tg-0lax" colspan="3">·&nbsp;&nbsp;&nbsp;&nbsp;Earth Hour</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Use Your Hands Day</td>
