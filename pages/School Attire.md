@@ -13,8 +13,9 @@ description: ""
 * Shoes and socks:
 	* Shoes, shoe laces and socks must be white.
 	* Socks must be above ankle. No ankle socks are allowed.
-	<img src="/images/sch%20uniform%202021.png" 
-     style="width:70%">
+
+![](/images/school%20attire.png)
+		 
 
 **2. Hair and Accessories**
 * Boys:
