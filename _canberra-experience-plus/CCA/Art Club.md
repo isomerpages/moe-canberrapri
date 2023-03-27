@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ixid{background-color:#FFF;color:#1A202C;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-kwi2{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-b35l{background-color:#FFF;color:#323232;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-qvu4{background-color:#FFF;color:#1A202C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Mrs Cheryl Kong, Mrs Goh-Chun Wee Yin, Miss Yong Fah Yin and Madam Gunasunthari Thangarajoo   </th>
+    <th class="tg-kwi2"><span style="color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-b35l"><span style="color:#323232">Mrs Cheryl Kong</span><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Mondays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-qvu4">   <br>CCA Day/s   </td>
+    <td class="tg-ixid">   <br>Mondays   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-qvu4">   <br>Time   </td>
+    <td class="tg-ixid">   <br>3.30   p.m. – 5.30 p.m.   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Art&nbsp;&nbsp;&nbsp;Rooms 1 and 2&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-qvu4">   <br>Venue   </td>
+    <td class="tg-ixid">   <br>Art   Rooms 1 and 2   </td>
   </tr>
 </tbody>
 </table>
