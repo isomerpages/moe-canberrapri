@@ -4,8 +4,7 @@ permalink: /our-programmes/faculty-three/innovation/
 description: ""
 third_nav_title: Faculty
 ---
-
-**Vision**: Every Canberrian an all-rounded student
+**Vision**: Every Canberrian an All-Rounded Student
 
 **Mission**: To bring out the best in every Canberrian through Canberra Experience+
 
