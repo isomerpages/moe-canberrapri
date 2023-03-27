@@ -41,3 +41,4 @@ third_nav_title: CCA
 	
 Previously known as the Robotics Club, the Digital Artisans Club adopts a broader curriculum that includes games and digital stories creation with Scratch (Primary 3) and CoSpaces (Primary 4). The Primary 5 and Primary 6 pupils will be exposed to elements of Artificial Intelligence and Robotics. We believe that Digital Artisans Club allows students to develop their interest and skills in coding, programming, robotics, while also promoting teamwork and leadership skills.
 
+![](/images/Drones.png)
