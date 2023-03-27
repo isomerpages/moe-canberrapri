@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-apdk{background-color:#FFF;color:#484848;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-kwi2{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-b35l{background-color:#FFF;color:#323232;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-z3yx{background-color:#FFF;color:#484848;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Bai Jie, Mdm Oh Mei Ling, Ms Tan Seow Fong&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-kwi2"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-b35l"><span style="font-weight:normal;color:#323232">   </span><br><span style="font-weight:normal;color:#323232">Mdm   Bai Jie, Mdm Oh Mei Ling, Ms Tan Seow Fong   </span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Friday&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">CCA Day/s   </span></td>
+    <td class="tg-apdk">   <br>Friday   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Time   </span></td>
+    <td class="tg-apdk">   <br>3.30   p.m. – 5.30 p.m.   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Dance&nbsp;&nbsp;&nbsp;studio&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Venue   </span></td>
+    <td class="tg-apdk">   <br>Dance   studio   </td>
   </tr>
 </tbody>
 </table>
