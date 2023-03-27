@@ -11,7 +11,7 @@ The Arts is integral to the holistic development of our pupils. The role of arts
 
 The Aesthetics department aims to expose all pupils to a variety of arts experiences, from local and global visual arts appreciation to a wide repertoire of music exposure, and to experience the splendor in dance. This will lead towards a lively Arts culture. We also aim to take Arts learning to a different dimension, helping every pupil to achieve their artistic potential, giving them wings to soar for greater heights. It is our hope to groom future generation of artists and creative professionals. The Arts curriculum and development works in tandem with our Learn for Life Programme (LLP). 
 
-Click here to discover more about our LLP.
+Click [here](/our-programmes/applied-learning-programme/learn-for-life/) to discover more about our LLP.
 
 **Key Programmes:**
 * Arts Jam 
