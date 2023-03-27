@@ -38,3 +38,5 @@ And to keep the Brownie Law.”
 As Brownies, we keep our Brownie Promise close to our hearts whenever we recite it with our Brownie Smiles. Not only that, we explore and discover the world around us to become more independent. To earn our badges, we learn new skills to try new and adventurous activities. We learn to work and play independently and also in teams. And along the way, we learn to care for each other and make lasting friendships.
 
 In 2022, we represented the Uniformed Groups in the CPS National Day Celebration. We also went on a 3-day Pack Holiday with the CPS Cub Scouts! Do come and join us!
+
+![](/images/brownies.png)
