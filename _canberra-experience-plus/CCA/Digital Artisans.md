@@ -4,44 +4,40 @@ permalink: /our-ccas/Clubs-n-Societies/digital-artisans/
 description: ""
 third_nav_title: CCA
 ---
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:100.9pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="135"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Teachers In-Charge</span></p></td><td style="width:366.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="489"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">MDM ZHANG JIN LING, MR TAN WEIHAN,</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">MS HUDA, MS CLAIRE LU,</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">MS WONG MUN EE, MDM VIJI, MDM FARHANA</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:100.9pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="135"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">CCA Day/s</span></p></td><td style="width:182.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="243"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Wednesday (P4 and P6)</span></p></td><td style="width:184.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Friday (P3 and P5)</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:100.9pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="135"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Time</span></p></td><td style="width:182.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="243"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">3.30 p.m. – 5.30 p.m.</span></p></td><td style="width:184.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">3.30 p.m. – 5.30 p.m.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:100.9pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="135"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Venue</span></p></td><td style="width:182.35pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="243"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Computer Lab 2 (P4)</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Computer Lab 3 (P6)</span></p></td><td style="width:184.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="246"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Computer Lab 2 (P3)</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Computer Lab 3 (P5)</span></p></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cey4{border-color:inherit;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-dbtv{border-color:inherit;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dbtv">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-cey4" colspan="2"><br>MDM ZHANG JIN LING, MR TAN WEIHAN, MS HUDA, MS CLAIRE LU,<br>MS WONG MUN EE, MDM   VIJI, MDM FARHANA</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-dbtv">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>Wednesday&nbsp;&nbsp;&nbsp;(P4 and P6)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>Friday&nbsp;&nbsp;&nbsp;(P3 and P5)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-dbtv">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-dbtv">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 2 (P4) <br>&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 3 (P6)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-cey4">&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 2 (P3) <br>&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 3 (P5)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 	
 Previously known as the Robotics Club, the Digital Artisans Club adopts a broader curriculum that includes games and digital stories creation with Scratch (Primary 3) and CoSpaces (Primary 4). The Primary 5 and Primary 6 pupils will be exposed to elements of Artificial Intelligence and Robotics. We believe that Digital Artisans Club allows students to develop their interest and skills in coding, programming, robotics, while also promoting teamwork and leadership skills.
 
