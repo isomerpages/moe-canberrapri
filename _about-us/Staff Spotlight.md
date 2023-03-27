@@ -91,124 +91,123 @@ Canberra Primary staff take ownership and leadership in sharing the PLT and depa
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-8kaz{background-color:#5b9bd5;color:#ffffff;font-weight:bold;position:-webkit-sticky;position:sticky;text-align:left;
-  top:-1px;vertical-align:top;will-change:transform}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-1e3k{background-color:#f38630;border-color:inherit;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8kaz">   <br>Name of Staff   </th>
-    <th class="tg-8kaz">   <br>Award   </th>
+    <th class="tg-1e3k">   <br>Name of Staff   </th>
+    <th class="tg-1e3k">   <br>Award   </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr Chan Zhen Yi&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="17">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Silver</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Chan Zhen Yi&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" rowspan="17">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Silver</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms Chen Shih Ping&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Chen Shih Ping&nbsp;&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Haslinda Bte Ibrahim&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Haslinda Bte Ibrahim&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Hu&nbsp;&nbsp;&nbsp;Huijun&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Hu&nbsp;&nbsp;&nbsp;Huijun&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr Huang Guorong&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Huang Guorong&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms Keh Wei Sze&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Keh Wei Sze&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Kiong Tai Tai&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Kiong Tai Tai&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Ting&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Ting&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Yi&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Yi&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms Lu&nbsp;&nbsp;&nbsp;Qiu Ning Claire&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Lu&nbsp;&nbsp;&nbsp;Qiu Ning Claire&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mrs Marilyn Kumar&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mrs Marilyn Kumar&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Muhammad Hairi Bin Mohamad&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Muhammad Hairi Bin Mohamad&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Nur Azean Bte Jumahat&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Nur Azean Bte Jumahat&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Rahmat Bin Muhammad&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Rahmat Bin Muhammad&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Tan Chok Wei&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan Chok Wei&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Wong Huoy Chyn&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Wong Huoy Chyn&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Bai Jie&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="13">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Gold</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Bai Jie&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" rowspan="13">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Gold</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms Chia Siew Chin&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Chia Siew Chin&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Haryantie Binte Mustafa&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Haryantie Binte Mustafa&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr Kasni Bin Kasim&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Kasni Bin Kasim&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Khoe Moo Shih&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Khoe Moo Shih&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Boon Guek&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Boon Guek&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr Lo Chien-Chi&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Lo Chien-Chi&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Nurhuda Binte Arsad&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Nurhuda Binte Arsad&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Nurliana Binte Ab Rahim&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Nurliana Binte Ab Rahim&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Oh Mei&nbsp;&nbsp;&nbsp;Ling&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Oh Mei&nbsp;&nbsp;&nbsp;Ling&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mr Rosli&nbsp;&nbsp;&nbsp;Bin Jasman&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Rosli&nbsp;&nbsp;&nbsp;Bin Jasman&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Zarita Ahmad Zakri&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Zarita Ahmad Zakri&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">Academy Awards for Professional Development –&nbsp;&nbsp;&nbsp;Associate</span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">Academy Awards for Professional Development –&nbsp;&nbsp;&nbsp;Associate</span>&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian<br>&nbsp;&nbsp;&nbsp;<br>Ms Choi&nbsp;&nbsp;&nbsp;Poh Quin<br>&nbsp;&nbsp;&nbsp;<br>Mr Kasni&nbsp;&nbsp;&nbsp;Bin Kasim<br>&nbsp;&nbsp;&nbsp;<br>Mdm Lim Yee&nbsp;&nbsp;&nbsp;Ping<br>&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat<br>&nbsp;&nbsp;&nbsp;<br>Mdm Quek&nbsp;&nbsp;&nbsp;Pei Wen Emily&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>2022&nbsp;&nbsp;&nbsp;Innergy Award MOE (Bronze)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian<br>&nbsp;&nbsp;&nbsp;<br>Ms Choi&nbsp;&nbsp;&nbsp;Poh Quin<br>&nbsp;&nbsp;&nbsp;<br>Mr Kasni&nbsp;&nbsp;&nbsp;Bin Kasim<br>&nbsp;&nbsp;&nbsp;<br>Mdm Lim&nbsp;&nbsp;&nbsp;Yee Ping<br>&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat<br>&nbsp;&nbsp;&nbsp;<br>Mdm Quek&nbsp;&nbsp;&nbsp;Pei Wen Emily&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2022&nbsp;&nbsp;&nbsp;Innergy Award MOE (Bronze)&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Buven Subramaniam&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">2022 Most Inspiring Tamil Teacher Award </span>&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Buven Subramaniam&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">2022 Most Inspiring Tamil Teacher Award </span>&nbsp;&nbsp;&nbsp;</td>
   </tr>
 </tbody>
 </table>
