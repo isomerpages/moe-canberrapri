@@ -53,7 +53,7 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;International Friendship Day Celebration</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Racial&nbsp;&nbsp;&nbsp;Harmony Day Celebration</a></td>
+    <td class="tg-0lax" colspan="3">·         Racial&nbsp;&nbsp;&nbsp;Harmony Day Celebration</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;National Day Celebration</td>
@@ -113,10 +113,10 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Chinese New Year Hongbao Donation</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Our Class&nbsp;&nbsp;&nbsp;Shines Campaign</a></td>
+    <td class="tg-0lax" colspan="3">·         Our Class&nbsp;&nbsp;&nbsp;Shines Campaign</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·  Earth Hour</a></td>
+    <td class="tg-0lax" colspan="3">·  Earth Hour</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Use Your Hands Day</td>
