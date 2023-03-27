@@ -59,7 +59,7 @@ The following provides an overview of the CCE programmes to inculcate values and
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;National Day Celebration</td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·         Primary 5&nbsp;&nbsp;&nbsp;National Education Show</a></td>
+    <td class="tg-0lax" colspan="3">·         Primary 5&nbsp;&nbsp;&nbsp;National Education Show</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Cohort Museum-based Learning Journeys</td>
@@ -135,10 +135,10 @@ The following provides an overview of the CCE programmes to inculcate values and
     
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">.        &nbsp;&nbsp;&nbsp;Traffic Safety programme </a></td>
+    <td class="tg-0lax" colspan="3">.        &nbsp;&nbsp;&nbsp;Traffic Safety programme </td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Cyber Wellness programme</a></td>
+    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Cyber Wellness programme</td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Sexuality Education programme (through FTGP)</td>
