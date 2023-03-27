@@ -26,7 +26,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">HOD AESTHETICS</td>
-    <td class="tg-lboi">MR RAHMAT BIN&nbsp;&nbsp;&nbsp;MUHAMMAD</td>
+    <td class="tg-lboi">MR RAHMAT BIN&nbsp;MUHAMMAD</td>
   </tr>
   <tr>
     <td class="tg-lboi">HOD CCE</td>
@@ -34,14 +34,14 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">HOD ENGLISH</td>
-    <td class="tg-lboi">MRS&nbsp;&nbsp;&nbsp;SEBASTIAN</td>
+    <td class="tg-lboi">MRS&nbsp;SEBASTIAN</td>
   </tr>
   <tr>
     <td class="tg-lboi">HOD ICT &amp; MRL</td>
-    <td class="tg-lboi">MDM HARYANTIE BINTE&nbsp;&nbsp;&nbsp;MUSTAFA</td>
+    <td class="tg-lboi">MDM HARYANTIE BINTE&nbsp;MUSTAFA</td>
   </tr>
   <tr>
-    <td class="tg-lboi">HOD&nbsp;&nbsp;&nbsp;MATHEMATICS</td>
+    <td class="tg-lboi">HOD&nbsp;MATHEMATICS</td>
     <td class="tg-lboi">MDM LEE FUI LING</td>
   </tr>
   <tr>
@@ -50,11 +50,11 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">HOD PE &amp; CCA</td>
-    <td class="tg-lboi">MR MAZLEE BIN&nbsp;&nbsp;&nbsp;MUHARRAM</td>
+    <td class="tg-lboi">MR MAZLEE BIN&nbsp;MUHARRAM</td>
   </tr>
   <tr>
     <td class="tg-lboi">HOD SCIENCE</td>
-    <td class="tg-lboi">MDM NOORAZURA BINTE&nbsp;&nbsp;&nbsp;AHMAT</td>
+    <td class="tg-lboi">MDM NOORAZURA BINTE&nbsp;AHMAT</td>
   </tr>
   <tr>
     <td class="tg-lboi"></td>
