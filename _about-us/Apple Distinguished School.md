@@ -22,7 +22,7 @@ With a rapid shift towards greater focus on the use of personal learning devices
 
 
   
- ![](/images/Figure%202Positive%20values%20and%20habits%20of%20learning%20with%20PLDs.jpg)
+ ![](/images/vHol.png)
 _Figure 2: Positive Values & Habits of Learning with PLDs_
 
 **Success**
