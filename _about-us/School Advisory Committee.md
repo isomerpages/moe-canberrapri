@@ -22,15 +22,14 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-7zrl">Chairman</td>
-    <td class="tg-7zrl">Mr Chew Kok Ming,&nbsp;&nbsp;&nbsp;Luke</td>
+    <td class="tg-7zrl">Mr Chew Kok Ming,&nbsp;&nbsp;Luke</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">Honorary&nbsp;&nbsp;&nbsp;Treasurer</td>
-    <td class="tg-7zrl">Mr Stephen Chan</td>
+    
   </tr>
   <tr>
     <td class="tg-7zrl">Honorary&nbsp;&nbsp;&nbsp;Secretary</td>
-    <td class="tg-7zrl">Mr Sam Wong Poo Mun</td>
+    <td class="tg-7zrl">Mr Terence Tan</td>
   </tr>
   <tr>
     <td class="tg-7zrl">Member</td>
