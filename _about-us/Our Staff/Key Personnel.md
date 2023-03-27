@@ -4,204 +4,31 @@ permalink: /about-us/our-staff/permalink/
 description: ""
 third_nav_title: Our Staff
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i" colspan="2">HEADS&nbsp;&nbsp;&nbsp;OF DEPARTMENT</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">SSD</td>
-    <td class="tg-cly1">MRS AW LILIAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD AESTHETICS</td>
-    <td class="tg-cly1">MR RAHMAT BIN&nbsp;&nbsp;&nbsp;MUHAMMAD</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD CCE</td>
-    <td class="tg-cly1">MRS RUTH LIEW</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD ENGLISH</td>
-    <td class="tg-cly1">MRS&nbsp;&nbsp;&nbsp;SEBASTIAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD ICT &amp; MRL</td>
-    <td class="tg-cly1">MDM HARYANTIE BINTE&nbsp;&nbsp;&nbsp;MUSTAFA</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD&nbsp;&nbsp;&nbsp;MATHEMATICS</td>
-    <td class="tg-cly1">MDM LEE FUI LING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD MTL</td>
-    <td class="tg-cly1">MDM TAN YI LING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD PE &amp; CCA</td>
-    <td class="tg-cly1">MR MAZLEE BIN&nbsp;&nbsp;&nbsp;MUHARRAM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">HOD SCIENCE</td>
-    <td class="tg-cly1">MDM NOORAZURA BINTE&nbsp;&nbsp;&nbsp;AHMAT</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i" colspan="2">LEVEL&nbsp;&nbsp;&nbsp;HEADS / SUBJECT HEADS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">LH CCE</td>
-    <td class="tg-cly1">MS SIN HUI ZHENG&nbsp;&nbsp;&nbsp;KAREN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">LH ENGLISH</td>
-    <td class="tg-cly1">MS LEE PEILIN FIONA</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">LH ML</td>
-    <td class="tg-cly1">MDM NUR AZEAN BTE&nbsp;&nbsp;&nbsp;JUMAHAT</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">LH MATHEMATICS</td>
-    <td class="tg-cly1">MS LOW PEI YI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">LH SCIENCE</td>
-    <td class="tg-cly1">MRS EMILY HUANG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">SH DISCIPLINE</td>
-    <td class="tg-cly1">MR VICKNESHSWAREN S/O&nbsp;&nbsp;&nbsp;KRISHNAN BALAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">SH PE &amp;&nbsp;&nbsp;&nbsp;CCA</td>
-    <td class="tg-cly1">MR MOHAMMAD FARID&nbsp;&nbsp;&nbsp;WAHYUNI</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i" colspan="2">YEAR HEADS/ASSISTANT YEAR HEADS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1">YEAR HEAD (FACULTY 1)</td>
-    <td class="tg-cly1">MRS KOMATHI SURESH</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">YEAR HEAD (FACULTY 3)</td>
-    <td class="tg-cly1">MS CHOI POH QUIN SAM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ASSISTANT YEAR HEAD (FACULTY 1)</td>
-    <td class="tg-cly1">MDM MARDIANA BTE MOHD&nbsp;&nbsp;&nbsp;AMIN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ASSISTANT YEAR HEAD (FACULTY 2)</td>
-    <td class="tg-cly1">MS LEE HUI TING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ASSISTANT YEAR HEAD (FACULTY 2)</td>
-    <td class="tg-cly1">MR MUHAMMAD HAIRI B&nbsp;&nbsp;&nbsp;MOHAMAD</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ASSISTANT YEAR HEAD (FACULTY 3)</td>
-    <td class="tg-cly1">MS NURHUDA BINTE&nbsp;&nbsp;&nbsp;ARSAD</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-color:#aaa;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#aaa;border-style:solid;border-width:0px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f38630;border-color:#aaa;border-style:solid;border-width:0px;color:#fff;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-wa1i" colspan="2">TEACHER LEADERS</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-yla0">LT SCIENCE</td>
-    <td class="tg-yla0">MS&nbsp;&nbsp;&nbsp;CHIA SIEW CHIN</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">LT ENGLISH</td>
-    <td class="tg-yla0">MRS&nbsp;&nbsp;&nbsp;PHYLLIS WAN</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST CCE</td>
-    <td class="tg-yla0">MR&nbsp;&nbsp;&nbsp;KASNI BIN KASIM</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST CL</td>
-    <td class="tg-yla0">MDM BAI JIE</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST MATHEMATICS</td>
-    <td class="tg-yla0">MRS YVONNE CHONG</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST MUSIC</td>
-    <td class="tg-yla0">MR TAN KENG HONG</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST PE &amp; CCA</td>
-    <td class="tg-yla0">MR MOHAMED FAUZY BIN&nbsp;&nbsp;&nbsp;KASDI</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST SCIENCE</td>
-    <td class="tg-yla0">MR HIN HIANG ANTHONY</td>
-  </tr>
-  <tr>
-    <td class="tg-yla0">ST SCIENCE</td>
-    <td class="tg-yla0">MDM&nbsp;&nbsp;&nbsp;OH MEI LING</td>
-  </tr>
-</tbody>
-</table>
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="663" style="border-collapse:
+ collapse;width:497pt"><colgroup><col width="303" style="mso-width-source:userset;mso-width-alt:11081;width:227pt"> <col width="360" style="mso-width-source:userset;mso-width-alt:13165;width:270pt"></colgroup><tbody><tr height="26" style="mso-height-source:userset;height:20.1pt"><td colspan="2" height="26" class="xl80" width="663" style="height:20.1pt;width:497pt">HEADS OF DEPARTMENT</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl71" style="height:20.1pt;border-top:none">SSD</td><td class="xl71" style="border-top:none;border-left:none">MRS AW LILIAN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD AESTHETICS</td><td class="xl71" style="border-top:none;border-left:none">MR RAHMAT BIN MUHAMMAD</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD CCE</td><td class="xl71" style="border-top:none;border-left:none">MRS RUTH LIEW</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD ENGLISH</td><td class="xl72" width="360" style="border-top:none;border-left:none;width:270pt">MRS SEBASTIAN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl73" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD ICT &amp; MRL</td><td class="xl74" style="border-top:none;border-left:none">MDM HARYANTIE BINTE MUSTAFA</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl71" style="height:20.1pt;border-top:none">HOD MATHEMATICS</td><td class="xl71" style="border-top:none;border-left:none">MDM LEE FUI LING</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD MTL</td><td class="xl71" style="border-top:none;border-left:none">MDM TAN YI LING</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD PE &amp; CCA</td><td class="xl71" style="border-top:none;border-left:none">MR MAZLEE BIN MUHARRAM</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">HOD SCIENCE</td><td class="xl71" style="border-top:none;border-left:none">MDM NOORAZURA BINTE AHMAT</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl75" style="height:20.1pt"></td><td class="xl75"></td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td colspan="2" height="26" class="xl80" style="height:20.1pt">LEVEL HEADS / SUBJECT HEADS</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">LH CCE</td><td class="xl71" style="border-top:none;border-left:none">MS SIN HUI ZHENG KAREN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">LH ENGLISH</td><td class="xl71" style="border-top:none;border-left:none">MS LEE PEILIN FIONA</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl71" style="height:20.1pt;border-top:none">LH ML</td><td class="xl71" style="border-top:none;border-left:none">MDM NUR AZEAN BTE JUMAHAT</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">LH MATHEMATICS</td><td class="xl71" style="border-top:none;border-left:none">MS LOW PEI YI</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl71" style="height:20.1pt;border-top:none">LH SCIENCE</td><td class="xl71" style="border-top:none;border-left:none">MRS EMILY HUANG</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl76" style="height:20.1pt">SH DISCIPLINE</td><td class="xl71" style="border-top:none;border-left:none">MR VICKNESHSWAREN S/O KRISHNAN BALAN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl71" style="height:20.1pt;border-top:none">SH PE &amp; CCA</td><td class="xl71" style="border-top:none;border-left:none">MR MOHAMMAD FARID WAHYUNI</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl75" style="height:20.1pt"></td><td class="xl75"></td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td colspan="2" height="26" class="xl81" style="border-right:.5pt solid black;
+  height:20.1pt">YEAR HEADS/ASSISTANT YEAR HEADS</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">YEAR HEAD (FACULTY 1)</td><td class="xl71" style="border-top:none;border-left:none">MRS KOMATHI SURESH</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">YEAR HEAD (FACULTY 3)</td><td class="xl71" style="border-top:none;border-left:none">MS CHOI POH QUIN SAM</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ASSISTANT YEAR HEAD (FACULTY 1)</td><td class="xl71" style="border-top:none;border-left:none">MDM MARDIANA BTE MOHD AMIN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ASSISTANT YEAR HEAD (FACULTY 2)</td><td class="xl71" style="border-top:none;border-left:none">MS LEE HUI TING</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ASSISTANT YEAR HEAD (FACULTY 2)</td><td class="xl71" style="border-top:none;border-left:none">MR MUHAMMAD HAIRI B MOHAMAD</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ASSISTANT YEAR HEAD (FACULTY 3)</td><td class="xl71" style="border-top:none;border-left:none">MS NURHUDA BINTE ARSAD</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl77" width="303" style="height:20.1pt;width:227pt">&nbsp;</td><td class="xl78">&nbsp;</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td colspan="2" height="26" class="xl81" style="border-right:.5pt solid black;
+  height:20.1pt">TEACHER LEADERS</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">LT SCIENCE</td><td class="xl72" width="360" style="border-top:none;border-left:none;width:270pt">MS CHIA SIEW CHIN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl79" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">LT ENGLISH</td><td class="xl79" width="360" style="border-top:none;border-left:none;width:270pt">MRS PHYLLIS WAN</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST CCE</td><td class="xl72" width="360" style="border-top:none;border-left:none;width:270pt">MR KASNI BIN KASIM</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST CL</td><td class="xl71" style="border-top:none;border-left:none">MDM BAI JIE</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST MATHEMATICS</td><td class="xl71" style="border-top:none;border-left:none">MRS YVONNE CHONG</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl76" style="height:20.1pt">ST MUSIC</td><td class="xl76" style="border-left:none">MR TAN KENG HONG</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST PE &amp; CCA</td><td class="xl71" style="border-top:none;border-left:none">MR MOHAMED FAUZY BIN KASDI</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST SCIENCE</td><td class="xl71" style="border-top:none;border-left:none">MR HIN HIANG ANTHONY</td></tr><tr height="26" style="mso-height-source:userset;height:20.1pt"><td height="26" class="xl72" width="303" style="height:20.1pt;border-top:none;
+  width:227pt">ST SCIENCE</td><td class="xl72" width="360" style="border-top:none;border-left:none;width:270pt">MDM OH MEI LING</td></tr></tbody></table>
