@@ -132,7 +132,7 @@ The following provides an overview of the CCE programmes to inculcate values and
   </tr>
   <tr>
     <td class="tg-0lax" rowspan="5">Student Development</td>
-    <td class="tg-0lax" colspan="3">·        &nbsp;&nbsp;&nbsp;Model Pupil &amp; Good Progress in Conduct Awards</td>
+    
   </tr>
   <tr>
     <td class="tg-0lax" colspan="3">.        &nbsp;&nbsp;&nbsp;Traffic Safety programme </a></td>
