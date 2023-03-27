@@ -3,7 +3,6 @@ title: Information Communication & Technology (ICT)
 permalink: /our-programmes/department/information-communication-n-technology/
 description: ""
 ---
-
 **Vision:**
 Future-Ready & Digitally Responsible Canberrians
 
@@ -17,4 +16,4 @@ Building upon the school vibrant and pervasive culture of innovation, the ICT de
 Leveraging the key programme spearheaded by the department, pupils are taught to harness technology as a key enabler to enhance the way they live, work and play. Technology has also helped to transform the classrooms, modify and even redefine learning tasks to create new learning experiences for pupils.
 
 **Department Key Programme:**
-* Applied Learning Programme *(Click **here** to find out more)*
+* Applied Learning Programme *(Click **[here](/our-programmes/applied-learning-programme/)** to find out more)*
