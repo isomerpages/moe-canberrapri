@@ -27,35 +27,35 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MS FAZILLAH BINTE ABU&nbsp;&nbsp;&nbsp;BAKAR</td>
+    <td class="tg-cly1">MS FAZILLAH BINTE ABU&nbsp;BAKAR</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM KUEK HWEE SAN</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MS SULAIHA BINTE&nbsp;&nbsp;&nbsp;ABDUL AZI</td>
+    <td class="tg-cly1">MS SULAIHA BINTE&nbsp;;ABDUL AZI</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM WONG MUN EE</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MS HANISAH BINTE MOHD&nbsp;&nbsp;&nbsp;JAILANI</td>
+    <td class="tg-cly1">MS HANISAH BINTE MOHD&nbsp;JAILANI</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS YIP MEI THIM</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MRS&nbsp;&nbsp;&nbsp;PHYLLIS WAN</td>
+    <td class="tg-cly1">MRS&nbspPHYLLIS WAN</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM ROZI BTE ABDUL</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MDM LALITHA D/O&nbsp;&nbsp;&nbsp;RAJAGOPAL</td>
+    <td class="tg-cly1">MDM LALITHA D/O&nbsp;RAJAGOPAL</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS LOW PEI YI</td>
@@ -69,7 +69,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;7</td>
-    <td class="tg-cly1">MDM&nbsp;&nbsp;&nbsp;KHOE MOO SHIH YVONNE</td>
+    <td class="tg-cly1">MDM&nbsp;KHOE MOO SHIH YVONNE</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM NURLIANA BTE AB RAHIM</td>
@@ -83,7 +83,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MS AZLYNNA BTE ABDUL&nbsp;&nbsp;&nbsp;AZIZ</td>
+    <td class="tg-cly1">MS AZLYNNA BTE ABDUL&nbsp;AZIZ</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM WONG HUOY CHYN</td>
@@ -100,7 +100,8 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MRS KAVITHA ANDREW</td>
   </tr>
   <tr>
-    <td class="tg-cly1">MDM LINA JULIANNA BTE MARGINI</td>
+    <td class="tg-cly1">
+			MDM&nbsp;LINA&nbsp; JULIANNA BTE&nbsp; MARGINI</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;4</td>
@@ -111,14 +112,14 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MS TENG SING KWAN&nbsp;&nbsp;&nbsp;NATALIE</td>
+    <td class="tg-cly1">MS TENG SING KWAN&nbsp;NATALIE</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS YONG FAH YIN</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MR MOHAMED FAUZY BIN&nbsp;&nbsp;&nbsp;KASDI</td>
+    <td class="tg-cly1">MR MOHAMED FAUZY BIN&nbsp;KASDI</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM TAN YI LING</td>
@@ -141,22 +142,22 @@ third_nav_title: Our Staff
     <td class="tg-b7il" colspan="2">FACULTY 2</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE&nbsp;&nbsp;&nbsp;A1</td>
-    <td class="tg-cly1">MS SITI ZULAIKA BINTE&nbsp;&nbsp;&nbsp;SALLEH</td>
+    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE A1</td>
+    <td class="tg-cly1">MS SITI ZULAIKA BINTE&nbsp;SALLEH</td>
   </tr>
   <tr>
     <td class="tg-cly1">MR TAN WEIHAN</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE&nbsp;&nbsp;&nbsp;L1</td>
-    <td class="tg-cly1">MS&nbsp;&nbsp;&nbsp;CHIA SIEW CHIN</td>
+    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE L1</td>
+    <td class="tg-cly1">MS&nbsp;CHIA SIEW CHIN</td>
   </tr>
   <tr>
     <td class="tg-cly1">MR GAN TIONG BEE</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE&nbsp;&nbsp;&nbsp;L2</td>
-    <td class="tg-cly1">MR BENJAMIN CHAN ZHEN&nbsp;&nbsp;&nbsp;YI</td>
+    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE L2</td>
+    <td class="tg-cly1">MR BENJAMIN CHAN ZHEN&nbsp;YI</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS MARILYN KUMAR</td>
@@ -179,8 +180,8 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MS TAN SEOW FONG</td>
   </tr>
   <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE&nbsp;&nbsp;&nbsp;S1</td>
-    <td class="tg-cly1">MR MUHAMMAD HAIRI B&nbsp;&nbsp;&nbsp;MOHAMAD</td>
+    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE S1</td>
+    <td class="tg-cly1">MR MUHAMMAD HAIRI B&nbsp;MOHAMAD</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS SITI MAISARAH BTE MOHD IDRIS</td>
@@ -222,7 +223,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;S1</td>
-    <td class="tg-cly1">MDM NUR AZEAN BTE&nbsp;&nbsp;&nbsp;JUMAHAT</td>
+    <td class="tg-cly1">MDM NUR AZEAN BTE&nbsp;JUMAHAT</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS SIN HUI ZHENG KAREN</td>
@@ -239,7 +240,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MS VIDHIYALEKSHMI&nbsp;&nbsp;&nbsp;KRISHNAN</td>
+    <td class="tg-cly1">MS VIDHIYALEKSHMI&nbsp;KRISHNAN</td>
   </tr>
   <tr>
     <td class="tg-cly1">MRS YVONNE CHONG</td>
@@ -256,11 +257,11 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MS CHOI POH QUIN SAM</td>
   </tr>
   <tr>
-    <td class="tg-cly1">MS MARIAN&nbsp;&nbsp;&nbsp;ALPHONSE</td>
+    <td class="tg-cly1">MS MARIAN&nbsp;ALPHONSE</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="3">INNOVATION&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MRS&nbsp;&nbsp;&nbsp;GOH WEE YIN</td>
+    <td class="tg-cly1">MRS&nbsp;GOH WEE YIN</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM KUEK SOO PENG</td>
@@ -270,7 +271,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MR MAZLEE BIN&nbsp;&nbsp;&nbsp;MUHARRAM</td>
+    <td class="tg-cly1">MR MAZLEE BIN&nbsp;MUHARRAM</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM OH MEI LING</td>
@@ -291,14 +292,14 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MDM HARYANTIE BINTE&nbsp;&nbsp;&nbsp;MUSTAFA</td>
+    <td class="tg-cly1">MDM HARYANTIE BINTE&nbsp;MUSTAFA</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM NOORAZURA BINTE AHMAT</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="3">EXCELLENCE&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MDM GUNASUNTHARI&nbsp;&nbsp;&nbsp;THANGARAJOO</td>
+    <td class="tg-cly1">MDM GUNASUNTHARI&nbsp;THANGARAJOO</td>
   </tr>
   <tr>
     <td class="tg-cly1">MDM HAN XUEMEI</td>
@@ -318,7 +319,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MS NURHUDA BINTE&nbsp;&nbsp;&nbsp;ARSAD</td>
+    <td class="tg-cly1">MS NURHUDA BINTE&nbsp;ARSAD</td>
   </tr>
   <tr>
     <td class="tg-cly1">MR RAHMAT BIN MUHAMMAD</td>
