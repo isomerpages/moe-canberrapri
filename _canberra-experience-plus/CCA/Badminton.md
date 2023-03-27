@@ -4,36 +4,37 @@ permalink: /our-ccas/Sports/badminton/
 description: ""
 third_nav_title: CCA
 ---
-<table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:139.25pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Teachers In-Charge</span></p></td><td style="width:328.25pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Mrs Chong Shiyun, Miss Margareth Chen, Mr Hairi,</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Mrs Yvonne Chong, Mrs Liow Pei Xian</span></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:139.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">CCA Day/s</span></p></td><td style="width:328.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Wednesdays and Fridays</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:139.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Time</span></p></td><td style="width:328.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">School Team</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Wednesdays 3.30 p.m. – 5.30 p.m.</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Fridays 3.30 p.m. – 4.30 p.m.</span></p><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">&nbsp;</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Recreational Group</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Fridays 3.30 p.m. – 4.30 p.m. (P4 and P6)</span></p><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Fridays 3.30 p.m. – 4.30 p.m. (P3 and P5)</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:139.25pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="186"><p style="margin-bottom:0in;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Venue</span></p></td><td style="width:328.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="438"><p style="margin-bottom:0in;text-align:center;
-  line-height:normal" align="center" class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Comic Sans MS&quot;">Hall (School Team ) and ISH (Recreational)</span></p></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-x5q1">   <br>Mrs Chong Shiyun, Miss Margareth Chen, Mr Hairi, <br>   <br>Mrs Yvonne Chong, Mrs Liow Pei Xian   </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Wednesdays&nbsp;&nbsp;&nbsp;and Fridays&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">   <br><span style="font-weight:bold">School   Team</span><br>   <br>Wednesdays   3.30 p.m. – 5.30 p.m.<br>   <br>Fridays   3.30 p.m. – 4.30 p.m.<br>   <br>    <br><span style="font-weight:bold">Recreational   Group</span><br>   <br>Fridays   3.30 p.m. – 4.30 p.m. (P4 and P6)<br>   <br>Fridays   3.30 p.m. – 4.30 p.m. (P3 and P5)   </td>
+  </tr>
+  <tr>
+    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Hall&nbsp;&nbsp;&nbsp;(School Team ) and ISH (Recreational)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 	
 **CPS Badminton** aims to equip our pupils with basic badminton skills and to instil in them ICREST values and sportsmanship
 
