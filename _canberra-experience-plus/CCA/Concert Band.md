@@ -23,15 +23,15 @@ third_nav_title: CCA
 <tbody>
   <tr>
     <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Mondays and&nbsp;&nbsp;&nbsp;Wednesdays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">   <br>Mondays and Wednesdays   </td>
   </tr>
   <tr>
     <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>2.30&nbsp;&nbsp;&nbsp;p.m. to 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">   <br>2.30 p.m. to 5.30 p.m.   </td>
   </tr>
   <tr>
     <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Band&nbsp;&nbsp;&nbsp;Studio (Level 6)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-x5q1">   <br>Band Studio (Level 6)   </td>
   </tr>
 </tbody>
 </table>
