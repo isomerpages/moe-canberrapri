@@ -21,6 +21,3 @@ In Pursuit of Excellence<br>
 **S**elf-Discipline<br>
 **T**eamwork<br>
 An **i**nnovative, **c**aring and **r**esponsible citizen who strives for **e**xcellence through **s**elf-discipline and **t**eamwork.
-
-
-![](/images/values.jpg)
