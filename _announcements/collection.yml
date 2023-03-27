@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Parent Volunteer Scheme (2025 P1 Intake).md
       - MITT 2023.md
       - AGAB 2023.md
