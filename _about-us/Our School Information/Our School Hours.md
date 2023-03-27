@@ -10,23 +10,24 @@ third_nav_title: Our School Information
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-wk61{background-color:#FFF;color:#484848;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ih7s{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-sf6z{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-3cbn{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9hzb">Day</th>
-    <th class="tg-9hzb">School Hours</th>
-    <th class="tg-9hzb">Recess Timing</th>
+    <th class="tg-ih7s"><span style="color:#323232;background-color:#FFF">Day</span></th>
+    <th class="tg-ih7s"><span style="color:#323232;background-color:#FFF">School Hours</span></th>
+    <th class="tg-ih7s"><span style="color:#323232;background-color:#FFF">Recess Timing</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-9hzb"> <br> <br> <br> <br> <br>Monday to Friday</td>
-    <td class="tg-4ufn"> <br> <br> <br> <br> <br><span style="color:#222">7.45 a.m. to 1.30 p.m.</span></td>
-    <td class="tg-l2bf"><span style="color:#222">9.00 a.m. to 9.30 a.m.</span><br><span style="color:#222">Primary 1 and Primary 4 </span><br><span style="color:#222">(Care and Teamwork Levels) </span> <br><br>9.30 a.m. to 10.00 a.m. <br><span style="color:#222">Primary 3 and Primary 6 </span><br><span style="color:#222">(Self-Discipline and Excellence Levels) </span><br><br>10.00 a.m. to 10.30 a.m. <br><span style="color:#222">Primary 2 and Primary 5 </span><br><span style="color:#222">(Responsibility and Innovation Levels)</span></td>
+    <td class="tg-wk61"><br><br><br><br><span style="font-weight:bold;background-color:#FFF">Monday to Friday</span></td>
+    <td class="tg-3cbn"><br><br><br><br><span style="font-weight:inherit;font-style:inherit;color:#222">7.45 a.m. to 1.30 p.m.</span></td>
+    <td class="tg-sf6z"><span style="font-weight:inherit;font-style:inherit;color:#222">9.00 a.m. to 9.30 a.m.</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">Primary 1 and Primary 4</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">(Care and Teamwork Levels)</span><br><br><span style="font-weight:bold;color:#222;background-color:#FFF">9.30 a.m. to 10.00 a.m.</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">Primary 3 and Primary 6</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">(Self-Discipline and Excellence Levels)</span><br><br><span style="font-weight:bold;color:#222;background-color:#FFF">10.00 a.m. to 10.30 a.m.</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">Primary 2 and Primary 5</span><br><span style="font-weight:inherit;font-style:inherit;color:#222">(Responsibility and Innovation Levels)</span></td>
   </tr>
 </tbody>
 </table>
