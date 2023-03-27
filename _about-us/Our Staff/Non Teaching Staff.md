@@ -4,7 +4,6 @@ permalink: /our-school/our-staff/nonteachingstaff/
 description: ""
 third_nav_title: Our Staff
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -43,7 +42,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">ADMINISTRATIVE EXECUTIVE</td>
-    <td class="tg-cly1">MS MARIAM BINTE&nbsp;&nbsp;&nbsp;MUHAMMAD ZAKARIA</td>
+    <td class="tg-cly1">MS MARIAM BINTE&nbsp;MUHAMMAD ZAKARIA</td>
   </tr>
   <tr>
     <td class="tg-cly1">CORPORATE SUPPORT OFFICER</td>
@@ -78,11 +77,11 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1">SCHOOL&nbsp;&nbsp;&nbsp;COUNSELLOR</td>
-    <td class="tg-cly1">MS CORLISSA SEAH YUN&nbsp;&nbsp;&nbsp;ZHI</td>
+    <td class="tg-cly1">MS CORLISSA SEAH YUN&nbsp;ZHI</td>
   </tr>
   <tr>
     <td class="tg-cly1">SPECIAL&nbsp;&nbsp;&nbsp;EDUCATIONAL NEEDS OFFICER</td>
-    <td class="tg-cly1">MDM VAANI SHRI&nbsp;&nbsp;&nbsp;KANAKASABAI</td>
+    <td class="tg-cly1">MDM VAANI SHRI&nbsp;KANAKASABAI</td>
   </tr>
   <tr>
     <td class="tg-cly1">SPECIAL&nbsp;&nbsp;&nbsp;EDUCATIONAL NEEDS OFFICER</td>
