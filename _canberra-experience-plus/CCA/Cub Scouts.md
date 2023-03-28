@@ -45,6 +45,6 @@ In Semester 2, students will work towards attaining their Bronze and Silver Prog
 
 ![](/images/scout%202.jpg)
 
-![](/images/scout%203.jpg)
+
 
 ![](/images/scout%205.jpg)
