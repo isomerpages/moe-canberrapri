@@ -38,11 +38,6 @@ third_nav_title: CCA
 	
 The Drama Club members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. They get the opportunity to exhibit what they have mastered through various school-based performances and competitions. Our artists are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes. Each year, the Drama Club will showcase their performance in a school assembly programme.
 
-![](/images/drama(2).jpg)
-
-![](/images/drama(1).jpg)
-
-
 In addition, the Drama Club has also started its own production – Say it Right with Drama Club. This series of skits are written by and directed by students. Students explore the use of technology, props and apply drama skills they have attained to put together a self-directed piece. 
 
 ![](/images/drama(3).png)
