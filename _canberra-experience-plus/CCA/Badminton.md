@@ -43,4 +43,3 @@ third_nav_title: CCA
 Our members comprise pupils from Primary 3 to Primary 6. All our members strive to attain the skills to play in this sport. The school team will also be given opportunities to represent the school to take part in invitational and zonal competitions, as well as National Championships. 
 
 ![](/images/Badminton%201.png)
-![](/images/Badminton%202.png)
