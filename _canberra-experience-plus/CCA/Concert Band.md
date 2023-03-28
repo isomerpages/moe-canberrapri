@@ -48,4 +48,3 @@ Together with our nurturing teachers, we welcome all students to join us. No pri
 
 ![](/images/Band%203.png)
 
-![](/images/Band%204.png)
