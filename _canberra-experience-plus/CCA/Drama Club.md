@@ -40,4 +40,4 @@ The Drama Club members are taught the core basics of dramatic technique – voca
 
 In addition, the Drama Club has also started its own production – Say it Right with Drama Club. This series of skits are written by and directed by students. Students explore the use of technology, props and apply drama skills they have attained to put together a self-directed piece. 
 
-![](/images/drama(3).png)
+![](/images/drama(2).jpg)
