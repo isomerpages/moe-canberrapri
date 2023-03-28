@@ -7,6 +7,8 @@ description: ""
 
 Our LLP aims to develop every Canberrians to be a discoverer, attuned learner and global learner through musical theatre education. Our musical theatre education embodies the art, music, dance and drama in both the curriculum and co-curriculum. Our LLP nurtures our pupils’ passion in the arts, providing them with the platforms for performance and appreciation. Through this, our LLP allows our pupils to explore issues and emotions, develop empathy for the experiences of others and self, and explore diverse perspectives as we prepare them to become more confident, creative and collaborative individuals. Our LLP works in tandem with our Arts curriculum and development. 
 
+![](/images/LLP.jpg)
+
 Click [here](/departments/aesthetics/) to discover more about the Arts curriculum. 
 
 Our LLP encompasses 3 overarching programmes that align to our 3Es Approach: Expose, Experience and Enrich. These programmes are:
