@@ -43,6 +43,3 @@ During practice sessions throughout the year, our members go through specialised
 
 ![](/images/choir%202.jpg)
 
-![](/images/choir%203.jpg)
-
-![](/images/choir%204.jpg)
