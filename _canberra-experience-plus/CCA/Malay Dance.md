@@ -36,15 +36,13 @@ third_nav_title: CCA
 </tbody>
 </table>
 
-![](/images/Malay%20Dance%20(3).png)	
 Malay Dance CCA in Canberra Primary consists of energetic young dancers from P3 to P6. Our young dancers are exposed to the various traditional and contemporary Malay Dance Moves. 
 
 ![](/images/Malay%20Dance%20(4).png)
 
-![](/images/Malay%20Dance%20(5).png)
+
 
 These enthusiastic dancers are also instilled with the values of teamwork, discipline, and perseverance through the rigorous weekly training. Their love for dancing is seen in their performances both in school and public.
 
 ![](/images/MalayDance%20(2).png)
 
-![](/images/MalayDance%20(1).png)
