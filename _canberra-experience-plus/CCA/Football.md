@@ -36,8 +36,6 @@ third_nav_title: CCA
 </tbody>
 </table>
 	
-![](/images/football(3).jpg)
-	
 The objectives of our Football CCA are to maximize participation, progressively develop and improve technical skills, acquiring a solid understanding of the rules, preparing for competition, and most importantly build passion for the game. 
 
 Through our school ICREST values, CPS football team members learn and practice:
@@ -53,4 +51,3 @@ Through our school ICREST values, CPS football team members learn and practice:
 
 ![](/images/football(4).jpg)
 
-![](/images/football(2).jpg)
