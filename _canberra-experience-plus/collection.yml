@@ -1,0 +1,39 @@
+collections:
+  canberra-experience-plus:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue Languages.md
+      - Aesthetics.md
+      - Character and Citizenship Education (CCE).md
+      - Information Communication & Technology (ICT).md
+      - Physical Education.md
+      - Faculty/.keep
+      - Faculty/Faculty 1.md
+      - Faculty/Faculty 2.md
+      - Faculty/Faculty 3.md
+      - CCA/.keep
+      - CCA/Art Club.md
+      - CCA/Badminton.md
+      - CCA/Basketball.md
+      - CCA/Brownies.md
+      - CCA/Chinese Dance.md
+      - CCA/Choir.md
+      - CCA/Concert Band.md
+      - CCA/Cub Scouts.md
+      - CCA/Digital Artisans.md
+      - CCA/Drama Club.md
+      - CCA/Floorball.md
+      - CCA/Football.md
+      - CCA/Indian Dance.md
+      - CCA/Library Ambassadors Club.md
+      - CCA/Little Chefs Club.md
+      - CCA/Malay Dance.md
+      - CCA/Media Club.md
+      - CCA/Science and Environment Club.md
+      - CCA/Track and Field.md
+      - Pupils' Spotlight/.keep
+      - Pupils' Spotlight/2023.md
+      - Pupils' Spotlight/2022.md

@@ -1,0 +1,5 @@
+collections:
+  events:
+    output: true
+    order:
+      - E–OPEN HOUSE 2022.md
