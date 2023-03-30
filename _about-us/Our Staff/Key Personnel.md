@@ -132,7 +132,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">LT SCIENCE</td>
-    <td class="tg-lboi">MS&nbspCHIA SIEW CHIN</td>
+    <td class="tg-lboi">MS&nbsp;CHIA SIEW CHIN</td>
   </tr>
   <tr>
     <td class="tg-lboi">LT ENGLISH</td>
