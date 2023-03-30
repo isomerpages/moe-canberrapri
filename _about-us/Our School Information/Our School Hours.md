@@ -6,14 +6,14 @@ third_nav_title: Our School Information
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ih7s{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ih7s{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-0y1i{background-color:#FFF;color:#484848;font-size:16px;text-align:center;vertical-align:top}
-.tg .tg-qec4{background-color:#FFF;color:#222;font-size:16px;text-align:center;vertical-align:top}
-.tg .tg-g6yu{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-qec4{background-color:#FFF;color:#222;font-size:18px;text-align:center;vertical-align:top}
+.tg .tg-g6yu{background-color:#FFF;color:#222;font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
