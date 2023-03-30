@@ -24,8 +24,8 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-via6">   <br>CCA Day/s   </td>
-    <td class="tg-l3od">   <br>Mondays   </td>
+    <td class="tg-via6">CCA Day/s   </td>
+    <td class="tg-l3od">Mondays   </td>
   </tr>
   <tr>
     <td class="tg-via6">Time </td>
