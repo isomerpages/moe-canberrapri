@@ -28,7 +28,7 @@ description: ""
     
   </tr>
   <tr>
-    <td class="tg-7zrl">Honorary&nbsp;&nbsp;&nbsp;Secretary</td>
+    <td class="tg-7zrl">Honorary&nbsp;Secretary</td>
     <td class="tg-7zrl">Mr Terence Tan</td>
   </tr>
   <tr>
