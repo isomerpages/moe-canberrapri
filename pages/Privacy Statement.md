@@ -1,8 +1,9 @@
 ---
 title: Privacy Statement
-permalink: /privacy-statement/
+permalink: /privacy/
 description: ""
 ---
+
 
 1.    This is Canberra Primary School’s website. Thank you for examining our privacy statement.
 

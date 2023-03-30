@@ -21,11 +21,11 @@ third_nav_title: Our Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-cly1">ADMINISTRATION&nbsp;&nbsp;&nbsp;MANAGER</td>
+    <td class="tg-cly1">ADMINISTRATION&nbsp;MANAGER</td>
     <td class="tg-cly1">MDM THAM MEW FONG</td>
   </tr>
   <tr>
-    <td class="tg-cly1">ADMINISTRATION&nbsp;&nbsp;&nbsp;MANAGER</td>
+    <td class="tg-cly1">ADMINISTRATION&nbsp;MANAGER</td>
     <td class="tg-cly1">MDM LEE BOON GUEK</td>
   </tr>
   <tr>
@@ -76,23 +76,23 @@ third_nav_title: Our Staff
     <td class="tg-u3kn" colspan="2">ALLIED EDUCATORS</td>
   </tr>
   <tr>
-    <td class="tg-cly1">SCHOOL&nbsp;&nbsp;&nbsp;COUNSELLOR</td>
+    <td class="tg-cly1">SCHOOL&nbsp;COUNSELLOR</td>
     <td class="tg-cly1">MS CORLISSA SEAH YUN&nbsp;ZHI</td>
   </tr>
   <tr>
-    <td class="tg-cly1">SPECIAL&nbsp;&nbsp;&nbsp;EDUCATIONAL NEEDS OFFICER</td>
+    <td class="tg-cly1">SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</td>
     <td class="tg-cly1">MDM VAANI SHRI&nbsp;KANAKASABAI</td>
   </tr>
   <tr>
-    <td class="tg-cly1">SPECIAL&nbsp;&nbsp;&nbsp;EDUCATIONAL NEEDS OFFICER</td>
+    <td class="tg-cly1">SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</td>
     <td class="tg-cly1">MS AILEEN LIM </td>
   </tr>
   <tr>
-    <td class="tg-cly1">ALLIED&nbsp;&nbsp;&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
+    <td class="tg-cly1">ALLIED&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
     <td class="tg-cly1">MDM ROZI BTE ABDUL</td>
   </tr>
   <tr>
-    <td class="tg-cly1">ALLIED&nbsp;&nbsp;&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
+    <td class="tg-cly1">ALLIED&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
     <td class="tg-cly1">MS LEE JUN CHIEN</td>
   </tr>
 </tbody>

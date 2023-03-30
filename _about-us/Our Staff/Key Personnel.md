@@ -1,9 +1,10 @@
 ---
 title: Key Personnel
-permalink: /about-us/our-staff/permalink/
+permalink: /about-us/our-staff/keypersonnel/
 description: ""
 third_nav_title: Our Staff
 ---
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -132,7 +133,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-lboi">LT SCIENCE</td>
-    <td class="tg-lboi">MS&nbspCHIA SIEW CHIN</td>
+    <td class="tg-lboi">MS&nbsp;CHIA SIEW CHIN</td>
   </tr>
   <tr>
     <td class="tg-lboi">LT ENGLISH</td>
