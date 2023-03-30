@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-gjgb{background-color:#FFF;color:#323232;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-dp6c{background-color:#FFF;color:#323232;font-size:22px;text-align:left;vertical-align:top}
+.tg .tg-thuv{background-color:#FFF;color:#1A202C;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-joie{background-color:#FFF;color:#1A202C;font-size:22px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Mrs Cheryl Kong<br>Mrs Goh-Chun Wee Yin<br>Miss Yong Fah Yin<br>Mdm Gunasunthari Thangarajoo   </th>
+    <th class="tg-gjgb"><span style="color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-dp6c"><span style="color:#323232">Mrs Cheryl Kong</span><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Mondays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-thuv">   <br>CCA Day/s   </td>
+    <td class="tg-joie">   <br>Mondays   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>3.30 p.m. – 5.30 p.m.   </td>
+    <td class="tg-thuv">   <br>Time   </td>
+    <td class="tg-joie">3.30 p.m. – 5.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>Art Rooms 1 and 2   </td>
+    <td class="tg-thuv">   <br>Venue   </td>
+    <td class="tg-joie">Art Rooms 1 and 2</td>
   </tr>
 </tbody>
 </table>
