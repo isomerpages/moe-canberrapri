@@ -10,7 +10,7 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gjgb{background-color:#FFF;color:#323232;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fef1{background-color:#FFF;color:#323232;font-size:20px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-dp6c{background-color:#FFF;color:#323232;font-size:22px;text-align:left;vertical-align:top}
 .tg .tg-thuv{background-color:#FFF;color:#1A202C;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-joie{background-color:#FFF;color:#1A202C;font-size:22px;text-align:left;vertical-align:top}
@@ -18,7 +18,7 @@ third_nav_title: CCA
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-gjgb"><span style="color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-fef1"><span style="color:#323232">Teachers In-Charge   </span></th>
     <th class="tg-dp6c"><span style="color:#323232">Mrs Cheryl Kong</span><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
   </tr>
 </thead>
