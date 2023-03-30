@@ -10,30 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dtme{background-color:#FFF;color:#1A202C;font-size:22px;text-align:left;vertical-align:middle}
-.tg .tg-o2pv{background-color:#FFF;color:#323232;font-size:20px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-5ics{background-color:#FFF;color:#323232;font-size:22px;text-align:left;vertical-align:middle}
-.tg .tg-brrt{background-color:#FFF;color:#1A202C;font-size:22px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-o2pv"><span style="color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-5ics"><span style="color:#323232">Mrs Cheryl Kong</span><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
+    <th class="tg-ntp0"><span style="color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-y8at"><span style="color:#323232">Mrs Cheryl Kong</span><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-brrt">   <br>CCA Day/s   </td>
-    <td class="tg-dtme">   <br>Mondays   </td>
+    <td class="tg-via6">   <br>CCA Day/s   </td>
+    <td class="tg-l3od">   <br>Mondays   </td>
   </tr>
   <tr>
-    <td class="tg-brrt">Time </td>
-    <td class="tg-dtme">3.30 p.m. – 5.30 p.m.</td>
+    <td class="tg-via6">Time </td>
+    <td class="tg-l3od">3.30 p.m. – 5.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-brrt"> Venue   </td>
-    <td class="tg-dtme">Art Rooms 1 and 2</td>
+    <td class="tg-via6"> Venue   </td>
+    <td class="tg-l3od">Art Rooms 1 and 2</td>
   </tr>
 </tbody>
 </table>
