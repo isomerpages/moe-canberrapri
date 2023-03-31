@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Ms Azlynna Abdul Aziz, Ms Low Pei Yi &amp; Mdm Lalitha D/O Rajagopal   </th>
+    <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Ms Azlynna Abdul Aziz</span><br><span style="font-weight:normal;color:#323232">Ms Low Pei Yi</span><br><span style="font-weight:normal;color:#323232">Mdm Lalitha D/O Rajagopal</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Wednesdays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">CCA Day/s   </td>
+    <td class="tg-l3od">Wednesdays   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>3.30 p.m. – 5.30 p.m.   </td>
+    <td class="tg-via6">Time   </td>
+    <td class="tg-l3od">3.30 p.m. – 5.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>C5 and R1   </td>
+    <td class="tg-via6">Venue </td>
+    <td class="tg-l3od">C5 and R1</td>
   </tr>
 </tbody>
 </table>
