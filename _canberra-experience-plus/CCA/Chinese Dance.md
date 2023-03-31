@@ -10,30 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-apdk{background-color:#FFF;color:#484848;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-kwi2{background-color:#FFF;color:#323232;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-b35l{background-color:#FFF;color:#323232;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-z3yx{background-color:#FFF;color:#484848;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-749x{background-color:#FFF;color:#484848;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-hivq{background-color:#FFF;color:#484848;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kwi2"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-b35l"><span style="font-weight:normal;color:#323232">   </span><br><span style="font-weight:normal;color:#323232">Mdm   Bai Jie, Mdm Oh Mei Ling, Ms Tan Seow Fong   </span></th>
+    <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge</span></th>
+    <th class="tg-y8at">Mdm Bai Jie<br>Mdm Oh Mei Ling<br><span style="font-weight:normal;color:#323232">Ms Tan Seow Fong</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">CCA Day/s   </span></td>
-    <td class="tg-apdk">   <br>Friday   </td>
+    <td class="tg-749x">CCA Day/s</td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Friday</span></td>
   </tr>
   <tr>
-    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Time   </span></td>
-    <td class="tg-apdk">   <br>3.30   p.m. – 5.30 p.m.   </td>
+    <td class="tg-749x">Time</td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-z3yx"><span style="font-weight:bold">   </span><br><span style="font-weight:bold">Venue   </span></td>
-    <td class="tg-apdk">   <br>Dance   studio   </td>
+    <td class="tg-749x">Venue</td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Dance studio</span></td>
   </tr>
 </tbody>
 </table>
