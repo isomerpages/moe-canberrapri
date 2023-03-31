@@ -10,28 +10,28 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ixid{background-color:#FFF;color:#1A202C;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-qvu4{background-color:#FFF;color:#1A202C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-qvu4">Teachers In-Charge</th>
-    <th class="tg-ixid">Mr Benjamin Chan, Mr Ali Imran, Ms Sulaiha and Ms Shannon Yeo</th>
+    <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Benjamin Chan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Ali Imran</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Sulaiha</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Shannon Yeo</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qvu4">CCA Day/s</td>
-    <td class="tg-ixid">Mondays and Wednesdays</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Mondays and Wednesdays</span></td>
   </tr>
   <tr>
-    <td class="tg-qvu4">Time</td>
-    <td class="tg-ixid">3.30 p.m. – 5.30 p.m.</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-qvu4">Venue</td>
-    <td class="tg-ixid">Indoor Sports Hall</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Indoor Sports Hall</span></td>
   </tr>
 </tbody>
 </table>
