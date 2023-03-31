@@ -10,28 +10,28 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ixid{background-color:#FFF;color:#1A202C;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-qvu4{background-color:#FFF;color:#1A202C;font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-qvu4">Teachers In-Charge</th>
-    <th class="tg-ixid">Mrs Ong, Mrs Huang, Ms Keh and Mr Hin Hiang</th>
+    <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Ong-Tan Chok Wei</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Emily Huang</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Keh Wei Sze</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Hin Hiang Anthony</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-qvu4">CCA Day/s</td>
-    <td class="tg-ixid">Wednesdays</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Wednesdays</span></td>
   </tr>
   <tr>
-    <td class="tg-qvu4">Time</td>
-    <td class="tg-ixid">3.30 p.m. – 5.30 p.m.</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-qvu4">Venue</td>
-    <td class="tg-ixid">Teaching Lab</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Teaching Lab</span></td>
   </tr>
 </tbody>
 </table>
@@ -42,4 +42,4 @@ In Semester 1, students will be learning how to take care of community plants fr
 
 In Semester 2, the students will be learning how to create the Canberra Nature Bulletin, making their own terrarium and soap. They will also learn how to spot the different types of birds and insects, and how to recycle things.
 
-![](/images/Science&Environment(3).jpg)
+![](/images/Science&amp;Environment(3).jpg)
