@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Department/Character and Citizenship Education (CCE).md
       - Department/Aesthetics.md
       - Department/Mother Tongue Languages.md
       - Department/Science.md
