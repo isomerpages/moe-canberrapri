@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Department/English.md
       - Department/.keep
       - Mathematics.md
       - Science.md
