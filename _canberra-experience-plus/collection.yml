@@ -2,7 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Co Curricular activities (CCA)/Art Club.md
       - Co Curricular activities (CCA)/.keep
       - Department/.keep
       - Department/English.md
