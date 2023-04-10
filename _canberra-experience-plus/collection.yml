@@ -2,6 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
+      - Pupil's Spotlight.md
       - Co Curricular Activities (CCA)/.keep
       - Department/.keep
       - Department/English.md
