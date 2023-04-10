@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular Activities (CCA)/.keep
-      - Co Curricular activities (CCA)/.keep
       - Department/.keep
       - Department/English.md
       - Department/Mother Tongue Languages.md
