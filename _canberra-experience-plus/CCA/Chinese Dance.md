@@ -42,3 +42,7 @@ Chinese Dance is known for its incredible flips and spins, and its gentle elegan
 
 Chinese Dance CCA in Canberra Primary School has its own training in basic skills, physical expression and postures, leaps, flips, spins and other difficult tumbling techniques, forming an extensive and independent dance system. Chinese Dance CCA aims to develop in our members an appreciation of the arts with a strong emphasis on character development. We seek to nurture our dancers into confident and graceful individuals who are passionate about dancing.
 ![](/images/Chinese%20dance%20(2).png)
+
+![](/images/chinese%20dance%20new.jpeg)
+
+![](/images/chinese%20dance%20new%202.jpeg)
