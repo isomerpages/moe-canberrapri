@@ -49,3 +49,5 @@ Together with our nurturing teachers, we welcome all students to join us. No pri
 ![](/images/Band%202.jpg)
 
 ![](/images/Band%203.png)
+
+![](/images/concert%20band%20new.png)
