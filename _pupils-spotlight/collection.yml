@@ -1,0 +1,4 @@
+collections:
+  pupils-spotlight:
+    output: true
+    order: []
