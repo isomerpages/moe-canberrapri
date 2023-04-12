@@ -1,6 +1,6 @@
 ---
-title: Learn For Life
-permalink: /our-programmes/applied-learning-programme/learn-for-life/
+title: Learn For Life Programme
+permalink: /our-programmes/learn-for-life-programme/
 description: ""
 ---
 **Learn for Life Programme (LLP):** Immersing in Canberra Experience through Musical Theatre Education

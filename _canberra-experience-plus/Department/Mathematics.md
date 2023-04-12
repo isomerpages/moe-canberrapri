@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /our-programmes/Department/mathematics/
 description: ""
+third_nav_title: Department
 ---
 **Vision:** To nurture all Canberrians to have a lifelong passion for Mathematics.
 
@@ -28,4 +29,3 @@ In today’s complex environment, making informed and responsible decisions on t
 * Financial Literacy Programme
 * LSM and ICAN Programmes
 * E2K Programme
-

@@ -1,0 +1,6 @@
+collections:
+  pupils-spotlight:
+    output: true
+    order:
+      - 2022.md
+      - 2023.md

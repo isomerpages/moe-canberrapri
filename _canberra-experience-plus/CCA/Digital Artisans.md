@@ -10,31 +10,32 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1" colspan="2">&nbsp;&nbsp;&nbsp;<br>Mdm Zhang Jin Ling<br>&nbsp;&nbsp;&nbsp;<br>Mr Tan Weihan <br>&nbsp;&nbsp;&nbsp;<br>Ms Nurhuda Arsad<br>&nbsp;&nbsp;&nbsp;<br>Ms Lu Qiu Ning Claire<br>&nbsp;&nbsp;&nbsp;<br>Ms Wong Mun Ee<br>&nbsp;&nbsp;&nbsp;<br>Mdm Viji<br>&nbsp;&nbsp;&nbsp;<br>Mdm Farhana<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</th>
+    <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th colspan="2" class="tg-y8at">Mdm Zhang Jin Ling<br>Mr Tan Weihan<br>Ms Nurhuda Arsad<br>Ms Lu Qiu Ning Claire<br>Ms Wong Mun Ee<br>Mdm Viji<br>Mdm Farhana   </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Wednesday&nbsp;&nbsp;&nbsp;(P4 and P6)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Friday&nbsp;&nbsp;&nbsp;(P3 and P5)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">CCA Day/s   </td>
+    <td class="tg-l3od">Wednesday (P4 and P6)   </td>
+    <td class="tg-l3od">Friday (P3 and P5)   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5.30 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">Time   </td>
+    <td colspan="2" class="tg-l3od">3.30 p.m. – 5.30 p.m.   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 2 (P4) <br>&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 3 (P6)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 2 (P3) <br>&nbsp;&nbsp;&nbsp;<br>Computer&nbsp;&nbsp;&nbsp;Lab 3 (P5)&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">Venue   </td>
+    <td class="tg-l3od">Computer   Lab 2 (P4)<br>   <br>Computer   Lab 3 (P6)   </td>
+    <td class="tg-l3od">Computer   Lab 2 (P3)<br>   <br>Computer   Lab 3 (P5)   </td>
   </tr>
 </tbody>
 </table>

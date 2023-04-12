@@ -2,20 +2,23 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - English.md
-      - Mathematics.md
-      - Science.md
-      - Mother Tongue Languages.md
-      - Aesthetics.md
-      - Character and Citizenship Education (CCE).md
-      - Information Communication & Technology (ICT).md
-      - Physical Education.md
+      - Pupil's Spotlight.md
+      - Co Curricular Activities (CCA)/.keep
+      - Department/.keep
+      - Department/English.md
+      - Department/Mother Tongue Languages.md
+      - Department/Mathematics.md
+      - Department/Science.md
+      - Department/Aesthetics.md
+      - Department/Character and Citizenship Education (CCE).md
+      - Department/Information Communication & Technology (ICT).md
+      - Department/Physical Education.md
       - Faculty/.keep
       - Faculty/Faculty 1.md
       - Faculty/Faculty 2.md
       - Faculty/Faculty 3.md
-      - CCA/.keep
       - CCA/Art Club.md
+      - CCA/.keep
       - CCA/Badminton.md
       - CCA/Basketball.md
       - CCA/Brownies.md
@@ -34,6 +37,3 @@ collections:
       - CCA/Media Club.md
       - CCA/Science and Environment Club.md
       - CCA/Track and Field.md
-      - Pupils' Spotlight/.keep
-      - Pupils' Spotlight/2023.md
-      - Pupils' Spotlight/2022.md

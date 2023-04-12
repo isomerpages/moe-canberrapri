@@ -2,6 +2,7 @@
 title: Character and Citizenship Education (CCE)
 permalink: /departments/character-and-citizenship-education/
 description: ""
+third_nav_title: Department
 ---
 **Vision:** Caring Leaders, Responsible Citizens
 

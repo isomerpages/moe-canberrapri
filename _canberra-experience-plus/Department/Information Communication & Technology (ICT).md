@@ -2,6 +2,7 @@
 title: Information Communication & Technology (ICT)
 permalink: /our-programmes/department/information-communication-n-technology/
 description: ""
+third_nav_title: Department
 ---
 **Vision:**
 Future-Ready & Digitally Responsible Canberrians

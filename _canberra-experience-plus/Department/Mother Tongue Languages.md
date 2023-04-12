@@ -2,8 +2,8 @@
 title: Mother Tongue Languages
 permalink: /mother-tongue-language/
 description: ""
+third_nav_title: Department
 ---
-
 **Vision:** Our pupils will be passionate and lifelong learners of the Mother Tongue Language
 
 **Mission:** To create an environment where pupils will learn and apply the Mother Tongue Language effectively and confidently

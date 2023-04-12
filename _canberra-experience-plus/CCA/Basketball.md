@@ -10,28 +10,30 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Mr Lo Chien Chi, Ms Yip Mei Thim<br>Ms Fiona Lee Peilin, Ms Marilyn  <br>Mdm Han Xue Mei   </th>
+    <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Mr Lo Chien Chi</span><br><span style="font-weight:normal;color:#323232">Ms Yip Mei Thim</span><br><span style="font-weight:normal;color:#323232">Ms Fiona Lee Peilin</span><br><span style="font-weight:normal;color:#323232">Ms Marilyn</span><br><span style="font-weight:normal;color:#323232">Mdm Han Xue Mei</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>Mondays, Wednesdays and Friday   </td>
+    <td class="tg-via6">CCA Day/s   <br></td>
+    <td class="tg-l3od">Mondays, Wednesdays and Friday</td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>3.30 p.m. to 5.30 p.m.   </td>
+    <td class="tg-via6">Time   </td>
+    <td class="tg-l3od">3.30 p.m. to 5.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">   <br>The Ground (Basketball Court)   </td>
+    <td class="tg-via6">Venue   </td>
+    <td class="tg-l3od">The Ground (Basketball Court)</td>
   </tr>
 </tbody>
 </table>

@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+third_nav_title: Department
 ---
 **Vision:** Every Canberrians to love and appreciate the Arts
 

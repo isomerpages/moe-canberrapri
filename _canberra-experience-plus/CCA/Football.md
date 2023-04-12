@@ -10,28 +10,28 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-mcsk{background-color:#FFF;color:#1A202C;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ryel{background-color:#FFF;color:#1A202C;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-mcsk">Teachers In-Charge</th>
-    <th class="tg-ryel">Mr Vicknesh, Mr Gan, Mr Fauzy, Mr Lee</th>
+    <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Vicknesh</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Gan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Fauzy</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Jonathan Lee</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-mcsk">CCA Day/s</td>
-    <td class="tg-ryel">Wednesdays (P3&amp;4), Thursdays (P6), Fridays (P5)</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Wednesdays (P3&amp;4), Thursdays (P6), Fridays (P5)</span></td>
   </tr>
   <tr>
-    <td class="tg-mcsk">Time</td>
-    <td class="tg-ryel">3.30 p.m. – 5.30 p.m.</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
   </tr>
   <tr>
-    <td class="tg-mcsk">Venue</td>
-    <td class="tg-ryel">School Field</td>
+    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">School Field</span></td>
   </tr>
 </tbody>
 </table>
@@ -50,4 +50,3 @@ Through our school ICREST values, CPS football team members learn and practice:
 * Teamwork – Play with enthusiasm and influence the game with his actions.
 
 ![](/images/football(4).jpg)
-

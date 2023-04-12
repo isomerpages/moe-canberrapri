@@ -10,32 +10,33 @@ third_nav_title: CCA
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-x5q1{font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-vox4{font-size:16px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-ntp0{background-color:#FFF;color:#323232;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-y8at{background-color:#FFF;color:#323232;font-size:18px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Teachers In-Charge&nbsp;&nbsp;&nbsp;</th>
-    <th class="tg-x5q1">   <br>Ms Vidhiyalekshmi, Ms Marian   </th>
+    <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
+    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Ms Vidhiyalekshmi</span><br><span style="font-weight:normal;color:#323232">Ms Marian</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>CCA Day/s&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Wednesdays&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">CCA Day/s   </td>
+    <td class="tg-l3od">Wednesdays   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Time&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>3.30&nbsp;&nbsp;&nbsp;p.m. – 5 p.m.&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">Time   </td>
+    <td class="tg-l3od">3.30 p.m. – 5 p.m.   </td>
   </tr>
   <tr>
-    <td class="tg-vox4">&nbsp;&nbsp;&nbsp;<br>Venue&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-x5q1">&nbsp;&nbsp;&nbsp;<br>Recital&nbsp;&nbsp;&nbsp;Studio&nbsp;&nbsp;&nbsp;</td>
+    <td class="tg-via6">Venue   </td>
+    <td class="tg-l3od">Recital   Studio   </td>
   </tr>
 </tbody>
 </table>
-	
 The Indian Dance CCA aims to develop an appreciation for Indian classical and folk dance in our pupils through the learning of basic Bharatanatiyam steps. Consisting of pupils from Primary 3 to Primary 6, the Indian Dance CCA provides opportunities for the dancers to perform for school and national events. We look forward to growing from strength to strength as we forge ahead to greater heights!
 
 ![](/images/Indian%20Dance%20(1).png)
