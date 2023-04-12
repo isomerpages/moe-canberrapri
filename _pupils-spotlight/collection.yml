@@ -1,4 +1,5 @@
 collections:
   pupils-spotlight:
     output: true
-    order: []
+    order:
+      - 2023.md
