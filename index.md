@@ -12,7 +12,4 @@ sections:
         - title: Announcements
           description: Click here for announcements
           url: /agab-2023-and-mitt-2023/
-        - title: Quick Links
-          description: Click here for Quick Links
-          url: /quick-links/permalink/
 ---
