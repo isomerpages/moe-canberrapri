@@ -45,4 +45,3 @@ In Semester 2, the students will be learning how to create the Canberra Nature B
 ![](/images/Science&amp;Environment(3).jpg)
 
 ![](/images/bird%20watch.jpg)
-
