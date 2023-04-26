@@ -43,3 +43,7 @@ In Semester 1, students will be learning and applying Photography skills. They w
 In Semester 2, the students will be learning videography skills and use of the green screen. They will also be taught on how to edit their video for showcases. Media Club members will also be given opportunities to be student photographers during school events and encouraged to participate in the national competition
 
 ![](/images/mediaclub(1).jpeg)
+
+![](/images/media%20club%204.jpeg)
+
+![](/images/media%20club.jpeg)
