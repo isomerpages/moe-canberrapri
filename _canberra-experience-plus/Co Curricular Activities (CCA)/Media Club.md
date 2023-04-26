@@ -1,8 +1,8 @@
 ---
-title: Drama Club
-permalink: /our-ccas/Clubs-n-Societies/drama-club/
+title: Media Club
+permalink: /our-ccas/Clubs-n-Societies/media-club/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -17,7 +17,7 @@ third_nav_title: CCA
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Andrews</span><br><span style="background-color:#FFF">Ms Fazillah</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Kalay</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Liana</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Chang</span></th>
   </tr>
 </thead>
 <tbody>
@@ -31,19 +31,19 @@ third_nav_title: CCA
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">PAL Room</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Com Lab 2 and Com Lab 3</span></td>
   </tr>
 </tbody>
 </table>
 	
-The Drama Club members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. They get the opportunity to exhibit what they have mastered through various school-based performances and competitions. Our artists are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes. Each year, the Drama Club will showcase their performance in a school assembly programme.
+CPS Media Club aims to promote critical &amp; creative thinking skills as well as collaborative &amp; communication skills in students through photography and content/product creation. 
 
-In addition, the Drama Club has also started its own production – Say it Right with Drama Club. This series of skits are written by and directed by students. Students explore the use of technology, props and apply drama skills they have attained to put together a self-directed piece. 
+In Semester 1, students will be learning and applying Photography skills. They will also be doing 3D Design and Printing. 
 
-![](/images/drama(2).jpg)
+In Semester 2, the students will be learning videography skills and use of the green screen. They will also be taught on how to edit their video for showcases. Media Club members will also be given opportunities to be student photographers during school events and encouraged to participate in the national competition
 
-![](/images/drama%20new%202.jfif)
+![](/images/mediaclub(1).jpeg)
 
-![](/images/drama%20new%203.jfif)
+![](/images/media%20club%204.jpeg)
 
-![](/images/drama%20new%204.jfif)
+![](/images/media%20club.jpeg)

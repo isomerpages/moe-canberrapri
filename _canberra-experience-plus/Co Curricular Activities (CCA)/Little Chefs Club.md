@@ -2,7 +2,7 @@
 title: Little Chefs Club
 permalink: /our-ccas/Clubs-n-Societies/little-chefs-club/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -2,7 +2,7 @@
 title: Library Ambassadors Club
 permalink: /our-ccas/Clubs-n-Societies/library-ambassadors-club/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

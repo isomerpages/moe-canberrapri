@@ -1,8 +1,8 @@
 ---
-title: Indian Dance
-permalink: /our-ccas/Aesthetics/indian-dance/
+title: Brownies
+permalink: /our-ccas/Uniformed-Groups/brownies/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -19,7 +19,7 @@ third_nav_title: CCA
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Ms Vidhiyalekshmi</span><br><span style="font-weight:normal;color:#323232">Ms Marian</span></th>
+    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Ms Azlynna Abdul Aziz</span><br><span style="font-weight:normal;color:#323232">Ms Low Pei Yi</span><br><span style="font-weight:normal;color:#323232">Mdm Lalitha D/O Rajagopal</span></th>
   </tr>
 </thead>
 <tbody>
@@ -29,14 +29,23 @@ third_nav_title: CCA
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
-    <td class="tg-l3od">3.30 p.m. – 5 p.m.   </td>
+    <td class="tg-l3od">3.30 p.m. – 5.30 p.m.</td>
   </tr>
   <tr>
-    <td class="tg-via6">Venue   </td>
-    <td class="tg-l3od">Recital   Studio   </td>
+    <td class="tg-via6">Venue </td>
+    <td class="tg-l3od">C5 and R1</td>
   </tr>
 </tbody>
 </table>
-The Indian Dance CCA aims to develop an appreciation for Indian classical and folk dance in our pupils through the learning of basic Bharatanatiyam steps. Consisting of pupils from Primary 3 to Primary 6, the Indian Dance CCA provides opportunities for the dancers to perform for school and national events. We look forward to growing from strength to strength as we forge ahead to greater heights!
+	
+“I promise to do my best<br>
+To do my duty to God<br>
+To serve my country<br>
+And help other people<br>
+And to keep the Brownie Law.”
 
-![](/images/Indian%20Dance%20(1).png)
+As Brownies, we keep our Brownie Promise close to our hearts whenever we recite it with our Brownie Smiles. Not only that, we explore and discover the world around us to become more independent. To earn our badges, we learn new skills to try new and adventurous activities. We learn to work and play independently and also in teams. And along the way, we learn to care for each other and make lasting friendships.
+
+In 2022, we represented the Uniformed Groups in the CPS National Day Celebration. We also went on a 3-day Pack Holiday with the CPS Cub Scouts! Do come and join us!
+
+![](/images/brownies.png)

@@ -2,7 +2,7 @@
 title: Science and Environment Club
 permalink: /our-ccas/clubs-n-societies/science-and-environment/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,3 +43,5 @@ In Semester 1, students will be learning how to take care of community plants fr
 In Semester 2, the students will be learning how to create the Canberra Nature Bulletin, making their own terrarium and soap. They will also learn how to spot the different types of birds and insects, and how to recycle things.
 
 ![](/images/Science&amp;Environment(3).jpg)
+
+![](/images/bird%20watch.jpg)

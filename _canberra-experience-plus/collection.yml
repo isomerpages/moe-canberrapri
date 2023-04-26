@@ -2,8 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Pupil's Spotlight.md
-      - Co Curricular Activities (CCA)/.keep
       - Department/.keep
       - Department/English.md
       - Department/Mother Tongue Languages.md
@@ -17,23 +15,23 @@ collections:
       - Faculty/Faculty 1.md
       - Faculty/Faculty 2.md
       - Faculty/Faculty 3.md
-      - CCA/Art Club.md
-      - CCA/.keep
-      - CCA/Badminton.md
-      - CCA/Basketball.md
-      - CCA/Brownies.md
-      - CCA/Chinese Dance.md
-      - CCA/Choir.md
-      - CCA/Concert Band.md
-      - CCA/Cub Scouts.md
-      - CCA/Digital Artisans.md
-      - CCA/Drama Club.md
-      - CCA/Floorball.md
-      - CCA/Football.md
-      - CCA/Indian Dance.md
-      - CCA/Library Ambassadors Club.md
-      - CCA/Little Chefs Club.md
-      - CCA/Malay Dance.md
-      - CCA/Media Club.md
-      - CCA/Science and Environment Club.md
-      - CCA/Track and Field.md
+      - Co Curricular Activities (CCA)/Art Club.md
+      - Co Curricular Activities (CCA)/.keep
+      - Co Curricular Activities (CCA)/Badminton.md
+      - Co Curricular Activities (CCA)/Basketball.md
+      - Co Curricular Activities (CCA)/Brownies.md
+      - Co Curricular Activities (CCA)/Chinese Dance.md
+      - Co Curricular Activities (CCA)/Choir.md
+      - Co Curricular Activities (CCA)/Concert Band.md
+      - Co Curricular Activities (CCA)/Cub Scouts.md
+      - Co Curricular Activities (CCA)/Digital Artisans.md
+      - Co Curricular Activities (CCA)/Drama Club.md
+      - Co Curricular Activities (CCA)/Floorball.md
+      - Co Curricular Activities (CCA)/Football.md
+      - Co Curricular Activities (CCA)/Indian Dance.md
+      - Co Curricular Activities (CCA)/Library Ambassadors Club.md
+      - Co Curricular Activities (CCA)/Little Chefs Club.md
+      - Co Curricular Activities (CCA)/Malay Dance.md
+      - Co Curricular Activities (CCA)/Media Club.md
+      - Co Curricular Activities (CCA)/Science and Environment Club.md
+      - Co Curricular Activities (CCA)/Track and Field.md

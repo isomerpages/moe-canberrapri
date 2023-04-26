@@ -2,7 +2,7 @@
 title: Basketball
 permalink: /our-ccas/Sports/basketball/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

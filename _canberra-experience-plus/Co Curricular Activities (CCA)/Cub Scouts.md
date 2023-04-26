@@ -2,7 +2,7 @@
 title: Cub Scouts
 permalink: /our-ccas/Uniformed-Groups/cub-scouts/
 description: ""
-third_nav_title: CCA
+third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -50,3 +50,9 @@ In Semester 2, students will work towards attaining their Bronze and Silver Prog
 
 
 ![](/images/scout%205.jpg)
+
+![](/images/cub%20scout%201.jpeg)
+
+![](/images/cub%20scout%202.jpeg)
+
+![](/images/cub%20scout%203.jpeg)
