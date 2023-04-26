@@ -93,7 +93,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MS LEE HUI YI SHARON</td>
   </tr>
   <tr>
-    <td class="tg-cly1">MS Li XUE ER</td>
+    <td class="tg-cly1">MS LI XUE ER</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;3</td>
