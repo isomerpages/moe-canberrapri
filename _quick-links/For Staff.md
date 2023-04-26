@@ -10,13 +10,13 @@ description: ""
 * [iCON 2.0](icon.moe.edu.sg)
 * [iExams](https://iexams.moe.gov.sg/xe/login.do)
 * [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
-* [OPAC](https://schoolibrary.moe.edu.sg/canberrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+* [Online Public Access Catalog (OPAC)](https://schoolibrary.moe.edu.sg/canberrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg)
 * [Parents Gateway](https://pg.moe.edu.sg/)
 * [Resource Booking Service(RBS)](https://rbs.avero-tech.com/login.html)
 * [School Cockpit](https://schoolcockpit.moe.gov.sg/CP/scapp/security)
 * [School Cockpit Mobile](https://scmobile.moe.edu.sg/login)
-* [SERR](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+* [School eResource Repository (SERR)](https://schoolibrary.moe.edu.sg/eresourcespri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 **In-house Request and Service**
 <br>
