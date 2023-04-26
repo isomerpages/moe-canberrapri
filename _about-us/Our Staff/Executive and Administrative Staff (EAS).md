@@ -88,9 +88,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MS AILEEN LIM </td>
   </tr>
   <tr>
-    <td class="tg-cly1">ALLIED&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
-    <td class="tg-cly1">MDM ROZI BTE ABDUL</td>
-  </tr>
+      </tr>
   <tr>
     <td class="tg-cly1">ALLIED&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
     <td class="tg-cly1">MS LEE JUN CHIEN</td>
