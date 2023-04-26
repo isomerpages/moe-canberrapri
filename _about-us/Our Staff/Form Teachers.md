@@ -48,10 +48,10 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MRS&nbspPHYLLIS WAN</td>
+    <td class="tg-cly1">MRS PHYLLIS WAN</td>
   </tr>
   <tr>
-    <td class="tg-cly1">MDM ROZI BTE ABDUL</td>
+    <td class="tg-cly1">MR MOHD ALI IMRAN B MOHD SHUKRIE</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;5</td>
@@ -93,7 +93,7 @@ third_nav_title: Our Staff
     <td class="tg-cly1">MS LEE HUI YI SHARON</td>
   </tr>
   <tr>
-    <td class="tg-cly1">MR MOHD ALI IMRAN B MOHD SHUKRIE</td>
+    <td class="tg-cly1">MS Li XUE ER</td>
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;3</td>
@@ -112,7 +112,7 @@ third_nav_title: Our Staff
   </tr>
   <tr>
     <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MS TENG SING KWAN&nbsp;NATALIE</td>
+    <td class="tg-cly1">MS CHAI MING SEI</td>
   </tr>
   <tr>
     <td class="tg-cly1">MS YONG FAH YIN</td>
