@@ -43,3 +43,6 @@ In Semester 1, students will be learning how to take care of community plants fr
 In Semester 2, the students will be learning how to create the Canberra Nature Bulletin, making their own terrarium and soap. They will also learn how to spot the different types of birds and insects, and how to recycle things.
 
 ![](/images/Science&amp;Environment(3).jpg)
+
+![](/images/bird%20watch.jpg)
+
