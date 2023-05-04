@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-us/permalink/
+permalink: /contact-us/permalink/
 description: ""
 ---
 Canberra Primary School<br>
