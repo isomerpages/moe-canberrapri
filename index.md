@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/st1 pic 1.JPG
+      background: /images/landing page cps.gif
       key_highlights:
         - title: Announcements
           description: Click here for announcements
