@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Canberraprimary.gif
+      background: /images/st1 pic 1.JPG
       key_highlights:
         - title: Announcements
           description: Click here for announcements
