@@ -40,3 +40,9 @@ third_nav_title: Co Curricular Activities (CCA)
 The Indian Dance CCA aims to develop an appreciation for Indian classical and folk dance in our pupils through the learning of basic Bharatanatiyam steps. Consisting of pupils from Primary 3 to Primary 6, the Indian Dance CCA provides opportunities for the dancers to perform for school and national events. We look forward to growing from strength to strength as we forge ahead to greater heights!
 
 ![](/images/Indian%20Dance%20(1).png)
+
+<div class="bp-youtube">
+	
+
+	
+</div>
