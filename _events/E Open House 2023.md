@@ -48,6 +48,7 @@ Join us to discover how we foster a harmonious synergy between the joy of play a
 
 Beyond Our Classroom
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SNcHjy6DmTg" height="315" width="560"></iframe>
 
 Experience the Magic of Learning Beyond the Classroom where our pupils immerse themselves in enriching activities that ignite their curiosity and expand their horizons. Join us on this captivating journey and witness the wonders that await beyond the classroom. Click on the video to discover the magic of learning that transcends traditional boundaries.<br>
 <hr>
