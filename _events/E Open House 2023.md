@@ -41,7 +41,7 @@ _________________________________________________________
 
 Powering through Sports
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/VmxHhMcBuTc" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/HDKod3lDaAA" height="315" width="560"></iframe>
 
 Join us to discover how we foster a harmonious synergy between the joy of play and the power of physical education, creating an environment where our pupils can unleash their full potential in sports while staying safe and active. Click now and embark on a journey where play and learning go hand in hand, inspiring our young learners to reach new heights.<br>
 _________________________________________________________
