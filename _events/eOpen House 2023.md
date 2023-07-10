@@ -51,6 +51,3 @@ Beyond Our Classroom
 
 Experience the Magic of Learning Beyond the Classroom where our pupils immerse themselves in enriching activities that ignite their curiosity and expand their horizons. Join us on this captivating journey and witness the wonders that await beyond the classroom. Click on the video to discover the magic of learning that transcends traditional boundaries.
 _________________________________________________________
-
-
-
