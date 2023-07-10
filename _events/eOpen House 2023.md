@@ -5,4 +5,52 @@ description: ""
 ---
 ![](/images/living%20the%20dream.png)
 
-Click [here!](https://cps-openhouse-2023.my.canva.site/)
+Welcome to Canberra Primary School E-Open House 2023. You will get to see how our pupils embark on the Canberra Experience Plus and how each journey has instilled our pupils with the ICREST values. You will also discover how our programmes in the different faculties have supported our pupils in their holistic development. So, what are you waiting for? Scroll on down.
+_________________________________________________________
+
+Faculty 1<br>
+Discovering the Joy of Learning
+
+https://youtu.be/OXQFmIkn0I4
+
+Check out the bubbling excitement of our little Primary 1 and 2 discoverers as they traverse a myriad of specially-curated learning terrains and discover what dazzles and delights their young hearts. ‘Know Your Part’ is the motto for our Care and Responsibility levels.
+_________________________________________________________
+
+Faculty 2 <br>
+Growing Passion and Interest
+
+https://youtu.be/l7OP_-fMMms
+
+Embracing the joy of learning, our Primary 3 and 4 pupils continue to develop their passions and interests. As attuned learners, they seek to find meanings, values and connection in their learning experiences. Let’s check out how they ‘Level Up’ through Self-discipline and Teamwork in the video.
+_________________________________________________________
+
+Faculty 3<br>
+Becoming Future Ready Citizens
+
+
+
+Building on a strong foundation of values and talents, our Primary 5 and 6 pupils learn to collaborate creatively by building trusted communities. As they ‘Capture the Moment’ through Innovation and Excellence, our pupils grow to become Global Learners- ready for the future. Join them in their journey.
+_________________________________________________________
+
+Immersing in the Arts
+
+https://youtu.be/It1m-LPtc4k
+
+Witness the power of the arts as our pupils cultivate lively curiosity, foster innovative thinking, and unleash their unique artistic abilities. Discover how our pupils embark on a captivating journey of self-discovery, bringing their imagination and wonder to life. Click on the video and join us on this adventure of creativity and self-expression.
+_________________________________________________________
+
+Powering through Sports
+
+https://youtu.be/VmxHhMcBuTc
+
+Join us to discover how we foster a harmonious synergy between the joy of play and the power of physical education, creating an environment where our pupils can unleash their full potential in sports while staying safe and active. Click now and embark on a journey where play and learning go hand in hand, inspiring our young learners to reach new heights.
+_________________________________________________________
+
+Beyond Our Classroom
+
+
+Experience the Magic of Learning Beyond the Classroom where our pupils immerse themselves in enriching activities that ignite their curiosity and expand their horizons. Join us on this captivating journey and witness the wonders that await beyond the classroom. Click on the video to discover the magic of learning that transcends traditional boundaries.
+_________________________________________________________
+
+
+
