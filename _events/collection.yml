@@ -2,5 +2,5 @@ collections:
   events:
     output: true
     order:
-      - eOpen House 2023.md
+      - E Open House 2023.md
       - e–Open House 2022.md
