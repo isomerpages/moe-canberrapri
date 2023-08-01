@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - School Bus Advertisement.md
       - For Pupils.md
       - For Parents/.keep
       - For Parents/Home Based Learning (HBL).md
