@@ -17,6 +17,9 @@ Website: [www.oapl.sg](www.oapl.sg) <br>
 Tel: 8511 1851 (Mr Nick Goh)<br>
 [School Bus Registration Form](/files/Bus%20Registration%20Form%20for%202022%20Updated.pdf) may be downloaded here.
 
+[School Bus Service Provider 2024](/files/school%20bus%20operator(cps)%202024.pdf)
+
+
 **Uniform Supplier:** <br>
 *Chop Kong Chong*<br>
 604 Sembawang Road #02-13
