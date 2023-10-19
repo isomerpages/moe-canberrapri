@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - President's Award for Teachers 2024.md
       - AGAB 2023.md
       - Distinguished CL Teachers Awards 2023.md
       - MITT 2023.md
