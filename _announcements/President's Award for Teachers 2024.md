@@ -5,4 +5,4 @@ description: ""
 ---
 ![](/images/pat%202024%20website%20publicity%20image.gif)
 
-[Nominate Online](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
+[Click here to nominate online](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
