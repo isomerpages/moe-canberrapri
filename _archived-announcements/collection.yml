@@ -1,4 +1,5 @@
 collections:
   archived-announcements:
     output: true
-    order: []
+    order:
+      - AGAB 2023.md
