@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /folders/announcements/
+          url: /announcements/
 ---
