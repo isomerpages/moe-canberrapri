@@ -14,8 +14,8 @@ Website: [www.oapl.sg](www.oapl.sg) <br>
 
 **School Bus:** <br>
 *L &amp; W Transport Services Pte Ltd*<br>
-Tel: 8511 1851 (Mr Nick Goh)<br>
-[School Bus Registration Form](/files/Bus%20Registration%20Form%20for%202022%20Updated.pdf) may be downloaded here.
+Tel: 8404 7323 (Ms Lynn)<br>
+[School Bus Registration Form](/files/bus%20registration%20form%20for%202024%20final.pdf) may be downloaded here.
 
 [School Bus Service Provider 2024](/files/cps%20website%20school%20bus%20operator%202024.pdf)
 
