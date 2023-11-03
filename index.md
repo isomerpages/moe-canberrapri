@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for announcements
-          url: /agab-2023-and-mitt-2023/
+          url: /folders/announcements/
 ---
