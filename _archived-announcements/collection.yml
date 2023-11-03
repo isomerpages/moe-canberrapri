@@ -1,7 +1,0 @@
-collections:
-  archived-announcements:
-    output: true
-    order:
-      - MITT 2023.md
-      - Distinguished CL Teachers Awards 2023.md
-      - AGAB 2023.md
