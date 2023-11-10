@@ -2,6 +2,7 @@
 title: Our Service Providers
 permalink: /our-school/service-providers/
 description: ""
+variant: markdown
 ---
 # Service Providers
 
@@ -10,7 +11,7 @@ description: ""
 T: 6382 6789<br>
 F: 6382 9537    
 Website: [www.oapl.sg](www.oapl.sg) <br>
-[Primary 1 Booklist](/files/P1%20Booklists%20for%202022_CPS.pdf) may be downloaded here
+[Primary 1 Booklist](/files/Booklist_2024_CBP_P1.pdf) may be downloaded here
 
 **School Bus:** <br>
 *L &amp; W Transport Services Pte Ltd*<br>
@@ -28,7 +29,7 @@ Singapore 758459<br>
 Tel: 6753 1489<br>
 Opening Hours: 11.30 am to 8.30 pm
 Website: [https://www.euniforms.com.sg/shop](https://www.euniforms.com.sg/shop)/<br>
-Click [here](/files/school%20uniform.pdf)  for Dates of Year-end Uniform Sales/Collection in School
+Click [here](/files/2023_Uniform_Sales_Dates.pdf)  for Dates of Year-end Uniform Sales/Collection in School
 
 **School Dental Clinic**<br>
 Tel: 8518 7211
