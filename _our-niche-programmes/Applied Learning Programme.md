@@ -22,10 +22,7 @@ Foundation Stage: Start Young Start It Right – Curating My Learning
 *   Provide students with a connected learning experience, enhanced by the integration of ICT using their PLDs in authentic learning settings and by harnessing coding that enables computational thinking for problem solving 
 *   Inculcate habits and values of learning with PLDs into our students, thereby developing their 21st Century Competencies and Digital Literacy Skills
 
-<img src="/images/ALP(new).png" style="width:75%"><br>
-
-![](/images/ALP.PNG)
-
+![](/images/ALP_2.PNG)
 
 Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 * Continue students’ technology-enabled applied learning journey with production-centered learning and by leveraging digital media and communication elements to engage and influence
