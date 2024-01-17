@@ -32,9 +32,6 @@ Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 <img src="/images/Parkour_Game___Cospaces.jpeg" style="width:75%"><br>
 <img src="/images/Electronic_E_Waste__sorter.jpeg" style="width:75%"><br>
 
-![](/images/Parkour_Game___Cospaces.jpeg)
-
-![](/images/Electronic_E_Waste__sorter.jpeg)
 ALP Key Programmes:
 * Coding with ScratchJr, Sphero
 * Mobile App Development
