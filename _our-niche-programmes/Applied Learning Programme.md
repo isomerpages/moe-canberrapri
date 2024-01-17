@@ -21,8 +21,7 @@ Foundation Stage: Start Young Start It Right – Curating My Learning
 *   Equip students with Personal Learning Devices (PLDs) as a technology enabler to deliver the school and applied learning outcomes
 *   Provide students with a connected learning experience, enhanced by the integration of ICT using their PLDs in authentic learning settings and by harnessing coding that enables computational thinking for problem solving 
 *   Inculcate habits and values of learning with PLDs into our students, thereby developing their 21st Century Competencies and Digital Literacy Skills
-
-![](/images/ALP_2.PNG)
+<img src="/images/ALP_2.PNG" style="width:75%"><br>
 
 Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 * Continue students’ technology-enabled applied learning journey with production-centered learning and by leveraging digital media and communication elements to engage and influence
