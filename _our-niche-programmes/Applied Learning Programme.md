@@ -32,6 +32,9 @@ Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 * Broaden opportunities for students to discover their interests and talents, develop life skills, a sense of curiosity and a love for learning
 * Bridge students’ continual learning into secondary school
 
+<img src="/images/Parkour_Game___Cospaces.jpeg" style="width:75%"><br>
+<img src="/images/Electronic_E_Waste__sorter.jpeg" style="width:75%"><br>
+
 ![](/images/Parkour_Game___Cospaces.jpeg)
 
 ![](/images/Electronic_E_Waste__sorter.jpeg)
