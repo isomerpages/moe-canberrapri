@@ -16,6 +16,7 @@ Our school’s programmes are geared towards ensuring Canberrians are developed 
 
 To better support our students in learning, we have been upgrading our facilities to create a more conducive and vibrant learning environment. Some improvements made include renovating our school library, affectionately known as Canberra Cove, outdoor learning areas such as the Learning Oasis as well as collaborative learning hubs. To facilitate our students exploring, creating and discovering, the ‘Just Play’ initiative was started, providing them with play areas to boost their physical, social and emotional development. Moving ahead, we will look into enhancing the school environment to optimise learning and provide opportunities for students to explore their creative talents, and to build their social and emotional competencies.
 
-We look forward to working with all our stakeholders, especially parents, to support the growth and development of our students in their pursuit of excellence. 
+We look forward to working with all our stakeholders, especially parents, to support the growth and development of our students in their pursuit of excellence.
 
+![](/images/DSC00723___Copy.JPG)
 
