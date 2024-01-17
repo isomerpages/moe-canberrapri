@@ -23,6 +23,10 @@ Foundation Stage: Start Young Start It Right – Curating My Learning
 *   Inculcate habits and values of learning with PLDs into our students, thereby developing their 21st Century Competencies and Digital Literacy Skills
 
 <img src="/images/ALP(new).png" style="width:75%"><br>
+
+![](/images/ALP.PNG)
+
+
 Orientation Stage: Orientation to Future Learning – Ready for Tomorrow
 * Continue students’ technology-enabled applied learning journey with production-centered learning and by leveraging digital media and communication elements to engage and influence
 * Broaden opportunities for students to discover their interests and talents, develop life skills, a sense of curiosity and a love for learning
