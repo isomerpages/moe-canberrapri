@@ -1,0 +1,7 @@
+collections:
+  announcements:
+    output: true
+    order:
+      - Outstanding Youth in Education Award 2024.md
+      - President's Award for Teachers 2024.md
+      - Parent Volunteer Scheme (2025 P1 Intake).md

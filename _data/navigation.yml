@@ -1,0 +1,21 @@
+logo: /images/cps1.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Canberra Experience Plus
+    collection: canberra-experience-plus
+  - title: Our Niche Programme
+    url: /our-niche-programme
+    sublinks:
+      - title: Applied Learning Programme
+        url: /our-programmes/applied-learning-programme
+      - title: Learn For Life Programme
+        url: /our-programmes/learn-for-life-programme/
+  - title: Pupils' Spotlight
+    collection: pupils-spotlight
+  - title: Events
+    collection: events
+  - title: Quick Links
+    collection: quick-links
+  - title: Contact Us
+    url: /contact-us/permalink/
