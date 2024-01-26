@@ -176,6 +176,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>YEAR HEAD (FACULTY 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LEE HUI TING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YEAR HEAD (FACULTY 3)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -188,14 +196,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM MARDIANA BTE MOHD&nbsp;AMIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ASSISTANT YEAR HEAD (FACULTY 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LEE HUI TING</p>
 </td>
 </tr>
 <tr>
