@@ -99,14 +99,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS&nbsp;SIN&nbsp;HUI&nbsp;ZHENG&nbsp;KAREN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH ENGLISH</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -131,14 +123,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS SAM HUI JUN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH SCIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -159,6 +143,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MR MOHAMMAD FARID&nbsp;WAHYUNI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH SWB</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS SAM HUIJUN</p>
 </td>
 </tr>
 <tr>
