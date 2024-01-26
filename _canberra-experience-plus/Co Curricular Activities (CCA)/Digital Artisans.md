@@ -20,22 +20,22 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th colspan="2" class="tg-y8at">Mdm Zhang Jin Ling<br>Mr Tan Weihan<br>Ms Nurhuda Arsad<br>Ms Lu Qiu Ning Claire<br>Ms Wong Mun Ee<br>Mdm Viji<br> Mdm Farhana  </th>
+    <th colspan="2" class="tg-y8at">Mdm Zhang Jin Ling<br>Mr Tan Weihan<br>Ms Nurhuda Arsad<br>Ms Lu Qiu Ning Claire<br>Ms Wong Mun Ee<br>Mdm Viji<br> Mdm Han Xue Mei </th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-via6">CCA Day/s   </td>
-    <td class="tg-l3od">Wednesday(P3 and P6) and Friday(P4 and P5) </td>
+    <td class="tg-l3od">Wednesday </td>
     <td class="tg-l3od">  </td>
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
-    <td colspan="2" class="tg-l3od">3.30 p.m. – 5.30 p.m.   </td>
+    <td colspan="2" class="tg-l3od">2.30 p.m. – 4.30 p.m.   </td>
   </tr>
   <tr>
     <td class="tg-via6">Venue   </td>
-    <td class="tg-l3od">Computer Lab 2(P3 and P4)<br>Computer   Lab 3 (P5 and P6)<br>   </td>
+    <td class="tg-l3od">Collaborative Learning Hub 2 (P4)<br>Computer   Lab 3 (P5)<br>T1 Classroom (P6)   </td>
     <td class="tg-l3od"> <br> <br>  <br> <br>   </td>
   </tr>
 </tbody>
