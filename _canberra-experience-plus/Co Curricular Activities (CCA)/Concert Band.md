@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /our-ccas/Aesthetics/concert-band/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -19,17 +20,17 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Miss Siti Maisarah</span><br><span style="font-weight:normal;color:#323232">Mdm Yvonne Khoe</span><br><span style="font-weight:normal;color:#323232">Mrs Sam Huijun</span><br><span style="font-weight:normal;color:#323232">Mdm Kuek Hwee San</span></th>
+    <th class="tg-y8at"><br><span style="font-weight:normal;color:#323232">Mdm Yvonne Khoe</span><br><span style="font-weight:normal;color:#323232">Mrs Sam Huijun</span><br><span style="font-weight:normal;color:#323232">Mdm Kuek Hwee San</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-via6">CCA Day/s   </td>
-    <td class="tg-l3od">Mondays and Wednesdays</td>
+    <td class="tg-l3od">Wednesday</td>
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
-    <td class="tg-l3od">2.30 p.m. to 5.30 p.m.</td>
+    <td class="tg-l3od">2.30 p.m. to 4.30 p.m.</td>
   </tr>
   <tr>
     <td class="tg-via6">Venue   </td>

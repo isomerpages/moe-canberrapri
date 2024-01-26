@@ -3,326 +3,563 @@ title: Form Teachers
 permalink: /about-us/Our-Staff/permalink/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-u3kn{background-color:#f38630;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-b7il{background-color:#f8a102;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-u3kn">CLASS</th>
-    <th class="tg-u3kn">FORM TEACHERS</th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-b7il" colspan="2">FACULTY 1</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MS FAZILLAH BINTE ABU&nbsp;BAKAR</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM KUEK HWEE SAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MS SULAIHA BINTE&nbsp;;ABDUL AZI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM WONG MUN EE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MS HANISAH BINTE MOHD&nbsp;JAILANI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS YIP MEI THIM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MRS PHYLLIS WAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR MOHD ALI IMRAN B MOHD SHUKRIE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MDM LALITHA D/O&nbsp;RAJAGOPAL</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS LOW PEI YI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MRS KOMATHI SURESH</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS LU QIU NING CLAIRE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;7</td>
-    <td class="tg-cly1">MDM&nbsp;KHOE MOO SHIH YVONNE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM NURLIANA BTE AB RAHIM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">CARE&nbsp;&nbsp;&nbsp;8</td>
-    <td class="tg-cly1">MRS CHERYL KONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM ZHANG JINLING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MS AZLYNNA BTE ABDUL&nbsp;AZIZ</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM WONG HUOY CHYN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MS LEE HUI YI SHARON</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS LI XUE ER</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MRS KAVITHA ANDREW</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">
-			MDM&nbsp;LINA&nbsp; JULIANNA BTE&nbsp; MARGINI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MRS KALAY</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS YEO SHI ER SHANNON</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MS CHAI MING SEI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS YONG FAH YIN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MR MOHAMED FAUZY BIN&nbsp;KASDI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM TAN YI LING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;7</td>
-    <td class="tg-cly1">MR HUANG GUORONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM MARDIANA BTE MOHD AMIN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">RESPONSIBILITY&nbsp;&nbsp;&nbsp;8</td>
-    <td class="tg-cly1">MS KEH WEI SZE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR MOHAMMAD FARID WAHYUNI</td>
-  </tr>
-  <tr>
-    <td class="tg-b7il" colspan="2">FACULTY 2</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE A1</td>
-    <td class="tg-cly1">MS SITI ZULAIKA BINTE&nbsp;SALLEH</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR TAN WEIHAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE L1</td>
-    <td class="tg-cly1">MS&nbsp;CHIA SIEW CHIN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR GAN TIONG BEE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE L2</td>
-    <td class="tg-cly1">MR BENJAMIN CHAN ZHEN&nbsp;YI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS MARILYN KUMAR</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE R1</td>
-    <td class="tg-cly1">MR HIN HIANG ANTHONY</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS TUNG BEE GEOK</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="3">SELF-DISCIPLINE R2</td>
-    <td class="tg-cly1">MS LEE PEILIN FIONA</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR PORAYATH RAAKESH MENON</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS TAN SEOW FONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">SELF-DISCIPLINE S1</td>
-    <td class="tg-cly1">MR MUHAMMAD HAIRI B&nbsp;MOHAMAD</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS SITI MAISARAH BTE MOHD IDRIS</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;A1</td>
-    <td class="tg-cly1">MDM CHANG KAI LEE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR KASNI BIN KASIM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;L1</td>
-    <td class="tg-cly1">MDM BAI JIE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MRS HAKIM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;L2</td>
-    <td class="tg-cly1">MR LEE ERN HUI,&nbsp;&nbsp;&nbsp;JONATHAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS LEE HUI TING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;R1</td>
-    <td class="tg-cly1">MR LO CHIEN-CHI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS MARGARETH CHEN SHIH PING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;R2</td>
-    <td class="tg-cly1">MDM ARUMUGAM VIJI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MRS ONG-TAN CHOK WEI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">TEAMWORK&nbsp;&nbsp;&nbsp;S1</td>
-    <td class="tg-cly1">MDM NUR AZEAN BTE&nbsp;JUMAHAT</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS SIN HUI ZHENG KAREN</td>
-  </tr>
-  <tr>
-    <td class="tg-b7il" colspan="2">FACULTY 3</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MRS EMILY HUANG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM ZAWIYAH BTE KOSMAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MS VIDHIYALEKSHMI&nbsp;KRISHNAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MRS YVONNE CHONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MS LIOW PEI XIAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MRS SEBASTIAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MS CHOI POH QUIN SAM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS MARIAN&nbsp;ALPHONSE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="3">INNOVATION&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MRS&nbsp;GOH WEE YIN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM KUEK SOO PENG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM SITI FARHANA BINTE HAMID</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">INNOVATION&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MR MAZLEE BIN&nbsp;MUHARRAM</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM OH MEI LING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;1</td>
-    <td class="tg-cly1">MRS CHONG SHIYUN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS WONG HUI XUAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;2</td>
-    <td class="tg-cly1">MDM LEE FUI LING</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR TAN KENG&nbsp;&nbsp;&nbsp;HONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;3</td>
-    <td class="tg-cly1">MDM HARYANTIE BINTE&nbsp;MUSTAFA</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM NOORAZURA BINTE AHMAT</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="3">EXCELLENCE&nbsp;&nbsp;&nbsp;4</td>
-    <td class="tg-cly1">MDM GUNASUNTHARI&nbsp;THANGARAJOO</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MDM HAN XUEMEI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MRS RUTH LIEW</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="3">EXCELLENCE&nbsp;&nbsp;&nbsp;5</td>
-    <td class="tg-cly1">MDM AW LILIAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MS LEE JUN CHIEN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR VICKNESHSWAREN S/O KRISHNAN BALAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1" rowspan="2">EXCELLENCE&nbsp;&nbsp;&nbsp;6</td>
-    <td class="tg-cly1">MS NURHUDA BINTE&nbsp;ARSAD</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">MR RAHMAT BIN MUHAMMAD</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CLASS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>FORM TEACHERS</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>FACULTY 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHANG KAI LEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>FAZILLAH BINTE ABU BAKAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOE MOO SHIH YVONNE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LI XUE ER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOONG PIK HUEI DENISE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEH WEI SZE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LALITHA D/O RAJAGOPAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO SHI ER SHANNON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YONG FAH YIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZAWIYAH BTE KOSMAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAN XUEMEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HASLINDA BTE IBRAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMY NATALIA BINTE ABDUL NASIR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARDIANA BTE MOHD AMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAVITHA D/O CHELLIAH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN YI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AZLYNNA BTE ABDUL AZIZ</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KUEK HWEE SAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHD ALI IMRAN B MOHD SHUKRIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SULAIHA BINTE ABDUL AZI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANISAH BINTE MOHD JAILANI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YIP MEI THIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH SWEE LIN PHYLLIS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SITI ZULAIKA BINTE SALLEH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW PEI YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN SHI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOMATHI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU QIU NING CLAIRE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MOHAMED FAUZY BIN KASDI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOHAMMAD FARID WAHYUNI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURLIANA BTE AB RAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE ERN HUI, JONATHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG JINLING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>FACULTY 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN ZHEN YI BENJAMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO XUE HUA GRACE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE HUI YI SHARON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIOW PEI XIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AW LILIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KASNI BIN KASIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE HUI TING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SIN HUI ZHENG KAREN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE PEILIN FIONA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAZLEE BIN MUHARRAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOID POOI YEIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN SHIH PING MARGARETH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR AZEAN BTE JUMAHAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN WEIHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA SIEW CHIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GAN TIONG BEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAI MING SEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARILYN KUMAR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HIN HIANG ANTHONY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LINA JULIANNA BTE MARGINI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PORAYATH RAAKESH MENON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN CHOK WEI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>TEAMWORK&nbsp;&nbsp;&nbsp;6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MARIAN ALPHONSE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NURHUDA BINTE ARSAD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>FACULTY 3</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUNASUNTHARI THANGARAJOO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NOORAZURA BINTE AHMAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN SIAW THON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE FUI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BAI JIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARYANTIE BINTE MUSTAFA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG MUN EE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BUVENESWARI D/O SUBRAMANIAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MUHAMMAD HAIRI B MOHAMAD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM YEE PING RUTH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VICKNESHSWAREN S/O KRISHNAN BALAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>INNOVATION&nbsp;&nbsp;&nbsp;6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NURUL JANNAH BINTE ANUAR KHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAHMAT BIN MUHAMMAD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QUEK PEI WEN EMILY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN KENG HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN GEK LING YVONNE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIDHIYALEKSHMI KRISHNAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VINCY D/O LAZARUS RAJU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG HUOY CHYN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARUMUGAM VIJI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHOI POH QUIN SAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUN WEE YIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SITI FARHANA BINTE HAMID</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>EXCELLENCE&nbsp;&nbsp;&nbsp;6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HU HUIJUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OH MEI LING</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

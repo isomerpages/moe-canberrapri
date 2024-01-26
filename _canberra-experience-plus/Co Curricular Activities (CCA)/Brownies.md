@@ -3,6 +3,7 @@ title: Brownies
 permalink: /our-ccas/Uniformed-Groups/brownies/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -29,7 +30,7 @@ third_nav_title: Co Curricular Activities (CCA)
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
-    <td class="tg-l3od">3.30 p.m. – 5.30 p.m.</td>
+    <td class="tg-l3od">2.30 p.m. – 4.30 p.m.</td>
   </tr>
   <tr>
     <td class="tg-via6">Venue </td>

@@ -3,6 +3,7 @@ title: Football
 permalink: /our-ccas/Sports/football/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,11 +24,11 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Wednesdays (P3&amp;4), Thursdays (P6), Fridays (P5)</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Wednesdays </span></td>
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.00 p.m. – 5.00 p.m.</span></td>
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>

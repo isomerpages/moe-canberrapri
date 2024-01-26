@@ -2,7 +2,6 @@
 title: Malay Dance
 permalink: /our-ccas/Aesthetics/malay-dance/
 description: ""
-third_nav_title: Co Curricular Activities (CCA)
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
