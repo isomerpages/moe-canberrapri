@@ -3,6 +3,7 @@ title: Basketball
 permalink: /our-ccas/Sports/basketball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -19,17 +20,17 @@ third_nav_title: Co Curricular Activities (CCA)
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Mr Lo Chien Chi</span><br><span style="font-weight:normal;color:#323232">Ms Yip Mei Thim</span><br><span style="font-weight:normal;color:#323232">Ms Fiona Lee Peilin</span><br><span style="font-weight:normal;color:#323232">Ms Marilyn</span><br><span style="font-weight:normal;color:#323232">Mdm Han Xue Mei</span></th>
+    <th class="tg-y8at"><span style="font-weight:normal;color:#323232">Ms Yip Mei Thim</span><br><span style="font-weight:normal;color:#323232">Ms Fiona Lee Peilin</span><br><span style="font-weight:normal;color:#323232">Ms Marilyn</span><br><span style="font-weight:normal;color:#323232">Mdm Han Xue Mei</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-via6">CCA Day/s   <br></td>
-    <td class="tg-l3od">Mondays, Wednesdays and Friday</td>
+    <td class="tg-l3od">Wednesdays </td>
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
-    <td class="tg-l3od">3.30 p.m. to 5.30 p.m.</td>
+    <td class="tg-l3od">2.30 p.m. to 4.30 p.m.</td>
   </tr>
   <tr>
     <td class="tg-via6">Venue   </td>
