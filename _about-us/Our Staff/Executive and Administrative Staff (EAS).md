@@ -3,95 +3,148 @@ title: Executive and Administrative Staff (EAS)
 permalink: /our-school/our-staff/nonteachingstaff/
 description: ""
 third_nav_title: Our Staff
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-u3kn{background-color:#f38630;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-u3kn" colspan="2">SCHOOL   ADMINISTRATIVE TEAM</th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-cly1">ADMINISTRATION&nbsp;MANAGER</td>
-    <td class="tg-cly1">MDM THAM MEW FONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ADMINISTRATION&nbsp;MANAGER</td>
-    <td class="tg-cly1">MDM LEE BOON GUEK</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS MANAGER</td>
-    <td class="tg-cly1">MR TAN WEE LEONG</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ICT ASSOCIATE</td>
-    <td class="tg-cly1">MR ONG HAN GHEE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ADMINISTRATIVE EXECUTIVE</td>
-    <td class="tg-cly1">MDM VOO MAY HAR JANET</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">ADMINISTRATIVE EXECUTIVE</td>
-    <td class="tg-cly1">MS MARIAM BINTE&nbsp;MUHAMMAD ZAKARIA</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">CORPORATE SUPPORT OFFICER</td>
-    <td class="tg-cly1">MDM JANTHI D/O J KANNAN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">CORPORATE SUPPORT OFFICER</td>
-    <td class="tg-cly1">MDM NUR MAZNAH BINTE AZRI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS SUPPORT OFFICER</td>
-    <td class="tg-cly1">MDM SALMAH BTE ALI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS SUPPORT OFFICER</td>
-    <td class="tg-cly1">MR HENRY CHOW PAK YEN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS SUPPORT OFFICER</td>
-    <td class="tg-cly1">MDM KIONG TAI TAI KAREN</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS SUPPORT OFFICER</td>
-    <td class="tg-cly1">MDM TAN KIM KEE</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">OPERATIONS SUPPORT OFFICER</td>
-    <td class="tg-cly1">MR ROSLI BIN JASMAN</td>
-  </tr>
-  <tr>
-    <td class="tg-u3kn" colspan="2">ALLIED EDUCATORS</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">SCHOOL&nbsp;COUNSELLOR</td>
-    <td class="tg-cly1">MS CORLISSA SEAH YUN&nbsp;ZHI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</td>
-    <td class="tg-cly1">MDM VAANI SHRI&nbsp;KANAKASABAI</td>
-  </tr>
-  <tr>
-    <td class="tg-cly1">SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</td>
-    <td class="tg-cly1">MS AILEEN LIM </td>
-  </tr>
-  <tr>
-      </tr>
-  <tr>
-    <td class="tg-cly1">ALLIED&nbsp;EDUCATOR (TEACHING AND LEARNING)</td>
-    <td class="tg-cly1">MS LEE JUN CHIEN</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>SCHOOL ADMINISTRATIVE TEAM</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATION&nbsp;MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM THAM MEW FONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR TAN WEE LEONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT ASSOCIATE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ONG HAN GHEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATIVE EXECUTIVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM VOO MAY HAR JANET</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATIVE EXECUTIVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS MARIAM BINTE&nbsp;MUHAMMAD ZAKARIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM JANTHI D/O J KANNAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CORPORATE SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM NUR MAZNAH BINTE AZRI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SALMAH BTE ALI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR HENRY CHOW PAK YEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM KIONG TAI TAI KAREN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM TAN KIM KEE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ROSLI BIN JASMAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ALLIED EDUCATORS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SCHOOL&nbsp;COUNSELLOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CORLISSA SEAH YUN&nbsp;ZHI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM VAANI SHRI&nbsp;KANAKASABAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS JEAN TENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
