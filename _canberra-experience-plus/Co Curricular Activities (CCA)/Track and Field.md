@@ -32,7 +32,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">School Field/Ground</span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">School Field</span></td>
   </tr>
 </tbody>
 </table>
