@@ -34,7 +34,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold"> </span>Venue   </td>
-    <td class="tg-l3od">Care 3 Classroom   </td>
+    <td class="tg-l3od">Self-Discipline 3 Classroom   </td>
   </tr>
 </tbody>
 </table>
