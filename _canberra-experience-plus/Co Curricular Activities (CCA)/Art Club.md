@@ -20,7 +20,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-y8at"><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Miss Yong Fah Yin</span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
+    <th class="tg-y8at"><br><span style="color:#323232">Mrs Goh-Chun Wee Yin</span><br><span style="color:#323232">Mr Porayath Raakesh Menon </span><br><span style="color:#323232">Mdm Gunasunthari Thangarajoo</span></th>
   </tr>
 </thead>
 <tbody>
