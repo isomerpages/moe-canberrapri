@@ -18,7 +18,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Kalay</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Liana</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Chang</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Kalay</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Liana</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Chang Kai Lee</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Bai Jie</span></th>
   </tr>
 </thead>
 <tbody>
