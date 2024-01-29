@@ -9,17 +9,23 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>
-<br>Miss Margareth Chen
+<p></p>
+</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Miss Margareth Chen
 <br>Mr Hairi
 <br>Mrs Yvonne Chong
 <br>Mrs Liow Pei Xian
 <br>Miss Fiona Lee</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
