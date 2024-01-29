@@ -18,7 +18,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Zawiyah Kosman</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Farid Wahyuni</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Karen Sin</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Natalie Teng</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Zawiyah Kosman</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Farid Wahyuni</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Karen Sin</span></th>
   </tr>
 </thead>
 <tbody>
