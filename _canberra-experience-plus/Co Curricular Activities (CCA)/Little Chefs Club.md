@@ -19,7 +19,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ahir"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-p3xa"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Azean</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Miss Lee</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Lina</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Quek</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Raakesh</span></th>
+    <th class="tg-p3xa"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Azean</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Li Xue Er</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mdm Lina</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Marian Alphonse</span></th>
   </tr>
 </thead>
 <tbody>
