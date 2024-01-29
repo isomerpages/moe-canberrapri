@@ -20,7 +20,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge</span></th>
-    <th class="tg-y8at"><br><span style="font-weight:normal;color:#323232">Miss Margareth Chen</span><br><span style="font-weight:normal;color:#323232">Mr Hairi</span><br><span style="font-weight:normal;color:#323232;background-color:#FFF">Mrs Yvonne Chong</span><br><span style="font-weight:normal;color:#323232;background-color:#FFF">Mrs Liow Pei Xian</span></th>
+    <th class="tg-y8at"><br><span style="font-weight:normal;color:#323232">Miss Margareth Chen</span><br><span style="font-weight:normal;color:#323232">Mr Hairi</span><br><span style="font-weight:normal;color:#323232;background-color:#FFF">Mrs Yvonne Chong</span><br><span style="font-weight:normal;color:#323232;background-color:#FFF">Mrs Liow Pei Xian</span><br>Miss Fiona Lee</th>
   </tr>
 </thead>
 <tbody>
