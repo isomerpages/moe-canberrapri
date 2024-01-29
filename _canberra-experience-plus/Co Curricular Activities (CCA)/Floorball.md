@@ -18,7 +18,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Benjamin Chan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Ali Imran</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Sulaiha</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Shannon Yeo</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Benjamin Chan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Ali Imran</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Siti Farhana</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Shannon Yeo</span></th>
   </tr>
 </thead>
 <tbody>

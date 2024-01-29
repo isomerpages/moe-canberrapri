@@ -18,7 +18,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Vicknesh</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Gan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Fauzy</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Jonathan Lee</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Vicknesh</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Gan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Fauzy</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Amy Natalia</span></th>
   </tr>
 </thead>
 <tbody>
