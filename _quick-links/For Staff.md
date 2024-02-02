@@ -9,7 +9,7 @@ variant: markdown
 * [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.asp)
 * [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
 * [ICON 2.0](https://workspace.google.com/dashboard)
-* [IExams](https://iexams.moe.gov.sg/xe/login.do)
+* [IExams](https://iexams.seab.gov.sg/)
 * [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
 * [Online Public Access Catalog (OPAC)](https://schoolibrary.moe.edu.sg/canberrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg)
