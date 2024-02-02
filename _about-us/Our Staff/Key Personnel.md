@@ -147,10 +147,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH SWB</p>
+<p>SH STUDENT WELL-BEING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS SAM HUIJUN</p>
+<p>MRS SAM HU HUIJUN</p>
 </td>
 </tr>
 <tr>
@@ -192,7 +192,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT YEAR HEAD (FACULTY 1)</p>
+<p>ASST YEAR HEAD (FACULTY 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM MARDIANA BTE MOHD&nbsp;AMIN</p>
@@ -200,7 +200,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASSISTANT YEAR HEAD (FACULTY 2)</p>
+<p>ASST YEAR HEAD (FACULTY 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS NURHUDA BINTE&nbsp;ARSAD</p>

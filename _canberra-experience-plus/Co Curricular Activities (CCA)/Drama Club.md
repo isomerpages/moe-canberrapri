@@ -18,7 +18,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Andrews</span><br><span style="background-color:#FFF">Ms Fazillah</span></th>
+    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mrs Kavitha Andrew</span><br><span style="background-color:#FFF">Ms Fazillah</span></th>
   </tr>
 </thead>
 <tbody>

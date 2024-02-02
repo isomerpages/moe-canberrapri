@@ -1,213 +1,232 @@
 ---
 title: Staff Spotlight
-permalink: /our-programmes/Department/staff-development-and-management/
+permalink: /about-us/staff-spotlight2024/
+variant: tiptap
 description: ""
 ---
-**Staff Achievements**<br>
-In Canberra Primary, our dedicated and caring staff are committed to work collaboratively in ongoing processes of co-designing and refining lesson packages to ignite the Joy of Learning in students. Through the subject-based and Level-based Professional Learning Teams (PLTs), teachers meet to clarify essential student learning, develop holistic assessments for learning, analyze students’ artefacts to close learning gaps and design innovative student-centric lesson packages to develop pupils to be Discoverers, Attuned and Global learners. 
-Canberra Primary staff take ownership and leadership in sharing the PLT and department lesson packages with the fraternity at various platforms. As a Canberra family, we would like to acknowledge and celebrate the achievements of our staff. <br>
-
-**2022 Sharing**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-qkx5{background-color:#f38630;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qkx5">   <br>Name of Staff   </th>
-    <th class="tg-qkx5">   <br>Designation   </th>
-    <th class="tg-qkx5">   <br>Sharing    </th>
-    <th class="tg-qkx5">   <br>Platform   </th>
-  </tr>
-</thead>
+<p></p>
+<p><strong>Staff Achievements</strong> 
+<br>In Canberra Primary, our dedicated and caring staff are committed to work
+collaboratively in ongoing processes of co-designing and refining lesson
+packages to ignite the Joy of Learning in students. Through the subject-based
+and Level-based Professional Learning Teams (PLTs), teachers meet to clarify
+essential student learning, develop holistic assessments for learning,
+analyze students’ artefacts to close learning gaps and design innovative
+student-centric lesson packages to develop pupils to be Discoverers, Attuned
+and Global learners. Canberra Primary staff take ownership and leadership
+in sharing the PLT and department lesson packages with the fraternity at
+various platforms. As a Canberra family, we would like to acknowledge and
+celebrate the achievements of our staff.</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Bai Jie&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Senior&nbsp;&nbsp;&nbsp;Teacher (Chinese Language)<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Use of Solo&nbsp;&nbsp;&nbsp;for Chinese Language Oracy&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Teacher-Led-Workshop&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>DI strategies&nbsp;&nbsp;&nbsp;on P2 Curriculum Integration (Chinese Language)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>N7 Cluster DI Sharing&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Mohamad Fauzy&nbsp;&nbsp;&nbsp;Kasdi&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Senior&nbsp;&nbsp;&nbsp;Teacher (Physical&nbsp;&nbsp;&nbsp;Education)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>DI practices&nbsp;&nbsp;&nbsp;in PE<br>&nbsp;&nbsp;&nbsp;<br> <br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>N7 Cluster DI Sharing&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Tan Keng Hong&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Senior&nbsp;&nbsp;&nbsp;Teacher (Music)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Exploring&nbsp;&nbsp;&nbsp;Students’ Engagement in Recorder Playing in Music Lessons Through Blended&nbsp;&nbsp;&nbsp;Learning&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>NIE (TLP1)&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Anthony Hin&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Senior Teacher (Science)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Portraits of&nbsp;&nbsp;&nbsp;Practices of Science: learning Ways of Thinking and Doing (WoTD) in teaching&nbsp;&nbsp;&nbsp;Science&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Primary&nbsp;&nbsp;&nbsp;science learning day 2022 sharing at AST&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Oh Mei Ling&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Senior Teacher (Science)&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Portraits of&nbsp;&nbsp;&nbsp;Practices of Science: learning Ways of Thinking and Doing (WoTD) in teaching&nbsp;&nbsp;&nbsp;Science&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Primary&nbsp;&nbsp;&nbsp;science learning day 2022 sharing at AST&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Tan Gek Ling Yvonne<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Senior Teacher (Mathematics)<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Co-facilitated&nbsp;&nbsp;&nbsp;with MTTs ‘Harnessing STP to facilitate seamless blended learning (Primary&nbsp;&nbsp;&nbsp;Mathematics)’&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>AST&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Co-facilitated&nbsp;&nbsp;&nbsp;with MTT on the facilitation of differentiated instructions in a Mathematics&nbsp;&nbsp;&nbsp;classroom&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>AST&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Koh Swee Lin Phyllis<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax" rowspan="2">&nbsp;&nbsp;&nbsp;<br>Lead Teacher (English Language)<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Differentiated&nbsp;&nbsp;&nbsp;Instruction&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>W5 NLC&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>Lower Primary&nbsp;&nbsp;&nbsp;Learners NLC on Differentiated Instruction&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0lax">&nbsp;&nbsp;&nbsp;<br>NZ NLC&nbsp;&nbsp;&nbsp;</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p><strong>2023 Sharing beyond school</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Staff</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sharing&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Platforms</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Bai Jie
+<br>Mdm Chang Kai Lee
+<br>Mr Lo Chien-chi
+<br>Mdm Tan Yi Ling
+<br>Mdm Wong Mun Ee
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Language Fun with eBook Creation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mother-Tongue-Language Symposium 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choi Poh Quin
+<br>Mr Kasni Bin Kasim
+<br>Mdm Noorazura Binte Ahmat
+<br>Mdm Quek Pei Wen Emily
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Virtual Global Sustainable Development Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher-led workshop organised by AST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryantie Bte Mustafa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cluster Lead for North Zone 7 Open Classroom (OC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone (N7)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hin Hiang Anthony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2023 Primary Science Chapter Symposium and PLC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST and North Zone</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kasni Bin Kasim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Virtual Global Sustainable Development Programme</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher-led workshop organised by AST</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Keh Wei Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing of Sustainability and Reptiles knowledge with potential Zoo Docents.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Zoological Garden</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Swee Lin Phyllis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exploring DI in English writing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone NLC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Komathi
+<br>Mdm Lalitha d/o Rajagopal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shared on Tamil Fortnight Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone 7 Cluster&nbsp;&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kuek Hwee San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Reading Programme Sharing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>教师阅读大使分享会 (SCCL)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Mei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary Science Learning Symposium and Professional learning for Beginning
+Science Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEAB</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p>Mdm Tan Gek Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designing blended learning experiences with e-Pedagogy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone NLC (Math)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>(2) Co-presented on Interactive Mathematics based seminar with Master
+Teacher (MT).</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Reasoning and Communication (Co-facilitator with MTT-Math&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AST-NLC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Keng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Conducted Workshop on Stage 1 (Primary 1 and 2 Syllabus) Curriculum Planning
+and Implementation featuring Connected Learning Experiences based on Appropriate
+Folk and Core Repertoire</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone STAR Champions (Music) NLC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Vickneshswaren S/O Krishnan Balan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Positive Discipline for SEN students&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N7 NLC&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Aw Lilian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building a Vibrant Instructional Mentoring Culture in School&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instructional Mentoring Chapter Learning Day-AST&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1e3k{background-color:#f38630;border-color:inherit;color:#ffffff;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-1e3k">   <br>Name of Staff   </th>
-    <th class="tg-1e3k">   <br>Award   </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Chan Zhen Yi&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky" rowspan="17">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Silver</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Chen Shih Ping&nbsp;&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Haslinda Bte Ibrahim&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Hu&nbsp;&nbsp;&nbsp;Huijun&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Huang Guorong&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Keh Wei Sze&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Kiong Tai Tai&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Ting&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Hui Yi&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Lu&nbsp;&nbsp;&nbsp;Qiu Ning Claire&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mrs Marilyn Kumar&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Muhammad Hairi Bin Mohamad&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Nur Azean Bte Jumahat&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr&nbsp;&nbsp;&nbsp;Rahmat Bin Muhammad&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan Chok Wei&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Wong Huoy Chyn&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Bai Jie&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky" rowspan="13">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">MOE Service Excellence Award - Gold</span><br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms Chia Siew Chin&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Haryantie Binte Mustafa&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Kasni Bin Kasim&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Khoe Moo Shih&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Lee Boon Guek&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Lo Chien-Chi&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Nurhuda Binte Arsad&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Nurliana Binte Ab Rahim&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Oh Mei&nbsp;&nbsp;&nbsp;Ling&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mr Rosli&nbsp;&nbsp;&nbsp;Bin Jasman&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Ms&nbsp;&nbsp;&nbsp;Zarita Ahmad Zakri&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Tan&nbsp;&nbsp;&nbsp;Gek Ling Yvonne&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky" rowspan="2">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">Academy Awards for Professional Development –&nbsp;&nbsp;&nbsp;Associate</span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm Chew&nbsp;&nbsp;&nbsp;Lilian<br>&nbsp;&nbsp;&nbsp;<br>Ms Choi&nbsp;&nbsp;&nbsp;Poh Quin<br>&nbsp;&nbsp;&nbsp;<br>Mr Kasni&nbsp;&nbsp;&nbsp;Bin Kasim<br>&nbsp;&nbsp;&nbsp;<br>Mdm Lim&nbsp;&nbsp;&nbsp;Yee Ping<br>&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Noorazura Binte Ahmat<br>&nbsp;&nbsp;&nbsp;<br>Mdm Quek&nbsp;&nbsp;&nbsp;Pei Wen Emily&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>2022&nbsp;&nbsp;&nbsp;Innergy Award MOE (Bronze)&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br>Mdm&nbsp;&nbsp;&nbsp;Buven Subramaniam&nbsp;&nbsp;&nbsp;</td>
-    <td class="tg-0pky">&nbsp;&nbsp;&nbsp;<br><span style="color:black;background-color:white">2022 Most Inspiring Tamil Teacher Award </span>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody>
-</table>
+<p></p>

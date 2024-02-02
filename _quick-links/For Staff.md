@@ -2,13 +2,14 @@
 title: For Staff
 permalink: /quick-links/for-staff/
 description: ""
+variant: markdown
 ---
 **Online Portals**
 * [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
 * [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.asp)
 * [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
-* [iCON 2.0](icon.moe.edu.sg)
-* [iExams](https://iexams.moe.gov.sg/xe/login.do)
+* [ICON 2.0](https://workspace.google.com/dashboard)
+* [IExams](https://iexams.seab.gov.sg/)
 * [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
 * [Online Public Access Catalog (OPAC)](https://schoolibrary.moe.edu.sg/canberrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg)
