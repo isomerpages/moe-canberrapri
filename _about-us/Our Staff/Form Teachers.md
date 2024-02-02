@@ -173,7 +173,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SITI ZULAIKA BINTE SALLEH</p>
+<p>MS SITI ZULAIKA BINTE SALLEH</p>
 </td>
 </tr>
 <tr>
@@ -194,7 +194,7 @@ variant: tiptap
 <p>RESPONSIBILITY&nbsp;&nbsp;&nbsp;6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS SURESH</p>
+<p>MRS KOMATHI SURESH</p>
 </td>
 </tr>
 <tr>
@@ -409,7 +409,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NOORAZURA BINTE AHMAT</p>
+<p>MDM NOORAZURA BINTE AHMAT</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +461,7 @@ variant: tiptap
 <p>INNOVATION&nbsp;&nbsp;&nbsp;5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS LIEW RUTH</p>
+<p>MRS RUTH LIEW</p>
 </td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ variant: tiptap
 <p>EXCELLENCE&nbsp;&nbsp;&nbsp;1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QUEK PEI WEN EMILY</p>
+<p>MRS EMILY HUANG</p>
 </td>
 </tr>
 <tr>
@@ -513,7 +513,7 @@ variant: tiptap
 <p>EXCELLENCE&nbsp;&nbsp;&nbsp;3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>VINCY D/O LAZARUS RAJU</p>
+<p>MRS SEBASTIEN</p>
 </td>
 </tr>
 <tr>
