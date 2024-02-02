@@ -26,7 +26,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-via6">CCA Day/s   </td>
-    <td class="tg-l3od">Wednesdays   </td>
+    <td class="tg-l3od">Wednesday   </td>
   </tr>
   <tr>
     <td class="tg-via6">Time   </td>
