@@ -13,6 +13,5 @@ essential student learning, develop holistic assessments for learning,
 analyze students’ artefacts to close learning gaps and design innovative
 student-centric lesson packages to develop pupils to be Discoverers, Attuned
 and Global learners. Canberra Primary staff take ownership and leadership
-in sharing the PLT and department lesson packages with the fraternity at
-various platforms. As a Canberra family, we would like to acknowledge and
-celebrate the achievements of our staff</p>
+in sharing the PLT and department lesson packages with the fraternit at
+various platforms. As a Canberra family, we would like</p>
