@@ -116,7 +116,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS ANDREW</p>
+<p>MRS KAVITHA ANDREW</p>
 </td>
 </tr>
 <tr>
@@ -269,7 +269,7 @@ variant: tiptap
 <p>SELF-DISCIPLINE 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM AW LILIAN</p>
+<p>MRS AW LILIAN</p>
 </td>
 </tr>
 <tr>
