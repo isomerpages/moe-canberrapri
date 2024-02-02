@@ -20,7 +20,7 @@ celebrate the achievements of our staff.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p> <strong>2023 Sharing beyond school</strong>
+<p><strong>2023 Sharing beyond school</strong>
 </p>
 </td>
 </tr>
@@ -228,5 +228,4 @@ Folk and Core Repertoire</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>acknowledge and celebrate the achievements of our staff.</p>
