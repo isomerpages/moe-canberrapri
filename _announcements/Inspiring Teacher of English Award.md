@@ -12,9 +12,8 @@ description: ""
 </div>
 <p>Click <a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 nominate.</p>
-<p>All students, their parents and fellow teachers are invited to send in
-nominations to the Principal of the nominee’s school by 6pm on 25 March
-2024.</p>
+<p>All students, parents and fellow teachers are invited to send in nominations
+to the Principal of the nominee’s school by 6pm on 25 March 2024.</p>
 <p></p>
 <p></p>
 <p></p>
