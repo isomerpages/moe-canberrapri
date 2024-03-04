@@ -6,8 +6,9 @@ description: ""
 ---
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/nominate_your_english_teacher_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15431_ITEA_2024_Poster_A3_page_0001__1_.jpg">
 </div>
 <p>Click <a href="http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 nominate.</p>
