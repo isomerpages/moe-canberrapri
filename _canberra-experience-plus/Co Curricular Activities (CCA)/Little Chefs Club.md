@@ -38,6 +38,11 @@ variant: markdown
 </tbody>
 </table>
 
-Eating is a necessity while cooking is an art. In our CCA, pupils will have the opportunity to learn the art of cooking. They will experience the hands-on session, and the theory aspect of cooking and handling food safely. They will also make use of the technology to present their group discussions and tasks. 
+Eating is a necessity while cooking is an art. In our CCA, pupils have the opportunity to holistically learn the art of cooking. Not only will they experience the hands-on session, but pupils will also learn the theory aspect of cooking and safe food handling. They will also make use of the technology to present their group discussions and tasks.
+
+In Term 1, pupils experienced some bonding activities such as games and interesting activities. During our Chinese New Year period, they learnt the cultural aspects of the festivities. The highlights of the Term 1 include making their own breakfast bar and dessert that can be served to guests.
+
+Following the hands-on activities, pupils present on their group’s discussion and products. Through this activity, confidence is instilled and pupils learnt presentation skills. Pupils also learnt different ways of cooking dishes from different cultures. 
+
 
 ![](/images/Little%20Chef%20(1).png)
