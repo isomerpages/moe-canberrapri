@@ -39,10 +39,18 @@ variant: markdown
 	
 The Science and Environment Club aims to create awareness among students about environmental issues and the scientific basis behind them. Our aim is also to make students to be green ambassadors to voice out concerns and ideas to solve any environmental issues in the school context.  
 
-In Semester 1, students will be learning how to take care of community plants from the NParks, growing our own vegetables using aeroponics and learning the use of an eco digester and be ambassadors of the environment.
+In Semester 1, students will be learning how to take care of community plants from NParks, growing our own vegetables using aeroponics and learning the use of an eco digester and be ambassadors of the environment. They will carry out upcycling activities and learn how they can do their part to reduce waste in the environment. 
 
-In Semester 2, the students will be learning how to create the Canberra Nature Bulletin, making their own terrarium and soap. They will also learn how to spot the different types of birds and insects, and how to recycle things.
+In Semester 2, the students will be continuing the aeroponics and growing their own mushrooms to experience growing and eating their own food. They will continue to monitor the school biodiversity and create the Canberra Nature Bulletin.
 
-![](/images/Science&amp;Environment(3).jpg)
+![](/images/21400ed5_0ada_4029_8dc3_c16146600b2b.jpg)
 
-![](/images/bird%20watch.jpg)
+![](/images/IMG_3512.jpg)
+
+![](/images/IMG_1551.jpg)
+
+![](/images/IMG_3514.jpg)
+
+
+
+
