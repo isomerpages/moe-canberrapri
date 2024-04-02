@@ -47,5 +47,3 @@ As a member of the Art Club, you'll have the opportunity to explore a wide varie
 ![](/images/Art_3.jpg)
 ![](/images/Art_2.jpg)
 ![](/images/Art_1.jpg)
-
-
