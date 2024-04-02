@@ -43,5 +43,9 @@ If you're a student between Primary 3 and Primary 6 who has a passion for creati
 
 As a member of the Art Club, you'll have the opportunity to explore a wide variety of art forms, mediums, and materials, allowing you to expand your knowledge of art. Not only will you get to learn new techniques, you will also get to lead and participate in art exhibitions, student-led projects, and competitions, giving you a chance to showcase your talent and creativity to a wider audience.
 
+![](/images/Art4.jpg)
+![](/images/Art_3.jpg)
+![](/images/Art_2.jpg)
+![](/images/Art_1.jpg)
 
-![](/images/Art%20(1).png)
+
