@@ -2,6 +2,7 @@
 title: Chinese Dance
 permalink: /our-ccas/Aesthetics/chinese-dance/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -18,36 +19,27 @@ description: ""
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge</span></th>
-    <th class="tg-y8at">Mdm Bai Jie<br>Mdm Oh Mei Ling<br><span style="font-weight:normal;color:#323232">Ms Tan Seow Fong</span></th>
+    <th class="tg-y8at">Mdm Mardiana<br>Mdm Nurul Jannah<br><span style="font-weight:normal;color:#323232">Ms Chai Ming Sei Fong<br>Ms Vidhiya<br>Mdm Oh Mei Ling</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-749x">CCA Day/s</td>
-    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Friday</span></td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Wednesday</span></td>
   </tr>
   <tr>
     <td class="tg-749x">Time</td>
-    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">3.30 p.m. – 5.30 p.m.</span></td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">2.30 p.m. – 4.30 p.m.</span></td>
   </tr>
   <tr>
     <td class="tg-749x">Venue</td>
-    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Dance studio</span></td>
+    <td class="tg-hivq"><span style="color:#484848;background-color:#FFF">Pal Rooms</span></td>
   </tr>
 </tbody>
 </table>
 
-Chinese Dance is known for its incredible flips and spins, and its gentle elegance. It is one of the most rigorous and expressive art forms in the world.
+The International Dance CCA aspires to nurture and bring out the best in each student in the performing arts. The CCA strives to ignite the passion for dance and our members are exposed to different genres of dance like Contemporary Dance and Modern Dance. 
 
-Chinese Dance CCA in Canberra Primary School has its own training in basic skills, physical expression and postures, leaps, flips, spins and other difficult tumbling techniques, forming an extensive and independent dance system. Chinese Dance CCA aims to develop in our members an appreciation of the arts with a strong emphasis on character development. We seek to nurture our dancers into confident and graceful individuals who are passionate about dancing.
-![](/images/Chinese%20dance%20(2).png)
+We value teamwork, innovation, self-discipline and care in our CCA. Through dance, we hope to cultivate a dynamic team, where every member can grow and contribute to their fullest potential.
 
-![](/images/chinese%20dance%20new.jpeg)
 
-![](/images/chinese%20dance%20new%202.jpeg)
-
-<div class="bp-youtube">
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oyb7JcrDiE8" height="315" width="560"></iframe>
-
-</div>
