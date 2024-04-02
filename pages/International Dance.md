@@ -41,3 +41,9 @@ variant: markdown
 The International Dance CCA aspires to nurture and bring out the best in each student in the performing arts. The CCA strives to ignite the passion for dance and our members are exposed to different genres of dance like Contemporary Dance and Modern Dance. 
 
 We value teamwork, innovation, self-discipline and care in our CCA. Through dance, we hope to cultivate a dynamic team, where every member can grow and contribute to their fullest potential.
+
+![](/images/WhatsApp_Image_2024_01_18_at_07_15_59.jpg)
+
+![](/images/WhatsApp_Image_2024_01_18_at_07_04_25.jpg)
+
+![](/images/WhatsApp_Image_2024_01_17_at_16_30_39.jpg)
