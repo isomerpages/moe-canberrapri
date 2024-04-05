@@ -46,14 +46,11 @@ Throughout the year, members engage in specialised vocal training, exploring bot
 
 ![](/images/choir%202.jpg)
 
-![](/images/choircca1.jpg)
-
-![](/images/choircca2.JPG)
-
 ![](/images/choircca3.JPG)
 
-<div class="bp-youtube">
-	
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bD9G2xfrnRg" height="315" width="560"></iframe>
-	
-</div>
+![](/images/Choir_6.jpg)
+
+![](/images/Choir_5.jpg)
+
+![](/images/Choir_4.jpg)
+
