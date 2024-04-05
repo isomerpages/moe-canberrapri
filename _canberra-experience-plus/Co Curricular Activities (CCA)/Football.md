@@ -37,17 +37,10 @@ variant: markdown
 </tbody>
 </table>
 	
-The objectives of our Football CCA are to maximize participation, progressively develop and improve technical skills, acquiring a solid understanding of the rules, preparing for competition, and most importantly build passion for the game. 
+CPS Football CCA aims to build the resilience, confidence and teamwork of our students using football as a platform to achieve these values. Students learn the basics of football such as passing the ball, receiving the ball, finding positions before progressing towards higher order skills such as shooting, making correct runs, and tactical gameplay. 
 
-Through our school ICREST values, CPS football team members learn and practice:
+Selected students have the opportunity to participate and represent our school in the National School Games for an invaluable sporting experience playing with other schools. Along the way, students are also expected to learn the values of sportsmanship and striving to be their best.
 
 ![](/images/football(1).png)
-
-* Self-Discipline – Approach every training and game with a positive attitude.
-* Care – Take ownership of self-care and care for others.
-* Responsibility – Take ownership of personal and team behaviours.
-* Innovation – Become a stronger decision maker on the pitch during every training and game.
-* Excellence – Demonstrate the best possible level of effort to reach his potential.
-* Teamwork – Play with enthusiasm and influence the game with his actions.
 
 ![](/images/football(4).jpg)
