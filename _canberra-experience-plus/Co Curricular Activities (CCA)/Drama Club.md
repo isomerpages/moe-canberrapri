@@ -37,14 +37,16 @@ variant: markdown
 </tbody>
 </table>
 	
-The Drama Club members are taught the core basics of dramatic technique – vocal projection, awareness of body language, facial expressions and use of space. They get the opportunity to exhibit what they have mastered through various school-based performances and competitions. Our artists are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes. Each year, the Drama Club will showcase their performance in a school assembly programme.
+In Canberra Primary School, the Drama Club members are taught the core basics of dramatic technique. They get the opportunity to exhibit what they have mastered through various school-based performances and competitions, like our own production entitled ‘Say It Right’ that is written and directed by own our pupils. Our artists are also exposed to a myriad of experiences such as script-writing and stage craft which includes making props or designing costumes. Each year, the Drama Club will showcase their performance in a school assembly programme. 
 
-In addition, the Drama Club has also started its own production – Say it Right with Drama Club. This series of skits are written by and directed by students. Students explore the use of technology, props and apply drama skills they have attained to put together a self-directed piece. 
+This year, Drama Club had the opportunity to perform a skit entitled, The Legend of Nian’ at Canberra Park as part of Chinese New Year Celebration. It was indeed a crowning achievement for our budding actors and actresses as it was the first public stint by our Drama Club for the year.
 
-![](/images/drama(2).jpg)
+![](/images/Drama_Club_24_pic_1.jpg)
 
-![](/images/drama%20new%202.jfif)
+![](/images/Drama_Club_24_pic_2.jpg)
 
-![](/images/drama%20new%203.jfif)
+![](/images/Drama_Club_24_pic_3.jpg)
 
-![](/images/drama%20new%204.jfif)
+![](/images/Drama_Club_24_pic_4.jpg)
+
+![](/images/Drama_Club_24_pic_5.jpg)
