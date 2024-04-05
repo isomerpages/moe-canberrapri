@@ -39,9 +39,9 @@ variant: markdown
 </tbody>
 </table>
 	
-The school's Choir was set up in 2000. Under the care of our teachers-in-charge and instructors, the present CPS Choir has learnt not only to sing harmoniously, but also demonstrated the School Values (iCREST). These have helped to develop our Choir members’ self-confidence and leadership skills. To date, the choir has participated in eight Singapore Youth Festival (SYF) Arts Presentations, including the most recent one in 2022.
-
-During practice sessions throughout the year, our members go through specialised vocal training conducted by qualified instructors using a wide range of song repertoire including both local and global works. Music concepts such as pitch, harmony, expression and rhythm are taught through choral singing and accompanying fun activities.
+Established in 2000, Canberra Primary School Choir is a vibrant ensemble dedicated to nurturing self-discipline and musicianship among its members. Through rigorous training sessions, students not only learn a diverse repertoire of songs but also cultivate confidence in performing on stage. Our choir emphasises our school's iCREST values, nurturing leadership qualities and self-assurance in our singers.
+Led by dedicated teachers and instructors, CPS Choir has actively participated in events such as the Singapore Youth Festival (SYF) Arts Presentations, showcasing their harmonious talents and commitment to musical excellence. In 2023, our choir had the honor of performing at Canberra Park during the National Day celebration.
+Throughout the year, members engage in specialised vocal training, exploring both local and global musical pieces. Concepts such as pitch, harmony, expression, and rhythm are imparted through engaging choral activities, enriching the musical journey of every student.
 
 
 ![](/images/choir%202.jpg)
