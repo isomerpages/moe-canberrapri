@@ -46,4 +46,6 @@ Together with our nurturing teachers and instructors, we welcome all students to
 
 ![](/images/DSC01220.jpg)
 
+![](/images/Concert_pic_2.jpg)
 
+![](/images/Concert_pic_1.jpg)
