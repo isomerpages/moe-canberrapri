@@ -37,14 +37,18 @@ variant: markdown
 </tbody>
 </table>
 	
-CPS Media Club aims to promote critical &amp; creative thinking skills as well as collaborative &amp; communication skills in students through photography and content/product creation. 
+CPS Media Club aims to promote critical &amp; creative thinking skills as well as collaborative &amp; communication skills in students through photography, videography and content/product creation. 
 
-In Semester 1, students will be learning and applying Photography skills. They will also be doing 3D Design and Printing. 
+Students learn how to create animations using the 3D Blender software and further develop their knowledge and skills on 3D Design and Printing. They also learn to design more complex structures using the Tinkercad software.
 
-In Semester 2, the students will be learning videography skills and use of the green screen. They will also be taught on how to edit their video for showcases. Media Club members will also be given opportunities to be student photographers during school events and encouraged to participate in the national competition
+Media Club members are given opportunities to be student photographers during school events and encouraged to participate in national competitions.
 
-![](/images/mediaclub(1).jpeg)
+![](/images/MEDIA_CLUB_1.jpg)
 
-![](/images/media%20club%204.jpeg)
+![](/images/MEDIA_CLUB_2.jpg)
 
-![](/images/media%20club.jpeg)
+![](/images/MEDIA_CLUB_3.jpg)
+
+![](/images/MEDIA_CLUB_4.jpg)
+
+![](/images/MEDIA_CLUB_5.jpg)
