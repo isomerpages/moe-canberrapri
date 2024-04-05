@@ -48,5 +48,8 @@ Library Ambassadors Club aims: <br>
 
 ![](/images/Hall_sharing_2.jpg)
 
+![](/images/Haqqi_1.jpg)
 
+![](/images/Haqqi_2.jpg)
 
+![](/images/Sonia_2.jpg)
