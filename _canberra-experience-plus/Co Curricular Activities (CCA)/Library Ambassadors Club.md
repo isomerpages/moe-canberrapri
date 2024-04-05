@@ -37,17 +37,16 @@ variant: markdown
 </tbody>
 </table>
 	
-Step into the literary world with the Library Ambassadors Club CCA as members spark the love and joy in reading amongst their peers through book reviews, sharings and recommendations.
+Step into the literary world with the Library Ambassadors Club as our CCA members spark and ignite the love and joy in reading amongst their peers through book reviews, sharings and recommendations during the morning pre-assembly. They also leverage on technology-enabled applied learning experience by using their 1:1 Personal Learning Device (iPads) to create digital flipbooks to engage their readers. 
 
-They also leverage on technology-enabled applied learning experience by using their 1:1 Personal Learning Device (iPads) to create digital flipbooks to engage their readers. 
+The CCA members also help in the daily operations and maintenance of the library and also serve as student Library Ambassadors during school events.
 
-The CCA members also help out in the daily operations and maintenance of the library and serve as student Library Ambassadors during school events.
+Library Ambassadors Club aims: <br>
+1.	To develop CCA members to be passionate reading ambassadors who promote the love and joy of reading amongst their peers.<br>
+2.	To provide CCA members with a technology-enabled applied learning experience by leveraging on digital media and communication elements.<br>
+3.	To familiarise CCA members with the administrative and logistics matters of a librarian’s daily duties.
 
-To make learning more diversified, Blended Learning through asynchronous platforms such as SLS and Zoom sessions are incorporated during the CCA sessions.
+![](/images/Hall_sharing_2.jpg)
 
-![](/images/library(1).png)
 
-Library Ambassadors Club aims: 
-* To develop CCA members to be passionate reading ambassadors who are able to promote the love and joy in reading amongst their peers.
-* To provide CCA members with a technology-enabled applied learning experience by leveraging on digital media and communication elements.
-* To familiarise CCA members with the administrative and logistics matters of a librarian’s daily duties.
+
