@@ -230,3 +230,5 @@ Folk and Core Repertoire</p>
 </tbody>
 </table>
 <p></p>
+<p><a href="/files/Staff_Spotlight_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Staff Spotlight for 2022</a>
+</p>
