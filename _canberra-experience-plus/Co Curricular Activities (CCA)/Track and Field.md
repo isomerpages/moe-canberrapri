@@ -43,7 +43,7 @@ Pupils develop athletic prowess and values such as teamwork, responsibility and 
 
 Our pupils take part in the yearly NSG Competitions.
 
-![](/images/Track_1.jpg)
+![](/images/Track_1.jpg
 
 ![](/images/Track_2.jpg)
 
