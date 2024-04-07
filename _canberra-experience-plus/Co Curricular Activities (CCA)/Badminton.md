@@ -58,13 +58,29 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>CPS Badminton aims to equip our pupils with basic badminton skills and
-to instil in them ICREST values and sportsmanship</p>
-<p>Our members comprise pupils from Primary 3 to Primary 6. All our members
-strive to attain the skills to play in this sport. The school team will
-also be given opportunities to represent the school to take part in invitational
-and zonal competitions, as well as National Championships.</p>
+<p>Canberra Primary School’s Badminton CCA aims to develop students’ passion
+and love for the sport and inspire the students to be life-long learners.
+Our CCA provides an important platform to instil values of care, responsibility,
+self-discipline, teamwork, innovation, excellence, as well as good sportsmanship
+during training and competitions.</p>
+<p>&nbsp;</p>
+<p>Our CCA comprises of the Recreational and School Team. The Recreational
+Team provides players the opportunity to learn and develop their basic
+badminton skills and techniques of the sport. The School Team consists
+of advanced and skilful players who will be representing the school to
+participate in inter-school competitions.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton%201.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_Colours_Award_Level.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_School_Team__Primary_4___Primary_6_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_National_School_Games__North_Zone____Junior.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>

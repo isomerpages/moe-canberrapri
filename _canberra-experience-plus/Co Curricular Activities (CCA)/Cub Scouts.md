@@ -39,11 +39,9 @@ variant: markdown
 </tbody>
 </table>
 	
-Our Cub Scouts aim is to provide a group-based environment which is intellectually stimulating, physically vital and directed towards having the tenacity and courage to overcome challenges. Our Cub Scouts participate in activities covering a wide range of subjects and interests and are guided to exemplify the Scout Promise, Law and Motto (Do Our Best!).
+CPS Cub Scouts aims to provide a group environment which is intellectually stimulating, physically vital and directed towards satisfying the basic need to face and overcome challenges. Our Cub Scouts participate in activities covering a wide range of subjects and interests and are guided to exemplify the Scout Promise, Law and Motto (Do Our Best!).
 
-In Semester 1, students embark on the Diamond Jubilee Challenge 2023. This year’s theme, ‘Environment’, aims to raise awareness on climate change and encourage Scouts to take climate action through ground-up initiatives. Our Scouts will also be learning basic coding &amp; programming in partnership with the Digital Artisans. We will also have our highly anticipated June camp with the Brownies!
-
-In Semester 2, students will work towards attaining their Bronze and Silver Progress Badges. They will also participate in the 'Every Scout a Farmer' / Gardener Badge Project and learn basic gardening skills. We will also take part in our school parade for our National Day Celebrations!
+Students celebrate Founders’ Day in February and complete activities to attain their Silver Progress Badges. Cubs will also reflect on the environmental challenges they had completed as part of the 2023 Diamond Jubilee Challenge (DJC). This year’s theme of Skills for Life enables Cubs to develop universal skills that would serve them well as they navigate an increasingly dynamic and fast-paced world. We also take part in our school parade for our National Day Celebrations and have our highly anticipated year-end camp with the Brownies!
 
 
 ![](/images/scout%202.jpg)

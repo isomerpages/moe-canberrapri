@@ -20,7 +20,7 @@ variant: markdown
 <thead>
   <tr>
     <th class="tg-ntp0"><span style="font-weight:bold;color:#323232">Teachers In-Charge   </span></th>
-    <th class="tg-y8at"><br><span style="font-weight:normal;color:#323232">Mdm Yvonne Khoe</span><br><span style="font-weight:normal;color:#323232">Mrs Sam Huijun</span><br><span style="font-weight:normal;color:#323232">Mdm Kuek Hwee San</span><br><span style="font-weight:normal;color:#323232">Ms Teo Xue Hua Grace</span><br><span style="font-weight:normal;color:#323232">Ms Denise Choong Pik Huei</span></th>
+    <th class="tg-y8at"><br><span style="font-weight:normal;color:#323232">Mdm Yvonne Khoe</span><br><span style="font-weight:normal;color:#323232">Mrs Sam Huijun</span><br><span style="font-weight:normal;color:#323232">Mdm Kuek Hwee San</span><br><span style="font-weight:normal;color:#323232">Mrs Grace Shen</span><br><span style="font-weight:normal;color:#323232">Ms Denise Choong </span></th>
   </tr>
 </thead>
 <tbody>
@@ -39,22 +39,13 @@ variant: markdown
 </tbody>
 </table>
 	
-Since its formation in 2010, the CPS Concert Band had been involved in various school performances such as the school Musicals, Open House, National Day Observance Ceremony and Mid-Autumn Festival. In addition to performing in concert settings, the band is also capable of moving in formations while playing their musical instruments. 
+Since its inception in 2010, the CPS Concert Band has been involved in various school performances such as our School Musicals, Open House, National Day Observance Ceremony and Annual Awards Day. 
+The Band Studio, which was officially opened on 22 May 2015, provides a conducive environment for our young musicians to develop their love for music and discover their talents within. 
 
-The Band Studio, which was officially opened on 22 May 2015, provides a conducive environment for the young musicians to develop their love for music and discover their talents within. Our instructor has passionately inculcated in students the love for music and the values to build confidence and develop leadership skills. 
+Together with our nurturing teachers and instructors, we welcome all students to join us. No prior music background is required, just the love for music and the perseverance to learn a new instrument. Come and join us, and discover your passion for making music!
 
-Together with our nurturing teachers, we welcome all students to join us. No prior music background is required. All that is needed is the love for music and the perseverance to learn a new instrument.
+![](/images/DSC01220.jpg)
 
-![](/images/band%201.jpg)
+![](/images/Concert_pic_2.jpg)
 
-![](/images/Band%202.jpg)
-
-![](/images/Band%203.png)
-
-![](/images/concert%20band%20new.png)
-
-<div class="bp-youtube">
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/aUet_oEnMmM" height="315" width="560"></iframe>
-
-</div>
+![](/images/Concert_pic_1.jpg)

@@ -39,6 +39,11 @@ variant: markdown
 </tbody>
 </table>
 	
-If you're a student between Pri.3 and Pri.6 who has a passion for creating, drawing, and painting, then the Art Club is the perfect place for you. Membership is open to students who enjoy expressing themselves through art and who are looking to further develop their skills. As a member of the Art Club, you'll have the chance to explore a wide variety of art forms, mediums, and materials, allowing you to expand your knowledge and experience in the field of art. Not only will you get to learn new techniques, but you'll also have the opportunity to lead and participate in various art exhibitions, events, and competitions, giving you a chance to showcase your talent and creativity to a wider audience.
+If you're a student between Primary 3 and Primary 6 who has a passion for creating, drawing, and painting, then the Art Club is the perfect place for you. Membership is open to students who enjoy expressing themselves through art and who are looking to further develop their skills. 
 
-![](/images/Art%20(1).png)
+As a member of the Art Club, you'll have the opportunity to explore a wide variety of art forms, mediums, and materials, allowing you to expand your knowledge of art. Not only will you get to learn new techniques, you will also get to lead and participate in art exhibitions, student-led projects, and competitions, giving you a chance to showcase your talent and creativity to a wider audience.
+
+![](/images/Art4.jpg)
+![](/images/Art_3.jpg)
+![](/images/Art_2.jpg)
+![](/images/Art_1.jpg)

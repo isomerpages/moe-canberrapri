@@ -38,15 +38,23 @@ variant: markdown
   </tr>
 </tbody>
 </table>
-	
+<center>	
 “I promise to do my best<br>
 To do my duty to God<br>
 To serve my country<br>
 And help other people<br>
-And to keep the Brownie Law.”
+And to keep the Brownie Law.”</center>
 
-As Brownies, we keep our Brownie Promise close to our hearts whenever we recite it with our Brownie Smiles. Not only that, we explore and discover the world around us to become more independent. To earn our badges, we learn new skills to try new and adventurous activities. We learn to work and play independently and also in teams. And along the way, we learn to care for each other and make lasting friendships.
+As Brownies, we keep our Brownie Promise close to our hearts whenever we recite it with our Brownie Smiles. We explore and discover the world around us to become more independent. We wear our Skill Badges with pride as we pick up new skills. During weekly meetings, we learn to work and play independently and in our Sixes. Along the way, we learn to care for each other and make lasting friendships.
 
-In 2022, we represented the Uniformed Groups in the CPS National Day Celebration. We also went on a 3-day Pack Holiday with the CPS Cub Scouts! Do come and join us!
+2023 was a great year for us. We attended the World Thinking Day (WTD) and North Division Day (NDD) Celebrations. At the NDD Celebrations, we won in the Wide Game, Telematch and Culinary Competition too! We also went on a 2-day Pack Holiday with the CPS Cub Scouts. 
 
-![](/images/brownies.png)
+![](/images/NDD___Telematch_4.jpg)
+
+![](/images/NDD2023.jpg)
+
+![](/images/NDD___Culinary.jpg)
+
+![](/images/National_Day.jpg)
+
+![](/images/Camp_1.jpg)
