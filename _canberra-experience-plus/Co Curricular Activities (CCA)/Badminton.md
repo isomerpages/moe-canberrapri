@@ -71,10 +71,6 @@ of advanced and skilful players who will be representing the school to
 participate in inter-school competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_Colours_Award_Level.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_School_Team__Primary_4___Primary_6_.jpg">
 </div>
 <p></p>
@@ -82,5 +78,8 @@ participate in inter-school competitions.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_National_School_Games__North_Zone____Junior.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_Colours_Award_Level.jpg">
+</div>
 <p></p>
 <p></p>
