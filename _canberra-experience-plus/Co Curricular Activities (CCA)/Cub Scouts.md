@@ -44,14 +44,3 @@ CPS Cub Scouts aims to provide a group environment which is intellectually stimu
 Students celebrate Founders’ Day in February and complete activities to attain their Silver Progress Badges. Cubs will also reflect on the environmental challenges they had completed as part of the 2023 Diamond Jubilee Challenge (DJC). This year’s theme of Skills for Life enables Cubs to develop universal skills that would serve them well as they navigate an increasingly dynamic and fast-paced world. We also take part in our school parade for our National Day Celebrations and have our highly anticipated year-end camp with the Brownies!
 
 
-![](/images/scout%202.jpg)
-
-
-
-![](/images/scout%205.jpg)
-
-![](/images/cub%20scout%201.jpeg)
-
-![](/images/cub%20scout%202.jpeg)
-
-![](/images/cub%20scout%203.jpeg)
