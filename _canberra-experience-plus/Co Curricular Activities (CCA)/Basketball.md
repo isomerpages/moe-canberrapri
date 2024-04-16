@@ -44,6 +44,3 @@ Basketball is a popular co-curricular activity offered at Canberra Primary Schoo
 With the hard work and guidance from our nurturing basketball teachers and coaches, the senior girls' basketball team has shown remarkable success, achieving top 4 finishes in the 2023 North Zone Basketball Championship. This accomplishment is a testament to the dedication and hard work of the players, as well as the support of their coaches and teammates. By participating in basketball, these students not only develop their athletic abilities but also learn important life skills that will serve them well in the future.
 
 
-![](/images/basketball%202.jpg)
-
-![](/images/basketball%201.jpg)
