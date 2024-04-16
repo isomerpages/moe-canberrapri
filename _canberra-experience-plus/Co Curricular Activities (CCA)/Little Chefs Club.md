@@ -45,4 +45,3 @@ In Term 1, pupils experienced some bonding activities such as games and interest
 Following the hands-on activities, pupils present on their group’s discussion and products. Through this activity, confidence is instilled and pupils learnt presentation skills. Pupils also learnt different ways of cooking dishes from different cultures. 
 
 
-![](/images/Little%20Chef%20(1).png)
