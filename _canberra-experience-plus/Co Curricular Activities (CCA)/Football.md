@@ -41,3 +41,8 @@ CPS Football CCA aims to build the resilience, confidence and teamwork of our st
 
 Selected students have the opportunity to participate and represent our school in the National School Games for an invaluable sporting experience playing with other schools. Along the way, students are also expected to learn the values of sportsmanship and striving to be their best.
 
+![](/images/IMG_4182.jpg)
+
+![](/images/IMG_4181.jpg)
+
+![](/images/football(1).png)
