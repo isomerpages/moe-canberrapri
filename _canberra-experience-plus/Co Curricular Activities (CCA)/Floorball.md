@@ -42,7 +42,4 @@ CPS Floorball first started in the year 2016 with the aim of developing students
 During training sessions, students learn floorball skills such as passing, dribbling and shooting. They are also taught how to attack and defend as a team by the school coach through floorball matches with their peers.
 
 
-![](/images/floorball(3).png)
-
 Students are given opportunities to represent school and participate in the yearly National School Games organised by the Singapore Primary Schools Sports Council (SPSSC) and the Singapore Schools Sports Council (SSSC). Over the years, CPS Floorball has provided students with a fun and enriching learning experience which they will remember for a long time
-![](/images/floorball(1).png)
