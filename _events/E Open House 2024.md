@@ -62,5 +62,5 @@ pupils immerse themselves in our ALP that ignite their curiosity and
 expand their horizons. Join us on this captivating journey and witness
 the wonders that await beyond the classroom and the world of new
 technology. Click on the video to discover the magic of learning that
-transcends traditional boundaries..<br>
+transcends traditional boundaries.<br>
 <hr>
