@@ -4,8 +4,6 @@ permalink: /events/permalink/
 description: ""
 variant: markdown
 ---
-![](/images/living%20the%20dream.png)
-
 Virtual Open House 2024<br>
 Welcome to Canberra Primary School Virtual Open House 2024. You
 will get to see how our pupils embark on the Canberra Experience Plus
