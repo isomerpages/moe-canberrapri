@@ -2,7 +2,7 @@
 title: Applied Learning Programme
 permalink: /our-programmes/applied-learning-programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 The Applied Learning Programme was introduced by MOE to expose students to learning by doing, and learning in real-world scenarios. In Canberra Primary School, our ALP (Digital Making) aims to develop Canberrians to be future-ready and responsible digital learners by evoking curiosity in learning, developing inventive thinking and encouraging a dare-to-try spirit. Students would be able to appreciate the relevance and value of what they are learning in the academic area and develop stronger motivation and purpose to acquire knowledge and skills. Students will also be able to engage in hands-on, experiential learning to situate, acquire and apply their learning in real-world contexts. It comprises of two stages:
 
