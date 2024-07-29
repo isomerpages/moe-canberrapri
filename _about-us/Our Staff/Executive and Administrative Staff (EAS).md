@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -18,6 +22,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM THAM MEW FONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATION MANAGER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAY SUHUI</p>
 </td>
 </tr>
 <tr>
@@ -49,14 +61,6 @@ variant: tiptap
 <p>ADMINISTRATIVE EXECUTIVE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS MARIAM BINTE&nbsp;MUHAMMAD ZAKARIA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ADMINISTRATIVE EXECUTIVE</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>MS STELLA POH</p>
 </td>
 </tr>
@@ -65,15 +69,7 @@ variant: tiptap
 <p>CORPORATE SUPPORT OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM JANTHI D/O J KANNAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CORPORATE SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM NUR MAZNAH BINTE AZRI</p>
+<p>MS RAJA NORAIZAH BINTE RAJA NASIR</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +109,7 @@ variant: tiptap
 <p>OPERATIONS SUPPORT OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM TAN KIM KEE</p>
+<p>MDM ANNIE TAY</p>
 </td>
 </tr>
 <tr>
