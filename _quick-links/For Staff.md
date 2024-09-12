@@ -7,10 +7,8 @@ variant: markdown
 **Online Portals**
 * [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)
 * [HR Online](https://intranet.moe.gov.sg/hronline/Pages/Home.aspx)
-* [HRMS](https://hrms.moe.gov.sg/CSTBsapwaAuth/UMELogin?RedirectPath=https://hrms.moe.gov.sg/irj/portal/)
 * [ICON 2.0](https://workspace.google.com/dashboard)
-* [IExams](https://iexams.seab.gov.sg/)
-* [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx)
+* [SEAB - Exam Personnel Portal](https://myexamduty.seab.gov.sg/auth/login)
 * [Online Public Access Catalog (OPAC)](https://schoolibrary.moe.edu.sg/canberrapri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 * [OPAL 2.0](https://idm.opal2.moe.edu.sg)
 * [Parents Gateway](https://pg.moe.edu.sg/)
