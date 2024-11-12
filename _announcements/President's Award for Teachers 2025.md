@@ -4,6 +4,5 @@ permalink: /announcements/pat2025/
 description: ""
 variant: tiptap
 ---
-![](/images/pat%202024%20website%20publicity%20image.gif)
-
-[Click here to nominate online](https://form.gov.sg/650a5bfd07ce8a0011c0133c)
+<p><a href="https://go.gov.sg/pat2025" rel="noopener noreferrer nofollow" target="_blank">Click here to nominate online</a>
+</p>
