@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Inspiring Teacher of English Award.md
       - Outstanding Youth in Education Award 2025.md
       - President's Award for Teachers 2025.md
+      - Inspiring Teacher of English Award.md
       - Parent Volunteer Scheme (2026 P1 Intake).md
