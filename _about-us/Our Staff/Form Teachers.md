@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -25,12 +29,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM CHANG KAI LEE</p>
+<p>MS KEH WEI SZE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR</p>
+<p>MDM NUR AZEAN BTE JUMAHAT</p>
 </td>
 </tr>
 <tr>
@@ -38,12 +42,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM KHOE MOO SHIH YVONNE</p>
+<p>MRS PHYLLIS WAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS LI XUE ER</p>
+<p>MDM KUEK HWEE SAN</p>
 </td>
 </tr>
 <tr>
@@ -51,12 +55,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHOONG PIK HUEI DENISE</p>
+<p>MDM MARDIANA BTE MOHD AMIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS KEH WEI SZE</p>
+<p>MS YIP MEI THIM</p>
 </td>
 </tr>
 <tr>
@@ -64,12 +68,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LALITHA D/O RAJAGOPAL</p>
+<p>MS AZLYNNA BTE ABDUL AZIZ</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS YEO SHI ER SHANNON</p>
+<p>MADAM CHANG KAI LEE</p>
 </td>
 </tr>
 <tr>
@@ -77,7 +81,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS YONG FAH YIN</p>
+<p>MDM HASLINDA BTE IMBRAHIM</p>
 </td>
 </tr>
 <tr>
