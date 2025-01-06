@@ -42,10 +42,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT ASSOCIATE</p>
+<p>ICT MANAGER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR ONG HAN GHEE</p>
+<p>MR JOHN KELVIN DIZON INOCENCION</p>
 </td>
 </tr>
 <tr>
@@ -62,6 +62,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MS STELLA POH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADMINISTRATIVE EXECUTIVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CHOW SHI YUN CLAIRE</p>
 </td>
 </tr>
 <tr>
@@ -86,14 +94,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM SALMAH BTE ALI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR HENRY CHOW PAK YEN</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>SCHOOL&nbsp;COUNSELLOR</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CORLISSA SEAH YUN&nbsp;ZHI</p>
+<p>MS PARAMESWARI D/O JAYARAM</p>
 </td>
 </tr>
 <tr>
