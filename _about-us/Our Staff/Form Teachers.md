@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS KAVITHA D/O CHELLIAH</p>
+<p>MS KAVIT</p>
 </td>
 </tr>
 <tr>
