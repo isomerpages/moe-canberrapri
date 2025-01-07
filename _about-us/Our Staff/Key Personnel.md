@@ -82,7 +82,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>LEVEL HEADS / SUBJECT HEADS</p>
+<p><strong>LEVEL HEADS / SUBJECT HEADS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH ML</p>
+<p>LH MALAY LANGUAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NUR AZEAN BTE&nbsp;JUMAHAT</p>
@@ -138,7 +139,7 @@ variant: tiptap
 <p>SH STUDENT WELL-BEING</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS SAM HU HUIJUN</p>
+<p>MRS SAM-HU HUIJUN</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +152,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>YEAR HEADS/ASSISTANT YEAR HEADS</p>
+<p><strong>YEAR HEADS/ASSISTANT YEAR HEADS</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -196,7 +198,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>TEACHER LEADERS</p>
+<p><strong>TEACHER LEADERS</strong>
+</p>
 </td>
 </tr>
 <tr>
