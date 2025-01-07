@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -41,7 +45,7 @@ variant: tiptap
 <p>HOD ENGLISH</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS&nbsp;SEBASTIAN</p>
+<p>MDM JANICE LEONG</p>
 </td>
 </tr>
 <tr>
@@ -54,18 +58,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;MATHEMATICS</p>
+<p>HOD&nbsp;MATHEMATICS (INTERNAL APPOINTMENT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LEE FUI LING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM TAN YI LING</p>
+<p>MS LOW PEI YI</p>
 </td>
 </tr>
 <tr>
@@ -111,14 +107,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NUR AZEAN BTE&nbsp;JUMAHAT</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LH MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LOW PEI YI</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +159,7 @@ variant: tiptap
 <p>YEAR HEAD (FACULTY 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS KOMATHI SURESH</p>
+<p>MRS SIVAGOURI KALIAMOORTHY</p>
 </td>
 </tr>
 <tr>
@@ -196,14 +184,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM MARDIANA BTE MOHD&nbsp;AMIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ASST YEAR HEAD (FACULTY 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS NURHUDA BINTE&nbsp;ARSAD</p>
 </td>
 </tr>
 <tr>
