@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -20,11 +24,10 @@ variant: tiptap
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Miss Margareth Chen
-<br>Mr Hairi
-<br>Mrs Yvonne Chong
-<br>Mrs Liow Pei Xian
-<br>Miss Fiona Lee</p>
+<p>MDM LAI SHUDUAN FIONA</p>
+<p>MS CHEN SHIH PING MARGARETH</p>
+<p>MDM TE CHIN TYNG</p>
+<p>MDM WONG HUOY CHYN</p>
 </td>
 </tr>
 <tr>
