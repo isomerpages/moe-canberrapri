@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-school/Our-Staff/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -48,9 +49,5 @@ description: ""
     <td class="tg-7zrl">Mr Shum Chong Kwai</td>
   </tr>
   <tr>
-    <td class="tg-7zrl">Member</td>
-    <td class="tg-7zrl">Mdm Lim Mong Ling</td>
   </tr>
 </tbody></table>
-
-![](/images/sac%20members%20updated.PNG)
