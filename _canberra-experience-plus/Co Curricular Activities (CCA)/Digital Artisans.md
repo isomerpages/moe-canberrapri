@@ -23,6 +23,8 @@ variant: tiptap
 <br>Ms Lu Qiu Ning Claire
 <br>Ms Wong Mun Ee
 <br>Mdm Viji</p>
+<p>Mrs Kalay
+<br>Mdm Liana</p>
 </th>
 </tr>
 <tr>
