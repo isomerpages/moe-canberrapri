@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MRS MOORTHY</p>
+<p>MRS SIVAGOURI KALIAMOORTHY</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS KAVIT</p>
+<p>MRS KAVITHA ANDREW</p>
 </td>
 </tr>
 <tr>
@@ -526,7 +526,7 @@ variant: tiptap
 <p>EXCELLENCE&nbsp;&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS KALLAI</p>
+<p>MRS BUVENESWARI KALAY</p>
 </td>
 </tr>
 <tr>
