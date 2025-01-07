@@ -52,7 +52,7 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C5 and R1</p>
+<p>Classroom</p>
 </td>
 </tr>
 </tbody>
