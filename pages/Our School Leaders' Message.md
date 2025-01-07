@@ -14,18 +14,18 @@ This year, Canberra Primary School celebrates its 25th Anniversary and the theme
 
 Following a period of review and consolidation, we are also happy to share that we have refreshed the school’s directional statements:
 
-<center>Vision<br>
+<center><u>Vision</u><br>
 	
 Every Canberrian a Discoverer, Learner and Leader<br>
 	
-<center>Mission<br>
+<center><u>Mission</u><br>
 	
 To provide a quality holistic education which fosters lifelong learning in the pursuit of excellence<center>
 
-<center>Values
+<center><u>Values</u>
 
 *Encapsulated in the acronym* ***ICREST***<br>
-A Citizen with Integrity, Care and Respect who strives for Excellence through Self-discipline and Teamwork<center>
+	A Citizen with <u>I</u>ntegrity, <u>C</u>are and <u>R</u>espect who strives for <u>E</u>xcellence through <u>S</u>elf-discipline and <u>T</u>eamwork<center>
 
 <p align="left">We will continue to ensure our school’s programmes are geared towards ensuring Canberrians are developed holistically and equipped with the knowledge, skills, values and dispositions that are essential in the 21st Century.&nbsp; For our Applied Learning Programme in Digital Making, ‘Start Young, Start It Right – Curating My Learning’ provides our Primary 1 to 4 students with a connected learning experience through the integration of ICT in authentic learning settings. Varied learning experiences, such as coding, are also curated to help them acquire critical thinking skills. In Primary 5 and 6, ‘Ready for Tomorrow – Orientation to My Future Learning’ continues their technology-enabled applied learning with a focus on production and leveraging digital media and communication elements to engage and influence, allowing them to discover their interests and talents, develop life skills, a sense of curiosity and a love for learning.
 
