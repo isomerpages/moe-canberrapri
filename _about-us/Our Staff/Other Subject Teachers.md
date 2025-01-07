@@ -1,77 +1,88 @@
 ---
-title: School Advisory Committee
-permalink: /our-school/Our-Staff/school-advisory-committee/
-description: ""
+title: Other Subject Teachers
+permalink: /other-subject-teachers/
 variant: tiptap
+description: ""
+third_nav_title: Our Staff
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>APPOINTMENT</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>NAME</p>
+<p>OTHER SUBJECT TEACHERS</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHAIRMAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR CHEW KOK MING, LUKE</p>
+<p>MRS SURYANI PIRACCI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HONORARY&nbsp;SECRETARY</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR TERENCE TAN</p>
+<p>MDM BRIDGET CHONG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEMBER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR RAMADOSS SURESH</p>
+<p>MDM AFIDAH BINTI KAMARI</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEMBER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR VICTOR TAN</p>
+<p>MDM GAN PO LIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEMBER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR KYAW LYNN MYAT</p>
+<p>MDM KOH SHU PEI SYLVIA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MEMBER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR SHUM CHONG KWAI</p>
+<p>MS LAUREN JOY YONG JIA JIA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MR MANI PARIASAMY</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MDM MELIZA BTE MOHD SALIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS THILAGAVATHI D/O SUBRAMANIAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR WU JIANRONG ERIC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM ZHONG ZHAOHUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS ANGELINE SEAH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS MICHELLE TAN PUEA PUEA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR MOHAMED MUBARAK S/O RAJ MOHAMED</p>
 </td>
 </tr>
 </tbody>

@@ -24,7 +24,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Wednesdays </span></td>
+    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Friday </span></td>
   </tr>
   <tr>
     <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
