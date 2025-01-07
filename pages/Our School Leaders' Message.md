@@ -35,4 +35,4 @@ To provide a quality holistic education which fosters lifelong learning in the p
 
 </p><p align="left">We look forward to working with our stakeholders, such as our Parent Support Group, School Advisory Committee and parents, to support the growth and development of our students in their pursuit of excellence. <br>
 	
-![](/images/DSC00723___Copy.JPG)</p></center></center></center></center></center>
+![](/images/School_Leaders__Photo.jpg)</p></center></center></center></center></center>
