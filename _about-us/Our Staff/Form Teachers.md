@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM SIVAGOURI D/O ARUNASALAM</p>
+<p>MRS MOORTHY</p>
 </td>
 </tr>
 <tr>
