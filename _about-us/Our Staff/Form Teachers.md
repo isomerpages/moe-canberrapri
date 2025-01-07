@@ -526,7 +526,7 @@ variant: tiptap
 <p>EXCELLENCE&nbsp;&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS BUVENESWARI KALAY</p>
+<p>MS BUVENESWARI SUBRAMANIAM</p>
 </td>
 </tr>
 <tr>
