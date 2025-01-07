@@ -12,58 +12,58 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Appointment</p>
+<p>APPOINTMENT</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Name</p>
+<p>NAME</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairman</p>
+<p>CHAIRMAN</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Kok Ming,&nbsp;&nbsp;Luke</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Honorary&nbsp;Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Terence Tan</p>
+<p>MR CHEW KOK MING, LUKE</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>HONORARY&nbsp;SECRETARY</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ramadoss Suresh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Victor Tan</p>
+<p>MR TERENCE TAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>MEMBER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kyaw Lynn Myat</p>
+<p>MR RAMADOSS SURESH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>MEMBER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shum Chong Kwai</p>
+<p>MR VICTOR TAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR KYAW LYNN MYAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR SHUM CHONG KWAI</p>
 </td>
 </tr>
 <tr>
