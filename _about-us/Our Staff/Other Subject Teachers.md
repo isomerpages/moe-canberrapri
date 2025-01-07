@@ -37,7 +37,7 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM KOH SHU PEI SYLVIA</p>
+<p>MDM KHO SHU PEI</p>
 </td>
 </tr>
 <tr>

@@ -43,7 +43,7 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Rooms 1 and 2</p>
+<p>Art Room</p>
 </td>
 </tr>
 </tbody>

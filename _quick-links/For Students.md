@@ -1,7 +1,8 @@
 ---
-title: For Pupils
+title: For Students
 permalink: /quick-links/permalink/
 description: ""
+variant: tiptap
 ---
 * [eZhishi](https://www.ezhishi.net)
 * [Koobits](https://member.koobits.com/?utm_source=web_nav&utm_medium=btn&utm_campaign=k21web&utm_content=login)
