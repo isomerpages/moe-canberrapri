@@ -58,14 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD&nbsp;MATHEMATICS (INTERNAL APPOINTMENT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LOW PEI YI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,6 +91,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LEE PEILIN FIONA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH MATHEMATICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LOW PEI YI</p>
 </td>
 </tr>
 <tr>
