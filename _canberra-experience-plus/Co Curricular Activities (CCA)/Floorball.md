@@ -3,43 +3,53 @@ title: Floorball
 permalink: /our-ccas/Sports/floorball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-via6{background-color:#FFF;color:#1A202C;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-l3od{background-color:#FFF;color:#1A202C;font-size:18px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Teachers In-Charge</span></th>
-    <th class="tg-l3od"><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Benjamin Chan</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Mr Ali Imran</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Siti Farhana</span><br><span style="font-weight:normal;color:#1A202C;background-color:#FFF">Ms Shannon Yeo</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">CCA Day/s</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Friday</span></td>
-  </tr>
-  <tr>
-    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Time</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">3.00 p.m. – 5.00 p.m.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-via6"><span style="font-weight:bold;color:#1A202C;background-color:#FFF">Venue</span></td>
-    <td class="tg-l3od"><span style="color:#1A202C;background-color:#FFF">Indoor Sports Hall</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Teachers In-Charge</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>MR CHAN ZHEN YI BENJAMIN</p>
+<p>MS YEO SHI ER SHANNON</p>
+<p>MS SITI FARHANA BINTE HAMID</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 p.m. – 5.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Indoor Sports Hall</p>
+</td>
+</tr>
 </tbody>
 </table>
-	
-CPS Floorball first started in the year 2016 with the aim of developing students with the various floorball skills and teaching them important values such as responsibility, teamwork and sportsmanship.
-
-During training sessions, students learn floorball skills such as passing, dribbling and shooting. They are also taught how to attack and defend as a team by the school coach through floorball matches with their peers.
-
-
-Students are given opportunities to represent school and participate in the yearly National School Games organised by the Singapore Primary Schools Sports Council (SPSSC) and the Singapore Schools Sports Council (SSSC). Over the years, CPS Floorball has provided students with a fun and enriching learning experience which they will remember for a long time
+<p>CPS Floorball first started in the year 2016 with the aim of developing
+students with the various floorball skills and teaching them important
+values such as responsibility, teamwork and sportsmanship.</p>
+<p>During training sessions, students learn floorball skills such as passing,
+dribbling and shooting. They are also taught how to attack and defend as
+a team by the school coach through floorball matches with their peers.</p>
+<p>Students are given opportunities to represent school and participate in
+the yearly National School Games organised by the Singapore Primary Schools
+Sports Council (SPSSC) and the Singapore Schools Sports Council (SSSC).
+Over the years, CPS Floorball has provided students with a fun and enriching
+learning experience which they will remember for a long time</p>
