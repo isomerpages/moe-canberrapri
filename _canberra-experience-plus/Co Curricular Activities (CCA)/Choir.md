@@ -17,8 +17,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MDM CHIN SIAW THON
-<br>MRS EMILY HUANG</p>
+<p>MDM CHIN SIAW THON</p>
+<p>MRS EMILY HUANG</p>
 <p>MS LEE HUI YI SHARON</p>
 <p>MR TAN KENG HONG</p>
 </th>
