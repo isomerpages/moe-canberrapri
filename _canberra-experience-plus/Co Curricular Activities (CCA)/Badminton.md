@@ -56,7 +56,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
-<p>Parade Square</p>
 </td>
 </tr>
 </tbody>
