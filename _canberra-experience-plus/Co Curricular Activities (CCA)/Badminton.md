@@ -13,21 +13,17 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>MDM LAI SHUDUAN FIONA</p>
-<p>MS CHEN SHIH PING MARGARETH</p>
-<p>MDM TE CHIN TYNG</p>
-<p>MDM WONG HUOY CHYN</p>
+<p><strong>MDM LAI SHUDUAN FIONA</strong>
+</p>
+<p><strong>MS CHEN SHIH PING MARGARETH</strong>
+</p>
+<p><strong>MDM TE CHIN TYNG</strong>
+</p>
+<p><strong>MDM WONG HUOY CHYN</strong>
+</p>
 </td>
 </tr>
 <tr>
