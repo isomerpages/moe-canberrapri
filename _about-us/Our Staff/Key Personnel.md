@@ -236,7 +236,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST MATHEMATICS</p>
+<p>LT MATHEMATICS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS YVONNE CHONG</p>

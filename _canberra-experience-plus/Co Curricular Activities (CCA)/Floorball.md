@@ -24,6 +24,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>CCA Day/s</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Time</strong>
 </p>
 </td>
