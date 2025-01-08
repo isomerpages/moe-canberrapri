@@ -18,13 +18,14 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="2">
-<p>Mdm Zhang Jin Ling
-<br>Mr Tan Weihan
-<br>Ms Lu Qiu Ning Claire
-<br>Ms Wong Mun Ee
-<br>Mdm Viji</p>
-<p>Mrs Kalay
-<br>Mdm Liana</p>
+<p>MDM ARUMUGAM VIJI</p>
+<p>MS BUVENESWARI SUBRAMANIAM</p>
+<p>MS LU QIU NING CLAIRE</p>
+<p>MDM NURLIANA BTE AB RAHIM</p>
+<p>MS NURUL SYAFIQAH BTE MOHD MUHDI</p>
+<p>MR TAN WEIHAN</p>
+<p>MS WONG MUN EE</p>
+<p>MDM ZHANG JINLING</p>
 </th>
 </tr>
 <tr>
@@ -51,9 +52,7 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Collaborative Learning Hub 2 (P4)
-<br>Computer Lab 3 (P5)
-<br>T1 Classroom (P6)</p>
+<p>Collaborative Learning Hubs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
