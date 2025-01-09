@@ -35,4 +35,4 @@ A Citizen with <u>I</u>ntegrity, <u>C</u>are and <u>R</u>espect who strives for 
 
 </p><p align="left">We look forward to working with our stakeholders, such as our Parent Support Group, School Advisory Committee and parents, to support the growth and development of our students in their pursuit of excellence. <br>
 	
-![](/images/School_Leaders__Photo.jpg)</p></center></center></center></center></center>
+![](/images/IMG_3114.jpg)</p></center></center></center></center></center>
