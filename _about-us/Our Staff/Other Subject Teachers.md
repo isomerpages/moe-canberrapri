@@ -17,17 +17,17 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MRS SURYANI PIRACCI</p>
+<p>MDM AFIDAH BINTI KAMARI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS ANGELINE SEAH</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>MDM BRIDGET CHONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM AFIDAH BINTI KAMARI</p>
 </td>
 </tr>
 <tr>
@@ -57,6 +57,21 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MS MICHELLE TAN PUEA PUEA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR MOHAMED MUBARAK S/O RAJ MOHAMED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MRS SURYANI PIRACCI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MS THILAGAVATHI D/O SUBRAMANIAM</p>
 </td>
 </tr>
@@ -68,21 +83,6 @@ third_nav_title: Our Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>MDM ZHONG ZHAOHUI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS ANGELINE SEAH</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS MICHELLE TAN PUEA PUEA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR MOHAMED MUBARAK S/O RAJ MOHAMED</p>
 </td>
 </tr>
 </tbody>

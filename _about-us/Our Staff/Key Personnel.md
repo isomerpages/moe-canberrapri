@@ -204,18 +204,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LT SCIENCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS&nbsp;CHIA SIEW CHIN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LT ENGLISH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS&nbsp;PHYLLIS WAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT MATHEMATICS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS YVONNE CHONG</p>
 </td>
 </tr>
 <tr>
@@ -232,14 +232,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM BAI JIE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>LT MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS YVONNE CHONG</p>
 </td>
 </tr>
 <tr>
