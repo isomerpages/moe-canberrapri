@@ -423,7 +423,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM LEONG PUI FAN JANICE</p>
+<p>MDM JANICE LEONG</p>
 </td>
 </tr>
 <tr>
