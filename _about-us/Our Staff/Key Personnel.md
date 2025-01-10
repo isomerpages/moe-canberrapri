@@ -58,6 +58,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD MATHEMATICS (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LOW PEI YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -96,18 +104,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH MATHEMATICS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS LOW PEI YI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>LH MALAY LANGUAGE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NUR AZEAN BTE&nbsp;JUMAHAT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH TAMIL LANGUAGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS BUVENESWARI SUBRAMANIAM</p>
 </td>
 </tr>
 <tr>
@@ -140,6 +148,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS SAM-HU HUIJUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH AESTHETICS (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS GOH-CHUN WEE YIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH STUDENT LEADERSHIP (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LEE HUI YI SHARON</p>
 </td>
 </tr>
 <tr>
