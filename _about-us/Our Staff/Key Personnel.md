@@ -112,6 +112,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>LH TAMIL LANGUAGE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS BUVENESWARI SUBRAMANIAM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>LH SCIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -148,6 +156,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS GOH-CHUN WEE YIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH STUDENT LEADERSHIP (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LEE HUI YI SHARON</p>
 </td>
 </tr>
 <tr>
