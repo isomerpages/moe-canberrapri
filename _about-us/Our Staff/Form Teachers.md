@@ -112,7 +112,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM LALITHA D/0 RAJAGOPAL</p>
+<p>MDM LALITHA D/O RAJAGOPAL</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +120,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SULAIHA BINTE ABDUL AZI</p>
+<p>MS SULAIHA BINTE ABDUL AZIZ</p>
 </td>
 </tr>
 <tr>
@@ -172,7 +172,6 @@ variant: tiptap
 <p>RESPECT&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>MR MOHAMMAD FARID WAHYUNI</p>
 </td>
 </tr>
