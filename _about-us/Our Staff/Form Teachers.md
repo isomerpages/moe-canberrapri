@@ -288,7 +288,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS TEO XUE HUA GRACE</p>
+<p>MRS GRACE SHEN (TEO XUE HUA)</p>
 </td>
 </tr>
 <tr>
