@@ -268,7 +268,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST PE &amp; CCA</p>
+<p>ST PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR MOHAMED FAUZY BIN&nbsp;KASDI</p>
