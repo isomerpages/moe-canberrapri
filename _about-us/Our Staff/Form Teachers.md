@@ -172,7 +172,6 @@ variant: tiptap
 <p>RESPECT&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p>MR MOHAMMAD FARID WAHYUNI</p>
 </td>
 </tr>
