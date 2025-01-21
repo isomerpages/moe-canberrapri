@@ -30,7 +30,7 @@ celebrate the achievements of our staff.</p>
 <p>Name of staff</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Sharing beyond school</p>
+<p>Sharing beyond school</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Platforms</p>
