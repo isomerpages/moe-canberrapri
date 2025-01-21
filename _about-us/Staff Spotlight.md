@@ -196,7 +196,7 @@ Syllabuses (SEAB)</p>
 </tr>
 </tbody>
 </table>
-<p><a href="/files/Staff_Spotlight_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Staff Spotlight for 2023</a>
+<p><a href="/files/Staff_Spotlight_2023.pdf" rel="noopener nofollow" target="_blank">Click here to view the Staff Spotlight for 2023</a>
 </p>
-<p><a href="/files/Staff_Spotlight_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to view the Staff Spotlight for 2022</a>
+<p><a href="/files/Staff_Spotlight_2022.pdf" rel="noopener nofollow" target="_blank">Click here to view the Staff Spotlight for 2022</a>
 </p>
