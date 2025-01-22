@@ -27,13 +27,16 @@ celebrate the achievements of our staff.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of staff</p>
+<p><strong>Name of staff</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing beyond school</p>
+<p><strong>Sharing beyond school</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platforms</p>
+<p><strong>Platforms</strong>
+</p>
 </td>
 </tr>
 <tr>
