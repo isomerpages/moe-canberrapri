@@ -18,7 +18,7 @@ various platforms. As a Canberra family, we would like to acknowledge and
 celebrate the achievements of our staff.</p>
 <p><strong>2024 Sharing beyond school</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="table-layout:fixed;width:100%;">
 <colgroup>
 <col>
 <col>
@@ -177,7 +177,7 @@ Syllabuses (SEAB)</p>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Weihan
 <br>Ms Azlynna Abdul Aziz
-<br>Mdm Haryantie Mustafa;</p>
+<br>Mdm Haryantie Mustafa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Code It to Write It!</p>
