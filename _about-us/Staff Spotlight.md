@@ -1,7 +1,7 @@
 ---
 title: Staff Spotlight
 permalink: /about-us/staff-spotlight2024/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>Staff Achievements</strong> 
@@ -18,7 +18,7 @@ various platforms. As a Canberra family, we would like to acknowledge and
 celebrate the achievements of our staff.</p>
 <p><strong>2024 Sharing beyond school</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="table-layout:fixed;width:100%;">
 <colgroup>
 <col>
 <col>
@@ -27,13 +27,16 @@ celebrate the achievements of our staff.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Name of staff</p>
+<p><strong>Name of staff</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Sharing beyond school</p>
+<p><strong>2024 Sharing beyond school</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Platforms</p>
+<p><strong>Platforms</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +48,7 @@ celebrate the achievements of our staff.</p>
 for Primary 3 Chinese Language Students</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N4 Cluster Community of Learning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>N4 Cluster Community of Learning</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +177,7 @@ Syllabuses (SEAB)</p>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Weihan
 <br>Ms Azlynna Abdul Aziz
-<br>Mdm Haryantie Mustafa&nbsp;</p>
+<br>Mdm Haryantie Mustafa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Code It to Write It!</p>
