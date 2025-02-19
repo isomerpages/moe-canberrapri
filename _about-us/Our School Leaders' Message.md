@@ -4,6 +4,9 @@ permalink: /about-us/school-leaders-message/
 variant: markdown
 description: ""
 ---
+
+
+![](/images/2025sls.jpg)<br>
 **Celebrating Our Legacy, Shaping New Horizons**
 
 Warmest greetings from all of us at Canberra Primary School!
@@ -34,5 +37,5 @@ A Citizen with <u>I</u>ntegrity, <u>C</u>are and <u>R</u>espect who strives for 
 </p><p align="left">To better support our students in learning, we have been upgrading our facilities to create a more conducive and vibrant learning environment. Some recent improvements made include refreshing outdoor learning areas such as the Green Wonderland and Mushroom Loft. Moving ahead, we will look into enhancing the school environment to optimise learning and provide opportunities for students to explore their creative talents, and to build their social and emotional competencies.
 
 </p><p align="left">We look forward to working with our stakeholders, such as our Parent Support Group, School Advisory Committee and parents, to support the growth and development of our students in their pursuit of excellence. <br>
-
+	
 </p></center></center></center></center></center>
