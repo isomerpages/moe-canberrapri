@@ -4,8 +4,6 @@ permalink: /about-us/school-leaders-message/
 variant: markdown
 description: ""
 ---
-
-
 ![](/images/2025sls.jpg)<br>
 **Celebrating Our Legacy, Shaping New Horizons**
 
