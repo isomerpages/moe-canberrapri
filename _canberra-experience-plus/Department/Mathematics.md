@@ -31,6 +31,6 @@ Financial literacy is an invaluable tool for preparing students for a secure fin
 
 **Key Programmes of the Department**<br>
 Click to find out more:
-<br>•	[Schoolbag – 3 good money habits for kids](https://www.schoolbag.edu.sg/story/3-good-money-habits-for-kids-works-for-digital-savers-too/)
-<br>• [Learning Support for Mathematics (LSM)](https://www.moe.gov.sg/primary/curriculum/learning-support)and Improving Confidence and Achievement in Numeracy (ICAN) Programmes
-<br>•	[Excellence 2000 (E2K) Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners)
+* [Schoolbag – 3 good money habits for kids](https://www.schoolbag.edu.sg/story/3-good-money-habits-for-kids-works-for-digital-savers-too/)
+* [Learning Support for Mathematics (LSM)](https://www.moe.gov.sg/primary/curriculum/learning-support)and   Improving Confidence and Achievement in Numeracy (ICAN) Programmes
+*	[Excellence 2000 (E2K) Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/high-ability-learners)
