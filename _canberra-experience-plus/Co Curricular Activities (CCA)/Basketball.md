@@ -61,4 +61,17 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>e them well in the future.</p>
+<p>Basketball is a popular co-curricular activity offered at Canberra Primary
+School. It provides students with the opportunity to develop important
+values such as resilience, teamwork, determination, and excellence. Through
+regular practice and participation in trainings, matches and tournaments,
+students can improve their physical fitness, coordination, and strategic
+thinking abilities.&nbsp;</p>
+<p>With the hard work and guidance from our nurturing basketball teachers
+and coaches, the junior girls' basketball team has shown remarkable success,
+achieving 1<sup>st</sup> Award in the 2024 SPSSC NSG Basketball Championship
+(Tiered Round). This accomplishment is a testament to the dedication and
+hard work of the players, as well as the support of their coaches and teammates.
+By participating in basketball, these students not only develop their athletic
+abilities but also learn important life skills that will serve them well
+in the future.</p>
