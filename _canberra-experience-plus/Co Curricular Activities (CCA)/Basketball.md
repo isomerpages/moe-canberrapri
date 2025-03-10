@@ -76,30 +76,29 @@ By participating in basketball, these students not only develop their athletic
 abilities but also learn important life skills that will serve them well
 in the future.</p>
 <p></p>
-<p><strong>Achieving 1<sup>st</sup> Award in the 2024 SPSSC NSG Basketball Championship (Tiered Round, Junior Division) and Sportsmanship (Senior Division)</strong>
-</p>
+<h4><strong>Achieving 1<sup>st</sup> Award in the 2024 SPSSC NSG Basketball Championship (Tiered Round, Junior Division) and Sportsmanship (Senior Division)</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Award.png">
 </div>
 <p></p>
-<p><strong>Team Canberra, Junior Boys and Junior Girls</strong>
-</p>
+<p></p>
+<h4><strong>Team Canberra, Junior Boys and Junior Girls</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Team_Canberra.png">
 </div>
 <p></p>
-<p><strong>CCA Training Sessions</strong>
-</p>
+<p></p>
+<h4><strong>CCA Training Sessions</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Training1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Training2.png">
 </div>
 <p></p>
-<p><strong>Senior Teams Getting Ready for the Matches</strong>
-</p>
 <p></p>
+<h4><strong>Senior Teams Getting Ready for the Matches</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_Getting_Ready_for_Matches.png">
 </div>
