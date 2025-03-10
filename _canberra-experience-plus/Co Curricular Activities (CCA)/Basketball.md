@@ -17,12 +17,21 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MDM HAN XUEMEI
-<br>MR LEE ERN HUI, JONATHAN
-<br>MS LEE PEILIN FIONA
-<br>MR VINCENT CHOONG CHIEN SHUN
-<br>MS YIP MEI THIM</p>
+<p>Ms Yip Mei Thim</p>
+<p>Ms Fiona Lee</p>
+<p>Mdm Han Xue Mei</p>
+<p>Mr Vincent Choong</p>
+<p>Mr Jonathan Lee</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coaches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys Team: Mr Pua Wei Keong</p>
+<p>Girls Team: Mr Eugene</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,16 +61,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Basketball is a popular co-curricular activity offered at Canberra Primary
-School, and it provides students with an opportunity to develop important
-values such as resilience, teamwork, determination, and excellence. Through
-regular practice and participation in trainings, matches and tournaments,
-students improve their physical fitness, coordination, and strategic thinking
-abilities.</p>
-<p>With the hard work and guidance from our nurturing basketball teachers
-and coaches, the senior girls' basketball team has shown remarkable success,
-achieving top 4 finishes in the 2023 North Zone Basketball Championship.
-This accomplishment is a testament to the dedication and hard work of the
-players, as well as the support of their coaches and teammates. By participating
-in basketball, these students not only develop their athletic abilities
-but also learn important life skills that will serve them well in the future.</p>
+<p>e them well in the future.</p>
