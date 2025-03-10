@@ -47,25 +47,33 @@ third_nav_title: Co Curricular Activities (CCA)
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pal Rooms</p>
+<p>PAL Room</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The International Dance CCA aspires to nurture and bring out the best
-in each student in the performing arts. The CCA strives to ignite the passion
-for dance and our members are exposed to different genres of dance like
-Contemporary Dance and Modern Dance.</p>
-<p>We value teamwork, innovation, self-discipline and care in our CCA. Through
-dance, we hope to cultivate a dynamic team, where every member can grow
-and contribute to their fullest potential.</p>
+<p>The International Dance CCA is dedicated to nurturing each student's artistic
+potential and passion for the performing arts. We strive to ignite a love
+for dance by exposing our members to diverse genres, including Contemporary
+and Modern Dance.</p>
+<p>Our CCA fosters a culture of teamwork, innovation, self-discipline, and
+care. Through dance, we aim to cultivate a dynamic and supportive community
+where every member can grow, express themselves, and contribute to their
+fullest potential.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_18_at_07_15_59.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_18_at_07_04_25.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_17_at_16_30_39.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture1.jpg">
 </div>
 <p></p>
