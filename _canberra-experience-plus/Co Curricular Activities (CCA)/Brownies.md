@@ -44,39 +44,22 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom</p>
+<p>R5 Classroom</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>“I promise to do my best
-<br>To do my duty to God
-<br>To serve my country
-<br>And help other people
-<br>And to keep the Brownie Law.”</p>
-<p>As Brownies, we keep our Brownie Promise close to our hearts whenever
-we recite it with our Brownie Smiles. We explore and discover the world
-around us to become more independent. We wear our Skill Badges with pride
-as we pick up new skills. During weekly meetings, we learn to work and
-play independently and in our Sixes. Along the way, we learn to care for
-each other and make lasting friendships.</p>
-<p>2023 was a great year for us. We attended the World Thinking Day (WTD)
-and North Division Day (NDD) Celebrations. At the NDD Celebrations, we
-won in the Wide Game, Telematch and Culinary Competition too! We also went
-on a 2-day Pack Holiday with the CPS Cub Scouts.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDD___Telematch_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDD2023.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDD___Culinary.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Camp_1.jpg">
-</div>
-<p></p>
+<p><strong>“I promise to do my best<br>To do my duty to God<br>To serve my country<br>And help other people<br>And to keep the Brownie Law.”</strong>
+</p>
+<p>As Brownies, we keep our Brownie Promise close to our hearts. During our
+weekly meetings, we learn to work and play independently in our Sixes.
+At our Pack Holidays, we explore the outdoors and gain new skills to achieve
+our Proficiency Badges that we wear with pride. Along the way, we learn
+to care for each other and make lasting friendships.</p>
+<p><strong>Our Achievements:</strong>
+</p>
+<p>2024 North Division Day:</p>
+<p>3<sup>rd</sup> in NDD Got Talent</p>
+<p>4<sup>th</sup> in Photography Competition</p>
+<p>2<sup>nd</sup> in Art Competition</p>
+<p>2024 Puan Noor Aishah Award: Bronze</p>
