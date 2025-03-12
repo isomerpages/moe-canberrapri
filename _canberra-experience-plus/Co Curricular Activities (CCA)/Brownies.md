@@ -56,10 +56,11 @@ weekly meetings, we learn to work and play independently in our Sixes.
 At our Pack Holidays, we explore the outdoors and gain new skills to achieve
 our Proficiency Badges that we wear with pride. Along the way, we learn
 to care for each other and make lasting friendships.</p>
-<p><strong>Our Achievements:</strong>
+<h4><strong>Our Achievements:</strong></h4>
+<p><strong>2024 North Division Day:</strong>
 </p>
-<p>2024 North Division Day:</p>
 <p>3<sup>rd</sup> in NDD Got Talent</p>
 <p>4<sup>th</sup> in Photography Competition</p>
 <p>2<sup>nd</sup> in Art Competition</p>
-<p>2024 Puan Noor Aishah Award: Bronze</p>
+<p></p>
+<p><strong>2024 Puan Noor Aishah Award:</strong> Bronze</p>
