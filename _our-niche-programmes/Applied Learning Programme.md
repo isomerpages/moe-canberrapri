@@ -30,7 +30,7 @@ stages:</p>
 <p>Given the changes in the education landscape and shift towards leveraging
 digital platforms, in 2021, the school has reframed and realigned its ALP
 objectives as follows:</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Foundation Stage: Start Young Start It Right – Curating My Learning</p>
 <ul data-tight="true" class="tight">
 <li>
