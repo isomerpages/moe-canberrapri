@@ -51,7 +51,7 @@ developing their 21st Century Competencies and Digital Literacy Skills</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -120,4 +120,5 @@ develop life skills, a sense of curiosity and a love for learning</p>
 <p>Robotics and Artificial Intelligence (AI) with VinciBot and TEMI</p>
 </li>
 </ul>
+<p></p>
 <p></p>
