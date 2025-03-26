@@ -52,29 +52,31 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>The Science and Environment Club aims to create awareness among students
-about environmental issues and the scientific basis behind them. Our aim
-is also to make students to be green ambassadors to voice out concerns
-and ideas to solve any environmental issues in the school context.</p>
-<p>In Semester 1, students will be learning how to take care of community
-plants from NParks, growing our own vegetables using aeroponics and learning
-the use of an eco digester and be ambassadors of the environment. They
-will carry out upcycling activities and learn how they can do their part
-to reduce waste in the environment.</p>
-<p>In Semester 2, the students will be continuing the aeroponics and growing
-their own mushrooms to experience growing and eating their own food. They
-will continue to monitor the school biodiversity and create the Canberra
-Nature Bulletin.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21400ed5_0ada_4029_8dc3_c16146600b2b.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3512.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1551.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3514.jpg">
-</div>
+<p>Are you passionate about nature and science? Do you want to make a difference
+in your school and community? Join the Science and Environment Club and
+become a Green Ambassador!</p>
+<p>Our club helps students understand environmental issues and the science
+behind them. We also encourage members to share ideas and take action to
+make our school a greener place.</p>
+<p>&nbsp;</p>
+<p>What We Do</p>
+<p>🌱 Semester 1:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn how to care for
+community plants with NParks</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow vegetables using
+aeroponics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discover how an eco-digester
+reduces waste</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take part in upcycling
+activities to give old items a new life</p>
+<p>🍄 Semester 2:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Continue growing vegetables
+with aeroponics</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bird watching</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow and harvest our
+own mushrooms</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor school biodiversity
+and create the Canberra Nature Bulletin</p>
+<p>Join us for a fun and meaningful journey as we explore science, care for
+the environment, and take action for a greener future! 🌍✨</p>
 <p></p>
