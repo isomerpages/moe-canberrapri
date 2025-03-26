@@ -20,11 +20,13 @@ Guided by our core values and the 3Ts – Trusting to Learn, Trusting My Learnin
 * Science Trail
 * Community in Nature (Collaboration with NParks)
 
-![](/images/science%201.png)
+![](/images/WhatsApp_Image_2025_03_13_at_4_52_41_PM.jpg)
 Sustainable Food for The Future-The Pumpkin Patch
  ![](/images/science%202.png)
 Monitoring the Growth of Our Pumpkin
  ![](/images/science%203.png)
 Inquiry Based Learning
 ![](/images/science%204.png)
- Learning Trail at Our Learning Oasis
+Learning Science with Sparkle Kits
+
+Integrating Science Manipulatives with ICT
