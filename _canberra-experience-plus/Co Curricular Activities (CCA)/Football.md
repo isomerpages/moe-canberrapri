@@ -52,22 +52,63 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>CPS Football CCA aims to build the resilience, confidence and teamwork
-of our students using football as a platform to achieve these values. Students
-learn the basics of football such as passing the ball, receiving the ball,
-finding positions before progressing towards higher order skills such as
-shooting, making correct runs, and tactical gameplay.</p>
-<p>Selected students have the opportunity to participate and represent our
-school in the National School Games for an invaluable sporting experience
-playing with other schools. Along the way, students are also expected to
-learn the values of sportsmanship and striving to be their best.</p>
+<p><strong>CPS Football Objectives</strong>
+</p>
+<p>The objectives of CPS football CCA are to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maximise participation and enjoyment of the beautiful game</p>
+</li>
+<li>
+<p>Develop and improve technical skills through progressive training</p>
+</li>
+<li>
+<p>Build a solid understanding of football rules and tactics</p>
+</li>
+<li>
+<p>Prepare players for friendly and competitive matches</p>
+</li>
+<li>
+<p>Foster a lifelong passion for football</p>
+</li>
+</ul>
+<p><strong>Our ICREST Values</strong>
+</p>
+<p>Through our school's ICREST values, CPS football team members learn and
+practice:</p>
+<p>Self-Discipline – Train consistently with focus and a positive attitude
+to improve your skills each day</p>
+<p>Care – Look after yourself, your teammates, and show kindness both on
+and off the field</p>
+<p>Respect – Treat coaches, teammates, opponents, and officials with courtesy
+and good sportsmanship</p>
+<p>Integrity – Play fairly and honestly, making good choices even when challenged</p>
+<p>Excellence – Always give your best effort to reach your potential as a
+player and teammate</p>
+<p>Teamwork – Work together, support each other, and celebrate team achievements
+over individual success</p>
+<p><strong>&nbsp;</strong>Photos of students in action:
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4182.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_7.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_4181.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/football(1).png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Asyraf.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_6.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caleb1.jpg">
 </div>
 <p></p>
