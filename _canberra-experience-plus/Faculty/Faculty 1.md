@@ -18,7 +18,7 @@ To promote an inclusive learning environment, our experienced teachers have esta
 These initiatives create a student-centric and well-rounded education that enriches the mind, engages the heart and empowers the hands through values-based learning.
 
 ![](/images/Fac12025.jpg)<br>
-Key Programmes:
+**Faculty Key Programmes:**
 
 * “To CPS We Go” Orientation Programme
 * P1-P4 Buddy Programme 
