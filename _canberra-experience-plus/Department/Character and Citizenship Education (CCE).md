@@ -15,7 +15,6 @@ an integral part of the students’ holistic development. Building on our
 school values of<strong> Integrity, Care, Respect, Excellence, Self-Discipline and Teamwork (iCREST)</strong>,
 we aim to develop in our students good character, resilience and social-emotional
 well-being, future readiness and active citizenship.&nbsp;</p>
-<p></p>
 <p>In school, CCE is enacted with intentionality, through CCE Lessons during
 curriculum time, planned student development learning experiences beyond
 the classroom, teachable moments during other subject lessons and learning
@@ -49,7 +48,8 @@ values and social emotional competencies in our students:</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Student Leadership</p>
+<p><strong>Student Leadership</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>· &nbsp;&nbsp;&nbsp;Cohort Leadership training</p>
@@ -63,7 +63,8 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Citizenship</p>
+<p><strong>Citizenship</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>· &nbsp;&nbsp;&nbsp;Commemoration of Total Defence Day</p>
@@ -96,26 +97,32 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="14" colspan="1">
-<p>Values-In-Action</p>
+<p><strong>Values-In-Action</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
-<p>Level Programmes:</p>
+<p><strong>Level Programmes:</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Outreach</p>
+<p><strong>Outreach</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level</p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Theme</p>
+<p><strong>Theme</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Home and School Community</p>
+<p><strong>Home and School Community</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P1</p>
@@ -126,7 +133,8 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>School Community</p>
+<p><strong>School Community</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P2</p>
@@ -153,7 +161,8 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Wider Community</p>
+<p><strong>Wider Community</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>P5</p>
@@ -177,7 +186,8 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>School-wide Programmes</p>
+<p><strong>School-wide Programmes</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -202,7 +212,8 @@ and Peer Support Leaders</p>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Student Development</p>
+<p><strong>Student Development</strong>
+</p>
 </td>
 <td rowspan="1" colspan="3">
 <p>. &nbsp;&nbsp;&nbsp;Model Pupil Awards</p>
