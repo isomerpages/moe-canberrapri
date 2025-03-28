@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Co Curricular Activities (CCA)
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -17,78 +16,73 @@ variant: tiptap
 <p><strong>Teachers In-Charge</strong>
 </p>
 </th>
-<th rowspan="1" colspan="2">
-<p>MDM ARUMUGAM VIJI</p>
-<p>MS BUVENESWARI SUBRAMANIAM</p>
-<p>MS LU QIU NING CLAIRE</p>
-<p>MDM NURLIANA BTE AB RAHIM</p>
-<p>MS NURUL SYAFIQAH BTE MOHD MUHDI</p>
-<p>MR TAN WEIHAN</p>
-<p>MS WONG MUN EE</p>
-<p>MDM ZHANG JINLING</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Weihan, Mrs Kalay, Mdm Zhang Jin Ling, Mdm Nurliana, Ms Claire
+Lu, Mdm Viji, Ms Tan Seow Fong, Ms Wong Mun Ee and Ms Shafiqah</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p><strong>CCA Day/s</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Collaborative Learning Hubs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong>Venue</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Collaborative Learning Hub 1
+<br>Collaborative Learning Hub 2</p>
+<p>SD4 Classroom
+<br>SD6 Classroom</p>
+<p>LSM Room</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>The Digital Artisans Club adopts a broad curriculum that includes games
-and digital stories creation with Scratch (Primary 3) and Mobile App Development
-(Primary 4). The Primary 5 and Primary 6 pupils are exposed to elements
-of Artificial Intelligence and Robotics.</p>
-<p>We believe that <strong>Digital Artisans Club</strong> is an excellent opportunity
-for students to develop their interest and skills in coding, programming,
-robotics, while also promoting teamwork and leadership skills. It is a
-fun and challenging activity for students, and it can also prepare them
-for future careers in robotics and technology related fields.</p>
-<p><strong>Digital Artisans Club</strong> members are also encouraged to participate
-in national competitions to develop their coding skills in a fun and engaging
-way.</p>
+<p>The Digital Artisans Club offers a comprehensive curriculum that nurtures
+students' creativity and technical skills through progressive learning.
+Primary 3 students begin with game development and digital storytelling
+using Scratch block coding. In Primary 4, they advance to mobile app development,
+where they learn Swift coding to create their own applications. Primary
+5 and Primary 6 students explore elements of virtual reality exploration,
+artificial intelligence and robotics, equipping them with essential skills
+for the future.</p>
+<p></p>
+<p>The Digital Artisans Club provides an excellent platform for students
+to develop their interest and proficiency in coding, programming, and robotics
+while fostering teamwork and leadership skills. It is both an engaging
+and challenging experience that prepares students for future careers in
+technology and innovation. Additionally, club members are encouraged to
+participate in national competitions, allowing them to apply their coding
+skills in fun and meaningful ways.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_2.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_1.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_4.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_4.jpg">
