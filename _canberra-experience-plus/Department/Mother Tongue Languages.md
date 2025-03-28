@@ -50,7 +50,7 @@ Integration (CI) and e-Pedagogy to make the learning of MTL more interesting.</p
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MT_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
