@@ -17,9 +17,8 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR</p>
-<p>MS GUNASUNTHARI THANGARAJOO</p>
-<p>MR MUHAMMAD HAIRI B MOHAMAD</p>
+<p>MS FAZILLAH BINTE ABU BAKAR, MS GUNASUNTHARI THANGARAJOO, MR MUHAMMAD
+HAIRI B MOHAMAD</p>
 </th>
 </tr>
 <tr>
@@ -51,18 +50,16 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>In Canberra Primary School, the Drama Club members are taught the core
-basics of dramatic technique. They get the opportunity to exhibit what
-they have mastered through various school-based performances and competitions,
-like our own production entitled ‘Say It Right’ that is written and directed
-by own our pupils. Our artists are also exposed to a myriad of experiences
-such as script-writing and stage craft which includes making props or designing
-costumes. Each year, the Drama Club will showcase their performance in
-a school assembly programme.</p>
-<p>This year, Drama Club had the opportunity to perform a skit entitled,
-The Legend of Nian’ at Canberra Park as part of Chinese New Year Celebration.
-It was indeed a crowning achievement for our budding actors and actresses
-as it was the first public stint by our Drama Club for the year.</p>
+<p>At Canberra Primary School, Drama Club members develop a wide range of
+performance and stagecraft skills. They learn the fundamentals of dramatic
+techniques, including voice projection, expressive body language, and character
+development. In addition, they gain hands-on experience in scriptwriting
+and stage direction.</p>
+<p>Our budding actors and actresses showcase their talents through various
+school-based performances. Each year, the Drama Club presents a performance
+at a school assembly, providing students with a platform to exhibit their
+skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_1.jpg">
 </div>
