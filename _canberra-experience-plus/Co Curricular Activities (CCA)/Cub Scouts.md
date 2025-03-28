@@ -16,15 +16,14 @@ variant: tiptap
 <p><strong>Teachers In-Charge</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>MS HANISAH BINTE MOHD JAILANI</p>
-<p>MR KASNI BIN KASIM</p>
-<p>MS TAN SHI LING</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Ms Hanisah Jailani, Mr Kasni Kasim, Mdm Tan Shi Ling</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p><strong>CCA Day/s</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -32,7 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -40,31 +40,48 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom</p>
+<p>Care 6 Classroom</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>CPS Cub Scouts aims to provide a group environment which is intellectually
-stimulating, physically vital and directed towards satisfying the basic
-need to face and overcome challenges. Our Cub Scouts participate in activities
-covering a wide range of subjects and interests and are guided to exemplify
-the Scout Promise, Law and Motto (Do Our Best!).</p>
-<p>Students celebrate Founders’ Day in February and complete activities to
-attain their Silver Progress Badges. Cubs will also reflect on the environmental
-challenges they had completed as part of the 2023 Diamond Jubilee Challenge
-(DJC). This year’s theme of Skills for Life enables Cubs to develop universal
-skills that would serve them well as they navigate an increasingly dynamic
-and fast-paced world. We also take part in our school parade for our National
-Day Celebrations and have our highly anticipated year-end camp with the
-Brownies!</p>
+<p>CPS Cub Scouts aims to create a fun and supportive environment where kids
+can learn new things, stay active, and build confidence by facing and overcoming
+challenges. Our activities are opportunities for adventures and learning
+life skills through hikes, outdoor cooking, camps, games, knotting, craftwork,
+and other Scouting skills – all while making new friends.</p>
+<p></p>
+<p>Cubs will earn badges as they go through the Cub Scout Programme – namely
+in Scouting skills (Progress badges), personal skills (Proficiency badges),
+as well as commemorative badges for key area events (such as campfires,
+hikes, or Founders’ Day celebrations).</p>
+<p></p>
+<p>As the first line of the Scout Promise states, “I promise to do my best!”,
+every Cub strives to overcome difficulties, setbacks, and challenges, always
+giving their best in everything they do!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2022_10_26_at_13_33_56.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_20230808_WA0002.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SCOUTS_3.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCOUTS_6.jpg">
 </div>
 <p></p>
