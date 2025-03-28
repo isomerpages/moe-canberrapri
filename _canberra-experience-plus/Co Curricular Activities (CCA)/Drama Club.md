@@ -17,8 +17,9 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR, MS GUNASUNTHARI THANGARAJOO, MR MUHAMMAD
-HAIRI B MOHAMAD</p>
+<p>MS FAZILLAH BINTE ABU BAKAR</p>
+<p>MS GUNASUNTHARI THANGARAJOO</p>
+<p>MR MUHAMMAD HAIRI B MOHAMAD</p>
 </th>
 </tr>
 <tr>
