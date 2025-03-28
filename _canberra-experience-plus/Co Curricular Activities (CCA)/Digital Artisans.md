@@ -17,8 +17,24 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Weihan, Mrs Kalay, Mdm Zhang Jin Ling, Mdm Nurliana, Ms Claire
-Lu, Mdm Viji, Ms Tan Seow Fong, Ms Wong Mun Ee and Ms Shafiqah</p>
+<p><strong>MR TAN WEIHAN</strong>
+</p>
+<p><strong>MRS KALAY</strong>
+</p>
+<p><strong>MDM ZHANG JIN LING</strong>
+</p>
+<p><strong>MDM NURLIANA</strong>
+</p>
+<p><strong>MS CLAIRE LU</strong>
+</p>
+<p><strong>MDM VIJI</strong>
+</p>
+<p><strong>MS TAN SEOW FONG</strong>
+</p>
+<p><strong>MS WONG MUN EE</strong>
+</p>
+<p><strong>MS SHAFIQAH</strong>
+</p>
 </td>
 </tr>
 <tr>
