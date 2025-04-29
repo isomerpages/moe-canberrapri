@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our 25th Anniversary.md
       - Our School Information/.keep
       - Our School Information/Our History.md
       - Our School Information/Our School Logo.md
