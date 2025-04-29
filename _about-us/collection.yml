@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our 25th Anniversary.md
       - Our School Information/.keep
       - Our School Information/Our History.md
       - Our School Information/Our School Logo.md
@@ -16,6 +15,7 @@ collections:
       - Our Staff/Form Teachers.md
       - Our Staff/Other Subject Teachers.md
       - Our Staff/Executive and Administrative Staff (EAS).md
+      - Our 25th Anniversary.md
       - Staff Spotlight.md
       - School Advisory Committee.md
       - Apple Distinguished School.md
