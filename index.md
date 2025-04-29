@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing_Page_2025__29042025__1_.gif
+      background: /images/Landing_Page_2025__29042025__2_.gif
       key_highlights:
         - title: Announcements
           description: Click here for announcements
