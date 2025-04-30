@@ -4,7 +4,7 @@ permalink: /our-25th-anniversary/
 variant: tiptap
 description: ""
 ---
-<p>Our 25<sup>th</sup> Anniversary logo</p>
+<p>Our 25<sup>th</sup> Anniversary Logo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_logo.png">
