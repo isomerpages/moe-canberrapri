@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Musical 2025.md
       - E Open House 2024.md
