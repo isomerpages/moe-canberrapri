@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/musical_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CPS_Webpage_Event.jpg">
 </div>
 <p>Step into the enchanting world of "Together We Shine: The Musical" - a
 heartfelt celebration marking Canberra Primary School's silver jubilee.
