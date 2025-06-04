@@ -2,11 +2,12 @@
 title: Apple Distinguished School
 permalink: /our-school/apple-distinguished-school/2022-2025-new/
 description: ""
+variant: markdown
 ---
 Canberra Primary School is pleased to be recognised as an Apple Distinguished School for 2022-2025. [Apple Distinguished Schools](https://www.apple.com/sg/education/k12/apple-distinguished-schools/) are recognized by Apple for continuous innovation in learning, teaching and the school environment.
 
 **Today**  
-Since inception, Canberra Primary School (CPS) has been incorporating cutting-edge, ICT-based pedagogies in its curriculum to enhance teaching and learning.&nbsp; With a visionary leadership and leadership support, teachers’ growth mindset and ongoing teachers’ professional development, CPS continuously seeks opportunities to enable rich learning experiences for its pupils by providing learner-centred environment through harnessing digital technologies and leveraging pupils’ 1:1 Personal Learning Devices (PLDs).
+Since inception, Canberra Primary School (CPS) has been incorporating cutting-edge, ICT-based pedagogies in its curriculum to enhance teaching and learning.&nbsp; With a visionary leadership and leadership support, teachers’ growth mindset and ongoing teachers’ professional development, CPS continuously seeks opportunities to enable rich learning experiences for its students by providing learner-centred environment through harnessing digital technologies and leveraging Personal Learning Devices (PLDs). Click [here](https://www.canva.com/design/DAGpWNn_FBU/q-5NrLunhiYX9-vhPo4Oxw/watch?utm_content=DAGpWNn_FBU&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h0a6ff674d0) to find out more. 
 
 **Learning**  
 A comprehensive, progressive and distinctive&nbsp;[Applied Learning Programme – ICT &amp; Media (ALP)](https://canberrapri.moe.edu.sg/our-programmes/applied-learning-programme) which consists of two stages have been put in place since 2014. The stages are:<br>
@@ -18,7 +19,7 @@ Over time, in addition to the two stages above, a third stage known as Future Le
 ![](/images/Heartbeat%20Canberrian.jpg)
 _Figure 1: Heartbeat of a Canberrian_
 
-With a rapid shift towards greater focus on the use of personal learning devices (PLDs), Blended Learning (BL) and&nbsp;Home-based Learning (HBL), the school has also placed a strong emphasis in digital literacies.&nbsp;This structured approach will enhance pupils’&nbsp;[positive values and habits of learning with PLDs](https://drive.google.com/file/d/1XPaWad7vuXzGdbwITFAFkCLjxHBtgF3C/view?usp=sharing) (Figure 2),&nbsp;equipping them with the required crucial skills and dispositions as well as moulding them to be successful individuals who are able to harness the use of technology responsibly and effectively. Pupils will be developed to be future-ready and digitally responsible Canberrians who are able to leverage Apple technology to&nbsp;curate, create, connect, and collaborate with others productively in an increasingly networked digital environment.
+With a rapid shift towards greater focus on the use of personal learning devices (PLDs), Blended Learning (BL) and&nbsp;Home-based Learning (HBL), the school has also placed a strong emphasis in digital literacies.&nbsp;This structured approach will enhance students'&nbsp;[positive values and habits of learning with PLDs](https://drive.google.com/file/d/1XPaWad7vuXzGdbwITFAFkCLjxHBtgF3C/view?usp=sharing) (Figure 2),&nbsp;equipping them with the required crucial skills and dispositions as well as moulding them to be successful individuals who are able to harness the use of technology responsibly and effectively. Students will be developed to be future-ready and digitally responsible Canberrians who are able to leverage Apple technology to&nbsp;curate, create, connect, and collaborate with others productively in an increasingly networked digital environment.
 
 
   
