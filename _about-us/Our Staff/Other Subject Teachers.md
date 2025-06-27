@@ -37,11 +37,6 @@ third_nav_title: Our Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM KHO SHU PEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>MS LAUREN JOY YONG</p>
 </td>
 </tr>
