@@ -276,6 +276,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ST ENGLISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DR LEE NAI FERN RACHEL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>ST SCIENCE</p>
 </td>
 <td rowspan="1" colspan="1">
