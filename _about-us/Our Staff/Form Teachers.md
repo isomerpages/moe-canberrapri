@@ -186,7 +186,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>RESPECT&nbsp;&nbsp;5</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -196,11 +196,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MRS SIVAGOURI KALIAMOORTHY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS RAUDHAH NAFISAH HAKIM</p>
 </td>
 </tr>
 <tr>
