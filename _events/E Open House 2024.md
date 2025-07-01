@@ -47,7 +47,7 @@ Find what sparks your interest and jump in—there’s a place for everyone to s
 <hr>
 
 
-**25th Anniversary: Celebrating Our Legacy, Shaping New Horizons**
+**25th Anniversary - Celebrating Our Legacy, Shaping New Horizons**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cYkvnMs1fNg?si=ap0JeI0wlMAWREwo" height="315" width="560"></iframe>
 
@@ -55,4 +55,4 @@ We’re 25! Time to celebrate all the great moments, achievements, and people wh
 
 To mark this special milestone, we’re putting on a spectacular **25th Anniversary Musical**, a fun and inspiring show that highlights our journey and the bright horizons ahead.
 
-Join us as we celebrate our story, enjoy the musical, and get ready to shape amazing new adventures together!
+Join us as we celebrate our journey, enjoy the musical, and get ready to shape amazing new adventures together!
