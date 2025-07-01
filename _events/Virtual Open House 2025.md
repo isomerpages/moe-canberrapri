@@ -4,7 +4,7 @@ permalink: /events/permalink/
 description: ""
 variant: markdown
 ---
-**Virtual Open House 2025 **
+Virtual Open House 2025 
 <br>
 
 Welcome to Canberra Primary School’s Virtual Open House 2025! Get ready to see how our students grow in every way—building knowledge, skills, values, and mindsets that matter in today’s world. You’ll also discover how the ICREST (**I**ntegrity, **C**are, **R**espect, **E**xcellence, **S**elf-Discipline, **T**eamwork) values shape their journeys and how our faculty programmes support their all-round development.
