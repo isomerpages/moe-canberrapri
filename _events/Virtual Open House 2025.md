@@ -12,9 +12,7 @@ Welcome to Canberra Primary School’s Virtual Open House 2025! Get ready to see
 So, what are you waiting for? Scroll on down and explore!
 <hr>
 
-
-
-**Every Canberrian a Discoverer, Learner and Leader.**
+**Every Canberrian a Discoverer, Learner and Leader**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7dstOjtKTSc?si=hv7d2M-cd2xMLdew" height="315" width="560"></iframe>
 
 This vision is at the heart of everything we do! We want every student to be a **Discoverer**—curious, creative, and ready to explore the world around them. As **Learners**, they dive deep, think big, and fall in love with learning across all subjects.
@@ -22,8 +20,6 @@ This vision is at the heart of everything we do! We want every student to be a *
 We also help students grow as **Leaders**, encouraging them to step up with confidence, kindness, and integrity—in class and beyond.
 
 With this mindset, every Canberrian is set to thrive and lead with purpose. We’re shaping confident, capable individuals who are ready to make a difference in the world!
-
-Check out the bubbling excitement of our little Primary 1 and 2 discoverers as they traverse a myriad of specially-curated learning terrains and discover what dazzles and delights their young hearts. ‘Know Your Part’ is the motto for our Care and Responsibility levels.<br>
 <hr>
 
 **Learning Spaces and Facilities**
