@@ -47,7 +47,7 @@ variant: tiptap
 <p>MEMBER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR VICTOR TAN</p>
+<p>MR VICTOR TAN KWANG HEE</p>
 </td>
 </tr>
 <tr>
@@ -68,10 +68,42 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MEMBER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MS LIM MEI HAR SERENE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADJUNCT PROFESSOR JOHN LEE CHUAN GAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LOH LEE KIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SOH LIN LI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR CHAI WEIZHE</p>
 </td>
 </tr>
 </tbody>
