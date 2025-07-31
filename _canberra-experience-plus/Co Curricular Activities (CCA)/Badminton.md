@@ -16,19 +16,16 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>MDM LAI SHUDUAN FIONA</strong>
-</p>
-<p><strong>MS CHEN SHIH PING MARGARETH</strong>
-</p>
-<p><strong>MDM TE CHIN TYNG</strong>
-</p>
-<p><strong>MDM WONG HUOY CHYN</strong>
+<p><strong>MDM LAI SHUDUAN FIONA
+<br>MS CHEN SHIH PING MARGARETH
+<br>MDM TE CHIN TYNG
+<br>MDM WONG HUOY CHYN</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p>**CCA Day/s**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -36,19 +33,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p>**Time**</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>2.30 p.m. – 4.30 p.m.
-<br>
-<br>
+<p>2.30 p.m. – 4.30 p.m.
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p>**Venue**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -61,7 +55,6 @@ and love for the sport and inspire the students to be life-long learners.
 Our CCA provides an important platform to instil values of care, responsibility,
 self-discipline, teamwork, innovation, excellence, as well as good sportsmanship
 during training and competitions.</p>
-<p>&nbsp;</p>
 <p>Our CCA comprises of the Recreational and School Team. The Recreational
 Team provides players the opportunity to learn and develop their basic
 badminton skills and techniques of the sport. The School Team consists
