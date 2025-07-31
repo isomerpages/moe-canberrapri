@@ -47,7 +47,7 @@ variant: tiptap
 <p>MEMBER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR VICTOR TAN KWANG HEE</p>
+<p>MR VICTOR TAN KWANG HWEE</p>
 </td>
 </tr>
 <tr>
