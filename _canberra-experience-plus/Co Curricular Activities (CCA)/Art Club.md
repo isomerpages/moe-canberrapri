@@ -18,13 +18,13 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p>MRS GOH-CHUN WEE YIN
 <br>MR PORAYATH RAAKESH MENON
-<br>MS TAN ZU XIAN</p>
-<p>MS YAP HUI JIE</p>
+<br>MS TAN ZU XIAN
+<br>MS YAP HUI JIE</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p>**CCA Day/s**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -32,7 +32,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p>**Time**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -40,7 +40,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p>**Venue**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
