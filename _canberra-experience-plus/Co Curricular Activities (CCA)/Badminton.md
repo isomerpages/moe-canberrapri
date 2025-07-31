@@ -25,16 +25,16 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>**CCA Day/s**</p>
-</td>
+<p><b>CCA Day/s<b></b></b></p><p><b><b>
+</b></b></p></td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>**Time**</p>
-</td>
+<p><b>Time<b></b></b></p><b><b>
+</b></b></td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.
 </p>
@@ -42,8 +42,8 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>**Venue**</p>
-</td>
+<p><b>Venue<b></b></b></p><b><b>
+</b></b></td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
