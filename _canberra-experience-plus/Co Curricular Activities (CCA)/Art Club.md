@@ -24,7 +24,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>**CCA Day/s**</p>
+<p><br>CCA Day/s<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
