@@ -1,9 +1,9 @@
 ---
 title: Art Club
-permalink: /our-ccas/Aesthetics/art-club/
+permalink: /our-ccas/aesthetics/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -18,13 +18,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>MRS GOH-CHUN WEE YIN
 <br>MR PORAYATH RAAKESH MENON
-<br>MS TAN ZU XIAN</p>
-<p>MS YAP HUI JIE</p>
+<br>MS TAN ZU XIAN
+<br>MS YAP HUI JIE</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p><br>CCA Day/s<br></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Time</p>
+<p>**Time**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p>**Venue**</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
@@ -71,6 +71,6 @@ to a wider audience.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Art_1.jpg">
 </div>
 <p></p>
