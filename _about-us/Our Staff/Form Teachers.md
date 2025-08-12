@@ -301,16 +301,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>SELF-DISCIPLINE 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS ONG-TAN CHOK WEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS NURUL SYAFIQAH BTE MOHD MUHDI</p>
 </td>
 </tr>
 <tr>
@@ -441,7 +436,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>INTEGRITY&nbsp;&nbsp;&nbsp;3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -451,11 +446,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>MRS MARILYN KUMAR</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR VINCENT CHOONG CHIEN SHUN</p>
 </td>
 </tr>
 <tr>
