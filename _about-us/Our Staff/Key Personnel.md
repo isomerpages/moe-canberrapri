@@ -66,6 +66,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD MOTHER TONGUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM ZHANG FANGFANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
