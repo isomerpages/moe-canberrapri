@@ -26,8 +26,7 @@ Website:&nbsp;[asencio.com.sg](https://asencio.com.sg/)
 **School Bus:** <br>
 *L &amp; W Transport Services Pte Ltd*<br>
 Tel: 8404 7323 (Ms Lynn)<br>
-[School Bus Registration Form](/files/Bus_Registration_Form_for_2025_Final.pdf) may be downloaded here.
-[School Bus Service Provider 2024](/files/cps%20website%20school%20bus%20operator%202024.pdf)
+[School Bus Registration Form](/files/Bus_Registration_Form_for_2026_Updated.pdf) may be downloaded here.
 
 **School Dental Clinic**<br>
 Tel: 8518 7211
