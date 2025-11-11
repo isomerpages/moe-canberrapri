@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Landing_Page_2025__29042025__2_.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: /announcements/cta2026/
 ---
