@@ -9,7 +9,8 @@ variant: markdown
 **Bookshop:**<br>
 *BL Marketing Pte Ltd*<br>
 Tel: 6284 8785<br>   
-[P1 Booklist 2025](/files/Booklist_2025___P1.pdf) may be downloaded here.<br>
+[P1 Booklist 2026](/files/Booklist_2026___P1.pdf)
+may be downloaded here.<br>
 Website: [www.blmarketing.sg](http://www.blmarketing.sg/)<br>
 
 **Uniform Supplier:**<br>
@@ -25,7 +26,7 @@ Website:&nbsp;[asencio.com.sg](https://asencio.com.sg/)
 
 **School Bus:** <br>
 *L &amp; W Transport Services Pte Ltd*<br>
-Tel: 8404 7323 (Ms Lynn)<br>
+Tel: 8404 7323 (Nick)<br>
 [School Bus Registration Form](/files/Bus_Registration_Form_for_2026_Updated.pdf) may be downloaded here.
 
 **School Dental Clinic**<br>
