@@ -19,7 +19,7 @@ Tel:&nbsp;6764 3102<br>
 120 Hillview Ave, #05-02 Kewalram Hillview,<br>
 Singapore 669594<br>
 
-More Information on [Sales of Uniform](/files/Uniform_Sales_Info_2024.pdf)<br>
+More Information on [Sales of Uniform](/files/Canberri_Primary_School_Uniform_Sales_Info__2025.pdf) <br>
 Website:&nbsp;[asencio.com.sg](https://asencio.com.sg/)
 
 **_School uniform may be purchased at the school bookshop during term time. Walk-in purchases are subject to stock availability._**
