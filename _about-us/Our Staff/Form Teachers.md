@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>CLASS</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p>FORM TEACHERS</p>
@@ -29,12 +29,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS KEH WEI SZE</p>
+<p>MRS KAVITHA ANDREW</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM NUR AZEAN BTE JUMAHAT</p>
+<p>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
 </td>
 </tr>
 <tr>
@@ -42,12 +42,12 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM KUEK HWEE SAN</p>
+<p>MS TAN ZU XIAN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MRS PHYLLIS WAN</p>
+<p>MDM CHANG KAI LEE</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM MARDIANA BTE MOHD AMIN</p>
+<p>MS FAZILLAH BINTE ABU BAKAR</p>
 </td>
 </tr>
 <tr>
@@ -68,33 +68,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS AZLYNNA BTE ABDUL AZIZ</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM CHANG KAI LEE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>CARE&nbsp;&nbsp;&nbsp;5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS HASLINDA HAKIM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS TAN SHI LING</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>CARE&nbsp;&nbsp;&nbsp;6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MS HANISAH BINTE MOHD JAILANI</p>
+<p>MDM LI XUE ER</p>
 </td>
 </tr>
 <tr>
@@ -104,28 +78,41 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>CARE&nbsp;&nbsp;&nbsp;7</p>
+<p>CARE&nbsp;&nbsp;&nbsp;5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NURLIANA BTE AB RAHIM</p>
+<p>MRS GRACE SHEN (TEO XUE HUA)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM LALITHA D/O RAJAGOPAL</p>
+<p>MRS SIVAGOURI KALIAMOORTHY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>CARE&nbsp;&nbsp;&nbsp;8</p>
+<p>CARE&nbsp;&nbsp;&nbsp;6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SULAIHA BINTE ABDUL AZIZ</p>
+<p>MS YONG FAH YIN</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM ZHANG JINLING</p>
+<p>MR MOHAMED FAUZY BIN KASDI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>CARE&nbsp;&nbsp;&nbsp;7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS PHYLLIS WAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS AMY NATALIA BINTE ABDUL NASIR</p>
 </td>
 </tr>
 <tr>
