@@ -19,15 +19,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MDM YVONNE KHOE</strong>
 </p>
-<p><strong>MS CHOONG PIK HUEI DENISE</strong>
-</p>
-<p><strong>MDM NOOR FARANAH BTE MOHAMED YATIM</strong>
-</p>
 <p><strong>MRS SAM-HU HUIJUN</strong>
+</p>
+<p><strong>MS CHOONG PIK HUEI DENISE</strong>
 </p>
 <p><strong>MDM KUEK HWEE SAN</strong>
 </p>
-<p><strong>MRS MARILYN KUMAR</strong>
+<p><strong>MS YAP HUI JIE</strong>
 </p>
 </td>
 </tr>
@@ -44,7 +42,7 @@ variant: tiptap
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 p.m. to 4.30 p.m.</p>
+<p>2.30 p.m. - 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +50,7 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band Studio (Level 6)</p>
+<p>Band Room (Level 6)</p>
 </td>
 </tr>
 </tbody>
