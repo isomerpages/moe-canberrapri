@@ -17,13 +17,19 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Hanisah Jailani, Mr Kasni Kasim, Mdm Tan Shi Ling</p>
+<p><strong>MS TAN SHI LING</strong>
+</p>
+<p><strong>MR KASNI KASSIM</strong>
+</p>
+<p><strong>MS NURUL SITI RADHIYAH</strong>
+</p>
+<p><strong>MRS ANANTHI CHANDRA</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -31,8 +37,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -40,8 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Care 6 Classroom</p>
