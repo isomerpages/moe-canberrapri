@@ -20,7 +20,6 @@ variant: tiptap
 <p>MS SIN HUI ZHENG KAREN</p>
 <p>MR MOHAMMAD FARID WAHYUNI</p>
 <p>MDM WONG HUOY CHYN</p>
-<p>MS GOH SIEW PENG</p>
 <p>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
 </th>
 </tr>
