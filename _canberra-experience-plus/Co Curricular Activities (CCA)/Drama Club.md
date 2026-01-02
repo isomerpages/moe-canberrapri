@@ -19,7 +19,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>MS FAZILLAH BINTE ABU BAKAR</p>
 <p>MS GUNASUNTHARI THANGARAJOO</p>
-<p>MR MUHAMMAD HAIRI B MOHAMAD</p>
+<p>MRS KAVITHA ANDREW</p>
 </th>
 </tr>
 <tr>
