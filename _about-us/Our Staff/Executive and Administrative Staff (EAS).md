@@ -74,6 +74,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ADMINISTRATIVE EXECUTIVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CHAN LI XIAN MICHELLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CORPORATE SUPPORT OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,14 +94,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MS SARENA ROSLE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OPERATIONS SUPPORT OFFICER</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM SALMAH BTE ALI</p>
 </td>
 </tr>
 <tr>
@@ -121,6 +121,22 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR LAU KWON CHEONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OPERATIONS SUPPORT OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR JAYABALAN S/O M RAMALINGAM</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
 <p>ALLIED EDUCATORS</p>
 </td>
@@ -139,6 +155,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM VAANI SHRI&nbsp;KANAKASABAI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
