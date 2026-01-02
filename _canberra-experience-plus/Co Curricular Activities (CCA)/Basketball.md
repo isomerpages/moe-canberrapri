@@ -16,12 +16,16 @@ variant: tiptap
 <p><strong>Teachers In-Charge</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>MS YIP MEI THIM
-<br>MR LEE ERN HUI JONATHAN
-<br>MDM HAN XUEMEI
-<br>MRS MARILYN KUMAR</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>MS YIP MEI THIM </strong>
+</p>
+<p><strong>MR LEE ERN HUI JONATHAN </strong>
+</p>
+<p><strong>MDM HAN XUEMEI </strong>
+</p>
+<p><strong>MRS MARILYN KUMAR</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
