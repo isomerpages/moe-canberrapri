@@ -18,15 +18,14 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>MR HIN HIANG ANTHONY</p>
-<p>MS KEH WEI SZE</p>
 <p>MRS ONG-TAN CHOK WEI</p>
-<p>MR TERY LOU SI YU</p>
+<p>MS KEH WEI SZE</p>
+<p>MS TERY LOU SI YU</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -34,8 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -43,8 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teaching Lab</p>
@@ -58,7 +55,7 @@ become a Green Ambassador!</p>
 <p>Our club helps students understand environmental issues and the science
 behind them. We also encourage members to share ideas and take action to
 make our school a greener place.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>What We Do</p>
 <p>🌱 Semester 1:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn how to care for
