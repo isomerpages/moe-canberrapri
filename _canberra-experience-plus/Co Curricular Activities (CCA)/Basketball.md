@@ -17,27 +17,15 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Yip Mei Thim</p>
-<p>Ms Fiona Lee</p>
-<p>Mdm Han Xue Mei</p>
-<p>Mr Vincent Choong</p>
-<p>Mr Jonathan Lee</p>
+<p>MS YIP MEI THIM
+<br>MR LEE ERN HUI JONATHAN
+<br>MDM HAN XUEMEI
+<br>MRS MARILYN KUMAR</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coaches</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Boys Team: Mr Pua Wei Keong</p>
-<p>Girls Team: Mr Eugene</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Day/s
-<br>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -48,7 +36,7 @@ variant: tiptap
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 p.m. to 4.30 p.m.</p>
+<p>2.30 p.m. - 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
