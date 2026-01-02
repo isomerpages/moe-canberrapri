@@ -17,16 +17,15 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS AMY NATALIA BINTE ABDUL NASIR</p>
-<p>MR GAN TIONG BEE</p>
 <p>MR MOHAMED FAUZY BIN KASDI</p>
 <p>MR VICKNESHSWAREN S/O KRISHNAN BALAN</p>
+<p>MR GAN TIONG BEE</p>
+<p>MS AMY NATALIA BINTE ABDUL NASIR</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
@@ -34,8 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 p.m. – 5.00 p.m.</p>
@@ -43,8 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field</p>
@@ -87,7 +84,7 @@ and good sportsmanship</p>
 player and teammate</p>
 <p>Teamwork – Work together, support each other, and celebrate team achievements
 over individual success</p>
-<p><strong>&nbsp;</strong><em>Photos of students in action: </em>
+<p><em>Photos of students in action: </em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -98,16 +95,13 @@ over individual success</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Asyraf.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caleb1.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_7.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_6.jpg">
