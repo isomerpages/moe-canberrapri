@@ -17,11 +17,11 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>MS YIP MEI THIM </strong>
+<p><strong>MS YIP MEI THIM</strong>
 </p>
-<p><strong>MR LEE ERN HUI JONATHAN </strong>
+<p><strong>MR LEE ERN HUI JONATHAN</strong>
 </p>
-<p><strong>MDM HAN XUEMEI </strong>
+<p><strong>MDM HAN XUEMEI</strong>
 </p>
 <p><strong>MRS MARILYN KUMAR</strong>
 </p>
