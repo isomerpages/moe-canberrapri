@@ -17,15 +17,14 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MR CHAN ZHEN YI BENJAMIN</p>
-<p>MS YEO SHI ER SHANNON</p>
-<p>MS SITI FARHANA BINTE HAMID</p>
+<p>MS SHANNON YEO SHI ER</p>
+<p>MDM SITI FARHANA BINTE HAMID</p>
+<p>MS SHANNON LIM PEI GEOK</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
@@ -33,8 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 p.m. – 5.00 p.m.</p>
@@ -42,8 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sports Hall</p>
