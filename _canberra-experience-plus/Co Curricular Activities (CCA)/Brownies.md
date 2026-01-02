@@ -16,13 +16,18 @@ variant: tiptap
 <p><strong>Teachers In-Charge</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>MS AZLYNNA BTE ABDUL AZIZ
-<br>MS LOW PEI YI
-<br>MDM BAI JIE
-<br>MS YONG FAH YIN
-<br>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>MS AZLYNNA BTE ABDUL AZIZ </strong>
+</p>
+<p><strong>MS LOW PEI YI </strong>
+</p>
+<p><strong>MDM BAI JIE </strong>
+</p>
+<p><strong>MS YONG FAH YIN </strong>
+</p>
+<p><strong>MDM NOOR FARANAH BTE MOHAMED YATIM</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
