@@ -16,9 +16,9 @@ variant: tiptap
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>MS MARGARETH CHEN SHIH PING </strong>
+<p><strong>MS MARGARETH CHEN SHIH PING</strong>
 </p>
-<p><strong>MDM TE CHIN TYNG </strong>
+<p><strong>MDM TE CHIN TYNG</strong>
 </p>
 <p><strong>MDM VIDHIYALEKSHMI KRISHNAN</strong>
 </p>
