@@ -3,7 +3,7 @@ title: Badminton
 permalink: /our-ccas/sports/badminton/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,34 +16,31 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>MDM LAI SHUDUAN FIONA
-<br>MS CHEN SHIH PING MARGARETH
-<br>MDM TE CHIN TYNG
-<br>MDM WONG HUOY CHYN</strong>
+<p><strong>MS MARGARETH CHEN SHIH PING <br>MDM TE CHIN TYNG <br>MDM VIDHIYALEKSHMI KRISHNAN</strong>
+<br><strong>MS LEE PEILIN FIONA</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><b>CCA Day/s<b></b></b></p><p><b><b>
-</b></b></p></td>
+<p>CCA Day/s</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><b>Time<b></b></b></p><b><b>
-</b></b></td>
+<p>Time</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>2.30 p.m. – 4.30 p.m.
-</p>
+<p>2.30 p.m. – 4.30 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><b>Venue<b></b></b></p><b><b>
-</b></b></td>
+<p>Venue</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
