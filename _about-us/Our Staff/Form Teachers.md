@@ -226,16 +226,63 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>SELF-DISCIPLINE 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS LU QIU NING CLAIRE</p>
+<p>MRS ANANTHI CHANDRA</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
+<p>MDM KHOE MOO SHIH YVONNE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS YEO SHI ER SHANNON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR PORAYATH RAAKESH MENON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CHEN SHIH PING MARGARETH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MDM BAI JIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN SHI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR KASNI BIN KASIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>SELF-DISCIPLINE 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS CHIA SIEW CHIN</p>
 </td>
 </tr>
 <tr>
@@ -245,67 +292,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>SELF-DISCIPLINE 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS AW LILIAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MR TAN WEIHAN</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>SELF-DISCIPLINE 3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR HIN HIANG ANTHONY</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM TE CHIN TYNG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p>SELF-DISCIPLINE 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR TAN KENG HONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS GRACE SHEN (TEO XUE HUA)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SELF-DISCIPLINE 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MRS ONG-TAN CHOK WEI</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
 <p>SELF-DISCIPLINE 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHAI MING SEI</p>
+<p>MS LOU SI YU TERY</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR PORAYATH RAAKESH MENON</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MS TAN LI TENG</p>
+<p>MS BUVENESWARI SUBRAMANIAM</p>
 </td>
 </tr>
 <tr>
