@@ -17,16 +17,16 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MDM LALITHA D/0 RAJAGOPAL</p>
-<p>MR MOHAMMAD FARID WAHYUNI</p>
 <p>MS SIN HUI ZHENG KAREN</p>
-<p>MDM ZAWIYAH BTE KOSMAN</p>
+<p>MR MOHAMMAD FARID WAHYUNI</p>
+<p>MDM WONG HUOY CHYN</p>
+<p>MS GOH SIEW PENG</p>
+<p>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -34,8 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 PM - 4.30 PM</p>
@@ -43,8 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Field</p>
@@ -61,17 +59,3 @@ that, we hope that all members of the CCA, affectionately called the Thunderbird
 will continue applying relevant skills that they have learnt in pursuit
 of excellence.</p>
 <p>Our pupils take part in the yearly NSG Competitions.</p>
-<p>![](/images/Track_1.jpg</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Track_5.jpg">
-</div>
-<p></p>
