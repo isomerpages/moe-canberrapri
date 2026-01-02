@@ -17,16 +17,15 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS CHIA SIEW CHIN</p>
 <p>MRS HASLINDA HAKIM</p>
-<p>MR MOHD ALI IMRAN B MOHD SHUKRIE</p>
+<p>MS CHIA SIEW CHIN</p>
 <p>DR LEE NAI FERN RACHEL</p>
+<p>MDM CHANG KAI LEE</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -34,8 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -43,8 +41,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Library</p>
@@ -83,14 +80,5 @@ of a librarian’s daily duties.</p>
 </ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hall_sharing_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Haqqi_1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Haqqi_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sonia_2.jpg">
 </div>
 <p></p>

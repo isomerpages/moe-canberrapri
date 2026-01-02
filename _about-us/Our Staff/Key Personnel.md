@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ED TECH</p>
+<p>HOD EDTECH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM HARYANTIE BINTE&nbsp;MUSTAFA</p>

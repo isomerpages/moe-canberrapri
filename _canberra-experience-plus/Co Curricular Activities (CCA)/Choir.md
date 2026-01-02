@@ -17,10 +17,11 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MDM CHIN SIAW THON</p>
+<p>MS SHARON LEE HUI YI</p>
 <p>MRS EMILY HUANG</p>
-<p>MS LEE HUI YI SHARON</p>
-<p>MR TAN KENG HONG</p>
+<p>MDM CHIN SIAW THON</p>
+<p>MDM LAI SHUDUAN FIONA</p>
+<p>MRS GRACE SHEN (TEO XUE HUA)</p>
 </th>
 </tr>
 <tr>

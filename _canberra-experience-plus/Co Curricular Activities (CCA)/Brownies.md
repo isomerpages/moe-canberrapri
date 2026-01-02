@@ -18,9 +18,10 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>MS AZLYNNA BTE ABDUL AZIZ
-<br>MDM BAI JIE
 <br>MS LOW PEI YI
-<br>MS YONG FAH YIN</p>
+<br>MDM BAI JIE
+<br>MS YONG FAH YIN
+<br>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
 </th>
 </tr>
 <tr>
@@ -64,7 +65,6 @@ to care for each other and make lasting friendships.</p>
 <p>2<sup>nd</sup> in Art Competition</p>
 <p></p>
 <p><strong>2024 Puan Noor Aishah Award:</strong> Bronze</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_1.jpg">
 </div>
