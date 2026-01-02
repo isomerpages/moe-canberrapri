@@ -17,13 +17,12 @@ third_nav_title: Co Curricular Activities (CCA)
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS CHAI MING SEI</p>
-<p>MRS KAVITHA ANDREW</p>
-<p>MDM MARDIANA BTE MOHD AMIN</p>
-<p>MS MARIAN ALPHONSE</p>
-<p>MDM NURUL JANNAH BINTE ANUAR KHAN</p>
 <p>MDM OH MEI LING</p>
-<p>MDM VIDHIYALEKSHMI KRISHNAN</p>
+<p>MDM MARDIANA BTE MOHD AMIN</p>
+<p>MDM NURUL JANNAH BINTE ANUAR KHAN</p>
+<p>MS MARIAN ALPHONSE</p>
+<p>MDM NUR AZEAN BTE JUMAHAT</p>
+<p>MS CHAI MING SEI</p>
 </th>
 </tr>
 <tr>
