@@ -50,7 +50,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD ICT &amp; MRL</p>
+<p>HOD ED TECH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM HARYANTIE BINTE&nbsp;MUSTAFA</p>
@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH AESTHETICS (INTERNAL)</p>
+<p>SH AESTHETICS</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS GOH-CHUN WEE YIN</p>
@@ -168,10 +168,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH STUDENT LEADERSHIP (INTERNAL)</p>
+<p>SH STUDENT LEADERSHIP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LEE HUI YI SHARON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH DIGITAL LITERACY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM NURLIANA BTE AB RAHIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH PARTNERSHIPS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS ANANTHI CHANDRA</p>
 </td>
 </tr>
 <tr>
@@ -198,10 +214,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ASST YEAR HEAD (FACULTY 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM MARDIANA BTE MOHD AMIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>YEAR HEAD (FACULTY 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS LEE HUI TING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ASST YEAR HEAD (FACULTY 2) (INTERNAL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SHANNON YEO SHI ER</p>
 </td>
 </tr>
 <tr>
@@ -214,10 +246,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ASST YEAR HEAD (FACULTY 1)</p>
+<p>ASST YEAR HEAD (FACULTY 3) (INTERNAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM MARDIANA BTE MOHD&nbsp;AMIN</p>
+<p>MS CHOONG PIK HUEI</p>
 </td>
 </tr>
 <tr>
