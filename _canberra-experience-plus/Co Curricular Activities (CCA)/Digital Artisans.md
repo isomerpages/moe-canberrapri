@@ -19,28 +19,19 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MR TAN WEIHAN</strong>
 </p>
-<p><strong>MRS KALAY</strong>
+<p><strong>MS BUVENESWARI SUBRAMANIAM</strong>
 </p>
-<p><strong>MDM ZHANG JIN LING</strong>
-</p>
-<p><strong>MDM NURLIANA</strong>
-</p>
-<p><strong>MS CLAIRE LU</strong>
-</p>
-<p><strong>MDM VIJI</strong>
-</p>
-<p><strong>MS TAN SEOW FONG</strong>
+<p><strong>MDM ARUMUGAM VIJI</strong>
 </p>
 <p><strong>MS WONG MUN EE</strong>
 </p>
-<p><strong>MS SHAFIQAH</strong>
+<p><strong>MDM NURLIANA BTE AB RAHIM</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
-</p>
+<p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday</p>
@@ -48,8 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
+<p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30 p.m. – 4.30 p.m.</p>
@@ -57,15 +47,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Collaborative Learning Hub 1
-<br>Collaborative Learning Hub 2</p>
-<p>SD4 Classroom
-<br>SD6 Classroom</p>
-<p>LSM Room</p>
+<br>Collaborative Learning Hub 2
+<br>SD4 Classroom
+<br>SD6 Classroom
+<br>LSM Room</p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +76,6 @@ technology and innovation. Additionally, club members are encouraged to
 participate in national competitions, allowing them to apply their coding
 skills in fun and meaningful ways.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_2.jpg">
 </div>
@@ -102,8 +90,5 @@ skills in fun and meaningful ways.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Artisans_pic_4.jpg">
 </div>
 <p></p>
