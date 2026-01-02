@@ -15,12 +15,12 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Teachers In-Charge</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>MRS GOH-CHUN WEE YIN
-<br>MR PORAYATH RAAKESH MENON
-<br>MDM TAN ZU XIAN
-<br>MDM LI XUE ER</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>MRS GOH-CHUN WEE YIN</p>
+<p>MR PORAYATH RAAKESH MENON</p>
+<p>MDM TAN ZU XIAN</p>
+<p>MDM LI XUE ER</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
