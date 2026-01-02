@@ -1,5 +1,5 @@
 ---
-title: Our 25th Anniversary
+title: Our 25th Anniversary (2025)
 permalink: /our-25th-anniversary/
 variant: tiptap
 description: ""
