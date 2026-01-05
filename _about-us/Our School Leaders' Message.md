@@ -27,4 +27,3 @@ And to our students, we wish you a year filled with opportunities to grow as Dis
 Together, let us nurture our hearts, grow beyond our limits, and make this year our best one yet.
 
 We wish everyone a blessed, healthy, and fruitful 2026 ahead.
-
