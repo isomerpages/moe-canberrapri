@@ -28,25 +28,3 @@ Together, let us nurture our hearts, grow beyond our limits, and make this year 
 
 We wish everyone a blessed, healthy, and fruitful 2026 ahead.
 
-<center><u>Vision</u><br>
-	
-Every Canberrian a Discoverer, Learner and Leader<br>
-	
-<center><u>Mission</u><br>
-	
-To provide a quality holistic education which fosters lifelong learning in the pursuit of excellence<center>
-
-<center><u>Values</u><br>
-
-Encapsulated in the acronym <b><i>ICREST</i></b><br>
-A Citizen with <u>I</u>ntegrity, <u>C</u>are and <u>R</u>espect who strives for <u>E</u>xcellence through <u>S</u>elf-discipline and <u>T</u>eamwork<center>
-
-<p align="left">We will continue to ensure our school’s programmes are geared towards ensuring Canberrians are developed holistically and equipped with the knowledge, skills, values and dispositions that are essential in the 21st Century.&nbsp; For our Applied Learning Programme in Digital Making, ‘Start Young, Start It Right – Curating My Learning’ provides our Primary 1 to 4 students with a connected learning experience through the integration of ICT in authentic learning settings. Varied learning experiences, such as coding, are also curated to help them acquire critical thinking skills. In Primary 5 and 6, ‘Ready for Tomorrow – Orientation to My Future Learning’ continues their technology-enabled applied learning with a focus on production and leveraging digital media and communication elements to engage and influence, allowing them to discover their interests and talents, develop life skills, a sense of curiosity and a love for learning.
-
-</p><p align="left">Likewise, our Learn for Life Programme ‘Immersing in Canberra Experience through Musical Theatre Education’ allows students to explore issues and emotions, develop empathy for the experiences of others and explore diverse perspectives as we prepare them to become more confident, creative and collaborative individuals.
-
-</p><p align="left">To better support our students in learning, we have been upgrading our facilities to create a more conducive and vibrant learning environment. Some recent improvements made include refreshing outdoor learning areas such as the Green Wonderland and Mushroom Loft. Moving ahead, we will look into enhancing the school environment to optimise learning and provide opportunities for students to explore their creative talents, and to build their social and emotional competencies.
-
-</p><p align="left">We look forward to working with our stakeholders, such as our Parent Support Group, School Advisory Committee and parents, to support the growth and development of our students in their pursuit of excellence. <br>
-	
-</p></center></center></center></center></center>
