@@ -162,7 +162,15 @@ variant: tiptap
 <p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MS GIAM SWEE CHIN OLIVIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS UMAIRAH BINTE ABU BAKAR</p>
 </td>
 </tr>
 </tbody>
