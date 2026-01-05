@@ -4,7 +4,7 @@ permalink: /about-us/school-leaders-message/
 variant: markdown
 description: ""
 ---
-![](/images/2025sls.jpg)<br>
+![](/images/SLs_1.jpg)<br>
 **Nurturing Hearts, Growing Beyond**
 
  
