@@ -68,7 +68,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM LI XUE ER</p>
+<p>MS LI XUE ER</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ variant: tiptap
 <p>CARE&nbsp;&nbsp;&nbsp;5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS GRACE SHEN (TEO XUE HUA)</p>
+<p>MRS GRACE SHEN</p>
 </td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM NURUL SITI RADHIYAH BINTE NOORZALAN</p>
+<p>MS NURUL SITI RADHIYAH BINTE NOORZALAN</p>
 </td>
 </tr>
 <tr>
