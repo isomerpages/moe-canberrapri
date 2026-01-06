@@ -162,7 +162,7 @@ variant: tiptap
 <p>SPECIAL&nbsp;EDUCATIONAL NEEDS OFFICER</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS GIAM SWEE CHIN OLIVIA</p>
+<p>MDM GIAM SWEE CHIN OLIVIA</p>
 </td>
 </tr>
 <tr>
