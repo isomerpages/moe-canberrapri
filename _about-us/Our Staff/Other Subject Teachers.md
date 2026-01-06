@@ -70,6 +70,26 @@ third_nav_title: Our Staff
 <p>MDM ZHONG ZHAOHUI</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS LIM POH KIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS POH ENG HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS ANNE TAN SIEW THIANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MS LEE WEE YEE</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
