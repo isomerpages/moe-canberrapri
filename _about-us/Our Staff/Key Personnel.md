@@ -249,7 +249,7 @@ variant: tiptap
 <p>ASST YEAR HEAD (FACULTY 3) (INTERNAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS CHOONG PIK HUEI</p>
+<p>MS CHOONG PIK HUEI DENISE</p>
 </td>
 </tr>
 <tr>
