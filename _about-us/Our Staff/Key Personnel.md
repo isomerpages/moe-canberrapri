@@ -233,7 +233,7 @@ variant: tiptap
 <p>ASST YEAR HEAD (FACULTY 2) (INTERNAL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SHANNON YEO SHI ER</p>
+<p>MS YEO SHI ER SHANNON</p>
 </td>
 </tr>
 <tr>
