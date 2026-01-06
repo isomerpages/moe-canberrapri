@@ -1,7 +1,7 @@
 ---
 title: Staff Spotlight
 permalink: /about-us/staff-spotlight2024/
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <p><strong>Staff Achievements</strong> 
@@ -18,7 +18,7 @@ various platforms. As a Canberra family, we would like to acknowledge and
 celebrate the achievements of our staff.</p>
 <p><strong>2024 Sharing beyond school</strong>
 </p>
-<table style="table-layout:fixed;width:100%;">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -93,7 +93,7 @@ Syllabuses (SEAB)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hui Yi</p>
+<p>Ms Lee Hui Yi Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher Led Workshop 2024</p>
@@ -131,7 +131,7 @@ Syllabuses (SEAB)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Gek Ling</p>
+<p>Mrs Yvonne Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Primary Mathematics Learning Day 2</p>
