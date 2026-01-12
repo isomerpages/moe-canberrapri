@@ -252,7 +252,7 @@ Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
 an opt-out form via Parents Gateway (PG). The completed opt-out form is
-to be submitted via PG by 22 January 2025.</p>
+to be submitted via PG by 14 January 2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 67597433 or email at <a rel="noopener noreferrer nofollow" target="_blank">canberra_ps@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
