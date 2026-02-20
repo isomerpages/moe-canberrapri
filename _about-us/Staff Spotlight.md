@@ -69,7 +69,7 @@ Short Answer Feedback Assistant&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chun Wee Yin</p>
+<p>Mrs Goh-Chun Wee Yin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sharing of Art lessons enactments and lesson planning</p>
@@ -103,7 +103,7 @@ Short Answer Feedback Assistant&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Swee Lin Phyllis</p>
+<p>Mrs Phyllis Wan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Applying Metacognition in Reading and Viewing through Gamification</p>
@@ -114,7 +114,7 @@ Short Answer Feedback Assistant&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hui Ting
+<p>Ms Lee Hui Ting
 <br>
 </p>
 </td>
@@ -127,7 +127,7 @@ Short Answer Feedback Assistant&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Hui Yi Sharon</p>
+<p>Ms Lee Hui Yi Sharon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Creating and Performing Rhythmic Ostinato with 'Kookaburra'
