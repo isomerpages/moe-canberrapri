@@ -1,5 +1,5 @@
 ---
-title: Information Communication & Technology (ICT)
+title: Educational Technology (EdTech)
 permalink: /our-programmes/department/information-communication-n-technology/
 description: ""
 third_nav_title: Department
@@ -11,7 +11,7 @@ Responsible Discoverer, Learner and Leader</p>
 <p><strong>Mission: </strong>To Provide a Quality Holistic Education which
 Fosters Lifelong Learning in the Pursuit of Excellence, Empowered by Technology.</p>
 <p>Building upon the school's vibrant and pervasive culture of innovation,
-the ICT Department places a premium on innovating curriculum to enhance
+the EdTech Department places a premium on innovating curriculum to enhance
 students' learning experiences. The department creates opportunities for
 students to discover their interests and talents, and develop life skills,
 a sense of curiosity and a love for learning.</p>
