@@ -16,6 +16,196 @@ and Global learners. Canberra Primary staff take ownership and leadership
 in sharing the PLT and department lesson packages with the fraternity at
 various platforms. As a Canberra family, we would like to acknowledge and
 celebrate the achievements of our staff.</p>
+<p><strong>2025 Sharing beyond school</strong>
+</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Aw Lilian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Unalike Mentoring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IMPact Session (AST)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mdm Bai Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>《小学华文线上教学实践指引与教师实践分享会 》
+<br>Online Chinese Language Teaching Practice Guidelines and Teachers’ Sharing
+Session (Primary Level)
+<br>Gamified Self-Directed Reading Comprehension: Enhancing Critical Thinking
+and Engagement through AI-Driven Challenges on SLS&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Language e-Pedagogy Network Learning Community
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>《SLS AI 功能赋能华文教学优秀课例分享会》
+<br>Sharing Session on Exemplary Chinese Language Teaching Practices Enhanced
+by SLS AI Features
+<br>Enhancing Feedback and Writing Quality in HCL Composition through SLS
+Short Answer Feedback Assistant&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N7 Open Classroom&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chun Wee Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharing of Art lessons enactments and lesson planning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Conversations in the Museum Networked Learning Community (ACM NLC)
+2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Haryantie Mustafa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guiding 3 N7 schools Open Classroom Teams</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2025 N7 EdTech CLG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kasni Bin Kasim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mentoring and Supporting Newly Appointed Senior Teachers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N5 Cluster Induction Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Swee Lin Phyllis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Applying Metacognition in Reading and Viewing through Gamification</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NZ English PLC on Metacognition</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Hui Ting
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inquiry-based learning approach to teaching Pie Charts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Zone NLC Upper Primary Mathematics 2025</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Hui Yi Sharon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Creating and Performing Rhythmic Ostinato with 'Kookaburra'
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Planning Differentiated Instruction in the Music Classroom NLC (Leading
+Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Low Pei Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Design to Enactment: Facilitating Inquiry-Based Learning in Primary
+5 Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Reasoning and Communication NLC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>Mr Mohamed Fauzy Bin Kasdi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assessment for Learning in Canberra Primary School
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NZ PE Teacher Leaders Network
+<br>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SOLO Taxonomy in PE in Canberra Primary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE Community of Practice
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Gek Ling Yvonne</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leveraging EdTech for Meaningful Learning: Insights from Canberra Primary
+School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4 Internationalisation Trip to Guangzhou (Forum Presentation)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shah Jahan Mohamed Iqbal
+<br>Mdm Noorazura Ahmat
+<br>Mdm Mdm Koh Swee Lin Phyllis
+<br>Mdm Janice Leong&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Future Ready: Developing 21CC through an Integrated Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellence-in-Action Event</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>2024 Sharing beyond school</strong>
 </p>
 <table style="minWidth: 75px">
