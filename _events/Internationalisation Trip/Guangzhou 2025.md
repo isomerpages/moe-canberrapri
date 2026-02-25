@@ -9,21 +9,22 @@ third_nav_title: Internationalisation Trip
 </p>
 <p>&nbsp;As part of our commitment to extending students’ learning beyond
 Singapore, our school organized two internationalisation trips for Primary
-4 students in 2025.</p>
-<p>&nbsp;The trips include a 5-day, 4-night visit to Guangzhou, China, and
-a 4-day, 3-night visit to Jakarta, Indonesia.</p>
-<p>&nbsp;These trips offer students the opportunity to immerse themselves
+4 students in 2025.
+&nbsp;The trips include a 5-day, 4-night visit to Guangzhou, China, and
+a 4-day, 3-night visit to Jakarta, Indonesia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	These trips offer students the opportunity to immerse themselves
 in the local culture, participate in school programmes with our partner
 schools, and explore educational sites of interest in each country. Our
 partner school in Guangzhou, China is <strong>The Second Primary School of Guangzhou Economic &amp; Technological Development District</strong>,
-while our partner school in Jakarta, Indonesia is <strong>Charis Global School</strong>.</p>
-<p>&nbsp;The internationalisation trips aim to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
-and meaningful interactions to broaden students' global perspectives;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop 21st Century Competencies,
+while our partner school in Jakarta, Indonesia is <strong>Charis Global School</strong>.
+</p><p>&nbsp;The internationalisation trips aim to:</p>
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
+and meaningful interactions to broaden students' global perspectives;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop 21st Century Competencies,
 including global and cross-cultural awareness, effective communication
 and collaboration skills, as well as critical, adaptive, and inventive
-thinking;</p>
+thinking;<p></p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
 and networking opportunities for students; and</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
@@ -52,6 +53,7 @@ commitment to nurturing confident and globally aware learners.</p>
 <p>At The Second Primary School of Guangzhou Economic and Technological Development
 District (广州开放区第二小学)</p>
 <p></p>
+![](/images/Gp_Photo_1_Airport_Departure__cropped_.jpg)
 <p>Building connections through creativity</p>
 <p>&nbsp;</p>
 <p></p>
