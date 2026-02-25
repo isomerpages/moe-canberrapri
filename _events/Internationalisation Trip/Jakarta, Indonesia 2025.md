@@ -62,64 +62,64 @@ in Singapore values yet possess a global outlook.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Departing_for_Jakarta__Indonesia.jpg">
 </div>
-<p>Departing for Jakarta, Indonesia</p>
+<p style="text-align:center;">Departing for Jakarta, Indonesia</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2__Capeng_Painting_at_Godong_Ijo.jpg">
 </div>
-<p>Capeng Painting at Godong Ijo</p>
+<p style="text-align:center;">Capeng Painting at Godong Ijo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3__Anglung_music_experience_at_Godong_Ijo.jpg">
 </div>
-<p>Anglung music experience at Godong Ijo</p>
+<p style="text-align:center;">Anglung music experience at Godong Ijo</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4__Arrival_at_Charis_Global_School.jpg">
 </div>
-<p>Arrival at Charis Global School</p>
+<p style="text-align:center;">Arrival at Charis Global School</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__Building_Friendships_with_Our_Indonesian_Friends.jpg">
 </div>
-<p>Building Friendships with Our Indonesian Friends</p>
+<p style="text-align:center;">Building Friendships with Our Indonesian Friends</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6__Collaborative_Design_Thinking_session_at_Charis_Global_School.jpg">
 </div>
-<p>Collaborative Design Thinking session at Charis Global School</p>
+<p style="text-align:center;">Collaborative Design Thinking session at Charis Global School</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7__Cultural_immersion_through_traditional_batik_painting.jpg">
 </div>
-<p>Cultural immersion through traditional batik painting</p>
+<p style="text-align:center;">Cultural immersion through traditional batik painting</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8__Cross_cultural_performances_1.jpg">
 </div>
-<p>Cross-cultural performances 1</p>
+<p style="text-align:center;">Cross-cultural performances 1</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9__Cross_cultural_performances_2.jpg">
 </div>
-<p>Cross-cultural performances 2</p>
+<p style="text-align:center;">Cross-cultural performances 2</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10__Creating_Lasting_Bonds.jpg">
 </div>
-<p>Creating Lasting Bonds</p>
+<p style="text-align:center;">Creating Lasting Bonds</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11__Educational_visit_to_PT_Liwayway_Cikarang_factory.jpg">
 </div>
-<p>Educational visit to PT Liwayway Cikarang factory</p>
+<p style="text-align:center;">Educational visit to PT Liwayway Cikarang factory</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12__Visit_to_Taman_Mini_Indah_Indonesia__TMII_.jpg">
 </div>
-<p>Visit to Taman Mini Indah Indonesia (TMII)</p>
+<p style="text-align:center;">Visit to Taman Mini Indah Indonesia (TMII)</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/13__Fan_Painting_at_Taman_Mini_Indah_Indonesia__TMII_.jpg">
 </div>
-<p>Fan Painting at Taman Mini Indah Indonesia (TMII)</p>
+<p style="text-align:center;">Fan Painting at Taman Mini Indah Indonesia (TMII)</p>
