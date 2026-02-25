@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Internationalisation Trip/Jakarta, Indonesia 2025.md
       - Internationalisation Trip/Guangzhou 2025.md
       - Internationalisation Trip/.keep
       - Musical 2025.md
