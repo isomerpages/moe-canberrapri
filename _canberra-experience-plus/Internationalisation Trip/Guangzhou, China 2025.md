@@ -60,16 +60,21 @@ commitment to nurturing confident and globally aware learners.</p>
 District (广州开放区第二小学). 
 </p>
 
+<p style="text-align:center;">Building connections through creativity</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_3_Yuexiu_Park_2.jpg">
 </div>
 <p style="text-align:center;">In front of Five Goats Statue</p>
 <p></p>
+
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_4_Harbour_2.jpg">
 </div>
 <p style="text-align:center;">At Ancient Port Museum, Huangpu Ancient Vllage</p>
 <p></p>
+
+<p style="text-align:center;">At Nanfeng Kiln</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_5_Science_Centre.jpg">
 </div>
