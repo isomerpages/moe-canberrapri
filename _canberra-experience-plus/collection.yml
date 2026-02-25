@@ -2,7 +2,6 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Internationalisation Trip.md
       - Jakarta, Indonesia 2025.md
       - Guangzhou, China 2025.md
       - Department/.keep
