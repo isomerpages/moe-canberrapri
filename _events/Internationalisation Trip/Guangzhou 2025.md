@@ -62,17 +62,29 @@ District (广州开放区第二小学)</p>
 <p>Building connections through creativity</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_3_Yuexiu_Park_2.jpg">
+</div>
 <p>In front of Five Goats Statue</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_4_Harbour_2.jpg">
+</div>
 <p>At Ancient Port Museum, Huangpu Ancient Vllage</p>
 <p>&nbsp;</p>
 <p></p>
 <p>At Nanfeng Kiln</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_5_Science_Centre.jpg">
+</div>
 <p>At Guangdong Science &amp; Technology Centre</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_6_Going_Home.jpg">
+</div>
 <p>Final shot before our flight back to Singapore</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
