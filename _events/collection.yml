@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Trial.md
       - Musical 2025.md
       - Virtual Open House 2025.md
