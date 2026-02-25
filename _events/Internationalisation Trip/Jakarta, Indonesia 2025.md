@@ -42,3 +42,17 @@ This unique programme empowered both student and teacher agency through collabor
 Beyond the collaborative project work, students immersed themselves in Indonesian culture through traditional batik painting activities, cultural performances, and storytelling sessions that highlighted the historical significance of local traditions. The trip also included an educational visit to PT Liwayway Cikarang factory, where students gained insights into sustainable manufacturing practices and their connection to environmental stewardship.
 
 This transformative experience enhanced our students' global awareness, deepened their understanding of environmental sustainability as a shared global responsibility, and demonstrated how authentic international partnerships can develop 21st-century competencies. The programme exemplified our school's commitment to nurturing confident, globally aware learners who are rooted in Singapore values yet possess a global outlook.
+
+<p style="text-align:center;">Departing for Jakarta, Indonesia</p>
+<p style="text-align:center;">Capeng Painting at Godong Ijo</p>
+<p style="text-align:center;">Anglung music experience at Godong Ijo</p>
+<p style="text-align:center;">Arrival at Charis Global School</p>
+<p style="text-align:center;">Building Friendships with Our Indonesian Friends</p>
+<p style="text-align:center;">Collaborative Design Thinking session at Charis Global School</p>
+<p style="text-align:center;">Cultural immersion through traditional batik painting</p>
+<p style="text-align:center;">Cross-cultural performances 1</p>
+<p style="text-align:center;">Cross-cultural performances 2</p>
+<p style="text-align:center;">Creating Lasting Bonds</p>
+<p style="text-align:center;">Educational visit to PT Liwayway Cikarang factory</p>
+<p style="text-align:center;">Visit to Taman Mini Indah Indonesia (TMII)</p>
+<p style="text-align:center;">Fan Painting at Taman Mini Indah Indonesia (TMII)</p>
