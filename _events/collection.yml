@@ -2,6 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Internationalisation Trip/.keep
       - Musical 2025.md
       - Virtual Open House 2025.md
