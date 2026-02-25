@@ -2,8 +2,5 @@ collections:
   events:
     output: true
     order:
-      - Internationalisation Trip/.keep
-      - Internationalisation Trip/Guangzhou, China 2025.md
-      - Internationalisation Trip/Jakarta, Indonesia 2025.md
       - Musical 2025.md
       - Virtual Open House 2025.md
