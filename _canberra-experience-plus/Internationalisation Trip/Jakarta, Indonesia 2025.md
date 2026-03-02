@@ -17,19 +17,18 @@ and explore educational sites of interest in each country. Our partner
 school in Guangzhou, China is <strong>The Second Primary School of Guangzhou Economic &amp; Technological Development District</strong>,
 while our partner school in Jakarta, Indonesia is <strong>Charis Global School</strong>.</p>
 <p>&nbsp;The internationalisation trips aim to:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
-and meaningful interactions to broaden students' global perspectives;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; develop 21st Century Competencies,
-including global and cross-cultural awareness, effective communication
+-&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
+and meaningful interactions to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives<br>
+- &nbsp;&nbsp;&nbsp;develop 21st Century Competencies,
+including global and cross-cultural awareness, effective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication
 and collaboration skills, as well as critical, adaptive, and inventive
-thinking;</p>
-<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
-and networking opportunities for students; and</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
-what it means to be Singaporean, strengthening their sense of identity
-and belonging to the nation.</p>
-<p></p>
+thinking<br>
+-&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
+and networking opportunities for students; and<br>
+-&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
+what it means to be Singaporean, strengthening their sense of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identity
+and belonging to the nation.
+
 <p><strong>[B] Internationalisation Trip to Jakarta, Indonesia</strong>
 </p>
 <p>From 11 to 14 November 2025, a group of 24 Primary 4 students and 5 teachers
