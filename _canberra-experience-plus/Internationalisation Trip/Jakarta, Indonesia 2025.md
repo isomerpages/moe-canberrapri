@@ -18,11 +18,11 @@ school in Guangzhou, China is <strong>The Second Primary School of Guangzhou Eco
 while our partner school in Jakarta, Indonesia is <strong>Charis Global School</strong>.</p>
 <p>&nbsp;The internationalisation trips aim to:</p>
 -&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
-and meaningful interactions to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives<br>
+and meaningful interactions to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives;<br>
 - &nbsp;&nbsp;&nbsp;develop 21st Century Competencies,
 including global and cross-cultural awareness, effective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication
 and collaboration skills, as well as critical, adaptive, and inventive
-thinking<br>
+thinking;<br>
 -&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
 and networking opportunities for students; and<br>
 -&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
