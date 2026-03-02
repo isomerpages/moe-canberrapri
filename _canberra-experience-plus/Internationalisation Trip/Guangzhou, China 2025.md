@@ -28,6 +28,7 @@ and networking opportunities for students; and<br>
 -&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
 what it means to be Singaporean, strengthening their sense of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identity
 and belonging to the nation.
+
 <p>&nbsp;<strong>[A]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internationalisation Trip to Guangzhou, China</strong>
 </p>
 <p>&nbsp;From 10 to 14 November 2025, a group of 24 Primary 4 students and
