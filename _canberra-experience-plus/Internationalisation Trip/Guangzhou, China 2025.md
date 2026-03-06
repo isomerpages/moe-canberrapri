@@ -19,8 +19,8 @@ while our partner school in Jakarta, Indonesia is <strong>Charis Global School</
 <p>&nbsp;The internationalisation trips aim to:</p>
 -&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
 and meaningful interactions to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives;<br>
-- &nbsp;&nbsp;&nbsp;develop 21st Century Competencies,
-including global and cross-cultural awareness, effective &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;communication
+- &nbsp;&nbsp;&nbsp; develop 21st Century Competencies,
+including global and cross-cultural awareness, effective communication
 and collaboration skills, as well as critical, adaptive, and inventive
 thinking;<br>
 -&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
