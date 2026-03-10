@@ -25,3 +25,5 @@ peer support fosters positive relationships and ensures that younger students
 feel welcomed, secure, and confident as they begin their primary school
 journey.</p>
 <p></p>
+
+![](/images/Orientation_Week_To_CPS_We_Go___Guided_Tour_Interaction_between_teachers_and_parents.jpg)
