@@ -31,3 +31,20 @@ These initiatives create a student-centric and well-rounded education that enric
 * P1 MTL Enrichment
 * P2 Speech and Drama Enrichment
 * P2 Graduation by Performance
+
+                                                                 
+                                                                       To CPS We Go
+
+The “To CPS We Go” programme supports P1 students in transitioning smoothly from preschool to primary school. It helps them adjust to a new learning environment by introducing school routines, expectations, and daily structures in a supportive and reassuring way. Through carefully planned activities, students build confidence, independence, and readiness for primary school life.
+
+The programme also aims to establish a positive classroom culture where students feel safe, respected, and encouraged to learn and grow together. Teachers create a nurturing environment that promotes cooperation, responsibility, and mutual respect among peers.
+
+In addition, the P1-P4 buddy programme strengthens students’ sense of belonging. P4  students guide P1 students around the school during recess, helping them become familiar with key areas and facilities. This peer support fosters positive relationships and ensures that younger students feel welcomed, secure, and confident as they begin their primary school journey.
+
+![](/images/Orientation_Week_To_CPS_We_Go___Guided_Tour_Interaction_between_teachers_and_parents.jpg)
+
+![](/images/P1_P4_Buddy_Programme_3.jpg)
+
+![](/images/P1_P4_Buddy_Programme.jpg)
+
+![](/images/Teacher_child_parent_interaction.jpg)

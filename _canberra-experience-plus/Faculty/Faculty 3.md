@@ -3,7 +3,7 @@ title: Faculty 3
 permalink: /our-programmes/faculty-three/innovation/
 description: ""
 third_nav_title: Faculty
-variant: markdown
+variant: tiptap
 ---
 **Vision**: Every Canberrian an All-Rounded Student
 
