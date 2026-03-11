@@ -2,7 +2,7 @@ collections:
   canberra-experience-plus:
     output: true
     order:
-      - Test/.keep
+      - Partnership with Parents/.keep
       - Department/.keep
       - Department/English.md
       - Department/Mother Tongue Languages.md
