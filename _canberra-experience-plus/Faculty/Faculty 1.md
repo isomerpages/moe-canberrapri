@@ -32,7 +32,8 @@ These initiatives create a student-centric and well-rounded education that enric
 * P2 Speech and Drama Enrichment
 * P2 Graduation by Performance
 
-                                                                   To CPS We Go
+                                                                 
+                                                                       To CPS We Go
 
 The “To CPS We Go” programme supports P1 students in transitioning smoothly from preschool to primary school. It helps them adjust to a new learning environment by introducing school routines, expectations, and daily structures in a supportive and reassuring way. Through carefully planned activities, students build confidence, independence, and readiness for primary school life.
 
