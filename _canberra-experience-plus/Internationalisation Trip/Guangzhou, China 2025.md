@@ -17,18 +17,16 @@ and explore educational sites of interest in each country. Our partner
 school in Guangzhou, China is <strong>The Second Primary School of Guangzhou Economic &amp; Technological Development District</strong>,
 while our partner school in Jakarta, Indonesia is <strong>Charis Global School</strong>.</p>
 <p>&nbsp;The internationalisation trips aim to:</p>
--&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas
-and meaningful interactions to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives;<br>
-- &nbsp;&nbsp;&nbsp; develop 21st Century Competencies,
-including global and cross-cultural awareness, effective communication
-and collaboration skills, as well as critical, adaptive, and inventive
-thinking;<br>
--&nbsp;&nbsp;&nbsp; promote cross-cultural friendships
-and networking opportunities for students; and<br>
--&nbsp;&nbsp;&nbsp; foster a deeper appreciation of
-what it means to be Singaporean, strengthening their sense of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identity
-and belonging to the nation.
-
+<p>-&nbsp;&nbsp;&nbsp; facilitate the exchange of ideas and meaningful interactions
+to broaden students' global &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;perspectives;
+<br>-&nbsp;&nbsp;&nbsp; develop 21st Century Competencies, including global
+and cross-cultural awareness, effective communication and collaboration
+skills, as well as critical, adaptive, and inventive thinking;
+<br>-&nbsp;&nbsp;&nbsp; promote cross-cultural friendships and networking
+opportunities for students; and
+<br>-&nbsp;&nbsp;&nbsp; foster a deeper appreciation of what it means to be
+Singaporean, strengthening their sense of &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;identity
+and belonging to the nation.</p>
 <p>&nbsp;<strong>[A]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internationalisation Trip to Guangzhou, China</strong>
 </p>
 <p>&nbsp;From 10 to 14 November 2025, a group of 24 Primary 4 students and
@@ -51,7 +49,7 @@ commitment to nurturing confident and globally aware learners.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_1_Airport_Departure__cropped_.jpg">
 </div>
-<p style="text-align:center;">&nbsp;Departing for Guangzhou, China</p>
+<p>&nbsp;Departing for Guangzhou, China</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_2_At_Partner_Sch_cropped_.jpg">
@@ -62,29 +60,29 @@ District (广州开放区第二小学).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_3_Students_fr_both_sch.jpg">
 </div>
-<p style="text-align:center;">Building connections through creativity</p>
+<p>Building connections through creativity</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_3_Yuexiu_Park_2.jpg">
 </div>
-<p style="text-align:center;">In front of Five Goats Statue</p>
+<p>In front of Five Goats Statue</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_4_Harbour_2.jpg">
 </div>
-<p style="text-align:center;">At Ancient Port Museum, Huangpu Ancient Vllage</p>
+<p>At Ancient Port Museum, Huangpu Ancient Vllage</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_6_Nanfeng_Kiln.jpg">
 </div>
-<p style="text-align:center;">At Nanfeng Kiln</p>
+<p>At Nanfeng Kiln</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_5_Science_Centre.jpg">
 </div>
-<p style="text-align:center;">At Guangdong Science &amp; Technology Centre</p>
+<p>At Guangdong Science &amp; Technology Centre</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gp_Photo_6_Going_Home.jpg">
 </div>
-<p style="text-align:center;">Final shot before our flight back to Singapore</p>
+<p>Final shot before our flight back to Singapore</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
