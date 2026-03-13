@@ -3,7 +3,7 @@ title: Partnership with Parents
 permalink: /partnership-with-parents/
 variant: tiptap
 description: ""
-third_nav_title: Partnership with Parents
+third_nav_title: School Activities 2026 Term 1
 ---
 <p><strong>Partnership with Parents</strong>
 </p>
