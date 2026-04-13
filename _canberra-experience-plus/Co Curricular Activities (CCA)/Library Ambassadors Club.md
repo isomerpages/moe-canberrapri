@@ -18,9 +18,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <p>MRS HASLINDA HAKIM</p>
-<p>MS CHIA SIEW CHIN</p>
 <p>DR LEE NAI FERN RACHEL</p>
 <p>MDM CHANG KAI LEE</p>
+<p>MS CHIA SIEW CHIN</p>
 </th>
 </tr>
 <tr>
@@ -44,41 +44,26 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Library</p>
+<p>Canberra Cove</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Step into the literary world with the Library Ambassadors Club as our
-CCA members spark and ignite the love and joy in reading amongst their
-peers through book reviews, sharings and recommendations during the morning
-pre-assembly. They also leverage on technology-enabled applied learning
-experience by using their 1:1 Personal Learning Device (iPads) to create
-digital flipbooks to engage their readers.</p>
-<p>The CCA members also help in the daily operations and maintenance of the
-library and also serve as student Library Ambassadors during school events.</p>
-<p>Library Ambassadors Club aims:
+<p>The<strong> </strong>Library CCA<strong> </strong>offers a comprehensive
+programme that nurtures students’ love for reading, research skills, and
+information literacy through progressive learning. Primary 3 students begin
+by developing basic library skills, including book care, simple cataloguing
+awareness, and reading appreciation activities. In Primary 4, they deepen
+their understanding of information search strategies, basic referencing
+skills, and support in organising library resources.</p>
+<p>Primary 5 and Primary 6 students explore advanced research skills, digital
+literacy, and event planning, including organising reading campaigns and
+literacy-based activities for the school community.</p>
+<p>The Library CCA provides an excellent platform for students to cultivate
+a passion for books while developing leadership, teamwork, and communication
+skills. It offers meaningful opportunities for members to take ownership
+of library initiatives and serve as reading ambassadors.
 <br>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>To develop CCA members to be passionate reading ambassadors who promote
-the love and joy of reading amongst their peers.
-<br>
-</p>
-</li>
-<li>
-<p>To provide CCA members with a technology-enabled applied learning experience
-by leveraging on digital media and communication elements.
-<br>
-</p>
-</li>
-<li>
-<p>To familiarise CCA members with the administrative and logistics matters
-of a librarian’s daily duties.</p>
-</li>
-</ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hall_sharing_2.jpg">
-</div>
+<p></p>
 <p></p>
