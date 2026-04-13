@@ -3,7 +3,7 @@ title: Art Club
 permalink: /our-ccas/aesthetics/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,10 +16,13 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>MRS GOH-CHUN WEE YIN</strong>
-<strong>MR PORAYATH RAAKESH MENON</strong>
-<strong>MDM TAN ZU XIAN</strong>
-<strong>MDM LI XUE ER</strong>
+<p><strong>MRS GOH-CHUN WEE YINMR</strong>
+</p>
+<p><strong>MDM TAN ZU XIAN</strong>
+</p>
+<p><strong>MDM LI XUE ER</strong>
+</p>
+<p><strong>MR PORAYATH RAAKESH MENON</strong>
 </p>
 </td>
 </tr>
@@ -44,34 +47,41 @@ variant: markdown
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room</p>
+<p>Art Rooms 1 and 2</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>If you're a student between Primary 3 and Primary 6 who has a passion
-for creating, drawing, and painting, then the Art Club is the perfect place
-for you. Membership is open to students who enjoy expressing themselves
-through art and who are looking to further develop their skills.</p>
-<p>As a member of the Art Club, you'll have the opportunity to explore a
-wide variety of art forms, mediums, and materials, allowing you to expand
-your knowledge of art. Not only will you get to learn new techniques, you
-will also get to lead and participate in art exhibitions, student-led projects,
-and competitions, giving you a chance to showcase your talent and creativity
-to a wider audience.</p>
+<p>Art Club provides members with enriching opportunities to explore diverse
+art forms, including digital art and ceramics, while strengthening their
+creativity and technical skills. Members engage in both individual and
+collaborative projects, using art as a platform to express their stories,
+ideas, and perspectives. Their artworks are proudly displayed around the
+school, featured in school publications, and presented as meaningful gifts
+to our local and overseas partners. Members also participate in exhibitions
+such as the Singapore Youth Festival (SYF) Art Exhibition, gaining valuable
+exposure and authentic learning experiences. Beyond artistic development,
+Art Club nurtures key CCE competencies, shaping members into critical thinkers,
+effective communicators, responsible team players, and confident leaders
+who contribute positively to the school community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ceramic.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Collaborative_Project.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Painting.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Art_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Digital_Art.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P3_CCA_Experience_Day.jpg">
 </div>
 <p></p>
