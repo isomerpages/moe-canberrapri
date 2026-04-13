@@ -19,12 +19,22 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MS YIP MEI THIM</strong>
 </p>
+<p><strong>MS MARILYN KUMAR</strong>
+</p>
 <p><strong>MR LEE ERN HUI JONATHAN</strong>
 </p>
 <p><strong>MDM HAN XUEMEI</strong>
 </p>
-<p><strong>MRS MARILYN KUMAR</strong>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coaches</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Boys Team: Mr Pua Wei Keong</p>
+<p>Girls Team: Mr Eugene</p>
 </td>
 </tr>
 <tr>
@@ -53,20 +63,20 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>Basketball is a popular co-curricular activity offered at Canberra Primary
-School. It provides students with the opportunity to develop important
-values such as resilience, teamwork, determination, and excellence. Through
-regular practice and participation in trainings, matches and tournaments,
-students can improve their physical fitness, coordination, and strategic
-thinking abilities.&nbsp;</p>
-<p>With the hard work and guidance from our nurturing basketball teachers
-and coaches, the junior girls' basketball team has shown remarkable success,
-achieving 1<sup>st</sup> Award in the 2024 SPSSC NSG Basketball Championship
-(Tiered Round). This accomplishment is a testament to the dedication and
-hard work of the players, as well as the support of their coaches and teammates.
-By participating in basketball, these students not only develop their athletic
-abilities but also learn important life skills that will serve them well
-in the future.</p>
+<p>Our Basketball CCA provides students with opportunities to develop their
+skills, character, and teamwork through structured training and competitive
+play. Members learn fundamental techniques such as dribbling, passing,
+shooting, and defensive strategies, while also building physical fitness,
+discipline, and resilience.</p>
+<p>Beyond technical skills, we emphasise sportsmanship, respect, and perseverance.
+Students are guided to support one another, communicate effectively on
+court, and demonstrate integrity in both victory and defeat. Through participation
+in friendly matches and inter-school competitions, players gain valuable
+experience and confidence.</p>
+<p>The CCA nurtures not only strong athletes but also responsible leaders
+who uphold the values of commitment and teamwork. Whether beginners or
+experienced players, all members are encouraged to strive for personal
+excellence while contributing positively to the team.</p>
 <p></p>
 <h4><strong>Achieving 1<sup>st</sup> Award in the 2024 SPSSC NSG Basketball Championship (Tiered Round, Junior Division) and Sportsmanship (Senior Division)</strong></h4>
 <div class="isomer-image-wrapper">
