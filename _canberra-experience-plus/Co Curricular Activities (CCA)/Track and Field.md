@@ -64,4 +64,3 @@ athletic skill.</p>
 <p>Beyond this, our athletes also cultivate leadership, responsibility, and
 teamwork. We take pride in seeing them pursue excellence, carrying the
 lessons learned on the track into every aspect of their lives.</p>
-<p>Our pupils take part in the yearly NSG Competitions.</p>
