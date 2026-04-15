@@ -61,6 +61,9 @@ power of sprinting and jumping to the calculated precision of throwing
 events. This rigorous focus on form and technique ensures that students
 develop the discipline required to refine their natural talents into true
 athletic skill.</p>
+<p>Beyond this, our athletes also cultivate leadership, responsibility, and
+teamwork. We take pride in seeing them pursue excellence, carrying the
+lessons learned on the track into every aspect of their lives.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
