@@ -75,9 +75,25 @@ also grow into responsible individuals who embody strong values and sportsmanshi
 <p><em>Photos of students in action: </em>
 <br>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_4.jpg">
+</div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_5.jpg">
 </div>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
