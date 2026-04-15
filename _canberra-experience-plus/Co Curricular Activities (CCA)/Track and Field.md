@@ -17,10 +17,14 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS SIN HUI ZHENG KAREN</p>
-<p>MR MOHAMMAD FARID WAHYUNI</p>
-<p>MDM WONG HUOY CHYN</p>
-<p>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
+<p><strong>MS SIN HUI ZHENG KAREN</strong>
+</p>
+<p><strong>MR MOHAMMAD FARID WAHYUNI</strong>
+</p>
+<p><strong>MDM WONG HUOY CHYN</strong>
+</p>
+<p><strong>MS NURUL HANNAH BINTE  MOHAMMAD AMRAN</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -44,17 +48,20 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field</p>
+<p>ISH &amp; School Field</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Canberra Primary School’s Track &amp; Field CCA aspires to be a platform
-for our pupils to develop perseverance and exhibit commitment in developing
-their techniques and talents in various track and field events.</p>
-<p>Pupils develop athletic prowess and values such as teamwork, responsibility
-and leadership through intensive training sessions and sports events. With
-that, we hope that all members of the CCA, affectionately called the Thunderbirds,
-will continue applying relevant skills that they have learnt in pursuit
-of excellence.</p>
+<p>The Track &amp; Field CCA at Canberra Primary is dedicated to more than
+just physical fitness. It is a specialised environment where students undergo
+a journey toward technical mastery. Under the guidance of our coach and
+teachers, students explore a diverse range of disciplines — from the explosive
+power of sprinting and jumping to the calculated precision of throwing
+events. This rigorous focus on form and technique ensures that students
+develop the discipline required to refine their natural talents into true
+athletic skill.</p>
+<p>Beyond this, our athletes also cultivate leadership, responsibility, and
+teamwork. We take pride in seeing them pursue excellence, carrying the
+lessons learned on the track into every aspect of their lives.</p>
 <p>Our pupils take part in the yearly NSG Competitions.</p>
