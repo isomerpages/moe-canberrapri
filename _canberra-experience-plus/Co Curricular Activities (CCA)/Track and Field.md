@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 <p><strong>MDM WONG HUOY CHYN</strong>
 </p>
-<p><strong>MS NURUL HANNAH BINTE  MOHAMMAD AMRAN</strong>
+<p><strong>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</strong>
 </p>
 </th>
 </tr>
