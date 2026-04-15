@@ -17,9 +17,9 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MR MOHAMED FAUZY BIN KASDI</p>
 <p>MR VICKNESHSWAREN S/O KRISHNAN BALAN</p>
 <p>MR GAN TIONG BEE</p>
+<p>MR MOHAMED FAUZY BIN KASDI</p>
 <p>MS AMY NATALIA BINTE ABDUL NASIR</p>
 </th>
 </tr>
@@ -49,63 +49,39 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong>CPS Football Objectives</strong>
-</p>
-<p>The objectives of CPS football CCA are to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Maximise participation and enjoyment of the beautiful game</p>
-</li>
-<li>
-<p>Develop and improve technical skills through progressive training</p>
-</li>
-<li>
-<p>Build a solid understanding of football rules and tactics</p>
-</li>
-<li>
-<p>Prepare players for friendly and competitive matches</p>
-</li>
-<li>
-<p>Foster a lifelong passion for football</p>
-</li>
-</ul>
-<p><strong>Our ICREST Values</strong>
-</p>
-<p>Through our school's ICREST values, CPS football team members learn and
-practice:</p>
-<p>Self-Discipline – Train consistently with focus and a positive attitude
-to improve your skills each day</p>
-<p>Care – Look after yourself, your teammates, and show kindness both on
-and off the field</p>
-<p>Respect – Treat coaches, teammates, opponents, and officials with courtesy
-and good sportsmanship</p>
-<p>Integrity – Play fairly and honestly, making good choices even when challenged</p>
-<p>Excellence – Always give your best effort to reach your potential as a
-player and teammate</p>
-<p>Teamwork – Work together, support each other, and celebrate team achievements
-over individual success</p>
+<p>At Canberra Primary School, the Football Programme provides students with
+a holistic platform for growth, teamwork, and the development of a lifelong
+appreciation for the sport. Through structured training and meaningful
+participation, students are given opportunities to build both their skills
+and character.</p>
+<p>The programme is designed to maximise participation and enjoyment while
+developing students’ technical abilities through progressive and well-structured
+training sessions. Students also gain a strong understanding of football
+rules and tactics, and are prepared to take part in both friendly and competitive
+matches. Beyond skill development, the programme aims to nurture a sustained
+interest and passion for football.</p>
+<p>Central to the Football Programme are the school’s ICREST values, which
+guide students’ attitudes and behaviours both on and off the field. Students
+learn the importance of integrity by playing fairly and making responsible
+decisions. They demonstrate care by looking after themselves and supporting
+their teammates, and practise respect towards coaches, peers, opponents,
+and officials. The value of excellence encourages students to give their
+best effort and strive to reach their potential, while self-discipline
+is developed through consistent training and a positive mindset. Teamwork
+is emphasised as students learn to collaborate, support one another, and
+celebrate shared achievements.</p>
+<p>Through these experiences, students not only develop as footballers but
+also grow into responsible individuals who embody strong values and sportsmanship.</p>
 <p><em>Photos of students in action: </em>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_5.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Asyraf.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Caleb1.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_7.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team_Pic_6.jpg">
-</div>
 <p></p>
 <p></p>
 <p></p>
