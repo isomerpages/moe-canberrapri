@@ -76,6 +76,10 @@ also grow into responsible individuals who embody strong values and sportsmanshi
 <br>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_3.jpg">
+</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_2.jpg">
@@ -93,11 +97,5 @@ also grow into responsible individuals who embody strong values and sportsmanshi
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_Football_5.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
