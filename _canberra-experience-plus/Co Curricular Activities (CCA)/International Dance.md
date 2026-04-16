@@ -5,74 +5,34 @@ description: ""
 variant: tiptap
 third_nav_title: Co Curricular Activities (CCA)
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MDM OH MEI LING</p>
-<p>MDM MARDIANA BTE MOHD AMIN</p>
-<p>MDM NURUL JANNAH BINTE ANUAR KHAN</p>
-<p>MS MARIAN ALPHONSE</p>
-<p>MDM NUR AZEAN BTE JUMAHAT</p>
-<p>MS CHAI MING SEI</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2.30 p.m. – 4.30 p.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Venue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PAL Room</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>The International Dance CCA is dedicated to nurturing each student's artistic
-potential and passion for the performing arts. We strive to ignite a love
-for dance by exposing our members to diverse genres, including Contemporary
-and Modern Dance.</p>
-<p>Our CCA fosters a culture of teamwork, innovation, self-discipline, and
-care. Through dance, we aim to cultivate a dynamic and supportive community
-where every member can grow, express themselves, and contribute to their
-fullest potential.</p>
+<p>The <strong>International Dance CCA</strong> is committed to nurturing every
+student’s artistic potential and deepening their passion for the performing
+arts. Through exposure to diverse dance genres such as Contemporary and
+Modern Dance, members develop versatility, creativity, and a strong appreciation
+for movement as a form of expression.</p>
+<p>Beyond technique and performance, our CCA cultivates values of teamwork,
+discipline, innovation, and mutual respect. We provide a supportive and
+inclusive environment where every dancer is encouraged to grow in confidence,
+refine their skills, and contribute meaningfully to the team. Together,
+we strive to build a vibrant dance community where each member can shine
+and achieve their personal best.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___3_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___4_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___5_.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___1_.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture2.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance_Picture1.jpg">
-</div>
 <p></p>
