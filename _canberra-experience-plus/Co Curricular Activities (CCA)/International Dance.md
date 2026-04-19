@@ -63,7 +63,6 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>The <strong>International Dance CCA</strong> is committed to nurturing every
 student’s artistic potential and deepening their passion for the performing
 arts. Through exposure to diverse dance genres such as Contemporary and
@@ -79,6 +78,7 @@ and achieve their personal best.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___3_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___2_.jpg">
 </div>
@@ -86,12 +86,16 @@ and achieve their personal best.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___4_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___5_.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/International_Dance___1_.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
