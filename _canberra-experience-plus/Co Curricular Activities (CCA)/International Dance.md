@@ -5,6 +5,65 @@ description: ""
 variant: tiptap
 third_nav_title: Co Curricular Activities (CCA)
 ---
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teachers In-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>MDM NUR AZEAN BTE JUMAHAT</strong>
+</p>
+<p><strong>Ms Chia Ming Seh</strong>
+</p>
+<p><strong>Mdm Jannah</strong>
+</p>
+<p><strong>Mdm Mardiana</strong>
+</p>
+<p><strong>Ms Marian</strong>
+</p>
+<p><strong>Mdm Oh Mei Ling</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>CCA Day</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Wednesday</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2.30 p.m. – 4.30 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>PAL Room</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>The <strong>International Dance CCA</strong> is committed to nurturing every
 student’s artistic potential and deepening their passion for the performing
 arts. Through exposure to diverse dance genres such as Contemporary and
