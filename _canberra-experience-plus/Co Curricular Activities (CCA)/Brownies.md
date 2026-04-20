@@ -16,11 +16,11 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS AZLYNNA BTE ABDUL AZIZ</p>
-<p>MS LOW PEI YI</p>
-<p>MDM BAI JIE</p>
-<p>MS YONG FAH YIN</p>
-<p>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
+<p>MS AZLYNNA BTE ABDUL AZIZ<br>
+MS LOW PEI YI<br>
+MDM BAI JIE<br>
+MS YONG FAH YIN<br>
+MDM NOOR FARANAH BTE MOHAMED YATIM</p>
 </td>
 </tr>
 <tr>
