@@ -27,3 +27,29 @@ and mentally demanding activities. Many displayed improved problem-solving
 skills and greater self-awareness by the end of the camp. Overall, the
 programme strengthened character, collaboration and social-emotional competencies,
 contributing meaningfully to their holistic development.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1.jpg">
+</div>
+<p>Orienteering teaches students to navigate challenges, think independently,
+and find the right path, both on the map and in life.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.png">
+</div>
+<p>High Elements challenge students to rise above fear, build courage, and
+trust themselves with every step forward.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3.jpg">
+</div>
+<p>Outdoor cooking teaches students teamwork, resourcefulness, and the joy
+of creating something together in the great outdoors.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4.png">
+</div>
+<p>Sitting volleyball helps students build teamwork, resilience, and empathy
+while experiencing the game from a new perspective.</p>
