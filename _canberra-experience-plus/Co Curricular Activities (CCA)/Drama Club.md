@@ -53,24 +53,34 @@ performance and stagecraft skills. They learn the fundamentals of dramatic
 techniques, including voice projection, expressive body language, and character
 development. In addition, they gain hands-on experience in scriptwriting
 and stage direction.</p>
-<p>Our budding actors and actresses showcase their talents through various
-school-based performances. Each year, the Drama Club presents a performance
-at a school assembly, providing students with a platform to exhibit their
-skills.</p>
+<p>&nbsp;Our budding actors and actresses showcase their talents through
+various school-based performances. Each year, the Drama Club presents a
+performance at a school assembly, providing students with a platform to
+exhibit their skills. Last year, Drama Club members also took on the role
+of supporting cast in the school musical, with several members performing
+as part of the main cast, demonstrating their growing confidence and versatility
+on stage.</p>
+<p>This year, our Drama Club looks forward to participating in the Singapore
+Youth Festival Arts Presentation (SYF AP) for Primary Schools for the first
+time.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_4.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_Club_24_pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_5.jpg">
 </div>
 <p></p>

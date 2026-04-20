@@ -17,10 +17,11 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MR HIN HIANG ANTHONY</p>
-<p>MRS ONG-TAN CHOK WEI</p>
+<p>MR ANTHONY HIN HIANG</p>
 <p>MS KEH WEI SZE</p>
+<p>MRS ONG-TAN CHOK WEI</p>
 <p>MS TERY LOU SI YU</p>
+<p>MDM MELIZA MOHD SALIM</p>
 </th>
 </tr>
 <tr>
@@ -44,49 +45,48 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teaching Lab</p>
+<p>Teamwork 3 Classroom</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Are you passionate about nature and science? Do you want to make a difference
-in your school and community? Join the Science and Environment Club and
-become a Green Ambassador!</p>
-<p>Our club helps students understand environmental issues and the science
-behind them. We also encourage members to share ideas and take action to
-make our school a greener place.</p>
-<p></p>
-<p>What We Do</p>
-<p>🌱 Semester 1:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn how to care for
-community plants with NParks</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow vegetables using
-aeroponics</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discover how an eco-digester
-reduces waste</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Take part in upcycling
-activities to give old items a new life</p>
-<p>🍄 Semester 2:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Continue growing vegetables
-with aeroponics</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bird watching</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Grow and harvest our
-own mushrooms</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monitor school biodiversity
-and create the Canberra Nature Bulletin</p>
-<p>Join us for a fun and meaningful journey as we explore science, care for
-the environment, and take action for a greener future! 🌍✨</p>
-<p></p>
+<p>The Science and Environment Club provides students with meaningful opportunities
+to develop a deeper understanding of environmental issues and the science
+behind them. Through a range of hands-on and experiential activities, students
+learn to care for their surroundings while cultivating a sense of responsibility
+towards the environment.</p>
+<p>In Semester 1, students will work closely with partners such as NParks
+to learn how to care for community plants. They will also be introduced
+to sustainable practices such as growing vegetables using aeroponics, understanding
+how eco-digesters reduce food waste, and participating in upcycling activities
+that promote resourcefulness.</p>
+<p>In Semester 2, students will continue their aeroponics projects and expand
+their learning through activities such as bird watching, mushroom cultivation
+and harvesting, and monitoring biodiversity within the school. Students
+will also contribute to the creation of the Canberra Nature Bulletin, where
+they document and share their observations.</p>
+<p>Through these experiences, students develop scientific inquiry skills,
+environmental awareness, and a strong sense of stewardship, empowering
+them to play an active role in creating a greener and more sustainable
+school community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upcycling___Making_Lantern_using_used_plastic_bottles.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Growing_our_own_vegetables.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Learning_about_our_environment.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_5.jpg">
 </div>
 <p></p>
