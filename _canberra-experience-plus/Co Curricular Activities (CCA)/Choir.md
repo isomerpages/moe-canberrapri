@@ -3,7 +3,7 @@ title: Choir
 permalink: /our-ccas/aesthetics/choir/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,11 +16,11 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS SHARON LEE HUI YI<br>
-MRS EMILY HUANG<br>
-MDM CHIN SIAW THON<br>
-MDM LAI SHUDUAN FIONA<br>
-MRS GRACE SHEN (TEO XUE HUA)</p>
+<p>MS SHARON LEE HUI YI
+<br>MRS EMILY HUANG
+<br>MDM CHIN SIAW THON
+<br>MDM LAI SHUDUAN FIONA
+<br>MRS GRACE SHEN (TEO XUE HUA)</p>
 </td>
 </tr>
 <tr>
@@ -65,19 +65,20 @@ Chinese New Year Dinner.</p>
 <p>At CPS Choir, we develop not only singers, but confident and gracious
 leaders who shine on and off stage.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choir%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Choir.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/choircca3.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Choir.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_Choir.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Choir.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/05_Choir.jpg">
 </div>
 <p></p>
