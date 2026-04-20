@@ -46,8 +46,8 @@ MDM NURLIANA BTE AB RAHIM</p>
 <td rowspan="1" colspan="1">
 <p>Collaborative Learning Hub 1
 <br>Collaborative Learning Hub 2
-<br>SD4 Classroom
-<br>SD6 Classroom
+<br>I5 Classroom
+<br>I6 Classroom
 <br>LSM Room</p>
 </td>
 </tr>
