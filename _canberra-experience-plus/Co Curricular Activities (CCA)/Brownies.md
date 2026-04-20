@@ -3,7 +3,7 @@ title: Brownies
 permalink: /our-ccas/uniformed-groups/brownies/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,11 +16,11 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS AZLYNNA BTE ABDUL AZIZ<br>
-MS LOW PEI YI<br>
-MDM BAI JIE<br>
-MS YONG FAH YIN<br>
-MDM NOOR FARANAH BTE MOHAMED YATIM</p>
+<p>MS AZLYNNA BTE ABDUL AZIZ
+<br>MS LOW PEI YI
+<br>MDM BAI JIE
+<br>MS YONG FAH YIN
+<br>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
 </td>
 </tr>
 <tr>
@@ -78,30 +78,19 @@ our bandaging skills for our Total Defence Day Exhibition in 2026.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_1_2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_2_2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_3_2026.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_4_2026.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_5.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_6.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_5_2026.jpg">
 </div>
 <p></p>
