@@ -69,15 +69,16 @@ leaders who shine on and off stage.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/01_Choir.jpg">
 </div>
+<br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_Choir.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/03_Choir.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/04_Choir.jpg">
-</div>
+</div><br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/05_Choir.jpg">
 </div>
