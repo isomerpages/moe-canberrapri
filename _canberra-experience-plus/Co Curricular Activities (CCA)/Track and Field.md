@@ -12,20 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>MS SIN HUI ZHENG KAREN</strong>
-</p>
-<p><strong>MR MOHAMMAD FARID WAHYUNI</strong>
-</p>
-<p><strong>MDM WONG HUOY CHYN</strong>
-</p>
-<p><strong>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SIN HUI ZHENG KAREN</p>
+<p>MR MOHAMMAD FARID WAHYUNI</p>
+<p>MDM WONG HUOY CHYN</p>
+<p>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
