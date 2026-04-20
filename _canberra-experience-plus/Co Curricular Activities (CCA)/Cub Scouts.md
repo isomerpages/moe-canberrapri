@@ -16,10 +16,10 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS TAN SHI LING</p>
-<p>MR KASNI KASSIM</p>
-<p>MS NURUL SITI RADHIYAH</p>
-<p>MRS ANANTHI CHANDRA</p>
+<p>MS TAN SHI LING<br>
+MR KASNI KASSIM<br>
+MS NURUL SITI RADHIYAH<br>
+MRS ANANTHI CHANDRA</p>
 </td>
 </tr>
 <tr>
