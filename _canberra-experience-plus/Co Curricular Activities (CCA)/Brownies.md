@@ -12,21 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MS AZLYNNA BTE ABDUL AZIZ </strong>
-</p>
-<p><strong>MS LOW PEI YI </strong>
-</p>
-<p><strong>MDM BAI JIE </strong>
-</p>
-<p><strong>MS YONG FAH YIN </strong>
-</p>
-<p><strong>MDM NOOR FARANAH BTE MOHAMED YATIM</strong>
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS AZLYNNA BTE ABDUL AZIZ</p>
+<p>MS LOW PEI YI</p>
+<p>MDM BAI JIE</p>
+<p>MS YONG FAH YIN</p>
+<p>MDM NOOR FARANAH BTE MOHAMED YATIM</p>
 </td>
 </tr>
 <tr>
@@ -60,16 +54,29 @@ variant: tiptap
 <p>As Brownies, we keep our Brownie Promise close to our hearts. During our
 weekly meetings, we learn to work and play independently in our Sixes.
 At our Pack Holidays, we explore the outdoors and gain new skills to achieve
-our Proficiency Badges that we wear with pride. Along the way, we learn
-to care for each other and make lasting friendships.</p>
+our Proficiency Badges that we wear with pride.</p>
+<p>2025 saw 4 of our Brownies, Joyann Oh, Shermayne Woo, Wong Syuen Nynn
+and Calista Chia being involved in the Big Screens, Bigger Hearts intergenerational
+event with St. Luke's Eldercare (SLEC), uniting Brownies, Guides, Young
+Adults, and seniors to build meaningful connections while developing leadership,
+advocacy, and community impact skills. At the school level, we displayed
+our bandaging skills for our Total Defence Day Exhibition in 2026.</p>
 <h4><strong>Our Achievements:</strong></h4>
-<p><strong>2024 North Division Day:</strong>
+<p><strong>Our Achievements:</strong>
 </p>
-<p>3<sup>rd</sup> in NDD Got Talent</p>
-<p>4<sup>th</sup> in Photography Competition</p>
-<p>2<sup>nd</sup> in Art Competition</p>
+<p><strong>2025 North Division Day:</strong>
+</p>
+<p><strong>1st in Campfire Remix</strong>
+</p>
+<p><strong>3rd in ND Got Talents</strong>
+</p>
+<p><strong>Merit in Mystery Challenge</strong>
+</p>
+<p><strong>2024 Puan Noor Aishah Award: Bronze</strong>
+</p>
+<p><strong>2025 Puan Noor Aishah Award: Bronze</strong>
+</p>
 <p></p>
-<p><strong>2024 Puan Noor Aishah Award:</strong> Bronze</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brownies_1.jpg">
 </div>
