@@ -71,6 +71,9 @@ participate in national competitions, allowing them to apply their coding
 skills in fun and meaningful ways.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_11_at_2_34_31_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_2.jpg">
 </div>
 <p></p>
@@ -78,10 +81,10 @@ skills in fun and meaningful ways.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_3.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_03_13_at_9_55_33_AM.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_4.jpg">
 </div>
