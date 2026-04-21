@@ -1,9 +1,9 @@
 ---
 title: Track and Field
-permalink: /our-ccas/Sports/track-and-field/
+permalink: /our-ccas/sports/track-and-field/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,20 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>MS SIN HUI ZHENG KAREN</strong>
-</p>
-<p><strong>MR MOHAMMAD FARID WAHYUNI</strong>
-</p>
-<p><strong>MDM WONG HUOY CHYN</strong>
-</p>
-<p><strong>MS NURUL HANNAH BINTE MOHAMMAD AMRAN</strong>
-</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SIN HUI ZHENG KAREN<br>
+MR MOHAMMAD FARID WAHYUNI<br>
+MDM WONG HUOY CHYN<br>
+MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

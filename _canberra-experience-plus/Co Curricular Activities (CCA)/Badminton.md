@@ -12,18 +12,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teachers In-Charge</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MS MARGARETH CHEN SHIH PING</strong>
-</p>
-<p><strong>MDM TE CHIN TYNG</strong>
-</p>
-<p><strong>MDM VIDHIYALEKSHMI KRISHNAN</strong>
-</p>
-<p><strong>MS LEE PEILIN FIONA</strong>
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS MARGARETH CHEN SHIH PING MDM TE CHING TYNG
+<br>MDM VIDHIYALEKSHMI KRISHNAN
+<br>MS LEE PEILIN FIONA</p>
 </td>
 </tr>
 <tr>
@@ -57,11 +52,10 @@ and love for the sport and inspire the students to be life-long learners.
 Our CCA provides an important platform to instil values of care, responsibility,
 self-discipline, teamwork, innovation, excellence, as well as good sportsmanship
 during training and competitions.</p>
-<p>Our CCA comprises of the Recreational and School Team. The Recreational
-Team provides players the opportunity to learn and develop their basic
-badminton skills and techniques of the sport. The School Team consists
-of advanced and skilful players who will be representing the school to
-participate in inter-school competitions.</p>
+<p>Our CCA offers students the opportunity to learn and develop fundamental
+badminton skills and techniques. It also nurtures advanced and skilled
+players who will represent the school in inter-school competitions.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_School_Team__Primary_4___Primary_6_.jpg">

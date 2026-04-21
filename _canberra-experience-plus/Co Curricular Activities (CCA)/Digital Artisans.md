@@ -1,9 +1,9 @@
 ---
 title: Digital Artisans
-permalink: /our-ccas/Clubs-n-Societies/digital-artisans/
+permalink: /our-ccas/clubs-n-societies/digital-artisans/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,21 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MR TAN WEIHAN</strong>
-</p>
-<p><strong>MS BUVENESWARI SUBRAMANIAM</strong>
-</p>
-<p><strong>MDM ARUMUGAM VIJI</strong>
-</p>
-<p><strong>MS WONG MUN EE</strong>
-</p>
-<p><strong>MDM NURLIANA BTE AB RAHIM</strong>
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR TAN WEIHAN<br>
+MS BUVENESWARI SUBRAMANIAM<br>
+MDM ARUMUGAM VIJI<br>
+MS WONG MUN EE<br>
+MDM NURLIANA BTE AB RAHIM</p>
 </td>
 </tr>
 <tr>
@@ -52,8 +46,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Collaborative Learning Hub 1
 <br>Collaborative Learning Hub 2
-<br>SD4 Classroom
-<br>SD6 Classroom
+<br>I5 Classroom
+<br>I6 Classroom
 <br>LSM Room</p>
 </td>
 </tr>
@@ -77,6 +71,9 @@ participate in national competitions, allowing them to apply their coding
 skills in fun and meaningful ways.</p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_11_at_2_34_31_PM.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_2.jpg">
 </div>
 <p></p>
@@ -84,10 +81,10 @@ skills in fun and meaningful ways.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_3.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_03_13_at_9_55_33_AM.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DA_4.jpg">
 </div>

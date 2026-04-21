@@ -1,9 +1,9 @@
 ---
 title: Cub Scouts
-permalink: /our-ccas/Uniformed-Groups/cub-scouts/
+permalink: /our-ccas/uniformed-groups/cub-scouts/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,19 +12,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MS TAN SHI LING</strong>
-</p>
-<p><strong>MR KASNI KASSIM</strong>
-</p>
-<p><strong>MS NURUL SITI RADHIYAH</strong>
-</p>
-<p><strong>MRS ANANTHI CHANDRA</strong>
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN SHI LING<br>
+MR KASNI KASSIM<br>
+MS NURUL SITI RADHIYAH<br>
+MRS ANANTHI CHANDRA</p>
 </td>
 </tr>
 <tr>
@@ -55,36 +50,35 @@ variant: tiptap
 </table>
 <p>CPS Cub Scouts aims to create a fun and supportive environment where kids
 can learn new things, stay active, and build confidence by facing and overcoming
-challenges. Our activities are opportunities for adventures and learning
-life skills through hikes, outdoor cooking, camps, games, knotting, craftwork,
-and other Scouting skills – all while making new friends.</p>
-<p></p>
+challenges. Our activities are opportunities for adventures, learning life
+skills, hikes, outdoor cooking, camps, games, knotting, craftwork, and
+other Scouting skills – all while making new friends.</p>
 <p>Cubs will earn badges as they go through the Cub Scout Programme – namely
 in Scouting skills (Progress badges), personal skills (Proficiency badges),
 as well as commemorative badges for key area events (such as campfires,
 hikes, or Founders’ Day celebrations).</p>
-<p></p>
 <p>As the first line of the Scout Promise states, “I promise to do my best!”,
 every Cub strives to overcome difficulties, setbacks, and challenges, always
 giving their best in everything they do!</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_1.jpg">
-</div>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20260212_092235.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251126_141833.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251126_100846.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251126_100222.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20251126_095106.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SCOUTS_5.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SCOUTS_3.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCOUTS_6.jpg">
-</div>
 <p></p>
