@@ -56,17 +56,27 @@ during training and competitions.</p>
 badminton skills and techniques. It also nurtures advanced and skilled
 players who will represent the school in inter-school competitions.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_School_Team__Primary_4___Primary_6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_v1__3_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_National_School_Games__North_Zone____Junior.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_v1__1_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Badminton_Colours_Award_Level.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_v1__2_.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_v1__5_.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton_v1__6_.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
