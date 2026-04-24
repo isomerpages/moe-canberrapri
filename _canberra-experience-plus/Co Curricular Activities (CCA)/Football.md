@@ -13,16 +13,22 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong></p><strong>
-</strong></th>
+<p><strong>Teachers In-Charge</strong>
+</p>
+</th>
 <th rowspan="1" colspan="1">
-<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN<br>
-MR GAN TIONG BEE<br>MR MOHAMED FAUZY BIN KASDI<br> MS AMY NATALIA BINTE ABDUL NASIR<br>
-</p></th><td rowspan="1" colspan="1">
+<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN
+<br>MR GAN TIONG BEE
+<br>MR MOHAMED FAUZY BIN KASDI
+<br>MS AMY NATALIA BINTE ABDUL NASIR</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 </tr>
 <tr>
@@ -35,10 +41,10 @@ MR GAN TIONG BEE<br>MR MOHAMED FAUZY BIN KASDI<br> MS AMY NATALIA BINTE ABDUL NA
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Field</p>
+<p></p>
 </td>
 </tr>
 </tbody>
