@@ -35,7 +35,7 @@ MS NURUL HANNAH BINTE MOHAMMAD AMRAN</p>
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 PM - 4.30 PM</p>
+<p>2.30 p.m. - 4.30 p.m. </p>
 </td>
 </tr>
 <tr>
