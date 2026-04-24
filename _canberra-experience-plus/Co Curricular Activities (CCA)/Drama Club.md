@@ -22,19 +22,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR
-<br>MS GUNASUNTHARI THANGARAJOO
-<br>MRS KAVITHA ANDREW
-<br>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>CCA Day/s</p>
 </td>
