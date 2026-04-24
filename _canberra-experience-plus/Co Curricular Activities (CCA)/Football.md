@@ -25,26 +25,32 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CCA Day/s</p>
+<p><strong>CCA Day/s</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3.00 p.m. – 5.00 p.m.</p>
+<p><strong>Fridays</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>3.00p.m. – 5.00 p.m.</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Venue</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School Field</strong>
+</p>
 </td>
 </tr>
 </tbody>
