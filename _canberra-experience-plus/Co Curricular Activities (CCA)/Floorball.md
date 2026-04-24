@@ -17,12 +17,7 @@ variant: markdown
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>MDM SITI FARHANA BINTE HAMID</strong>
-</p>
-<p><strong>MS LIM PEI GEOK SHANNON</strong>
-</p>
-<p><strong>MS YEO SHI ER SHANNON</strong>
-</p>
+<p>MDM SITI FARHANA BINTE HAMID<br>MS LIM PEI GEOK SHANNON<br>MS YEO SHI ER SHANNON</p>
 </th>
 </tr>
 <tr>
