@@ -17,17 +17,7 @@ third_nav_title: Co Curricular Activities (CCA)
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MDM NUR AZEAN</strong>
-</p>
-<p><strong>MS CHIA MING SEH</strong>
-</p>
-<p><strong>MDM NURUL JANNAH BINTE ANUAR KHAN</strong>
-</p>
-<p><strong>MDM MARDIANA BTE MOHD AMIN</strong>
-</p>
-<p><strong>MS MARIAN ALPHONSE</strong>
-</p>
-<p><strong>MDM OH MEI LING</strong>
+<p>MDM NUR AZEAN<br>MS CHIA MING SEH<br>MDM NURUL JANNAH BINTE ANUAR KHAN<br>MDM MARDIANA BTE MOHD AMIN<br>MS MARIAN ALPHONSE<br>MDM OH MEI LING
 </p>
 </td>
 </tr>
