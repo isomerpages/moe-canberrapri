@@ -12,20 +12,14 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MS YIP MEI THIM</strong>
-</p>
-<p><strong>MS MARILYN KUMAR</strong>
-</p>
-<p><strong>MR LEE ERN HUI JONATHAN</strong>
-</p>
-<p><strong>MDM HAN XUEMEI</strong>
-</p>
-<p></p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS YIP MEI THIM</p>
+<p>MS MARILYN KUMAR</p>
+<p>MR LEE ERN HUI JONATHAN</p>
+<p>MDM HAN XUEMEI</p>
 </td>
 </tr>
 <tr>
@@ -79,14 +73,27 @@ experienced players, all members are encouraged to strive for personal
 excellence while contributing positively to the team.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_21_at_2_33_59_PM.jpg">
 </div>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_2.png">
-</div>
+<p>After graduation, seniors return...</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_21_at_2_34_51_PM.jpg">
 </div>
+<p>Senior Team Getting Reading for the matches</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_21_at_2_35_24_PM.jpg">
+</div>
+<p>Before the match</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_21_at_2_36_18_PM.jpg">
+</div>
+<p>Team Canberra</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_21_at_2_38_52_PM.jpg">
+</div>
+<p>CCA Training Sessions</p>
 <p></p>
