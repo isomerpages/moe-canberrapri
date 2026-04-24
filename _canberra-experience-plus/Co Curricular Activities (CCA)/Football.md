@@ -16,10 +16,7 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN</p>
-<p>MR GAN TIONG BEE</p>
-<p>MR MOHAMED FAUZY BIN KASDI</p>
-<p>MS AMY NATALIA BINTE ABDUL NASIR</p>
+<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN<br>MR GAN TIONG BEE<br>MR MOHAMED FAUZY BIN KASDI<br>MS AMY NATALIA BINTE ABDUL NASIR</p>
 </td>
 </tr>
 <tr>
