@@ -12,12 +12,26 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS FAZILLAH BINTE ABU BAKAR</p>
+<p>MS GUNASUNTHARI THANGARAJOO</p>
+<p>MRS KAVITHA ANDREW</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p><strong>Teachers In-Charge</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR<br>MS GUNASUNTHARI THANGARAJOO<br>MRS KAVITHA ANDREW<br></p>
+<p>MS FAZILLAH BINTE ABU BAKAR
+<br>MS GUNASUNTHARI THANGARAJOO
+<br>MRS KAVITHA ANDREW
+<br>
+</p>
 </th>
 </tr>
 <tr>
