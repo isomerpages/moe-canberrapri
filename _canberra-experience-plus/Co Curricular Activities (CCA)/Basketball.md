@@ -16,10 +16,7 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MS YIP MEI THIM</p>
-<p>MS MARILYN KUMAR</p>
-<p>MR LEE ERN HUI JONATHAN</p>
-<p>MDM HAN XUEMEI</p>
+<p>MS YIP MEI THIM<br>MS MARILYN KUMAR<br>MR LEE ERN HUI JONATHAN<br>MDM HAN XUEMEI</p>
 </td>
 </tr>
 <tr>
