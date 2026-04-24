@@ -12,16 +12,15 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>MRS HASLINDA HAKIM</p>
 <p>DR LEE NAI FERN RACHEL</p>
 <p>MDM CHANG KAI LEE</p>
 <p>MS CHIA SIEW CHIN</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
