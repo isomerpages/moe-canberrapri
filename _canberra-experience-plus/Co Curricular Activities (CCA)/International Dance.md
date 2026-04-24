@@ -13,8 +13,7 @@ third_nav_title: Co Curricular Activities (CCA)
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
+<p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MDM NUR AZEAN<br>MS CHIA MING SEH<br>MDM NURUL JANNAH BINTE ANUAR KHAN<br>MDM MARDIANA BTE MOHD AMIN<br>MS MARIAN ALPHONSE<br>MDM OH MEI LING
