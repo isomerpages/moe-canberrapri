@@ -22,31 +22,31 @@ third_nav_title: Co Curricular Activities (CCA)
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>CCA Day/s</strong>
+<p>CCA Day/s
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Wednesday</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Time</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>2.30 p.m. – 4.30 p.m.</strong>
+<p>Wednesday
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Venue</strong>
+<p>Time
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>PAL Room</strong>
+<p>2.30 p.m. – 4.30 p.m.
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAL Room
 </p>
 </td>
 </tr>
