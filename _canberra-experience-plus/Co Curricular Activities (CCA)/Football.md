@@ -1,9 +1,9 @@
 ---
 title: Football
-permalink: /our-ccas/Sports/football/
+permalink: /our-ccas/sports/football/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,23 +12,19 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN</p>
-<p>MR GAN TIONG BEE</p>
-<p>MR MOHAMED FAUZY BIN KASDI</p>
-<p>MS AMY NATALIA BINTE ABDUL NASIR</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR VICKNESHSWAREN S/O KRISHNAN BALAN<br>MR GAN TIONG BEE<br>MR MOHAMED FAUZY BIN KASDI<br>MS AMY NATALIA BINTE ABDUL NASIR</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CCA Day/s</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Fridays</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +32,7 @@ variant: tiptap
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00 p.m. – 5.00 p.m.</p>
+<p>3.00 p.m. - 5.00 p.m.</p>
 </td>
 </tr>
 <tr>

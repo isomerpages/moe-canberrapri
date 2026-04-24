@@ -1,9 +1,9 @@
 ---
 title: Drama Club
-permalink: /our-ccas/Clubs-n-Societies/drama-club/
+permalink: /our-ccas/clubs-n-societies/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,15 +12,13 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR</p>
-<p>MS GUNASUNTHARI THANGARAJOO</p>
-<p>MRS KAVITHA ANDREW</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS FAZILLAH BINTE ABU BAKAR<br>
+MS GUNASUNTHARI THANGARAJOO<br>MRS KAVITHA ANDREW</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

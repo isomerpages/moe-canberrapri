@@ -1,9 +1,9 @@
 ---
 title: Floorball
-permalink: /our-ccas/Sports/floorball/
+permalink: /our-ccas/sports/floorball/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -13,17 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
+<p>Teachers In-Charge</p><p>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>MDM SITI FARHANA BINTE HAMID</strong>
-</p>
-<p><strong>MS LIM PEI GEOK SHANNON</strong>
-</p>
-<p><strong>MS YEO SHI ER SHANNON</strong>
-</p>
-</th>
+</th><td rowspan="1" colspan="1">
+<p>MDM SITI FARHANA BINTE HAMID<br>MS LIM PEI GEOK SHANNON<br>MS YEO SHI ER SHANNON</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
