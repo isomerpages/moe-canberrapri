@@ -13,9 +13,8 @@ variant: markdown
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
+<p>Teachers In-Charge</p><p>
+</p></th>
 <th rowspan="1" colspan="1">
 <p>MDM SITI FARHANA BINTE HAMID<br>MS LIM PEI GEOK SHANNON<br>MS YEO SHI ER SHANNON</p>
 </th>
