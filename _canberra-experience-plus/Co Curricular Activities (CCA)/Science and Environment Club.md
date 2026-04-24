@@ -3,7 +3,7 @@ title: Science and Environment Club
 permalink: /our-ccas/clubs-n-societies/science-and-environment/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -16,7 +16,11 @@ variant: markdown
 <p>Teachers In-Charge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR ANTHONY HIN HIANG<br>MS KEH WEI SZE<br>MRS ONG-TAN CHOK WEI<br>MS TERY LOU SI YU<br>MDM MELIZA MOHD SALIM</p>
+<p>MR ANTHONY HIN HIANG
+<br>MS KEH WEI SZE
+<br>MRS ONG-TAN CHOK WEI
+<br>MS TERY LOU SI YU
+<br>MDM MELIZA MOHD SALIM</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +68,6 @@ they document and share their observations.</p>
 environmental awareness, and a strong sense of stewardship, empowering
 them to play an active role in creating a greener and more sustainable
 school community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sci___Env_1.jpg">
 </div>
