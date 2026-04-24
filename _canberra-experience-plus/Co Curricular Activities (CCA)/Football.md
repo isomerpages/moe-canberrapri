@@ -35,7 +35,7 @@ variant: tiptap
 <p>Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3.00p.m. - 5.00p.m</p>
+<p>3.00 p.m. - 5.00 p.m.</p>
 </td>
 </tr>
 <tr>
