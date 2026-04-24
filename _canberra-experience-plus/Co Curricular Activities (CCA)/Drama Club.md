@@ -17,8 +17,8 @@ variant: markdown
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>MS FAZILLAH BINTE ABU BAKAR<br>MS GUNASUNTHARI THANGARAJOO<br>MRS KAVITHA ANDREW<br>
-</p></th>
+<p>MS FAZILLAH BINTE ABU BAKAR<br>MS GUNASUNTHARI THANGARAJOO<br>MRS KAVITHA ANDREW<br></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
