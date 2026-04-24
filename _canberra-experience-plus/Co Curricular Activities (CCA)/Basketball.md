@@ -24,8 +24,7 @@ variant: markdown
 <p>Coaches</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Boys Team: Mr Pua Wei Keong</p>
-<p>Girls Team: Mr Eugene</p>
+<p>Boys Team: Mr Pua Wei Keong<br>Girls Team: Mr Eugene</p>
 </td>
 </tr>
 <tr>
