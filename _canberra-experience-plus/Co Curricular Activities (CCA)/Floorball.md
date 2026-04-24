@@ -17,9 +17,7 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p> MDM 
-<br>MS LIM PEI GEOK SHANNON
-<br>MS YEO SHI ER SHANNON</p>
+<p></p>
 </th>
 </tr>
 <tr>
