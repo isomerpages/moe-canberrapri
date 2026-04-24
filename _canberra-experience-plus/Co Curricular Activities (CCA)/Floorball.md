@@ -14,11 +14,11 @@ variant: markdown
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teachers In-Charge</p><p>
-</p></th>
-<th rowspan="1" colspan="1">
+</p>
+</th><td rowspan="1" colspan="1">
 <p>MDM SITI FARHANA BINTE HAMID<br>MS LIM PEI GEOK SHANNON<br>MS YEO SHI ER SHANNON</p>
-
-</th></tr>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>CCA Day/s</p>
