@@ -1,9 +1,9 @@
 ---
 title: Concert Band
-permalink: /our-ccas/Aesthetics/concert-band/
+permalink: /our-ccas/aesthetics/concert-band/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,19 +12,11 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong>MDM YVONNE KHOE</strong>
-</p>
-<p><strong>MS CHOONG PIK HUEI DENISE</strong>
-</p>
-<p><strong>MRS SAM-HU HUIJUN</strong>
-</p>
-<p><strong>MDM KUEK HWEE SAN</strong>
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM YVONNE KHOE<br>MS CHOONG PIK HUEI DENISE<br>MRS SAM-HU HUIJUN<br>MDM KUEK HWEE SAN</p>
 </td>
 </tr>
 <tr>

@@ -3,7 +3,7 @@ title: Art Club
 permalink: /our-ccas/aesthetics/art-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,15 +12,14 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Teachers In-Charge</p>
-</th>
 <td rowspan="1" colspan="1">
-<p>MRS GOH-CHUN WEE YIN<br>
-	MDM TAN ZU XIAN<br>
-MDM LI XUE ER<br>
-MR PORAYATH RAAKESH MENON
-</p>
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS GOH-CHUN WEE YIN
+<br>MDM TAN ZU XIAN
+<br>MDM LI XUE ER
+<br>MR PORAYATH RAAKESH MENON</p>
 </td>
 </tr>
 <tr>

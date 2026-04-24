@@ -1,9 +1,9 @@
 ---
 title: Library Ambassadors Club
-permalink: /our-ccas/Clubs-n-Societies/library-ambassadors-club/
+permalink: /our-ccas/clubs-n-societies/library-ambassadors-club/
 description: ""
 third_nav_title: Co Curricular Activities (CCA)
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -12,16 +12,12 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong>Teachers In-Charge</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>MRS HASLINDA HAKIM</p>
-<p>DR LEE NAI FERN RACHEL</p>
-<p>MDM CHANG KAI LEE</p>
-<p>MS CHIA SIEW CHIN</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Teachers In-Charge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS HASLINDA HAKIM<br>DR LEE NAI FERN RACHEL<br>MDM CHANG KAI LEE<br>MS CHIA SIEW CHIN</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -65,5 +61,23 @@ skills. It offers meaningful opportunities for members to take ownership
 of library initiatives and serve as reading ambassadors.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_20_30_50.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_20_28_47.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_20_30_25.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_20_29_18.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_20_at_20_31_57.jpg">
+</div>
 <p></p>
