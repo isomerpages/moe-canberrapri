@@ -11,5 +11,5 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/cta2026/
+          url: /announcements/canberra-alumni/
 ---
