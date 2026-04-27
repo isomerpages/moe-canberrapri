@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Caring Teacher Award 2026.md
       - Join Now! Canberra Alumni.md
       - Outstanding Youth in Education Award (OYEA) 2026.md
       - President's Award for Teachers (PAT) 2026.md
