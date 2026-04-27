@@ -1,6 +1,6 @@
 ---
 title: Caring Teacher Award 2026
-permalink: /announcements/cta2026/
+permalink: /cta2026/
 description: ""
 variant: markdown
 ---
