@@ -1,9 +1,8 @@
 ---
 title: Caring Teacher Award 2026
-permalink: /announcements/cta2026/
+permalink: /cta2026/
 description: ""
 variant: markdown
-third_nav_title: School Activities 2026 Term 1
 ---
 <p><strong><u>Caring Teacher Award 2026</u></strong>
 </p>
