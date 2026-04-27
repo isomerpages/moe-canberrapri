@@ -1,6 +1,6 @@
 ---
 title: Join Now! Canberra Alumni
-permalink: /canberra-alumni/
+permalink: /announcements/canberra-alumni/
 variant: tiptap
 description: ""
 ---
