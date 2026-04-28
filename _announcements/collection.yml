@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - You are invited!.md
       - Join Now! Canberra Alumni.md
       - Caring Teacher Award 2026.md
       - Outstanding Youth in Education Award (OYEA) 2026.md
