@@ -17,7 +17,8 @@ your journey and experiences.
 connected, and contribute to a community that shaped you.
 <br>Membership is free, and we’ll be in touch via email once we have received
 a sufficient number of sign-ups.
-<br>Join us and help <strong>grow the Canberra Alumni</strong>
+<br><a href="https://form.gov.sg/69c0f7838cc4db5c06bce50f" rel="noopener nofollow" target="_blank">Join us </a>and
+help <strong>grow the Canberra Alumni</strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
