@@ -50,14 +50,14 @@ developing their 21st Century Competencies and Digital Literacy Skills</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pic3.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3040.jpg">
+</div>
 </li>
 </ul>
 <p>Orientation Stage: Orientation to Future Learning – Ready for Tomorrow</p>
@@ -76,14 +76,14 @@ develop life skills, a sense of curiosity and a love for learning</p>
 </li>
 </ul>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20250522_094631_resized.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1978.jpg">
 </div>
-<p></p>
 <p>ALP Key Programmes:</p>
 <p></p>
 <p>Tier 1</p>
