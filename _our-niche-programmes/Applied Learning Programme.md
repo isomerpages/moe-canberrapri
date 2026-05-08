@@ -34,16 +34,16 @@ objectives as follows:</p>
 <p>Foundation Stage: Start Young Start It Right – Curating My Learning</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Equip students with Personal Learning Devices (PLDs) as a technology enabler
-to deliver the school and applied learning outcomes</p>
+<p>Equip students with the skills to leverage Learning Devices (LDs) as a
+technology enabler to support school and applied learning outcomes.</p>
 </li>
 <li>
 <p>Provide students with a connected learning experience, enhanced by the
-integration of ICT using their PLDs in authentic learning settings and
-by harnessing coding that enables computational thinking for problem solving</p>
+integration of ICT using their LDs in authentic learning settings and by
+harnessing coding that enables computational thinking for problem solving</p>
 </li>
 <li>
-<p>Inculcate habits and values of learning with PLDs into our students, thereby
+<p>Inculcate habits and values of learning with LDs into our students, thereby
 developing their 21st Century Competencies and Digital Literacy Skills</p>
 <p></p>
 <div class="isomer-image-wrapper">
