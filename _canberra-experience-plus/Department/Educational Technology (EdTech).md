@@ -5,20 +5,16 @@ description: ""
 third_nav_title: Department
 variant: tiptap
 ---
-<p><strong>Vision:</strong> Every Canberrian a Future-ready &amp; Digitally
-Responsible Discoverer, Learner and Leader</p>
-<p></p>
-<p><strong>Mission: </strong>To Provide a Quality Holistic Education which
-Fosters Lifelong Learning in the Pursuit of Excellence, Empowered by Technology.</p>
+<p><strong>Vision:</strong> Future-ready &amp; Digitally Responsible Canberrians</p>
+<p><strong>Mission: </strong>To provide quality learning in the hands of
+every Canberrian, empowered by technology.</p>
 <p>Building upon the school's vibrant and pervasive culture of innovation,
-the EdTech Department places a premium on innovating curriculum to enhance
-students' learning experiences. The department creates opportunities for
-students to discover their interests and talents, and develop life skills,
-a sense of curiosity and a love for learning.</p>
-<p>Leveraging the key programmes spearheaded by the department, students
-are taught to harness technology as a key enabler to enhance the way they
-live, work and play. Technology has helped to transform classrooms, modify
-and redefine learning tasks to create new learning experiences for students.</p>
+the EdTech Department places a premium on innovating the curriculum to
+enhance students' learning experiences. Leveraging its achievements in
+the FutureSchools@Singapore Programme and Applied Learning Programme (ALP),
+technology serves as a key enabler in enhancing the way students live,
+work, and play. This has helped to transform classrooms, modify, and even
+redefine learning tasks to create new learning experiences.</p>
 <p><strong>Department Key Programme:</strong>
 </p>
 <ul data-tight="true" class="tight">
