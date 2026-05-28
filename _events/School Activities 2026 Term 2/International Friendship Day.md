@@ -14,10 +14,12 @@ hall, where students were introduced to the importance of friendship, understand
 and cooperation in today’s interconnected world. Through engaging presentations,
 they reflected on how Singapore builds friendships with countries near
 and far.
+<br>
 <br>This was followed by FTGP lessons conducted in the classrooms, where students
 explored ASEAN cultures more deeply through guided discussions and meaningful
 activities. These lessons helped them appreciate diverse perspectives and
 understand how respect and empathy strengthen relationships.
+<br>
 <br>Over two days of recess activities, students brought their learning to
 life by participating in traditional games and interactive challenges.
 These hands-on experiences allowed them to connect with one another, celebrate
