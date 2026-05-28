@@ -40,4 +40,11 @@ and PSG, strengthening school-community partnerships.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3256.jpg">
 </div>
-<p></p>
+<p>Parent Support Group wishing Canberra Primary School a prosperous and
+joyful New Year
+<br>
+<br>A whole-school activity, “Guess the Number of Fortune Cookies”, further
+added excitement and anticipation in the days leading up to the celebration.
+<br>Through these activities, students not only experienced the joy of the
+festive, but also developed a deeper appreciation of Chinese culture, values,
+and community spirit.</p>
