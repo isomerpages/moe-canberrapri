@@ -24,9 +24,10 @@ way.</p>
 </div>
 <p>Students Participated Actively During Recess</p>
 <p></p>
-<p>Student Performance During Concert</p>
-<p>School Leaders sharing their warm wishes with the CPS
-<br>The highlight of the day was the concert programme, which featured a PSG-led
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_28_153338.png">
+</div>
+<p>The highlight of the day was the concert programme, which featured a PSG-led
 dragon dance, student performances, a fashion show, and interactive stage
 games. The event created meaningful interactions between students, teachers,
 and PSG, strengthening school-community partnerships.</p>
