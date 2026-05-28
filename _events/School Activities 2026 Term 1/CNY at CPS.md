@@ -22,8 +22,13 @@ way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_28_145758.png">
 </div>
-<p>Students Participated Actively During Recess</p>
-<p></p>
+<p>Students Participated Actively During Recess
+<br>
+<br>On the celebration day, students took part in classroom activities such
+as designing lion dance
+<br>elements, tracing auspicious words, and creating festive crafts. These
+experiences allowed
+<br>students to actively apply their learning in authentic contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_28_153338.png">
 </div>
