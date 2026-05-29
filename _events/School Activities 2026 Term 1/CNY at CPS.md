@@ -9,6 +9,7 @@ third_nav_title: School Activities 2026 Term 1
 <br>Canberra Primary School celebrated Chinese New Year with a vibrant series
 of activities that provided students with meaningful and engaging learning
 experiences.
+<br>
 <br>In the lead-up to the celebration, students participated in<strong> recess activities</strong> organised
 with the support of the Parent Support Group (PSG). Through hands-on activities
 such as lion origami, crafting oranges, and exploring the “Culture on Wheels”,
@@ -29,8 +30,9 @@ as designing lion dance
 <br>elements, tracing auspicious words, and creating festive crafts. These
 experiences allowed
 <br>students to actively apply their learning in authentic contexts.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_05_28_153338.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CNY11.jpg">
 </div>
 <p>The highlight of the day was the concert programme, which featured a PSG-led
 dragon dance, student performances, a fashion show, and interactive stage
@@ -43,8 +45,9 @@ and PSG, strengthening school-community partnerships.</p>
 <p>Parent Support Group wishing Canberra Primary School a prosperous and
 joyful New Year
 <br>
-<br>A whole-school activity, “Guess the Number of Fortune Cookies”, further
-added excitement and anticipation in the days leading up to the celebration.
+<br>A whole-school activity, “<em>Guess the Number of Fortune Cookies</em>”,
+further added excitement and anticipation in the days leading up to the
+celebration.
 <br>Through these activities, students not only experienced the joy of the
 festive, but also developed a deeper appreciation of Chinese culture, values,
 and community spirit.</p>
