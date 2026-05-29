@@ -6,8 +6,7 @@ description: ""
 third_nav_title: School Activities 2026 Term 2
 ---
 <p>Friendship goes beyond borders as the school commemorated International
-Friendship Day (IFD)
-<br>from 7 to 10 April 2026.
+Friendship Day (IFD) from 7 to 10 April 2026.
 <br>
 <br>The commemoration began with a lively assembly programme in the school
 hall, where students were introduced to the importance of friendship, understanding,
