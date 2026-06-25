@@ -19,16 +19,41 @@ Canberra Primary School adopts a formative approach to assessment by using bite-
 Across the three faculties, differentiated programmes are designed to cater to learners of varying abilities. These initiatives offer additional support in developing essential numerical skills while fostering creative thinking. School-wide efforts are also implemented to ensure that Mathematics learning remains relevant and applicable to real-life contexts.
 
 ![](/images/fac_1_to_fac_3_programs_Maths.jpg)
+![](/images/math_1.jpg)
+Images: Students playing Maths games during Maths Week
+![](/images/math_2.jpg)
+Images: Students doing their Maths Trail activities
 
 **Financial Literacy**<br>
-Financial Literacy is a critical life skill that equips students with the knowledge and understanding of saving, budgeting, money management, and investing. Teaching them about finances at an early age can have long-lasting positive effects on their financial habits, behavior, and future success. Some of the key benefits of financial literacy for students include better understanding of Needs vs. Wants, develop good money habits early, fostering a sense of responsibility, increased confidence in making financial decisions, improved critical thinking and problem-solving skills, preparation for future financial independence and breaking the cycle of financial struggles.
+Financial literacy is a vital life skill that equips students with essential knowledge in saving, budgeting, and money management. Early financial education creates lasting positive impacts on behaviour and future success. Its benefits include distinguishing needs from wants, developing healthy money habits, building responsibility and confidence in financial decision-making, enhancing critical thinking skills, and preparing students for independence. As cashless payments become increasingly prevalent, students must learn to thoughtfully reflect on and track their spending habits.
+![](/images/math_3.jpg)
+Images: P2 YSSS Card
+The school's Financial Literacy programme builds awareness of four core concepts — Save, Spend, Manage, and Share — integrated throughout the curriculum to develop wise money management skills. Using the Young Savvy Saver and Spender card, students participate in parent-child activities, classroom tasks, and SLS gamification to earn stars during their six-year journey, exchanging them annually for meaningful tokens.
 
-The school's Financial Literacy program is designed to raise awareness of four fundamental financial concepts: Save, Spend, Manage, and Share. These concepts are deeply integrated into the curriculum to help students develop the skill of managing money wisely. By using the Young Savvy Saver and Spender card, students engage in various Parent-Child activities, classroom exercises, and SLS gamification packages to earn stars over the course of their six years in school, which they can exchange for tokens each year. 
+Financial literacy prepares students for secure futures by teaching responsible money use early and establishing lifelong financial well-being habits.
 
-Financial literacy is an invaluable tool for preparing students for a secure financial future. By introducing them to the concepts of money early, we set them on a path toward lifelong financial well-being.
+Financial literacy prepares students for secure futures by teaching responsible money use early, establishing lifelong financial well-being habits.
 
 ![](/images/students_photo.png)
+Images: Students using Smart Buddy cashless payment in school.
 
+**Inquiry-based Learning (IBL)**<br>
+At Canberra Primary School, inquiry-based learning (IBL) is a key approach in Mathematics teaching that encourages students to actively explore concepts.
+
+Mathematics lessons are designed around hands-on activities and problem-solving, where students discover ideas through guided tasks and discussions rather than relying solely on direct instruction. Learning involves active exploration, discussion, real-world connections, and the use of technology to deepen understanding.
+
+Through carefully structured collaborative tasks, students engage in mathematical reasoning and critical thinking. Teachers guide learning through real-world contexts and strategic questioning, helping students construct their own understanding and making Mathematics meaningful and memorable. This student-centred approach develops critical thinking, communication, and self-directed learning, while building confidence and resilience in problem-solving. As a result, students gain a deeper understanding of mathematical concepts, become more confident in explaining their thinking, and are better equipped to think critically and independently.
+
+**Math Learning Space**<br>
+The Mathematics Learning Space provides students with opportunities to explore mathematical concepts in a fun and hands-on way during recess. Students can use a variety of materials, such as linking cubes and magnetic tiles, to build unique creations, helping them develop spatial awareness and creativity.
+
+Board games that encourage problem-solving, logical thinking, and collaboration — such as Math Warrior — are also available. In addition, students can practise measurement skills using weighing scales to measure mass and a height chart to calculate and compare their heights.
+
+Mathematics books and magazines are also available for students to read at their own pace, allowing them to deepen their understanding and interest in the subject.
+
+Overall, the Mathematics Learning Space creates an engaging environment where students can learn through play, exploration, and real-life applications, making Mathematics enjoyable and meaningful beyond the classroom.
+![](/images/math_4.jpg)
+Images: Students at Maths Learning Space during recess
 **Key Programmes of the Department**<br>
 Click to find out more:
 * [Schoolbag – 3 good money habits for kids](https://www.schoolbag.edu.sg/story/3-good-money-habits-for-kids-works-for-digital-savers-too/)
