@@ -56,7 +56,7 @@ truly shine brighter together.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fac1_open_house_2026.png">
 </div>
 <p></p>
-<p><strong>Chapter 4: Every Child a Star</strong> 
+<p><strong>Chapter 4: Every Child a Star</strong>
 </p>
 <p>Faculty 2’s theme, “Every Child a STAR”, celebrated the unique talents
 and strengths of every student. Through meaningful learning experiences,
