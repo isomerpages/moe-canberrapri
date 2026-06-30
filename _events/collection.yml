@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Virtual Open House 2026/Our Story Begins.md
       - Virtual Open House 2026/Chapter 1 to Chapter 5.md
       - Virtual Open House 2026/.keep
       - School Activities 2026 Term 2/.keep
