@@ -18,9 +18,8 @@ that by the end of it, you will see a place where your child truly belongs.</p>
 <p>Welcome to the Canberra family. Let the story begin!</p>
 <p><strong>Chapter 1: Our Story Begins</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.png">
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=F0J7jIVVU3s"></iframe>
 </div>
 <p><strong>Chapter 2: Every Canberrian a Discoverer, Learner and Leader</strong>
 <br>
