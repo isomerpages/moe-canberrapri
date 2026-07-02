@@ -33,7 +33,7 @@ purpose. We’re shaping confident, capable individuals who are ready to
 make a difference in the world!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 160%" height="auto" width="160%" alt="" src="/images/Chapter_2.jpg">
+<img style="width: 120%" height="auto" width="120%" alt="" src="/images/Chapter_2.jpg">
 </div>
 <p><strong>Chapter 3: Together We Shine</strong>
 </p>
