@@ -18,9 +18,7 @@ that by the end of it, you will see a place where your child truly belongs.</p>
 <p>Welcome to the Canberra family. Let the story begin!</p>
 <p><strong>Chapter 1: Our Story Begins</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=F0J7jIVVU3s"></iframe>
-</div>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F0J7jIVVU3s?si=-RV0hQofo-vkdFX5" height="315" width="560"></iframe>
 <p><strong>Chapter 2: Every Canberrian a Discoverer, Learner and Leader</strong>
 <br>
 <br>This vision is at the heart of everything we do! We want every student
@@ -49,9 +47,7 @@ each other’s achievements, our students remind us that learning and growing
 are always better when we do it together.</p>
 <p>Join us as we share the special moments that show how, in Faculty 1, we
 truly shine brighter together.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=FleQEeahYPM&quot;&quot;"></iframe>
-</div>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/FleQEeahYPM?si=BFxurJI1yB5u9ZoI" height="315" width="560"></iframe>
 
 <p></p>
 <p><strong>Chapter 4: Every Child a Star</strong>
@@ -69,9 +65,7 @@ their learning through performances. As part of the Curriculum Integration
 programme, they also participated in learning journeys that helped them
 understand the importance of sustainability through authentic, hands-on
 experiences.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" height="315" width="560" frameborder="0" src="https://www.youtube.com/watch?v=F59yPR8tM0I"></iframe>
-</div>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F59yPR8tM0I?si=Jz_yQ00nXKOYi4LH" height="315" width="560"></iframe>
 
 <p><strong>Chapter 5: Together, We Achieve More</strong>
 </p>
@@ -83,9 +77,7 @@ they gained a better understanding of how people of different abilities
 live, learn, and work together in an inclusive community. The experience
 helped them appreciate the value of respect, understanding, and working
 together to achieve more.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=Uiw-XqOa-Dg"></iframe>
-</div>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Uiw-XqOa-Dg?si=9fq1BDFSnaFWsCMq" height="315" width="560"></iframe>
 
 <p><strong>Chapter 6: Our Journey Continues …</strong>
 </p>
