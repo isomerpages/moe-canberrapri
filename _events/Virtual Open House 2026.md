@@ -49,7 +49,9 @@ each other’s achievements, our students remind us that learning and growing
 are always better when we do it together.</p>
 <p>Join us as we share the special moments that show how, in Faculty 1, we
 truly shine brighter together.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7dstOjtKTSc?si=hv7d2M-cd2xMLdew"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fac1_open_house_2026.png">
 </div>
@@ -69,7 +71,9 @@ their learning through performances. As part of the Curriculum Integration
 programme, they also participated in learning journeys that helped them
 understand the importance of sustainability through authentic, hands-on
 experiences.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7dstOjtKTSc?si=hv7d2M-cd2xMLdew"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/fac2_open_house_2026.png">
 </div>
@@ -83,7 +87,9 @@ they gained a better understanding of how people of different abilities
 live, learn, and work together in an inclusive community. The experience
 helped them appreciate the value of respect, understanding, and working
 together to achieve more.</p>
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/7dstOjtKTSc?si=hv7d2M-cd2xMLdew"></iframe>
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
 </div>
