@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Virtual Open House 2026.md
       - School Activities 2026 Term 2/.keep
       - School Activities 2026 Term 2/International Friendship Day.md
       - School Activities 2026 Term 2/Hari Raya celebration.md
@@ -12,4 +13,3 @@ collections:
       - School Activities 2026 Term 1/To CPS We Go!.md
       - School Activities 2026 Term 1/Partnership with Parents.md
       - Musical 2025.md
-      - Virtual Open House 2025.md
