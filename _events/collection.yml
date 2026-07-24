@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - School Activities 2026 Term 3/.keep
       - Canberra Primary School Virtual Open House 2026.md
       - Virtual Open House 2026.md
       - School Activities 2026 Term 2/.keep
