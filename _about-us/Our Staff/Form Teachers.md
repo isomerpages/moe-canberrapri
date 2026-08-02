@@ -138,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MR GAN TIONG BEE</p>
+<p>MS TOW WEN LU</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM HAN XUEMEI</p>
+<p>MS YAP HUI JIE</p>
 </td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>MDM NURUL JANNAH BINTE ANUAR KHAN</p>
+<p>MS CLAIRE MARIE TAY EN CIN</p>
 </td>
 </tr>
 <tr></tr>
@@ -235,7 +235,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM KHOE MOO SHIH YVONNE</p>
+<p>MDM GOH SIEW PENG</p>
 </td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>SELF-DISCIPLINE 3</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -261,7 +261,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDM BAI JIE</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ALFIAN BIN ARJUNA</p>
 </td>
 </tr>
 <tr>
@@ -466,7 +469,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MS YAP HUI JIE</p>
+<p>MR GAN TIONG BEE</p>
 </td>
 </tr>
 <tr>

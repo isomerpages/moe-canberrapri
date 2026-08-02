@@ -184,10 +184,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH CHINESE LANGUAGE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>MDM GOH SIEW PENG</p>
 </td>
 </tr>
 <tr>
