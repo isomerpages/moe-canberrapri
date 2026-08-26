@@ -184,7 +184,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>YEAR HEADS/ASSISTANT YEAR HEADS</strong>
+<p><strong>YEAR HEADS / ASSISTANT YEAR HEADS</strong>
 </p>
 </td>
 </tr>
